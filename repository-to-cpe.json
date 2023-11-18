@@ -46621,14 +46621,6 @@
 				"content/dist/rhel/server/7/7Server/x86_64/rhosj/1.19.0/source/SRPMS"
 			]
 		},
-		"rhel-7-server-rhosj-1.20-debug-rpms": {
-			"cpes": [
-				"cpe:/a:redhat:jaeger:1.20::el7"
-			],
-			"repo_relative_urls": [
-				"content/dist/rhel/server/7/7Server/x86_64/rhosj/1.20.0/debug"
-			]
-		},
 		"rhel-7-server-rhosj-1.20-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:jaeger:1.20::el7"
@@ -78117,5 +78109,5 @@
 			]
 		}
 	},
-	"last_updated": "2023-11-17T00:43:50.340Z"
+	"last_updated": "2023-11-18T01:11:52.001Z"
 }
