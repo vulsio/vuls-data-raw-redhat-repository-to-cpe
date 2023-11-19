@@ -46621,6 +46621,14 @@
 				"content/dist/rhel/server/7/7Server/x86_64/rhosj/1.19.0/source/SRPMS"
 			]
 		},
+		"rhel-7-server-rhosj-1.20-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:jaeger:1.20::el7"
+			],
+			"repo_relative_urls": [
+				"content/dist/rhel/server/7/7Server/x86_64/rhosj/1.20.0/debug"
+			]
+		},
 		"rhel-7-server-rhosj-1.20-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:jaeger:1.20::el7"
@@ -57967,13 +57975,15 @@
 				"cpe:/a:redhat:rhel_eus:8.1::supplementary",
 				"cpe:/a:redhat:rhel_eus:8.2::supplementary",
 				"cpe:/a:redhat:rhel_eus:8.4::supplementary",
-				"cpe:/a:redhat:rhel_eus:8.6::supplementary"
+				"cpe:/a:redhat:rhel_eus:8.6::supplementary",
+				"cpe:/a:redhat:rhel_eus:8.8::supplementary"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel8/8.1/x86_64/supplementary/debug",
 				"content/eus/rhel8/8.2/x86_64/supplementary/debug",
 				"content/eus/rhel8/8.4/x86_64/supplementary/debug",
-				"content/eus/rhel8/8.6/x86_64/supplementary/debug"
+				"content/eus/rhel8/8.6/x86_64/supplementary/debug",
+				"content/eus/rhel8/8.8/x86_64/supplementary/debug"
 			]
 		},
 		"rhel-8-for-x86_64-supplementary-eus-debug-rpms__8_DOT_1": {
@@ -58006,6 +58016,14 @@
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel8/8.6/x86_64/supplementary/debug"
+			]
+		},
+		"rhel-8-for-x86_64-supplementary-eus-debug-rpms__8_DOT_8": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_eus:8.8::supplementary"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel8/8.8/x86_64/supplementary/debug"
 			]
 		},
 		"rhel-8-for-x86_64-supplementary-eus-rpms": {
@@ -78109,5 +78127,5 @@
 			]
 		}
 	},
-	"last_updated": "2023-11-18T01:11:52.001Z"
+	"last_updated": "2023-11-19T01:13:33.016Z"
 }
