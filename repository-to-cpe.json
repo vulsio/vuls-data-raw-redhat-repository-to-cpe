@@ -73557,6 +73557,30 @@
 				"content/dist/layered/rhel8/x86_64/rhods/1.20/source/SRPMS"
 			]
 		},
+		"rhods-2-for-rhel-8-x86_64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_data_science:2.4::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/rhods/2/debug"
+			]
+		},
+		"rhods-2-for-rhel-8-x86_64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_data_science:2.4::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/rhods/2/os"
+			]
+		},
+		"rhods-2-for-rhel-8-x86_64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_data_science:2.4::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/rhods/2/source/SRPMS"
+			]
+		},
 		"rhol-5-for-rhel-8-aarch64-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:logging:5.4::el8",
@@ -78124,5 +78148,5 @@
 			]
 		}
 	},
-	"last_updated": "2023-11-22T01:06:28.491Z"
+	"last_updated": "2023-11-23T01:07:50.722Z"
 }
