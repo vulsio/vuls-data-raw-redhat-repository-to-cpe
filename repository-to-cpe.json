@@ -3889,6 +3889,30 @@
 				"content/dist/layered/rhel9/x86_64/cert-manager/1.12/source/SRPMS"
 			]
 		},
+		"cert-manager-1.13-for-rhel-9-x86_64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:cert_manager:1.13::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/cert-manager/1.13/debug"
+			]
+		},
+		"cert-manager-1.13-for-rhel-9-x86_64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:cert_manager:1.13::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/cert-manager/1.13/os"
+			]
+		},
+		"cert-manager-1.13-for-rhel-9-x86_64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:cert_manager:1.13::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/cert-manager/1.13/source/SRPMS"
+			]
+		},
 		"cert-manager-1.6-for-rhel-8-x86_64-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:cert_manager:1.6::el8"
@@ -4925,6 +4949,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/aarch64/codeready-builder/debug",
+				"content/dist/rhel8/8.8/aarch64/codeready-builder/debug",
 				"content/dist/rhel8/8.9/aarch64/codeready-builder/debug",
 				"content/dist/rhel8/8/aarch64/codeready-builder/debug"
 			]
@@ -5103,6 +5128,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/aarch64/codeready-builder/os",
+				"content/dist/rhel8/8.8/aarch64/codeready-builder/os",
 				"content/dist/rhel8/8.9/aarch64/codeready-builder/os",
 				"content/dist/rhel8/8/aarch64/codeready-builder/os"
 			]
@@ -5113,6 +5139,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/aarch64/codeready-builder/source/SRPMS",
+				"content/dist/rhel8/8.8/aarch64/codeready-builder/source/SRPMS",
 				"content/dist/rhel8/8.9/aarch64/codeready-builder/source/SRPMS",
 				"content/dist/rhel8/8/aarch64/codeready-builder/source/SRPMS"
 			]
@@ -5123,6 +5150,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/ppc64le/codeready-builder/debug",
+				"content/dist/rhel8/8.8/ppc64le/codeready-builder/debug",
 				"content/dist/rhel8/8.9/ppc64le/codeready-builder/debug",
 				"content/dist/rhel8/8/ppc64le/codeready-builder/debug"
 			]
@@ -5301,6 +5329,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/ppc64le/codeready-builder/os",
+				"content/dist/rhel8/8.8/ppc64le/codeready-builder/os",
 				"content/dist/rhel8/8.9/ppc64le/codeready-builder/os",
 				"content/dist/rhel8/8/ppc64le/codeready-builder/os"
 			]
@@ -5311,6 +5340,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/ppc64le/codeready-builder/source/SRPMS",
+				"content/dist/rhel8/8.8/ppc64le/codeready-builder/source/SRPMS",
 				"content/dist/rhel8/8.9/ppc64le/codeready-builder/source/SRPMS",
 				"content/dist/rhel8/8/ppc64le/codeready-builder/source/SRPMS"
 			]
@@ -5321,6 +5351,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/s390x/codeready-builder/debug",
+				"content/dist/rhel8/8.8/s390x/codeready-builder/debug",
 				"content/dist/rhel8/8.9/s390x/codeready-builder/debug",
 				"content/dist/rhel8/8/s390x/codeready-builder/debug"
 			]
@@ -5499,6 +5530,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/s390x/codeready-builder/os",
+				"content/dist/rhel8/8.8/s390x/codeready-builder/os",
 				"content/dist/rhel8/8.9/s390x/codeready-builder/os",
 				"content/dist/rhel8/8/s390x/codeready-builder/os"
 			]
@@ -5509,6 +5541,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/s390x/codeready-builder/source/SRPMS",
+				"content/dist/rhel8/8.8/s390x/codeready-builder/source/SRPMS",
 				"content/dist/rhel8/8.9/s390x/codeready-builder/source/SRPMS",
 				"content/dist/rhel8/8/s390x/codeready-builder/source/SRPMS"
 			]
@@ -5519,6 +5552,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/x86_64/codeready-builder/debug",
+				"content/dist/rhel8/8.8/x86_64/codeready-builder/debug",
 				"content/dist/rhel8/8.9/x86_64/codeready-builder/debug",
 				"content/dist/rhel8/8/x86_64/codeready-builder/debug"
 			]
@@ -5697,6 +5731,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/x86_64/codeready-builder/os",
+				"content/dist/rhel8/8.8/x86_64/codeready-builder/os",
 				"content/dist/rhel8/8.9/x86_64/codeready-builder/os",
 				"content/dist/rhel8/8/x86_64/codeready-builder/os"
 			]
@@ -5707,6 +5742,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/x86_64/codeready-builder/source/SRPMS",
+				"content/dist/rhel8/8.8/x86_64/codeready-builder/source/SRPMS",
 				"content/dist/rhel8/8.9/x86_64/codeready-builder/source/SRPMS",
 				"content/dist/rhel8/8/x86_64/codeready-builder/source/SRPMS"
 			]
@@ -49975,6 +50011,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/aarch64/appstream/debug",
+				"content/dist/rhel8/8.8/aarch64/appstream/debug",
 				"content/dist/rhel8/8.9/aarch64/appstream/debug",
 				"content/dist/rhel8/8/aarch64/appstream/debug"
 			]
@@ -50205,6 +50242,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/aarch64/appstream/os",
+				"content/dist/rhel8/8.8/aarch64/appstream/os",
 				"content/dist/rhel8/8.9/aarch64/appstream/os",
 				"content/dist/rhel8/8/aarch64/appstream/os"
 			]
@@ -50216,6 +50254,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/aarch64/appstream/source/SRPMS",
+				"content/dist/rhel8/8.8/aarch64/appstream/source/SRPMS",
 				"content/dist/rhel8/8.9/aarch64/appstream/source/SRPMS",
 				"content/dist/rhel8/8/aarch64/appstream/source/SRPMS"
 			]
@@ -50227,6 +50266,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/aarch64/baseos/debug",
+				"content/dist/rhel8/8.8/aarch64/baseos/debug",
 				"content/dist/rhel8/8.9/aarch64/baseos/debug",
 				"content/dist/rhel8/8/aarch64/baseos/debug"
 			]
@@ -50457,6 +50497,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/aarch64/baseos/os",
+				"content/dist/rhel8/8.8/aarch64/baseos/os",
 				"content/dist/rhel8/8.9/aarch64/baseos/os",
 				"content/dist/rhel8/8/aarch64/baseos/os"
 			]
@@ -50468,6 +50509,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/aarch64/baseos/source/SRPMS",
+				"content/dist/rhel8/8.8/aarch64/baseos/source/SRPMS",
 				"content/dist/rhel8/8.9/aarch64/baseos/source/SRPMS",
 				"content/dist/rhel8/8/aarch64/baseos/source/SRPMS"
 			]
@@ -50478,6 +50520,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/aarch64/highavailability/debug",
+				"content/dist/rhel8/8.8/aarch64/highavailability/debug",
 				"content/dist/rhel8/8.9/aarch64/highavailability/debug",
 				"content/dist/rhel8/8/aarch64/highavailability/debug"
 			]
@@ -50656,6 +50699,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/aarch64/highavailability/os",
+				"content/dist/rhel8/8.8/aarch64/highavailability/os",
 				"content/dist/rhel8/8.9/aarch64/highavailability/os",
 				"content/dist/rhel8/8/aarch64/highavailability/os"
 			]
@@ -50666,6 +50710,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/aarch64/highavailability/source/SRPMS",
+				"content/dist/rhel8/8.8/aarch64/highavailability/source/SRPMS",
 				"content/dist/rhel8/8.9/aarch64/highavailability/source/SRPMS",
 				"content/dist/rhel8/8/aarch64/highavailability/source/SRPMS"
 			]
@@ -50676,6 +50721,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/aarch64/supplementary/debug",
+				"content/dist/rhel8/8.8/aarch64/supplementary/debug",
 				"content/dist/rhel8/8.9/aarch64/supplementary/debug",
 				"content/dist/rhel8/8/aarch64/supplementary/debug"
 			]
@@ -50854,6 +50900,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/aarch64/supplementary/os",
+				"content/dist/rhel8/8.8/aarch64/supplementary/os",
 				"content/dist/rhel8/8.9/aarch64/supplementary/os",
 				"content/dist/rhel8/8/aarch64/supplementary/os"
 			]
@@ -50864,6 +50911,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/aarch64/supplementary/source/SRPMS",
+				"content/dist/rhel8/8.8/aarch64/supplementary/source/SRPMS",
 				"content/dist/rhel8/8.9/aarch64/supplementary/source/SRPMS",
 				"content/dist/rhel8/8/aarch64/supplementary/source/SRPMS"
 			]
@@ -50875,6 +50923,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/ppc64le/appstream/debug",
+				"content/dist/rhel8/8.8/ppc64le/appstream/debug",
 				"content/dist/rhel8/8.9/ppc64le/appstream/debug",
 				"content/dist/rhel8/8/ppc64le/appstream/debug"
 			]
@@ -51267,6 +51316,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/ppc64le/appstream/os",
+				"content/dist/rhel8/8.8/ppc64le/appstream/os",
 				"content/dist/rhel8/8.9/ppc64le/appstream/os",
 				"content/dist/rhel8/8/ppc64le/appstream/os"
 			]
@@ -51278,6 +51328,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/ppc64le/appstream/source/SRPMS",
+				"content/dist/rhel8/8.8/ppc64le/appstream/source/SRPMS",
 				"content/dist/rhel8/8.9/ppc64le/appstream/source/SRPMS",
 				"content/dist/rhel8/8/ppc64le/appstream/source/SRPMS"
 			]
@@ -51289,6 +51340,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/ppc64le/baseos/debug",
+				"content/dist/rhel8/8.8/ppc64le/baseos/debug",
 				"content/dist/rhel8/8.9/ppc64le/baseos/debug",
 				"content/dist/rhel8/8/ppc64le/baseos/debug"
 			]
@@ -51681,6 +51733,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/ppc64le/baseos/os",
+				"content/dist/rhel8/8.8/ppc64le/baseos/os",
 				"content/dist/rhel8/8.9/ppc64le/baseos/os",
 				"content/dist/rhel8/8/ppc64le/baseos/os"
 			]
@@ -51692,6 +51745,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/ppc64le/baseos/source/SRPMS",
+				"content/dist/rhel8/8.8/ppc64le/baseos/source/SRPMS",
 				"content/dist/rhel8/8.9/ppc64le/baseos/source/SRPMS",
 				"content/dist/rhel8/8/ppc64le/baseos/source/SRPMS"
 			]
@@ -51702,6 +51756,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/ppc64le/highavailability/debug",
+				"content/dist/rhel8/8.8/ppc64le/highavailability/debug",
 				"content/dist/rhel8/8.9/ppc64le/highavailability/debug",
 				"content/dist/rhel8/8/ppc64le/highavailability/debug"
 			]
@@ -52093,6 +52148,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/ppc64le/highavailability/os",
+				"content/dist/rhel8/8.8/ppc64le/highavailability/os",
 				"content/dist/rhel8/8.9/ppc64le/highavailability/os",
 				"content/dist/rhel8/8/ppc64le/highavailability/os"
 			]
@@ -52103,6 +52159,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/ppc64le/highavailability/source/SRPMS",
+				"content/dist/rhel8/8.8/ppc64le/highavailability/source/SRPMS",
 				"content/dist/rhel8/8.9/ppc64le/highavailability/source/SRPMS",
 				"content/dist/rhel8/8/ppc64le/highavailability/source/SRPMS"
 			]
@@ -52113,6 +52170,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/ppc64le/resilientstorage/debug",
+				"content/dist/rhel8/8.8/ppc64le/resilientstorage/debug",
 				"content/dist/rhel8/8.9/ppc64le/resilientstorage/debug",
 				"content/dist/rhel8/8/ppc64le/resilientstorage/debug"
 			]
@@ -52291,6 +52349,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/ppc64le/resilientstorage/os",
+				"content/dist/rhel8/8.8/ppc64le/resilientstorage/os",
 				"content/dist/rhel8/8.9/ppc64le/resilientstorage/os",
 				"content/dist/rhel8/8/ppc64le/resilientstorage/os"
 			]
@@ -52301,6 +52360,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/ppc64le/resilientstorage/source/SRPMS",
+				"content/dist/rhel8/8.8/ppc64le/resilientstorage/source/SRPMS",
 				"content/dist/rhel8/8.9/ppc64le/resilientstorage/source/SRPMS",
 				"content/dist/rhel8/8/ppc64le/resilientstorage/source/SRPMS"
 			]
@@ -52311,6 +52371,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/ppc64le/sap/debug",
+				"content/dist/rhel8/8.8/ppc64le/sap/debug",
 				"content/dist/rhel8/8.9/ppc64le/sap/debug",
 				"content/dist/rhel8/8/ppc64le/sap/debug"
 			]
@@ -52702,6 +52763,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/ppc64le/sap/os",
+				"content/dist/rhel8/8.8/ppc64le/sap/os",
 				"content/dist/rhel8/8.9/ppc64le/sap/os",
 				"content/dist/rhel8/8/ppc64le/sap/os"
 			]
@@ -52712,6 +52774,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/ppc64le/sap/source/SRPMS",
+				"content/dist/rhel8/8.8/ppc64le/sap/source/SRPMS",
 				"content/dist/rhel8/8.9/ppc64le/sap/source/SRPMS",
 				"content/dist/rhel8/8/ppc64le/sap/source/SRPMS"
 			]
@@ -52722,6 +52785,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/ppc64le/sap-solutions/debug",
+				"content/dist/rhel8/8.8/ppc64le/sap-solutions/debug",
 				"content/dist/rhel8/8.9/ppc64le/sap-solutions/debug",
 				"content/dist/rhel8/8/ppc64le/sap-solutions/debug"
 			]
@@ -53113,6 +53177,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/ppc64le/sap-solutions/os",
+				"content/dist/rhel8/8.8/ppc64le/sap-solutions/os",
 				"content/dist/rhel8/8.9/ppc64le/sap-solutions/os",
 				"content/dist/rhel8/8/ppc64le/sap-solutions/os"
 			]
@@ -53123,6 +53188,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/ppc64le/sap-solutions/source/SRPMS",
+				"content/dist/rhel8/8.8/ppc64le/sap-solutions/source/SRPMS",
 				"content/dist/rhel8/8.9/ppc64le/sap-solutions/source/SRPMS",
 				"content/dist/rhel8/8/ppc64le/sap-solutions/source/SRPMS"
 			]
@@ -53133,6 +53199,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/ppc64le/supplementary/debug",
+				"content/dist/rhel8/8.8/ppc64le/supplementary/debug",
 				"content/dist/rhel8/8.9/ppc64le/supplementary/debug",
 				"content/dist/rhel8/8/ppc64le/supplementary/debug"
 			]
@@ -53311,6 +53378,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/ppc64le/supplementary/os",
+				"content/dist/rhel8/8.8/ppc64le/supplementary/os",
 				"content/dist/rhel8/8.9/ppc64le/supplementary/os",
 				"content/dist/rhel8/8/ppc64le/supplementary/os"
 			]
@@ -53321,6 +53389,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/ppc64le/supplementary/source/SRPMS",
+				"content/dist/rhel8/8.8/ppc64le/supplementary/source/SRPMS",
 				"content/dist/rhel8/8.9/ppc64le/supplementary/source/SRPMS",
 				"content/dist/rhel8/8/ppc64le/supplementary/source/SRPMS"
 			]
@@ -53332,6 +53401,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/s390x/appstream/debug",
+				"content/dist/rhel8/8.8/s390x/appstream/debug",
 				"content/dist/rhel8/8.9/s390x/appstream/debug",
 				"content/dist/rhel8/8/s390x/appstream/debug"
 			]
@@ -53562,6 +53632,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/s390x/appstream/os",
+				"content/dist/rhel8/8.8/s390x/appstream/os",
 				"content/dist/rhel8/8.9/s390x/appstream/os",
 				"content/dist/rhel8/8/s390x/appstream/os"
 			]
@@ -53573,6 +53644,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/s390x/appstream/source/SRPMS",
+				"content/dist/rhel8/8.8/s390x/appstream/source/SRPMS",
 				"content/dist/rhel8/8.9/s390x/appstream/source/SRPMS",
 				"content/dist/rhel8/8/s390x/appstream/source/SRPMS"
 			]
@@ -53584,6 +53656,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/s390x/baseos/debug",
+				"content/dist/rhel8/8.8/s390x/baseos/debug",
 				"content/dist/rhel8/8.9/s390x/baseos/debug",
 				"content/dist/rhel8/8/s390x/baseos/debug"
 			]
@@ -53814,6 +53887,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/s390x/baseos/os",
+				"content/dist/rhel8/8.8/s390x/baseos/os",
 				"content/dist/rhel8/8.9/s390x/baseos/os",
 				"content/dist/rhel8/8/s390x/baseos/os"
 			]
@@ -53825,6 +53899,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/s390x/baseos/source/SRPMS",
+				"content/dist/rhel8/8.8/s390x/baseos/source/SRPMS",
 				"content/dist/rhel8/8.9/s390x/baseos/source/SRPMS",
 				"content/dist/rhel8/8/s390x/baseos/source/SRPMS"
 			]
@@ -53835,6 +53910,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/s390x/highavailability/debug",
+				"content/dist/rhel8/8.8/s390x/highavailability/debug",
 				"content/dist/rhel8/8.9/s390x/highavailability/debug",
 				"content/dist/rhel8/8/s390x/highavailability/debug"
 			]
@@ -54013,6 +54089,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/s390x/highavailability/os",
+				"content/dist/rhel8/8.8/s390x/highavailability/os",
 				"content/dist/rhel8/8.9/s390x/highavailability/os",
 				"content/dist/rhel8/8/s390x/highavailability/os"
 			]
@@ -54023,6 +54100,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/s390x/highavailability/source/SRPMS",
+				"content/dist/rhel8/8.8/s390x/highavailability/source/SRPMS",
 				"content/dist/rhel8/8.9/s390x/highavailability/source/SRPMS",
 				"content/dist/rhel8/8/s390x/highavailability/source/SRPMS"
 			]
@@ -54033,6 +54111,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/s390x/resilientstorage/debug",
+				"content/dist/rhel8/8.8/s390x/resilientstorage/debug",
 				"content/dist/rhel8/8.9/s390x/resilientstorage/debug",
 				"content/dist/rhel8/8/s390x/resilientstorage/debug"
 			]
@@ -54211,6 +54290,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/s390x/resilientstorage/os",
+				"content/dist/rhel8/8.8/s390x/resilientstorage/os",
 				"content/dist/rhel8/8.9/s390x/resilientstorage/os",
 				"content/dist/rhel8/8/s390x/resilientstorage/os"
 			]
@@ -54221,6 +54301,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/s390x/resilientstorage/source/SRPMS",
+				"content/dist/rhel8/8.8/s390x/resilientstorage/source/SRPMS",
 				"content/dist/rhel8/8.9/s390x/resilientstorage/source/SRPMS",
 				"content/dist/rhel8/8/s390x/resilientstorage/source/SRPMS"
 			]
@@ -54231,6 +54312,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/s390x/sap/debug",
+				"content/dist/rhel8/8.8/s390x/sap/debug",
 				"content/dist/rhel8/8.9/s390x/sap/debug",
 				"content/dist/rhel8/8/s390x/sap/debug"
 			]
@@ -54409,6 +54491,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/s390x/sap/os",
+				"content/dist/rhel8/8.8/s390x/sap/os",
 				"content/dist/rhel8/8.9/s390x/sap/os",
 				"content/dist/rhel8/8/s390x/sap/os"
 			]
@@ -54419,6 +54502,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/s390x/sap/source/SRPMS",
+				"content/dist/rhel8/8.8/s390x/sap/source/SRPMS",
 				"content/dist/rhel8/8.9/s390x/sap/source/SRPMS",
 				"content/dist/rhel8/8/s390x/sap/source/SRPMS"
 			]
@@ -54429,6 +54513,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/s390x/supplementary/debug",
+				"content/dist/rhel8/8.8/s390x/supplementary/debug",
 				"content/dist/rhel8/8.9/s390x/supplementary/debug",
 				"content/dist/rhel8/8/s390x/supplementary/debug"
 			]
@@ -54607,6 +54692,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/s390x/supplementary/os",
+				"content/dist/rhel8/8.8/s390x/supplementary/os",
 				"content/dist/rhel8/8.9/s390x/supplementary/os",
 				"content/dist/rhel8/8/s390x/supplementary/os"
 			]
@@ -54617,6 +54703,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/s390x/supplementary/source/SRPMS",
+				"content/dist/rhel8/8.8/s390x/supplementary/source/SRPMS",
 				"content/dist/rhel8/8.9/s390x/supplementary/source/SRPMS",
 				"content/dist/rhel8/8/s390x/supplementary/source/SRPMS"
 			]
@@ -54745,6 +54832,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/x86_64/appstream/debug",
+				"content/dist/rhel8/8.8/x86_64/appstream/debug",
 				"content/dist/rhel8/8.9/x86_64/appstream/debug",
 				"content/dist/rhel8/8/x86_64/appstream/debug"
 			]
@@ -55137,6 +55225,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/x86_64/appstream/os",
+				"content/dist/rhel8/8.8/x86_64/appstream/os",
 				"content/dist/rhel8/8.9/x86_64/appstream/os",
 				"content/dist/rhel8/8/x86_64/appstream/os"
 			]
@@ -55148,6 +55237,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/x86_64/appstream/source/SRPMS",
+				"content/dist/rhel8/8.8/x86_64/appstream/source/SRPMS",
 				"content/dist/rhel8/8.9/x86_64/appstream/source/SRPMS",
 				"content/dist/rhel8/8/x86_64/appstream/source/SRPMS"
 			]
@@ -55423,6 +55513,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/x86_64/baseos/debug",
+				"content/dist/rhel8/8.8/x86_64/baseos/debug",
 				"content/dist/rhel8/8.9/x86_64/baseos/debug",
 				"content/dist/rhel8/8/x86_64/baseos/debug"
 			]
@@ -55815,6 +55906,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/x86_64/baseos/os",
+				"content/dist/rhel8/8.8/x86_64/baseos/os",
 				"content/dist/rhel8/8.9/x86_64/baseos/os",
 				"content/dist/rhel8/8/x86_64/baseos/os"
 			]
@@ -55826,6 +55918,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/x86_64/baseos/source/SRPMS",
+				"content/dist/rhel8/8.8/x86_64/baseos/source/SRPMS",
 				"content/dist/rhel8/8.9/x86_64/baseos/source/SRPMS",
 				"content/dist/rhel8/8/x86_64/baseos/source/SRPMS"
 			]
@@ -55983,6 +56076,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/x86_64/highavailability/debug",
+				"content/dist/rhel8/8.8/x86_64/highavailability/debug",
 				"content/dist/rhel8/8.9/x86_64/highavailability/debug",
 				"content/dist/rhel8/8/x86_64/highavailability/debug"
 			]
@@ -56374,6 +56468,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/x86_64/highavailability/os",
+				"content/dist/rhel8/8.8/x86_64/highavailability/os",
 				"content/dist/rhel8/8.9/x86_64/highavailability/os",
 				"content/dist/rhel8/8/x86_64/highavailability/os"
 			]
@@ -56384,6 +56479,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/x86_64/highavailability/source/SRPMS",
+				"content/dist/rhel8/8.8/x86_64/highavailability/source/SRPMS",
 				"content/dist/rhel8/8.9/x86_64/highavailability/source/SRPMS",
 				"content/dist/rhel8/8/x86_64/highavailability/source/SRPMS"
 			]
@@ -56543,6 +56639,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/x86_64/nfv/debug",
+				"content/dist/rhel8/8.8/x86_64/nfv/debug",
 				"content/dist/rhel8/8.9/x86_64/nfv/debug",
 				"content/dist/rhel8/8/x86_64/nfv/debug"
 			]
@@ -56603,6 +56700,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/x86_64/nfv/os",
+				"content/dist/rhel8/8.8/x86_64/nfv/os",
 				"content/dist/rhel8/8.9/x86_64/nfv/os",
 				"content/dist/rhel8/8/x86_64/nfv/os"
 			]
@@ -56615,6 +56713,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/x86_64/nfv/source/SRPMS",
+				"content/dist/rhel8/8.8/x86_64/nfv/source/SRPMS",
 				"content/dist/rhel8/8.9/x86_64/nfv/source/SRPMS",
 				"content/dist/rhel8/8/x86_64/nfv/source/SRPMS"
 			]
@@ -56769,6 +56868,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/x86_64/resilientstorage/debug",
+				"content/dist/rhel8/8.8/x86_64/resilientstorage/debug",
 				"content/dist/rhel8/8.9/x86_64/resilientstorage/debug",
 				"content/dist/rhel8/8/x86_64/resilientstorage/debug"
 			]
@@ -56947,6 +57047,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/x86_64/resilientstorage/os",
+				"content/dist/rhel8/8.8/x86_64/resilientstorage/os",
 				"content/dist/rhel8/8.9/x86_64/resilientstorage/os",
 				"content/dist/rhel8/8/x86_64/resilientstorage/os"
 			]
@@ -56957,6 +57058,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/x86_64/resilientstorage/source/SRPMS",
+				"content/dist/rhel8/8.8/x86_64/resilientstorage/source/SRPMS",
 				"content/dist/rhel8/8.9/x86_64/resilientstorage/source/SRPMS",
 				"content/dist/rhel8/8/x86_64/resilientstorage/source/SRPMS"
 			]
@@ -56968,6 +57070,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/x86_64/rt/debug",
+				"content/dist/rhel8/8.8/x86_64/rt/debug",
 				"content/dist/rhel8/8.9/x86_64/rt/debug",
 				"content/dist/rhel8/8/x86_64/rt/debug"
 			]
@@ -56979,6 +57082,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/x86_64/rt/os",
+				"content/dist/rhel8/8.8/x86_64/rt/os",
 				"content/dist/rhel8/8.9/x86_64/rt/os",
 				"content/dist/rhel8/8/x86_64/rt/os"
 			]
@@ -56990,6 +57094,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/x86_64/rt/source/SRPMS",
+				"content/dist/rhel8/8.8/x86_64/rt/source/SRPMS",
 				"content/dist/rhel8/8.9/x86_64/rt/source/SRPMS",
 				"content/dist/rhel8/8/x86_64/rt/source/SRPMS"
 			]
@@ -57144,6 +57249,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/x86_64/sap/debug",
+				"content/dist/rhel8/8.8/x86_64/sap/debug",
 				"content/dist/rhel8/8.9/x86_64/sap/debug",
 				"content/dist/rhel8/8/x86_64/sap/debug"
 			]
@@ -57535,6 +57641,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/x86_64/sap/os",
+				"content/dist/rhel8/8.8/x86_64/sap/os",
 				"content/dist/rhel8/8.9/x86_64/sap/os",
 				"content/dist/rhel8/8/x86_64/sap/os"
 			]
@@ -57545,6 +57652,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/x86_64/sap/source/SRPMS",
+				"content/dist/rhel8/8.8/x86_64/sap/source/SRPMS",
 				"content/dist/rhel8/8.9/x86_64/sap/source/SRPMS",
 				"content/dist/rhel8/8/x86_64/sap/source/SRPMS"
 			]
@@ -57555,6 +57663,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/x86_64/sap-solutions/debug",
+				"content/dist/rhel8/8.8/x86_64/sap-solutions/debug",
 				"content/dist/rhel8/8.9/x86_64/sap-solutions/debug",
 				"content/dist/rhel8/8/x86_64/sap-solutions/debug"
 			]
@@ -57946,6 +58055,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/x86_64/sap-solutions/os",
+				"content/dist/rhel8/8.8/x86_64/sap-solutions/os",
 				"content/dist/rhel8/8.9/x86_64/sap-solutions/os",
 				"content/dist/rhel8/8/x86_64/sap-solutions/os"
 			]
@@ -57956,6 +58066,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/x86_64/sap-solutions/source/SRPMS",
+				"content/dist/rhel8/8.8/x86_64/sap-solutions/source/SRPMS",
 				"content/dist/rhel8/8.9/x86_64/sap-solutions/source/SRPMS",
 				"content/dist/rhel8/8/x86_64/sap-solutions/source/SRPMS"
 			]
@@ -57966,6 +58077,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/x86_64/supplementary/debug",
+				"content/dist/rhel8/8.8/x86_64/supplementary/debug",
 				"content/dist/rhel8/8.9/x86_64/supplementary/debug",
 				"content/dist/rhel8/8/x86_64/supplementary/debug"
 			]
@@ -58144,6 +58256,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/x86_64/supplementary/os",
+				"content/dist/rhel8/8.8/x86_64/supplementary/os",
 				"content/dist/rhel8/8.9/x86_64/supplementary/os",
 				"content/dist/rhel8/8/x86_64/supplementary/os"
 			]
@@ -58154,6 +58267,7 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.6/x86_64/supplementary/source/SRPMS",
+				"content/dist/rhel8/8.8/x86_64/supplementary/source/SRPMS",
 				"content/dist/rhel8/8.9/x86_64/supplementary/source/SRPMS",
 				"content/dist/rhel8/8/x86_64/supplementary/source/SRPMS"
 			]
@@ -73557,22 +73671,6 @@
 				"content/dist/layered/rhel8/x86_64/rhods/1.20/source/SRPMS"
 			]
 		},
-		"rhods-2-for-rhel-8-x86_64-debug-rpms": {
-			"cpes": [
-				"cpe:/a:redhat:openshift_data_science:2.4::el8"
-			],
-			"repo_relative_urls": [
-				"content/dist/layered/rhel8/x86_64/rhods/2/debug"
-			]
-		},
-		"rhods-2-for-rhel-8-x86_64-rpms": {
-			"cpes": [
-				"cpe:/a:redhat:openshift_data_science:2.4::el8"
-			],
-			"repo_relative_urls": [
-				"content/dist/layered/rhel8/x86_64/rhods/2/os"
-			]
-		},
 		"rhods-2-for-rhel-8-x86_64-source-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:openshift_data_science:2.4::el8"
@@ -78148,5 +78246,5 @@
 			]
 		}
 	},
-	"last_updated": "2023-11-23T01:07:50.722Z"
+	"last_updated": "2023-11-24T01:06:04.301Z"
 }
