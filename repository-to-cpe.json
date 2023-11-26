@@ -14705,6 +14705,78 @@
 				"content/dist/middleware/quarkus/1.0/x86_64/os"
 			]
 		},
+		"quay-3-for-rhel-9-ppc64le-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:quay:3.10::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/ppc64le/quay/3/debug"
+			]
+		},
+		"quay-3-for-rhel-9-ppc64le-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:quay:3.10::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/ppc64le/quay/3/os"
+			]
+		},
+		"quay-3-for-rhel-9-ppc64le-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:quay:3.10::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/ppc64le/quay/3/source/SRPMS"
+			]
+		},
+		"quay-3-for-rhel-9-s390x-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:quay:3.10::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/s390x/quay/3/debug"
+			]
+		},
+		"quay-3-for-rhel-9-s390x-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:quay:3.10::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/s390x/quay/3/os"
+			]
+		},
+		"quay-3-for-rhel-9-s390x-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:quay:3.10::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/s390x/quay/3/source/SRPMS"
+			]
+		},
+		"quay-3-for-rhel-9-x86_64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:quay:3.10::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/quay/3/debug"
+			]
+		},
+		"quay-3-for-rhel-9-x86_64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:quay:3.10::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/quay/3/os"
+			]
+		},
+		"quay-3-for-rhel-9-x86_64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:quay:3.10::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/quay/3/source/SRPMS"
+			]
+		},
 		"redhat-integration-textonly-1-for-middleware-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:integration:1"
@@ -78238,5 +78310,5 @@
 			]
 		}
 	},
-	"last_updated": "2023-11-25T01:07:25.804Z"
+	"last_updated": "2023-11-26T01:07:42.575Z"
 }
