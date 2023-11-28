@@ -75256,7 +75256,8 @@
 		},
 		"rodoo-1-for-rhel-9-x86_64-debug-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:run_once_duration_override_operator:1.0::el9"
+				"cpe:/a:redhat:run_once_duration_override_operator:1.0::el9",
+				"cpe:/a:redhat:run_once_duration_override_operator:1.1::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/x86_64/rodoo/1/debug"
@@ -75264,7 +75265,8 @@
 		},
 		"rodoo-1-for-rhel-9-x86_64-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:run_once_duration_override_operator:1.0::el9"
+				"cpe:/a:redhat:run_once_duration_override_operator:1.0::el9",
+				"cpe:/a:redhat:run_once_duration_override_operator:1.1::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/x86_64/rodoo/1/os"
@@ -75272,7 +75274,8 @@
 		},
 		"rodoo-1-for-rhel-9-x86_64-source-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:run_once_duration_override_operator:1.0::el9"
+				"cpe:/a:redhat:run_once_duration_override_operator:1.0::el9",
+				"cpe:/a:redhat:run_once_duration_override_operator:1.1::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/x86_64/rodoo/1/source/SRPMS"
@@ -78310,5 +78313,5 @@
 			]
 		}
 	},
-	"last_updated": "2023-11-26T01:07:42.575Z"
+	"last_updated": "2023-11-28T01:08:37.823Z"
 }
