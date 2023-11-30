@@ -13945,6 +13945,102 @@
 				"content/dist/layered/rhel8/x86_64/pipelines/1.12/source/SRPMS"
 			]
 		},
+		"pipelines-1.13-for-rhel-8-aarch64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_pipelines:1.13::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/aarch64/pipelines/1.13/debug"
+			]
+		},
+		"pipelines-1.13-for-rhel-8-aarch64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_pipelines:1.13::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/aarch64/pipelines/1.13/os"
+			]
+		},
+		"pipelines-1.13-for-rhel-8-aarch64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_pipelines:1.13::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/aarch64/pipelines/1.13/source/SRPMS"
+			]
+		},
+		"pipelines-1.13-for-rhel-8-ppc64le-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_pipelines:1.13::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/ppc64le/pipelines/1.13/debug"
+			]
+		},
+		"pipelines-1.13-for-rhel-8-ppc64le-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_pipelines:1.13::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/ppc64le/pipelines/1.13/os"
+			]
+		},
+		"pipelines-1.13-for-rhel-8-ppc64le-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_pipelines:1.13::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/ppc64le/pipelines/1.13/source/SRPMS"
+			]
+		},
+		"pipelines-1.13-for-rhel-8-s390x-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_pipelines:1.13::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/s390x/pipelines/1.13/debug"
+			]
+		},
+		"pipelines-1.13-for-rhel-8-s390x-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_pipelines:1.13::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/s390x/pipelines/1.13/os"
+			]
+		},
+		"pipelines-1.13-for-rhel-8-s390x-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_pipelines:1.13::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/s390x/pipelines/1.13/source/SRPMS"
+			]
+		},
+		"pipelines-1.13-for-rhel-8-x86_64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_pipelines:1.13::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/pipelines/1.13/debug"
+			]
+		},
+		"pipelines-1.13-for-rhel-8-x86_64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_pipelines:1.13::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/pipelines/1.13/os"
+			]
+		},
+		"pipelines-1.13-for-rhel-8-x86_64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_pipelines:1.13::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/pipelines/1.13/source/SRPMS"
+			]
+		},
 		"pipelines-1.2-for-rhel-8-ppc64le-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:openshift_pipelines:1.2::el8"
@@ -78337,5 +78433,5 @@
 			]
 		}
 	},
-	"last_updated": "2023-11-29T01:07:57.356Z"
+	"last_updated": "2023-11-30T01:09:11.911Z"
 }
