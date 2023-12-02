@@ -74312,6 +74312,30 @@
 				"content/dist/layered/rhel8/x86_64/rhosdt/2/source/SRPMS"
 			]
 		},
+		"rhosdt-3-for-rhel-8-aarch64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_distributed_tracing:3.0::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/aarch64/rhosdt/3/debug"
+			]
+		},
+		"rhosdt-3-for-rhel-8-aarch64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_distributed_tracing:3.0::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/aarch64/rhosdt/3/os"
+			]
+		},
+		"rhosdt-3-for-rhel-8-aarch64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_distributed_tracing:3.0::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/aarch64/rhosdt/3/source/SRPMS"
+			]
+		},
 		"rhosdt-3-for-rhel-8-ppc64le-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:openshift_distributed_tracing:3.0::el8"
@@ -74342,6 +74366,14 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/s390x/rhosdt/3/debug"
+			]
+		},
+		"rhosdt-3-for-rhel-8-s390x-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_distributed_tracing:3.0::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/s390x/rhosdt/3/os"
 			]
 		},
 		"rhosdt-3-for-rhel-8-s390x-source-rpms": {
@@ -78481,5 +78513,5 @@
 			]
 		}
 	},
-	"last_updated": "2023-12-01T01:07:24.830Z"
+	"last_updated": "2023-12-02T01:08:01.527Z"
 }
