@@ -78133,6 +78133,30 @@
 				"content/dist/layered/rhel8/x86_64/sat-utils/6.14/source/SRPMS"
 			]
 		},
+		"service-interconnect-1-for-rhel-8-aarch64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:service_interconnect:1::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/aarch64/rhsi/1/debug"
+			]
+		},
+		"service-interconnect-1-for-rhel-8-aarch64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:service_interconnect:1::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/aarch64/rhsi/1/os"
+			]
+		},
+		"service-interconnect-1-for-rhel-8-aarch64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:service_interconnect:1::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/aarch64/rhsi/1/source/SRPMS"
+			]
+		},
 		"service-interconnect-1-for-rhel-8-x86_64-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:service_interconnect:1::el8"
@@ -78513,5 +78537,5 @@
 			]
 		}
 	},
-	"last_updated": "2023-12-06T01:06:55.919Z"
+	"last_updated": "2023-12-07T01:06:41.721Z"
 }
