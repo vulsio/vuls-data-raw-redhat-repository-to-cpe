@@ -13624,6 +13624,7 @@
 		},
 		"osso-1-for-rhel-8-x86_64-debug-rpms": {
 			"cpes": [
+				"cpe:/a:redhat:openshift_secondary_scheduler:1.1::el8",
 				"cpe:/a:redhat:openshift_secondary_scheduler:1.2::el8"
 			],
 			"repo_relative_urls": [
@@ -13632,6 +13633,7 @@
 		},
 		"osso-1-for-rhel-8-x86_64-rpms": {
 			"cpes": [
+				"cpe:/a:redhat:openshift_secondary_scheduler:1.1::el8",
 				"cpe:/a:redhat:openshift_secondary_scheduler:1.2::el8"
 			],
 			"repo_relative_urls": [
@@ -13640,6 +13642,7 @@
 		},
 		"osso-1-for-rhel-8-x86_64-source-rpms": {
 			"cpes": [
+				"cpe:/a:redhat:openshift_secondary_scheduler:1.1::el8",
 				"cpe:/a:redhat:openshift_secondary_scheduler:1.2::el8"
 			],
 			"repo_relative_urls": [
@@ -78577,5 +78580,5 @@
 			]
 		}
 	},
-	"last_updated": "2023-12-11T01:07:24.377Z"
+	"last_updated": "2023-12-12T01:08:21.003Z"
 }
