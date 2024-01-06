@@ -17599,6 +17599,30 @@
 				"content/dist/layered/rhel9/x86_64/rhceph-tools/7/source/SRPMS"
 			]
 		},
+		"rhdh-1-for-rhel-9-x86_64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:rhdh:1.0::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/rhdh/1/debug"
+			]
+		},
+		"rhdh-1-for-rhel-9-x86_64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:rhdh:1.0::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/rhdh/1/os"
+			]
+		},
+		"rhdh-1-for-rhel-9-x86_64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:rhdh:1.0::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/rhdh/1/source/SRPMS"
+			]
+		},
 		"rhel-4-as-els-rpms": {
 			"cpes": [
 				"cpe:/o:redhat:rhel_els:4::as"
@@ -78652,5 +78676,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-01-05T00:45:06.191Z"
+	"last_updated": "2024-01-06T00:47:45.375Z"
 }
