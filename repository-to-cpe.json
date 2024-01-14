@@ -74984,6 +74984,102 @@
 				"content/dist/layered/rhel8/x86_64/rhpib/2/source/SRPMS"
 			]
 		},
+		"rhpm-1-for-rhel-9-aarch64-textonly-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_power_monitoring:0.1::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/aarch64/rhpm/1/debug"
+			]
+		},
+		"rhpm-1-for-rhel-9-aarch64-textonly-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_power_monitoring:0.1::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/aarch64/rhpm/1/os"
+			]
+		},
+		"rhpm-1-for-rhel-9-aarch64-textonly-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_power_monitoring:0.1::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/aarch64/rhpm/1/source/SRPMS"
+			]
+		},
+		"rhpm-1-for-rhel-9-ppc64le-textonly-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_power_monitoring:0.1::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/ppc64le/rhpm/1/debug"
+			]
+		},
+		"rhpm-1-for-rhel-9-ppc64le-textonly-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_power_monitoring:0.1::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/ppc64le/rhpm/1/os"
+			]
+		},
+		"rhpm-1-for-rhel-9-ppc64le-textonly-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_power_monitoring:0.1::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/ppc64le/rhpm/1/source/SRPMS"
+			]
+		},
+		"rhpm-1-for-rhel-9-s390x-textonly-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_power_monitoring:0.1::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/s390x/rhpm/1/debug"
+			]
+		},
+		"rhpm-1-for-rhel-9-s390x-textonly-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_power_monitoring:0.1::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/s390x/rhpm/1/os"
+			]
+		},
+		"rhpm-1-for-rhel-9-s390x-textonly-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_power_monitoring:0.1::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/s390x/rhpm/1/source/SRPMS"
+			]
+		},
+		"rhpm-1-for-rhel-9-x86_64-textonly-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_power_monitoring:0.1::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/rhpm/1/debug"
+			]
+		},
+		"rhpm-1-for-rhel-9-x86_64-textonly-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_power_monitoring:0.1::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/rhpm/1/os"
+			]
+		},
+		"rhpm-1-for-rhel-9-x86_64-textonly-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_power_monitoring:0.1::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/rhpm/1/source/SRPMS"
+			]
+		},
 		"rhs-2.0-for-rhel-6-server-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:storage:2.0:server:el6"
@@ -78769,5 +78865,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-01-13T00:45:49.160Z"
+	"last_updated": "2024-01-14T00:45:40.438Z"
 }
