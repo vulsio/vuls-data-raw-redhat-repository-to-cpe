@@ -12187,6 +12187,30 @@
 				"content/dist/layered/rhel8/x86_64/openshift-local-textonly/1/os"
 			]
 		},
+		"openshift-serverless-1-for-rhel-8-aarch64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_serverless:1.31::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/aarch64/rhoss/1/debug"
+			]
+		},
+		"openshift-serverless-1-for-rhel-8-aarch64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_serverless:1.31::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/aarch64/rhoss/1/os"
+			]
+		},
+		"openshift-serverless-1-for-rhel-8-aarch64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_serverless:1.31::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/aarch64/rhoss/1/source/SRPMS"
+			]
+		},
 		"openshift-serverless-1-for-rhel-8-ppc64le-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:openshift_serverless:1.29::el8",
@@ -78865,5 +78889,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-01-19T00:45:59.787Z"
+	"last_updated": "2024-01-20T00:47:02.169Z"
 }
