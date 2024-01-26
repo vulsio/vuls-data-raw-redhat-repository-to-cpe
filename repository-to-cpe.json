@@ -6714,6 +6714,30 @@
 				"content/dist/layered/rhel8/x86_64/dirsrv/11.8/source/SRPMS"
 			]
 		},
+		"dirsrv-11.9-for-rhel-8-x86_64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:directory_server:11.9::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/dirsrv/11.9/debug"
+			]
+		},
+		"dirsrv-11.9-for-rhel-8-x86_64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:directory_server:11.9::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/dirsrv/11.9/os"
+			]
+		},
+		"dirsrv-11.9-for-rhel-8-x86_64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:directory_server:11.9::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/dirsrv/11.9/source/SRPMS"
+			]
+		},
 		"dirsrv-12-for-rhel-9-x86_64-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:directory_server:12::el9"
@@ -6856,6 +6880,30 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/x86_64/dirsrv/12.3/source/SRPMS"
+			]
+		},
+		"dirsrv-12.4-for-rhel-9-x86_64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:directory_server:12.4::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/dirsrv/12.4/debug"
+			]
+		},
+		"dirsrv-12.4-for-rhel-9-x86_64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:directory_server:12.4::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/dirsrv/12.4/os"
+			]
+		},
+		"dirsrv-12.4-for-rhel-9-x86_64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:directory_server:12.4::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/dirsrv/12.4/source/SRPMS"
 			]
 		},
 		"discovery-0-for-rhel-8-x86_64-debug-rpms": {
@@ -12232,6 +12280,7 @@
 				"cpe:/a:redhat:openshift_serverless:1.29::el8",
 				"cpe:/a:redhat:openshift_serverless:1.30::el8",
 				"cpe:/a:redhat:openshift_serverless:1.31::el8",
+				"cpe:/a:redhat:openshift_serverless:1.32::el8",
 				"cpe:/a:redhat:serverless:1.0::el8"
 			],
 			"repo_relative_urls": [
@@ -17574,7 +17623,8 @@
 		},
 		"rhceph-7-tools-for-rhel-9-ppc64le-debug-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:ceph_storage:7.0::el9"
+				"cpe:/a:redhat:ceph_storage:7.0::el9",
+				"cpe:/a:redhat:ceph_storage:7.1::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/ppc64le/rhceph-tools/7/debug"
@@ -17582,7 +17632,8 @@
 		},
 		"rhceph-7-tools-for-rhel-9-ppc64le-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:ceph_storage:7.0::el9"
+				"cpe:/a:redhat:ceph_storage:7.0::el9",
+				"cpe:/a:redhat:ceph_storage:7.1::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/ppc64le/rhceph-tools/7/os"
@@ -17590,7 +17641,8 @@
 		},
 		"rhceph-7-tools-for-rhel-9-ppc64le-source-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:ceph_storage:7.0::el9"
+				"cpe:/a:redhat:ceph_storage:7.0::el9",
+				"cpe:/a:redhat:ceph_storage:7.1::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/ppc64le/rhceph-tools/7/source/SRPMS"
@@ -17598,7 +17650,8 @@
 		},
 		"rhceph-7-tools-for-rhel-9-s390x-debug-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:ceph_storage:7.0::el9"
+				"cpe:/a:redhat:ceph_storage:7.0::el9",
+				"cpe:/a:redhat:ceph_storage:7.1::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/s390x/rhceph-tools/7/debug"
@@ -17606,7 +17659,8 @@
 		},
 		"rhceph-7-tools-for-rhel-9-s390x-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:ceph_storage:7.0::el9"
+				"cpe:/a:redhat:ceph_storage:7.0::el9",
+				"cpe:/a:redhat:ceph_storage:7.1::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/s390x/rhceph-tools/7/os"
@@ -17614,7 +17668,8 @@
 		},
 		"rhceph-7-tools-for-rhel-9-s390x-source-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:ceph_storage:7.0::el9"
+				"cpe:/a:redhat:ceph_storage:7.0::el9",
+				"cpe:/a:redhat:ceph_storage:7.1::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/s390x/rhceph-tools/7/source/SRPMS"
@@ -17622,7 +17677,8 @@
 		},
 		"rhceph-7-tools-for-rhel-9-x86_64-debug-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:ceph_storage:7.0::el9"
+				"cpe:/a:redhat:ceph_storage:7.0::el9",
+				"cpe:/a:redhat:ceph_storage:7.1::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/x86_64/rhceph-tools/7/debug"
@@ -17630,7 +17686,8 @@
 		},
 		"rhceph-7-tools-for-rhel-9-x86_64-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:ceph_storage:7.0::el9"
+				"cpe:/a:redhat:ceph_storage:7.0::el9",
+				"cpe:/a:redhat:ceph_storage:7.1::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/x86_64/rhceph-tools/7/os"
@@ -17638,7 +17695,8 @@
 		},
 		"rhceph-7-tools-for-rhel-9-x86_64-source-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:ceph_storage:7.0::el9"
+				"cpe:/a:redhat:ceph_storage:7.0::el9",
+				"cpe:/a:redhat:ceph_storage:7.1::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/x86_64/rhceph-tools/7/source/SRPMS"
@@ -71739,6 +71797,30 @@
 				"content/dist/layered/rhel8/x86_64/rhmtv/1/source/SRPMS"
 			]
 		},
+		"rhoai-2-for-rhel-8-x86_64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_ai:2.6::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/rhoai/2/debug"
+			]
+		},
+		"rhoai-2-for-rhel-8-x86_64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_ai:2.6::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/rhoai/2/os"
+			]
+		},
+		"rhoai-2-for-rhel-8-x86_64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_ai:2.6::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/rhoai/2/source/SRPMS"
+			]
+		},
 		"rhoam-1-for-rhel-7-x86_64-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:openshift_api_management:1.0::el7"
@@ -74621,7 +74703,8 @@
 		},
 		"rhosdt-3-for-rhel-8-ppc64le-source-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:openshift_distributed_tracing:3.0::el8"
+				"cpe:/a:redhat:openshift_distributed_tracing:3.0::el8",
+				"cpe:/a:redhat:openshift_distributed_tracing:3.1::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/ppc64le/rhosdt/3/source/SRPMS"
@@ -78930,5 +79013,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-01-25T00:47:43.794Z"
+	"last_updated": "2024-01-26T00:46:54.260Z"
 }
