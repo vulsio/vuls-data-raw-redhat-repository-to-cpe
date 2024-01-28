@@ -10381,7 +10381,9 @@
 		},
 		"mtv-for-rhel-9-x86_64-source-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:migration_toolkit_virtualization:2.6::el8"
+				"cpe:/a:redhat:migration_toolkit_virtualization:2.4::el9",
+				"cpe:/a:redhat:migration_toolkit_virtualization:2.5::el9",
+				"cpe:/a:redhat:migration_toolkit_virtualization:2.6::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/x86_64/mtv/2/source/SRPMS"
@@ -71794,7 +71796,8 @@
 		},
 		"rhoai-2-for-rhel-8-x86_64-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:openshift_ai:2.6::el8"
+				"cpe:/a:redhat:openshift_ai:2.6::el8",
+				"cpe:/a:redhat:openshift_ai:2.7::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/rhoai/2/os"
@@ -79001,5 +79004,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-01-27T00:45:04.044Z"
+	"last_updated": "2024-01-28T00:45:13.918Z"
 }
