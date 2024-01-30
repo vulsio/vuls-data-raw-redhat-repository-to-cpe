@@ -4,6 +4,7 @@
 			"cpes": [
 				"cpe:/a:redhat:3scale:2.13::el8",
 				"cpe:/a:redhat:3scale:2.14::el8",
+				"cpe:/a:redhat:3scale:2.15::el8",
 				"cpe:/a:redhat:3scale_amp:2.11::el8",
 				"cpe:/a:redhat:3scale_amp:2.12::el8",
 				"cpe:/a:redhat:3scale_amp:2.8::el8"
@@ -16,6 +17,7 @@
 			"cpes": [
 				"cpe:/a:redhat:3scale:2.13::el8",
 				"cpe:/a:redhat:3scale:2.14::el8",
+				"cpe:/a:redhat:3scale:2.15::el8",
 				"cpe:/a:redhat:3scale_amp:2.11::el8",
 				"cpe:/a:redhat:3scale_amp:2.12::el8",
 				"cpe:/a:redhat:3scale_amp:2.8::el8"
@@ -28,6 +30,7 @@
 			"cpes": [
 				"cpe:/a:redhat:3scale:2.13::el8",
 				"cpe:/a:redhat:3scale:2.14::el8",
+				"cpe:/a:redhat:3scale:2.15::el8",
 				"cpe:/a:redhat:3scale_amp:2.11::el8",
 				"cpe:/a:redhat:3scale_amp:2.12::el8",
 				"cpe:/a:redhat:3scale_amp:2.8::el8"
@@ -40,6 +43,7 @@
 			"cpes": [
 				"cpe:/a:redhat:3scale:2.13::el8",
 				"cpe:/a:redhat:3scale:2.14::el8",
+				"cpe:/a:redhat:3scale:2.15::el8",
 				"cpe:/a:redhat:3scale_amp:2.12::el8"
 			],
 			"repo_relative_urls": [
@@ -50,6 +54,7 @@
 			"cpes": [
 				"cpe:/a:redhat:3scale:2.13::el8",
 				"cpe:/a:redhat:3scale:2.14::el8",
+				"cpe:/a:redhat:3scale:2.15::el8",
 				"cpe:/a:redhat:3scale_amp:2.12::el8"
 			],
 			"repo_relative_urls": [
@@ -60,6 +65,7 @@
 			"cpes": [
 				"cpe:/a:redhat:3scale:2.13::el8",
 				"cpe:/a:redhat:3scale:2.14::el8",
+				"cpe:/a:redhat:3scale:2.15::el8",
 				"cpe:/a:redhat:3scale_amp:2.12::el8"
 			],
 			"repo_relative_urls": [
@@ -70,6 +76,7 @@
 			"cpes": [
 				"cpe:/a:redhat:3scale:2.13::el8",
 				"cpe:/a:redhat:3scale:2.14::el8",
+				"cpe:/a:redhat:3scale:2.15::el8",
 				"cpe:/a:redhat:3scale_amp:2.10::el8",
 				"cpe:/a:redhat:3scale_amp:2.11::el8",
 				"cpe:/a:redhat:3scale_amp:2.12::el8",
@@ -84,6 +91,7 @@
 			"cpes": [
 				"cpe:/a:redhat:3scale:2.13::el8",
 				"cpe:/a:redhat:3scale:2.14::el8",
+				"cpe:/a:redhat:3scale:2.15::el8",
 				"cpe:/a:redhat:3scale_amp:2.10::el8",
 				"cpe:/a:redhat:3scale_amp:2.11::el8",
 				"cpe:/a:redhat:3scale_amp:2.12::el8",
@@ -98,6 +106,7 @@
 			"cpes": [
 				"cpe:/a:redhat:3scale:2.13::el8",
 				"cpe:/a:redhat:3scale:2.14::el8",
+				"cpe:/a:redhat:3scale:2.15::el8",
 				"cpe:/a:redhat:3scale_amp:2.10::el8",
 				"cpe:/a:redhat:3scale_amp:2.11::el8",
 				"cpe:/a:redhat:3scale_amp:2.12::el8",
@@ -36068,6 +36077,7 @@
 			"cpes": [
 				"cpe:/a:redhat:3scale:2.13::el7",
 				"cpe:/a:redhat:3scale:2.14::el7",
+				"cpe:/a:redhat:3scale:2.15::el7",
 				"cpe:/a:redhat:3scale_amp:2.12::el7"
 			],
 			"repo_relative_urls": [
@@ -36088,6 +36098,7 @@
 			"cpes": [
 				"cpe:/a:redhat:3scale:2.13::el7",
 				"cpe:/a:redhat:3scale:2.14::el7",
+				"cpe:/a:redhat:3scale:2.15::el7",
 				"cpe:/a:redhat:3scale_amp:2.12::el7"
 			],
 			"repo_relative_urls": [
@@ -38594,6 +38605,7 @@
 			"cpes": [
 				"cpe:/a:redhat:3scale:2.13::el7",
 				"cpe:/a:redhat:3scale:2.14::el7",
+				"cpe:/a:redhat:3scale:2.15::el7",
 				"cpe:/a:redhat:3scale_amp:2",
 				"cpe:/a:redhat:3scale_amp:2.10::el7",
 				"cpe:/a:redhat:3scale_amp:2.11::el7",
@@ -38607,6 +38619,7 @@
 			"cpes": [
 				"cpe:/a:redhat:3scale:2.13::el7",
 				"cpe:/a:redhat:3scale:2.14::el7",
+				"cpe:/a:redhat:3scale:2.15::el7",
 				"cpe:/a:redhat:3scale_amp:2.11::el7",
 				"cpe:/a:redhat:3scale_amp:2.12::el7"
 			],
@@ -38618,6 +38631,7 @@
 			"cpes": [
 				"cpe:/a:redhat:3scale:2.13::el7",
 				"cpe:/a:redhat:3scale:2.14::el7",
+				"cpe:/a:redhat:3scale:2.15::el7",
 				"cpe:/a:redhat:3scale_amp:2.11::el7",
 				"cpe:/a:redhat:3scale_amp:2.12::el7"
 			],
@@ -38629,6 +38643,7 @@
 			"cpes": [
 				"cpe:/a:redhat:3scale:2.13::el7",
 				"cpe:/a:redhat:3scale:2.14::el7",
+				"cpe:/a:redhat:3scale:2.15::el7",
 				"cpe:/a:redhat:3scale_amp:2.11::el7",
 				"cpe:/a:redhat:3scale_amp:2.12::el7"
 			],
@@ -38640,6 +38655,7 @@
 			"cpes": [
 				"cpe:/a:redhat:3scale:2.13::el7",
 				"cpe:/a:redhat:3scale:2.14::el7",
+				"cpe:/a:redhat:3scale:2.15::el7",
 				"cpe:/a:redhat:3scale_amp:2",
 				"cpe:/a:redhat:3scale_amp:2.10::el7",
 				"cpe:/a:redhat:3scale_amp:2.11::el7",
@@ -38653,6 +38669,7 @@
 			"cpes": [
 				"cpe:/a:redhat:3scale:2.13::el7",
 				"cpe:/a:redhat:3scale:2.14::el7",
+				"cpe:/a:redhat:3scale:2.15::el7",
 				"cpe:/a:redhat:3scale_amp:2",
 				"cpe:/a:redhat:3scale_amp:2.10::el7",
 				"cpe:/a:redhat:3scale_amp:2.11::el7",
@@ -79004,5 +79021,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-01-29T00:44:55.944Z"
+	"last_updated": "2024-01-30T00:45:00.356Z"
 }
