@@ -36088,6 +36088,7 @@
 			"cpes": [
 				"cpe:/a:redhat:3scale:2.13::el7",
 				"cpe:/a:redhat:3scale:2.14::el7",
+				"cpe:/a:redhat:3scale:2.15::el7",
 				"cpe:/a:redhat:3scale_amp:2.12::el7"
 			],
 			"repo_relative_urls": [
@@ -79021,5 +79022,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-01-30T00:45:00.356Z"
+	"last_updated": "2024-01-31T00:44:47.202Z"
 }
