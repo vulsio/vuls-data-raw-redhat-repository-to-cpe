@@ -9837,7 +9837,8 @@
 		},
 		"kmm-2-for-rhel-9-x86_64-debug-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:kernel_module_management:2.0::el9"
+				"cpe:/a:redhat:kernel_module_management:2.0::el9",
+				"cpe:/a:redhat:kernel_module_management:2.1::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/x86_64/kmm/2/debug"
@@ -9845,7 +9846,8 @@
 		},
 		"kmm-2-for-rhel-9-x86_64-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:kernel_module_management:2.0::el9"
+				"cpe:/a:redhat:kernel_module_management:2.0::el9",
+				"cpe:/a:redhat:kernel_module_management:2.1::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/x86_64/kmm/2/os"
@@ -9853,7 +9855,8 @@
 		},
 		"kmm-2-for-rhel-9-x86_64-source-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:kernel_module_management:2.0::el9"
+				"cpe:/a:redhat:kernel_module_management:2.0::el9",
+				"cpe:/a:redhat:kernel_module_management:2.1::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/x86_64/kmm/2/source/SRPMS"
@@ -79022,5 +79025,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-01-31T00:44:47.202Z"
+	"last_updated": "2024-02-01T00:45:40.220Z"
 }
