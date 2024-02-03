@@ -5024,6 +5024,102 @@
 				"content/dist/layered/rhel8/x86_64/cnv/4.9/source/SRPMS"
 			]
 		},
+		"codeready-builder-beta-for-rhel-10-aarch64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:10::crb"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/aarch64/codeready-builder/debug"
+			]
+		},
+		"codeready-builder-beta-for-rhel-10-aarch64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:10::crb"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/aarch64/codeready-builder/os"
+			]
+		},
+		"codeready-builder-beta-for-rhel-10-aarch64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:10::crb"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/aarch64/codeready-builder/source/SRPMS"
+			]
+		},
+		"codeready-builder-beta-for-rhel-10-ppc64le-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:10::crb"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/ppc64le/codeready-builder/debug"
+			]
+		},
+		"codeready-builder-beta-for-rhel-10-ppc64le-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:10::crb"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/ppc64le/codeready-builder/os"
+			]
+		},
+		"codeready-builder-beta-for-rhel-10-ppc64le-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:10::crb"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/ppc64le/codeready-builder/source/SRPMS"
+			]
+		},
+		"codeready-builder-beta-for-rhel-10-s390x-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:10::crb"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/s390x/codeready-builder/debug"
+			]
+		},
+		"codeready-builder-beta-for-rhel-10-s390x-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:10::crb"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/s390x/codeready-builder/os"
+			]
+		},
+		"codeready-builder-beta-for-rhel-10-s390x-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:10::crb"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/s390x/codeready-builder/source/SRPMS"
+			]
+		},
+		"codeready-builder-beta-for-rhel-10-x86_64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:10::crb"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/x86_64/codeready-builder/debug"
+			]
+		},
+		"codeready-builder-beta-for-rhel-10-x86_64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:10::crb"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/x86_64/codeready-builder/os"
+			]
+		},
+		"codeready-builder-beta-for-rhel-10-x86_64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:10::crb"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/x86_64/codeready-builder/source/SRPMS"
+			]
+		},
 		"codeready-builder-for-rhel-8-aarch64-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:enterprise_linux:8::crb"
@@ -17724,6 +17820,534 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/x86_64/rhdh/1/source/SRPMS"
+			]
+		},
+		"rhel-10-for-aarch64-appstream-beta-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:10::appstream"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/aarch64/appstream/debug"
+			]
+		},
+		"rhel-10-for-aarch64-appstream-beta-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:10::appstream"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/aarch64/appstream/os"
+			]
+		},
+		"rhel-10-for-aarch64-appstream-beta-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:10::appstream"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/aarch64/appstream/source/SRPMS"
+			]
+		},
+		"rhel-10-for-aarch64-baseos-beta-debug-rpms": {
+			"cpes": [
+				"cpe:/o:redhat:enterprise_linux:10::baseos"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/aarch64/baseos/debug"
+			]
+		},
+		"rhel-10-for-aarch64-baseos-beta-rpms": {
+			"cpes": [
+				"cpe:/o:redhat:enterprise_linux:10::baseos"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/aarch64/baseos/os"
+			]
+		},
+		"rhel-10-for-aarch64-baseos-beta-source-rpms": {
+			"cpes": [
+				"cpe:/o:redhat:enterprise_linux:10::baseos"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/aarch64/baseos/source/SRPMS"
+			]
+		},
+		"rhel-10-for-aarch64-highavailability-beta-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:10::highavailability"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/aarch64/highavailability/debug"
+			]
+		},
+		"rhel-10-for-aarch64-highavailability-beta-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:10::highavailability"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/aarch64/highavailability/os"
+			]
+		},
+		"rhel-10-for-aarch64-highavailability-beta-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:10::highavailability"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/aarch64/highavailability/source/SRPMS"
+			]
+		},
+		"rhel-10-for-ppc64le-appstream-beta-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:10::appstream"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/ppc64le/appstream/debug"
+			]
+		},
+		"rhel-10-for-ppc64le-appstream-beta-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:10::appstream"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/ppc64le/appstream/os"
+			]
+		},
+		"rhel-10-for-ppc64le-appstream-beta-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:10::appstream"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/ppc64le/appstream/source/SRPMS"
+			]
+		},
+		"rhel-10-for-ppc64le-baseos-beta-debug-rpms": {
+			"cpes": [
+				"cpe:/o:redhat:enterprise_linux:10::baseos"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/ppc64le/baseos/debug"
+			]
+		},
+		"rhel-10-for-ppc64le-baseos-beta-rpms": {
+			"cpes": [
+				"cpe:/o:redhat:enterprise_linux:10::baseos"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/ppc64le/baseos/os"
+			]
+		},
+		"rhel-10-for-ppc64le-baseos-beta-source-rpms": {
+			"cpes": [
+				"cpe:/o:redhat:enterprise_linux:10::baseos"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/ppc64le/baseos/source/SRPMS"
+			]
+		},
+		"rhel-10-for-ppc64le-highavailability-beta-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:10::highavailability"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/ppc64le/highavailability/debug"
+			]
+		},
+		"rhel-10-for-ppc64le-highavailability-beta-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:10::highavailability"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/ppc64le/highavailability/os"
+			]
+		},
+		"rhel-10-for-ppc64le-highavailability-beta-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:10::highavailability"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/ppc64le/highavailability/source/SRPMS"
+			]
+		},
+		"rhel-10-for-ppc64le-resilientstorage-beta-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:10::resilientstorage"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/ppc64le/resilientstorage/debug"
+			]
+		},
+		"rhel-10-for-ppc64le-resilientstorage-beta-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:10::resilientstorage"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/ppc64le/resilientstorage/os"
+			]
+		},
+		"rhel-10-for-ppc64le-resilientstorage-beta-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:10::resilientstorage"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/ppc64le/resilientstorage/source/SRPMS"
+			]
+		},
+		"rhel-10-for-ppc64le-sap-netweaver-beta-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:10::sap"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/ppc64le/sap/debug"
+			]
+		},
+		"rhel-10-for-ppc64le-sap-netweaver-beta-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:10::sap"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/ppc64le/sap/os"
+			]
+		},
+		"rhel-10-for-ppc64le-sap-netweaver-beta-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:10::sap"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/ppc64le/sap/source/SRPMS"
+			]
+		},
+		"rhel-10-for-ppc64le-sap-solutions-beta-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:10::sap_hana"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/ppc64le/sap-solutions/debug"
+			]
+		},
+		"rhel-10-for-ppc64le-sap-solutions-beta-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:10::sap_hana"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/ppc64le/sap-solutions/os"
+			]
+		},
+		"rhel-10-for-ppc64le-sap-solutions-beta-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:10::sap_hana"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/ppc64le/sap-solutions/source/SRPMS"
+			]
+		},
+		"rhel-10-for-s390x-appstream-beta-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:10::appstream"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/s390x/appstream/debug"
+			]
+		},
+		"rhel-10-for-s390x-appstream-beta-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:10::appstream"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/s390x/appstream/os"
+			]
+		},
+		"rhel-10-for-s390x-appstream-beta-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:10::appstream"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/s390x/appstream/source/SRPMS"
+			]
+		},
+		"rhel-10-for-s390x-baseos-beta-debug-rpms": {
+			"cpes": [
+				"cpe:/o:redhat:enterprise_linux:10::baseos"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/s390x/baseos/debug"
+			]
+		},
+		"rhel-10-for-s390x-baseos-beta-rpms": {
+			"cpes": [
+				"cpe:/o:redhat:enterprise_linux:10::baseos"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/s390x/baseos/os"
+			]
+		},
+		"rhel-10-for-s390x-baseos-beta-source-rpms": {
+			"cpes": [
+				"cpe:/o:redhat:enterprise_linux:10::baseos"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/s390x/baseos/source/SRPMS"
+			]
+		},
+		"rhel-10-for-s390x-highavailability-beta-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:10::highavailability"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/s390x/highavailability/debug"
+			]
+		},
+		"rhel-10-for-s390x-highavailability-beta-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:10::highavailability"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/s390x/highavailability/os"
+			]
+		},
+		"rhel-10-for-s390x-highavailability-beta-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:10::highavailability"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/s390x/highavailability/source/SRPMS"
+			]
+		},
+		"rhel-10-for-s390x-resilientstorage-beta-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:10::resilientstorage"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/s390x/resilientstorage/debug"
+			]
+		},
+		"rhel-10-for-s390x-resilientstorage-beta-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:10::resilientstorage"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/s390x/resilientstorage/os"
+			]
+		},
+		"rhel-10-for-s390x-resilientstorage-beta-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:10::resilientstorage"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/s390x/resilientstorage/source/SRPMS"
+			]
+		},
+		"rhel-10-for-s390x-sap-netweaver-beta-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:10::sap"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/s390x/sap/debug"
+			]
+		},
+		"rhel-10-for-s390x-sap-netweaver-beta-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:10::sap"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/s390x/sap/os"
+			]
+		},
+		"rhel-10-for-s390x-sap-netweaver-beta-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:10::sap"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/s390x/sap/source/SRPMS"
+			]
+		},
+		"rhel-10-for-x86_64-appstream-beta-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:10::appstream"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/x86_64/appstream/debug"
+			]
+		},
+		"rhel-10-for-x86_64-appstream-beta-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:10::appstream"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/x86_64/appstream/os"
+			]
+		},
+		"rhel-10-for-x86_64-appstream-beta-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:10::appstream"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/x86_64/appstream/source/SRPMS"
+			]
+		},
+		"rhel-10-for-x86_64-baseos-beta-debug-rpms": {
+			"cpes": [
+				"cpe:/o:redhat:enterprise_linux:10::baseos"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/x86_64/baseos/debug"
+			]
+		},
+		"rhel-10-for-x86_64-baseos-beta-rpms": {
+			"cpes": [
+				"cpe:/o:redhat:enterprise_linux:10::baseos"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/x86_64/baseos/os"
+			]
+		},
+		"rhel-10-for-x86_64-baseos-beta-source-rpms": {
+			"cpes": [
+				"cpe:/o:redhat:enterprise_linux:10::baseos"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/x86_64/baseos/source/SRPMS"
+			]
+		},
+		"rhel-10-for-x86_64-highavailability-beta-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:10::highavailability"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/x86_64/highavailability/debug"
+			]
+		},
+		"rhel-10-for-x86_64-highavailability-beta-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:10::highavailability"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/x86_64/highavailability/os"
+			]
+		},
+		"rhel-10-for-x86_64-highavailability-beta-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:10::highavailability"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/x86_64/highavailability/source/SRPMS"
+			]
+		},
+		"rhel-10-for-x86_64-nfv-beta-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:10::nfv"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/x86_64/nfv/debug"
+			]
+		},
+		"rhel-10-for-x86_64-nfv-beta-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:10::nfv"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/x86_64/nfv/os"
+			]
+		},
+		"rhel-10-for-x86_64-nfv-beta-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:10::nfv"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/x86_64/nfv/source/SRPMS"
+			]
+		},
+		"rhel-10-for-x86_64-resilientstorage-beta-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:10::resilientstorage"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/x86_64/resilientstorage/debug"
+			]
+		},
+		"rhel-10-for-x86_64-resilientstorage-beta-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:10::resilientstorage"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/x86_64/resilientstorage/os"
+			]
+		},
+		"rhel-10-for-x86_64-resilientstorage-beta-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:10::resilientstorage"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/x86_64/resilientstorage/source/SRPMS"
+			]
+		},
+		"rhel-10-for-x86_64-rt-beta-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:10::realtime"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/x86_64/rt/debug"
+			]
+		},
+		"rhel-10-for-x86_64-rt-beta-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:10::realtime"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/x86_64/rt/os"
+			]
+		},
+		"rhel-10-for-x86_64-rt-beta-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:10::realtime"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/x86_64/rt/source/SRPMS"
+			]
+		},
+		"rhel-10-for-x86_64-sap-netweaver-beta-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:10::sap"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/x86_64/sap/debug"
+			]
+		},
+		"rhel-10-for-x86_64-sap-netweaver-beta-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:10::sap"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/x86_64/sap/os"
+			]
+		},
+		"rhel-10-for-x86_64-sap-netweaver-beta-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:10::sap"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/x86_64/sap/source/SRPMS"
+			]
+		},
+		"rhel-10-for-x86_64-sap-solutions-beta-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:10::sap_hana"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/x86_64/sap-solutions/debug"
+			]
+		},
+		"rhel-10-for-x86_64-sap-solutions-beta-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:10::sap_hana"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/x86_64/sap-solutions/os"
+			]
+		},
+		"rhel-10-for-x86_64-sap-solutions-beta-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:10::sap_hana"
+			],
+			"repo_relative_urls": [
+				"content/beta/rhel10/10/x86_64/sap-solutions/source/SRPMS"
 			]
 		},
 		"rhel-4-as-els-rpms": {
@@ -79025,5 +79649,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-02-02T00:45:39.172Z"
+	"last_updated": "2024-02-03T00:44:58.774Z"
 }
