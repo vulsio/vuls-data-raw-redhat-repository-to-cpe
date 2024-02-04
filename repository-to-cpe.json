@@ -9419,6 +9419,54 @@
 				"content/dist/layered/rhel9/x86_64/jbeap/7.4/source/SRPMS"
 			]
 		},
+		"jb-eap-8.0-for-rhel-8-x86_64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:jboss_enterprise_application_platform:8.0::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/jbeap/8.0/debug"
+			]
+		},
+		"jb-eap-8.0-for-rhel-8-x86_64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:jboss_enterprise_application_platform:8.0::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/jbeap/8.0/os"
+			]
+		},
+		"jb-eap-8.0-for-rhel-8-x86_64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:jboss_enterprise_application_platform:8.0::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/jbeap/8.0/source/SRPMS"
+			]
+		},
+		"jb-eap-8.0-for-rhel-9-x86_64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:jboss_enterprise_application_platform:8.0::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/jbeap/8.0/debug"
+			]
+		},
+		"jb-eap-8.0-for-rhel-9-x86_64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:jboss_enterprise_application_platform:8.0::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/jbeap/8.0/os"
+			]
+		},
+		"jb-eap-8.0-for-rhel-9-x86_64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:jboss_enterprise_application_platform:8.0::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/jbeap/8.0/source/SRPMS"
+			]
+		},
 		"jb-eap-textonly-1-for-middleware-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:jboss_enterprise_application_platform",
@@ -79649,5 +79697,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-02-03T00:44:58.774Z"
+	"last_updated": "2024-02-04T00:44:23.599Z"
 }
