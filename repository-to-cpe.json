@@ -9928,6 +9928,30 @@
 				"content/dist/middleware/jws/1.0/x86_64/os"
 			]
 		},
+		"kdo-5-for-rhel-9-x86_64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:kube_descheduler_operator:5.0::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/kdo/5/debug"
+			]
+		},
+		"kdo-5-for-rhel-9-x86_64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:kube_descheduler_operator:5.0::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/kdo/5/os"
+			]
+		},
+		"kdo-5-for-rhel-9-x86_64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:kube_descheduler_operator:5.0::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/kdo/5/source/SRPMS"
+			]
+		},
 		"kmm-1-for-rhel-9-x86_64-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:kernel_module_management:1.0::el9",
@@ -79687,6 +79711,7 @@
 		},
 		"web-terminal-textonly-1-for-middleware-rpms": {
 			"cpes": [
+				"cpe:/a:redhat:webterminal:1.10::el8",
 				"cpe:/a:redhat:webterminal:1.5::el8",
 				"cpe:/a:redhat:webterminal:1.6::el8",
 				"cpe:/a:redhat:webterminal:1.7::el8",
@@ -79697,5 +79722,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-02-07T00:44:42.071Z"
+	"last_updated": "2024-02-08T00:44:48.727Z"
 }
