@@ -72514,7 +72514,8 @@
 		"rhoai-2-for-rhel-8-x86_64-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:openshift_ai:2.6::el8",
-				"cpe:/a:redhat:openshift_ai:2.7::el8"
+				"cpe:/a:redhat:openshift_ai:2.7::el8",
+				"cpe:/a:redhat:openshift_ai:2.8::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/rhoai/2/debug"
@@ -72532,7 +72533,8 @@
 		"rhoai-2-for-rhel-8-x86_64-source-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:openshift_ai:2.6::el8",
-				"cpe:/a:redhat:openshift_ai:2.7::el8"
+				"cpe:/a:redhat:openshift_ai:2.7::el8",
+				"cpe:/a:redhat:openshift_ai:2.8::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/rhoai/2/source/SRPMS"
@@ -79827,5 +79829,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-02-12T00:46:10.129Z"
+	"last_updated": "2024-02-13T00:44:54.391Z"
 }
