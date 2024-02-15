@@ -10474,8 +10474,7 @@
 		},
 		"mta-for-rhel-8-x86_64-source-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:migration_toolkit_applications:6.0::el8",
-				"cpe:/a:redhat:migration_toolkit_applications:6.1::el8"
+				"cpe:/a:redhat:migration_toolkit_applications:7.0::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/mta/6.0/source/SRPMS"
@@ -79834,5 +79833,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-02-14T00:45:45.525Z"
+	"last_updated": "2024-02-15T00:45:17.075Z"
 }
