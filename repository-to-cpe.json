@@ -4052,6 +4052,54 @@
 				"content/dist/layered/rhel8/x86_64/certsys/10/debug"
 			]
 		},
+		"certsys-10-for-rhel-8-x86_64-eus-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:certificate_system_eus:10.4::el8"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel8/8.6/x86_64/certsys/10/debug"
+			]
+		},
+		"certsys-10-for-rhel-8-x86_64-eus-debug-rpms__8_DOT_6": {
+			"cpes": [
+				"cpe:/a:redhat:certificate_system_eus:10.4::el8"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel8/8.6/x86_64/certsys/10/debug"
+			]
+		},
+		"certsys-10-for-rhel-8-x86_64-eus-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:certificate_system_eus:10.4::el8"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel8/8.6/x86_64/certsys/10/os"
+			]
+		},
+		"certsys-10-for-rhel-8-x86_64-eus-rpms__8_DOT_6": {
+			"cpes": [
+				"cpe:/a:redhat:certificate_system_eus:10.4::el8"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel8/8.6/x86_64/certsys/10/os"
+			]
+		},
+		"certsys-10-for-rhel-8-x86_64-eus-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:certificate_system_eus:10.4::el8"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel8/8.6/x86_64/certsys/10/source/SRPMS"
+			]
+		},
+		"certsys-10-for-rhel-8-x86_64-eus-source-rpms__8_DOT_6": {
+			"cpes": [
+				"cpe:/a:redhat:certificate_system_eus:10.4::el8"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel8/8.6/x86_64/certsys/10/source/SRPMS"
+			]
+		},
 		"certsys-10-for-rhel-8-x86_64-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:certificate_system:10.0::el8",
@@ -10450,7 +10498,9 @@
 				"cpe:/a:redhat:migration_toolkit_applications:6.0::el8",
 				"cpe:/a:redhat:migration_toolkit_applications:6.1::el8",
 				"cpe:/a:redhat:migration_toolkit_applications:6.2::el8",
-				"cpe:/a:redhat:migration_toolkit_applications:6.2::el9"
+				"cpe:/a:redhat:migration_toolkit_applications:6.2::el9",
+				"cpe:/a:redhat:migration_toolkit_applications:7.0::el8",
+				"cpe:/a:redhat:migration_toolkit_applications:7.0::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/middleware/mta/1.0/x86_64/os"
@@ -79833,5 +79883,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-02-15T00:45:17.075Z"
+	"last_updated": "2024-02-16T00:45:58.235Z"
 }
