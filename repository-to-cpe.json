@@ -52141,7 +52141,8 @@
 				"cpe:/a:redhat:rhel_eus:8.1::appstream",
 				"cpe:/a:redhat:rhel_eus:8.2::appstream",
 				"cpe:/a:redhat:rhel_eus:8.4::appstream",
-				"cpe:/a:redhat:rhel_eus:8.6::appstream"
+				"cpe:/a:redhat:rhel_eus:8.6::appstream",
+				"cpe:/a:redhat:rhel_eus:8.8::appstream"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel8/8.0/ppc64le/appstream/debug",
@@ -52212,7 +52213,8 @@
 				"cpe:/a:redhat:rhel_eus:8.1::appstream",
 				"cpe:/a:redhat:rhel_eus:8.2::appstream",
 				"cpe:/a:redhat:rhel_eus:8.4::appstream",
-				"cpe:/a:redhat:rhel_eus:8.6::appstream"
+				"cpe:/a:redhat:rhel_eus:8.6::appstream",
+				"cpe:/a:redhat:rhel_eus:8.8::appstream"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel8/8.0/ppc64le/appstream/os",
@@ -52283,7 +52285,8 @@
 				"cpe:/a:redhat:rhel_eus:8.1::appstream",
 				"cpe:/a:redhat:rhel_eus:8.2::appstream",
 				"cpe:/a:redhat:rhel_eus:8.4::appstream",
-				"cpe:/a:redhat:rhel_eus:8.6::appstream"
+				"cpe:/a:redhat:rhel_eus:8.6::appstream",
+				"cpe:/a:redhat:rhel_eus:8.8::appstream"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel8/8.0/ppc64le/appstream/source/SRPMS",
@@ -52558,7 +52561,8 @@
 				"cpe:/o:redhat:rhel_eus:8.1::baseos",
 				"cpe:/o:redhat:rhel_eus:8.2::baseos",
 				"cpe:/o:redhat:rhel_eus:8.4::baseos",
-				"cpe:/o:redhat:rhel_eus:8.6::baseos"
+				"cpe:/o:redhat:rhel_eus:8.6::baseos",
+				"cpe:/o:redhat:rhel_eus:8.8::baseos"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel8/8.0/ppc64le/baseos/debug",
@@ -52629,7 +52633,8 @@
 				"cpe:/o:redhat:rhel_eus:8.1::baseos",
 				"cpe:/o:redhat:rhel_eus:8.2::baseos",
 				"cpe:/o:redhat:rhel_eus:8.4::baseos",
-				"cpe:/o:redhat:rhel_eus:8.6::baseos"
+				"cpe:/o:redhat:rhel_eus:8.6::baseos",
+				"cpe:/o:redhat:rhel_eus:8.8::baseos"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel8/8.0/ppc64le/baseos/os",
@@ -52700,7 +52705,8 @@
 				"cpe:/o:redhat:rhel_eus:8.1::baseos",
 				"cpe:/o:redhat:rhel_eus:8.2::baseos",
 				"cpe:/o:redhat:rhel_eus:8.4::baseos",
-				"cpe:/o:redhat:rhel_eus:8.6::baseos"
+				"cpe:/o:redhat:rhel_eus:8.6::baseos",
+				"cpe:/o:redhat:rhel_eus:8.8::baseos"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel8/8.0/ppc64le/baseos/source/SRPMS",
@@ -53045,7 +53051,8 @@
 				"cpe:/a:redhat:rhel_eus:8.1::highavailability",
 				"cpe:/a:redhat:rhel_eus:8.2::highavailability",
 				"cpe:/a:redhat:rhel_eus:8.4::highavailability",
-				"cpe:/a:redhat:rhel_eus:8.6::highavailability"
+				"cpe:/a:redhat:rhel_eus:8.6::highavailability",
+				"cpe:/a:redhat:rhel_eus:8.8::highavailability"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel8/8.0/ppc64le/highavailability/os",
@@ -53116,7 +53123,8 @@
 				"cpe:/a:redhat:rhel_eus:8.1::highavailability",
 				"cpe:/a:redhat:rhel_eus:8.2::highavailability",
 				"cpe:/a:redhat:rhel_eus:8.4::highavailability",
-				"cpe:/a:redhat:rhel_eus:8.6::highavailability"
+				"cpe:/a:redhat:rhel_eus:8.6::highavailability",
+				"cpe:/a:redhat:rhel_eus:8.8::highavailability"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel8/8.0/ppc64le/highavailability/source/SRPMS",
@@ -53589,7 +53597,8 @@
 				"cpe:/a:redhat:rhel_eus:8.1::sap",
 				"cpe:/a:redhat:rhel_eus:8.2::sap",
 				"cpe:/a:redhat:rhel_eus:8.4::sap",
-				"cpe:/a:redhat:rhel_eus:8.6::sap"
+				"cpe:/a:redhat:rhel_eus:8.6::sap",
+				"cpe:/a:redhat:rhel_eus:8.8::sap"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel8/8.0/ppc64le/sap/debug",
@@ -53731,7 +53740,8 @@
 				"cpe:/a:redhat:rhel_eus:8.1::sap",
 				"cpe:/a:redhat:rhel_eus:8.2::sap",
 				"cpe:/a:redhat:rhel_eus:8.4::sap",
-				"cpe:/a:redhat:rhel_eus:8.6::sap"
+				"cpe:/a:redhat:rhel_eus:8.6::sap",
+				"cpe:/a:redhat:rhel_eus:8.8::sap"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel8/8.0/ppc64le/sap/source/SRPMS",
@@ -54074,7 +54084,8 @@
 				"cpe:/a:redhat:rhel_eus:8.1::sap_hana",
 				"cpe:/a:redhat:rhel_eus:8.2::sap_hana",
 				"cpe:/a:redhat:rhel_eus:8.4::sap_hana",
-				"cpe:/a:redhat:rhel_eus:8.6::sap_hana"
+				"cpe:/a:redhat:rhel_eus:8.6::sap_hana",
+				"cpe:/a:redhat:rhel_eus:8.8::sap_hana"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel8/8.0/ppc64le/sap-solutions/os",
@@ -56121,7 +56132,8 @@
 				"cpe:/a:redhat:rhel_eus:8.1::appstream",
 				"cpe:/a:redhat:rhel_eus:8.2::appstream",
 				"cpe:/a:redhat:rhel_eus:8.4::appstream",
-				"cpe:/a:redhat:rhel_eus:8.6::appstream"
+				"cpe:/a:redhat:rhel_eus:8.6::appstream",
+				"cpe:/a:redhat:rhel_eus:8.8::appstream"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel8/8.0/x86_64/appstream/os",
@@ -56448,6 +56460,7 @@
 				"cpe:/a:redhat:rhel_eus:8.2::appstream",
 				"cpe:/a:redhat:rhel_eus:8.4::appstream",
 				"cpe:/a:redhat:rhel_eus:8.6::appstream",
+				"cpe:/a:redhat:rhel_eus:8.8::appstream",
 				"cpe:/a:redhat:rhel_tus:8.2::appstream",
 				"cpe:/a:redhat:rhel_tus:8.4::appstream",
 				"cpe:/a:redhat:rhel_tus:8.6::appstream",
@@ -56497,6 +56510,7 @@
 				"cpe:/a:redhat:rhel_eus:8.2::appstream",
 				"cpe:/a:redhat:rhel_eus:8.4::appstream",
 				"cpe:/a:redhat:rhel_eus:8.6::appstream",
+				"cpe:/a:redhat:rhel_eus:8.8::appstream",
 				"cpe:/a:redhat:rhel_tus:8.2::appstream",
 				"cpe:/a:redhat:rhel_tus:8.4::appstream",
 				"cpe:/a:redhat:rhel_tus:8.6::appstream",
@@ -56546,6 +56560,7 @@
 				"cpe:/a:redhat:rhel_eus:8.2::appstream",
 				"cpe:/a:redhat:rhel_eus:8.4::appstream",
 				"cpe:/a:redhat:rhel_eus:8.6::appstream",
+				"cpe:/a:redhat:rhel_eus:8.8::appstream",
 				"cpe:/a:redhat:rhel_tus:8.2::appstream",
 				"cpe:/a:redhat:rhel_tus:8.4::appstream",
 				"cpe:/a:redhat:rhel_tus:8.6::appstream",
@@ -56802,7 +56817,8 @@
 				"cpe:/o:redhat:rhel_eus:8.1::baseos",
 				"cpe:/o:redhat:rhel_eus:8.2::baseos",
 				"cpe:/o:redhat:rhel_eus:8.4::baseos",
-				"cpe:/o:redhat:rhel_eus:8.6::baseos"
+				"cpe:/o:redhat:rhel_eus:8.6::baseos",
+				"cpe:/o:redhat:rhel_eus:8.8::baseos"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel8/8.0/x86_64/baseos/os",
@@ -56873,7 +56889,8 @@
 				"cpe:/o:redhat:rhel_eus:8.1::baseos",
 				"cpe:/o:redhat:rhel_eus:8.2::baseos",
 				"cpe:/o:redhat:rhel_eus:8.4::baseos",
-				"cpe:/o:redhat:rhel_eus:8.6::baseos"
+				"cpe:/o:redhat:rhel_eus:8.6::baseos",
+				"cpe:/o:redhat:rhel_eus:8.8::baseos"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel8/8.0/x86_64/baseos/source/SRPMS",
@@ -57129,6 +57146,7 @@
 				"cpe:/o:redhat:rhel_eus:8.2::baseos",
 				"cpe:/o:redhat:rhel_eus:8.4::baseos",
 				"cpe:/o:redhat:rhel_eus:8.6::baseos",
+				"cpe:/o:redhat:rhel_eus:8.8::baseos",
 				"cpe:/o:redhat:rhel_tus:8.2::baseos",
 				"cpe:/o:redhat:rhel_tus:8.4::baseos",
 				"cpe:/o:redhat:rhel_tus:8.6::baseos",
@@ -57178,6 +57196,7 @@
 				"cpe:/o:redhat:rhel_eus:8.2::baseos",
 				"cpe:/o:redhat:rhel_eus:8.4::baseos",
 				"cpe:/o:redhat:rhel_eus:8.6::baseos",
+				"cpe:/o:redhat:rhel_eus:8.8::baseos",
 				"cpe:/o:redhat:rhel_tus:8.2::baseos",
 				"cpe:/o:redhat:rhel_tus:8.4::baseos",
 				"cpe:/o:redhat:rhel_tus:8.6::baseos",
@@ -57294,7 +57313,8 @@
 				"cpe:/a:redhat:rhel_eus:8.1::highavailability",
 				"cpe:/a:redhat:rhel_eus:8.2::highavailability",
 				"cpe:/a:redhat:rhel_eus:8.4::highavailability",
-				"cpe:/a:redhat:rhel_eus:8.6::highavailability"
+				"cpe:/a:redhat:rhel_eus:8.6::highavailability",
+				"cpe:/a:redhat:rhel_eus:8.8::highavailability"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel8/8.0/x86_64/highavailability/debug",
@@ -57436,7 +57456,8 @@
 				"cpe:/a:redhat:rhel_eus:8.1::highavailability",
 				"cpe:/a:redhat:rhel_eus:8.2::highavailability",
 				"cpe:/a:redhat:rhel_eus:8.4::highavailability",
-				"cpe:/a:redhat:rhel_eus:8.6::highavailability"
+				"cpe:/a:redhat:rhel_eus:8.6::highavailability",
+				"cpe:/a:redhat:rhel_eus:8.8::highavailability"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel8/8.0/x86_64/highavailability/source/SRPMS",
@@ -57690,6 +57711,7 @@
 				"cpe:/a:redhat:rhel_eus:8.2::highavailability",
 				"cpe:/a:redhat:rhel_eus:8.4::highavailability",
 				"cpe:/a:redhat:rhel_eus:8.6::highavailability",
+				"cpe:/a:redhat:rhel_eus:8.8::highavailability",
 				"cpe:/a:redhat:rhel_tus:8.2::highavailability",
 				"cpe:/a:redhat:rhel_tus:8.4::highavailability",
 				"cpe:/a:redhat:rhel_tus:8.6::highavailability",
@@ -57739,6 +57761,7 @@
 				"cpe:/a:redhat:rhel_eus:8.2::highavailability",
 				"cpe:/a:redhat:rhel_eus:8.4::highavailability",
 				"cpe:/a:redhat:rhel_eus:8.6::highavailability",
+				"cpe:/a:redhat:rhel_eus:8.8::highavailability",
 				"cpe:/a:redhat:rhel_tus:8.2::highavailability",
 				"cpe:/a:redhat:rhel_tus:8.4::highavailability",
 				"cpe:/a:redhat:rhel_tus:8.6::highavailability",
@@ -58467,7 +58490,8 @@
 				"cpe:/a:redhat:rhel_eus:8.1::sap",
 				"cpe:/a:redhat:rhel_eus:8.2::sap",
 				"cpe:/a:redhat:rhel_eus:8.4::sap",
-				"cpe:/a:redhat:rhel_eus:8.6::sap"
+				"cpe:/a:redhat:rhel_eus:8.6::sap",
+				"cpe:/a:redhat:rhel_eus:8.8::sap"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel8/8.0/x86_64/sap/debug",
@@ -58538,7 +58562,8 @@
 				"cpe:/a:redhat:rhel_eus:8.1::sap",
 				"cpe:/a:redhat:rhel_eus:8.2::sap",
 				"cpe:/a:redhat:rhel_eus:8.4::sap",
-				"cpe:/a:redhat:rhel_eus:8.6::sap"
+				"cpe:/a:redhat:rhel_eus:8.6::sap",
+				"cpe:/a:redhat:rhel_eus:8.8::sap"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel8/8.0/x86_64/sap/os",
@@ -58881,7 +58906,8 @@
 				"cpe:/a:redhat:rhel_eus:8.1::sap_hana",
 				"cpe:/a:redhat:rhel_eus:8.2::sap_hana",
 				"cpe:/a:redhat:rhel_eus:8.4::sap_hana",
-				"cpe:/a:redhat:rhel_eus:8.6::sap_hana"
+				"cpe:/a:redhat:rhel_eus:8.6::sap_hana",
+				"cpe:/a:redhat:rhel_eus:8.8::sap_hana"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel8/8.0/x86_64/sap-solutions/debug",
@@ -58952,7 +58978,8 @@
 				"cpe:/a:redhat:rhel_eus:8.1::sap_hana",
 				"cpe:/a:redhat:rhel_eus:8.2::sap_hana",
 				"cpe:/a:redhat:rhel_eus:8.4::sap_hana",
-				"cpe:/a:redhat:rhel_eus:8.6::sap_hana"
+				"cpe:/a:redhat:rhel_eus:8.6::sap_hana",
+				"cpe:/a:redhat:rhel_eus:8.8::sap_hana"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel8/8.0/x86_64/sap-solutions/os",
@@ -79883,5 +79910,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-02-16T00:45:58.235Z"
+	"last_updated": "2024-02-17T00:45:44.159Z"
 }
