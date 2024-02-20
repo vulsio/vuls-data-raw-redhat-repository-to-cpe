@@ -15261,6 +15261,7 @@
 			"cpes": [
 				"cpe:/a:redhat:quarkus:2.13::el8",
 				"cpe:/a:redhat:quarkus:3.2::el8",
+				"cpe:/a:redhat:quarkus:3.8::el8",
 				"cpe:/a:redhat:quarkus:::el6"
 			],
 			"repo_relative_urls": [
@@ -57956,6 +57957,7 @@
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:8.2::nfv",
 				"cpe:/a:redhat:rhel_eus:8.4::nfv",
+				"cpe:/a:redhat:rhel_eus:8.8::nfv",
 				"cpe:/a:redhat:rhel_tus:8.2::nfv",
 				"cpe:/a:redhat:rhel_tus:8.4::nfv",
 				"cpe:/a:redhat:rhel_tus:8.6::nfv",
@@ -58052,6 +58054,7 @@
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:8.2::nfv",
 				"cpe:/a:redhat:rhel_eus:8.4::nfv",
+				"cpe:/a:redhat:rhel_eus:8.8::nfv",
 				"cpe:/a:redhat:rhel_tus:8.2::nfv",
 				"cpe:/a:redhat:rhel_tus:8.4::nfv",
 				"cpe:/a:redhat:rhel_tus:8.6::nfv",
@@ -58337,6 +58340,7 @@
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:8.2::realtime",
 				"cpe:/a:redhat:rhel_eus:8.4::realtime",
+				"cpe:/a:redhat:rhel_eus:8.8::realtime",
 				"cpe:/a:redhat:rhel_tus:8.2::realtime",
 				"cpe:/a:redhat:rhel_tus:8.4::realtime",
 				"cpe:/a:redhat:rhel_tus:8.6::realtime",
@@ -58385,6 +58389,7 @@
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:8.2::realtime",
 				"cpe:/a:redhat:rhel_eus:8.4::realtime",
+				"cpe:/a:redhat:rhel_eus:8.8::realtime",
 				"cpe:/a:redhat:rhel_tus:8.2::realtime",
 				"cpe:/a:redhat:rhel_tus:8.4::realtime",
 				"cpe:/a:redhat:rhel_tus:8.6::realtime",
@@ -79922,5 +79927,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-02-19T00:44:57.993Z"
+	"last_updated": "2024-02-20T00:45:57.367Z"
 }
