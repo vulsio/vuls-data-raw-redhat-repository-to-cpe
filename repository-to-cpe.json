@@ -18031,7 +18031,8 @@
 		},
 		"rhdh-1-for-rhel-9-x86_64-debug-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:rhdh:1.0::el9"
+				"cpe:/a:redhat:rhdh:1.0::el9",
+				"cpe:/a:redhat:rhdh:1.1::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/x86_64/rhdh/1/debug"
@@ -80603,5 +80604,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-02-28T00:46:55.965Z"
+	"last_updated": "2024-02-29T00:45:37.226Z"
 }
