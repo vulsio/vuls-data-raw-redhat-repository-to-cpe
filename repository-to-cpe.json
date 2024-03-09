@@ -10731,7 +10731,8 @@
 			"cpes": [
 				"cpe:/a:redhat:network_observ_optr:1.3.0::el9",
 				"cpe:/a:redhat:network_observ_optr:1.4.0::el9",
-				"cpe:/a:redhat:network_observ_optr:1.5.0::el9"
+				"cpe:/a:redhat:network_observ_optr:1.5.0::el9",
+				"cpe:/a:redhat:network_observ_optr:1.6.0::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/aarch64/network-observability/1/debug"
@@ -10741,7 +10742,8 @@
 			"cpes": [
 				"cpe:/a:redhat:network_observ_optr:1.3.0::el9",
 				"cpe:/a:redhat:network_observ_optr:1.4.0::el9",
-				"cpe:/a:redhat:network_observ_optr:1.5.0::el9"
+				"cpe:/a:redhat:network_observ_optr:1.5.0::el9",
+				"cpe:/a:redhat:network_observ_optr:1.6.0::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/aarch64/network-observability/1/os"
@@ -10751,7 +10753,8 @@
 			"cpes": [
 				"cpe:/a:redhat:network_observ_optr:1.3.0::el9",
 				"cpe:/a:redhat:network_observ_optr:1.4.0::el9",
-				"cpe:/a:redhat:network_observ_optr:1.5.0::el9"
+				"cpe:/a:redhat:network_observ_optr:1.5.0::el9",
+				"cpe:/a:redhat:network_observ_optr:1.6.0::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/aarch64/network-observability/1/source/SRPMS"
@@ -10761,7 +10764,8 @@
 			"cpes": [
 				"cpe:/a:redhat:network_observ_optr:1.3.0::el9",
 				"cpe:/a:redhat:network_observ_optr:1.4.0::el9",
-				"cpe:/a:redhat:network_observ_optr:1.5.0::el9"
+				"cpe:/a:redhat:network_observ_optr:1.5.0::el9",
+				"cpe:/a:redhat:network_observ_optr:1.6.0::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/ppc64le/network-observability/1/debug"
@@ -10771,7 +10775,8 @@
 			"cpes": [
 				"cpe:/a:redhat:network_observ_optr:1.3.0::el9",
 				"cpe:/a:redhat:network_observ_optr:1.4.0::el9",
-				"cpe:/a:redhat:network_observ_optr:1.5.0::el9"
+				"cpe:/a:redhat:network_observ_optr:1.5.0::el9",
+				"cpe:/a:redhat:network_observ_optr:1.6.0::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/ppc64le/network-observability/1/os"
@@ -10781,7 +10786,8 @@
 			"cpes": [
 				"cpe:/a:redhat:network_observ_optr:1.3.0::el9",
 				"cpe:/a:redhat:network_observ_optr:1.4.0::el9",
-				"cpe:/a:redhat:network_observ_optr:1.5.0::el9"
+				"cpe:/a:redhat:network_observ_optr:1.5.0::el9",
+				"cpe:/a:redhat:network_observ_optr:1.6.0::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/ppc64le/network-observability/1/source/SRPMS"
@@ -10791,7 +10797,8 @@
 			"cpes": [
 				"cpe:/a:redhat:network_observ_optr:1.3.0::el9",
 				"cpe:/a:redhat:network_observ_optr:1.4.0::el9",
-				"cpe:/a:redhat:network_observ_optr:1.5.0::el9"
+				"cpe:/a:redhat:network_observ_optr:1.5.0::el9",
+				"cpe:/a:redhat:network_observ_optr:1.6.0::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/s390x/network-observability/1/debug"
@@ -10801,7 +10808,8 @@
 			"cpes": [
 				"cpe:/a:redhat:network_observ_optr:1.3.0::el9",
 				"cpe:/a:redhat:network_observ_optr:1.4.0::el9",
-				"cpe:/a:redhat:network_observ_optr:1.5.0::el9"
+				"cpe:/a:redhat:network_observ_optr:1.5.0::el9",
+				"cpe:/a:redhat:network_observ_optr:1.6.0::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/s390x/network-observability/1/os"
@@ -10811,7 +10819,8 @@
 			"cpes": [
 				"cpe:/a:redhat:network_observ_optr:1.3.0::el9",
 				"cpe:/a:redhat:network_observ_optr:1.4.0::el9",
-				"cpe:/a:redhat:network_observ_optr:1.5.0::el9"
+				"cpe:/a:redhat:network_observ_optr:1.5.0::el9",
+				"cpe:/a:redhat:network_observ_optr:1.6.0::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/s390x/network-observability/1/source/SRPMS"
@@ -10822,7 +10831,8 @@
 				"cpe:/a:redhat:network_observ_optr:1.2.0::el9",
 				"cpe:/a:redhat:network_observ_optr:1.3.0::el9",
 				"cpe:/a:redhat:network_observ_optr:1.4.0::el9",
-				"cpe:/a:redhat:network_observ_optr:1.5.0::el9"
+				"cpe:/a:redhat:network_observ_optr:1.5.0::el9",
+				"cpe:/a:redhat:network_observ_optr:1.6.0::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/x86_64/network-observability/1/debug"
@@ -10833,7 +10843,8 @@
 				"cpe:/a:redhat:network_observ_optr:1.2.0::el9",
 				"cpe:/a:redhat:network_observ_optr:1.3.0::el9",
 				"cpe:/a:redhat:network_observ_optr:1.4.0::el9",
-				"cpe:/a:redhat:network_observ_optr:1.5.0::el9"
+				"cpe:/a:redhat:network_observ_optr:1.5.0::el9",
+				"cpe:/a:redhat:network_observ_optr:1.6.0::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/x86_64/network-observability/1/os"
@@ -10844,7 +10855,8 @@
 				"cpe:/a:redhat:network_observ_optr:1.2.0::el9",
 				"cpe:/a:redhat:network_observ_optr:1.3.0::el9",
 				"cpe:/a:redhat:network_observ_optr:1.4.0::el9",
-				"cpe:/a:redhat:network_observ_optr:1.5.0::el9"
+				"cpe:/a:redhat:network_observ_optr:1.5.0::el9",
+				"cpe:/a:redhat:network_observ_optr:1.6.0::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/x86_64/network-observability/1/source/SRPMS"
@@ -37378,6 +37390,7 @@
 		},
 		"rhel-7-for-system-z-els-debug-rpms": {
 			"cpes": [
+				"cpe:/o:redhat:enterprise_linux:7::server",
 				"cpe:/o:redhat:rhel_els:7"
 			],
 			"repo_relative_urls": [
@@ -37394,6 +37407,7 @@
 		},
 		"rhel-7-for-system-z-els-optional-debug-rpms": {
 			"cpes": [
+				"cpe:/o:redhat:enterprise_linux:7::server",
 				"cpe:/o:redhat:rhel_els:7"
 			],
 			"repo_relative_urls": [
@@ -37410,6 +37424,7 @@
 		},
 		"rhel-7-for-system-z-els-optional-rpms": {
 			"cpes": [
+				"cpe:/o:redhat:enterprise_linux:7::server",
 				"cpe:/o:redhat:rhel_els:7"
 			],
 			"repo_relative_urls": [
@@ -37426,6 +37441,7 @@
 		},
 		"rhel-7-for-system-z-els-optional-source-rpms": {
 			"cpes": [
+				"cpe:/o:redhat:enterprise_linux:7::server",
 				"cpe:/o:redhat:rhel_els:7"
 			],
 			"repo_relative_urls": [
@@ -37442,6 +37458,7 @@
 		},
 		"rhel-7-for-system-z-els-rpms": {
 			"cpes": [
+				"cpe:/o:redhat:enterprise_linux:7::server",
 				"cpe:/o:redhat:rhel_els:7"
 			],
 			"repo_relative_urls": [
@@ -37458,6 +37475,7 @@
 		},
 		"rhel-7-for-system-z-els-source-rpms": {
 			"cpes": [
+				"cpe:/o:redhat:enterprise_linux:7::server",
 				"cpe:/o:redhat:rhel_els:7"
 			],
 			"repo_relative_urls": [
@@ -42835,6 +42853,7 @@
 		},
 		"rhel-7-server-els-debug-rpms": {
 			"cpes": [
+				"cpe:/o:redhat:enterprise_linux:7::server",
 				"cpe:/o:redhat:rhel_els:7"
 			],
 			"repo_relative_urls": [
@@ -42851,6 +42870,7 @@
 		},
 		"rhel-7-server-els-optional-debug-rpms": {
 			"cpes": [
+				"cpe:/o:redhat:enterprise_linux:7::server",
 				"cpe:/o:redhat:rhel_els:7"
 			],
 			"repo_relative_urls": [
@@ -42867,6 +42887,7 @@
 		},
 		"rhel-7-server-els-optional-rpms": {
 			"cpes": [
+				"cpe:/o:redhat:enterprise_linux:7::server",
 				"cpe:/o:redhat:rhel_els:7"
 			],
 			"repo_relative_urls": [
@@ -42883,6 +42904,7 @@
 		},
 		"rhel-7-server-els-optional-source-rpms": {
 			"cpes": [
+				"cpe:/o:redhat:enterprise_linux:7::server",
 				"cpe:/o:redhat:rhel_els:7"
 			],
 			"repo_relative_urls": [
@@ -42899,6 +42921,7 @@
 		},
 		"rhel-7-server-els-rpms": {
 			"cpes": [
+				"cpe:/o:redhat:enterprise_linux:7::server",
 				"cpe:/o:redhat:rhel_els:7"
 			],
 			"repo_relative_urls": [
@@ -42915,6 +42938,7 @@
 		},
 		"rhel-7-server-els-source-rpms": {
 			"cpes": [
+				"cpe:/o:redhat:enterprise_linux:7::server",
 				"cpe:/o:redhat:rhel_els:7"
 			],
 			"repo_relative_urls": [
@@ -70182,6 +70206,7 @@
 		},
 		"rhel-sap-for-rhel-7-server-els-debug-rpms": {
 			"cpes": [
+				"cpe:/a:redhat:rhel_extras_sap:7",
 				"cpe:/a:redhat:rhel_extras_sap_els:7"
 			],
 			"repo_relative_urls": [
@@ -70198,6 +70223,7 @@
 		},
 		"rhel-sap-for-rhel-7-server-els-rpms": {
 			"cpes": [
+				"cpe:/a:redhat:rhel_extras_sap:7",
 				"cpe:/a:redhat:rhel_extras_sap_els:7"
 			],
 			"repo_relative_urls": [
@@ -70214,6 +70240,7 @@
 		},
 		"rhel-sap-for-rhel-7-server-els-source-rpms": {
 			"cpes": [
+				"cpe:/a:redhat:rhel_extras_sap:7",
 				"cpe:/a:redhat:rhel_extras_sap_els:7"
 			],
 			"repo_relative_urls": [
@@ -70431,6 +70458,7 @@
 		},
 		"rhel-sap-for-rhel-7-server-for-system-z-els-debug-rpms": {
 			"cpes": [
+				"cpe:/a:redhat:rhel_extras_sap:7",
 				"cpe:/a:redhat:rhel_extras_sap_els:7"
 			],
 			"repo_relative_urls": [
@@ -70447,6 +70475,7 @@
 		},
 		"rhel-sap-for-rhel-7-server-for-system-z-els-rpms": {
 			"cpes": [
+				"cpe:/a:redhat:rhel_extras_sap:7",
 				"cpe:/a:redhat:rhel_extras_sap_els:7"
 			],
 			"repo_relative_urls": [
@@ -70463,6 +70492,7 @@
 		},
 		"rhel-sap-for-rhel-7-server-for-system-z-els-source-rpms": {
 			"cpes": [
+				"cpe:/a:redhat:rhel_extras_sap:7",
 				"cpe:/a:redhat:rhel_extras_sap_els:7"
 			],
 			"repo_relative_urls": [
@@ -71196,6 +71226,7 @@
 		},
 		"rhel-sap-hana-for-rhel-7-server-els-debug-rpms": {
 			"cpes": [
+				"cpe:/a:redhat:rhel_extras_sap_hana:7",
 				"cpe:/a:redhat:rhel_extras_sap_hana_els:7"
 			],
 			"repo_relative_urls": [
@@ -71212,6 +71243,7 @@
 		},
 		"rhel-sap-hana-for-rhel-7-server-els-rpms": {
 			"cpes": [
+				"cpe:/a:redhat:rhel_extras_sap_hana:7",
 				"cpe:/a:redhat:rhel_extras_sap_hana_els:7"
 			],
 			"repo_relative_urls": [
@@ -71228,6 +71260,7 @@
 		},
 		"rhel-sap-hana-for-rhel-7-server-els-source-rpms": {
 			"cpes": [
+				"cpe:/a:redhat:rhel_extras_sap_hana:7",
 				"cpe:/a:redhat:rhel_extras_sap_hana_els:7"
 			],
 			"repo_relative_urls": [
@@ -80722,5 +80755,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-03-08T00:47:09.259Z"
+	"last_updated": "2024-03-09T00:47:54.662Z"
 }
