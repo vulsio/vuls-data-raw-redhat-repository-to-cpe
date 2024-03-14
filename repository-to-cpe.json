@@ -31237,6 +31237,7 @@
 				"cpe:/o:redhat:enterprise_linux:7::client"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/client/7/7.9/x86_64/debug",
 				"content/dist/rhel/client/7/7Client/x86_64/debug"
 			]
 		},
@@ -31509,6 +31510,7 @@
 				"cpe:/o:redhat:enterprise_linux:7::client"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/client/7/7.9/x86_64/optional/debug",
 				"content/dist/rhel/client/7/7Client/x86_64/optional/debug"
 			]
 		},
@@ -31541,6 +31543,7 @@
 				"cpe:/o:redhat:enterprise_linux:7::client"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/client/7/7.9/x86_64/optional/os",
 				"content/dist/rhel/client/7/7Client/x86_64/optional/os"
 			]
 		},
@@ -31549,6 +31552,7 @@
 				"cpe:/o:redhat:enterprise_linux:7::client"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/client/7/7.9/x86_64/optional/source/SRPMS",
 				"content/dist/rhel/client/7/7Client/x86_64/optional/source/SRPMS"
 			]
 		},
@@ -31661,6 +31665,7 @@
 				"cpe:/o:redhat:enterprise_linux:7::client"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/client/7/7.9/x86_64/os",
 				"content/dist/rhel/client/7/7Client/x86_64/os"
 			]
 		},
@@ -31957,6 +31962,7 @@
 				"cpe:/o:redhat:enterprise_linux:7::client"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/client/7/7.9/x86_64/source/SRPMS",
 				"content/dist/rhel/client/7/7Client/x86_64/source/SRPMS"
 			]
 		},
@@ -33487,6 +33493,7 @@
 				"cpe:/o:redhat:enterprise_linux:7::server"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/power/7/7.9/ppc64/debug",
 				"content/dist/rhel/power/7/7Server/ppc64/debug"
 			]
 		},
@@ -34352,6 +34359,7 @@
 				"cpe:/o:redhat:enterprise_linux:7::server"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/power-le/7/7.9/ppc64le/debug",
 				"content/dist/rhel/power-le/7/7Server/ppc64le/debug"
 			]
 		},
@@ -35912,6 +35920,7 @@
 				"cpe:/o:redhat:enterprise_linux:7::server"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/power-le/7/7.9/ppc64le/optional/debug",
 				"content/dist/rhel/power-le/7/7Server/ppc64le/optional/debug"
 			]
 		},
@@ -35921,6 +35930,7 @@
 				"cpe:/o:redhat:enterprise_linux:7::server"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/power-le/7/7.9/ppc64le/optional/os",
 				"content/dist/rhel/power-le/7/7Server/ppc64le/optional/os"
 			]
 		},
@@ -35930,6 +35940,7 @@
 				"cpe:/o:redhat:enterprise_linux:7::server"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/power-le/7/7.9/ppc64le/optional/source/SRPMS",
 				"content/dist/rhel/power-le/7/7Server/ppc64le/optional/source/SRPMS"
 			]
 		},
@@ -36332,6 +36343,7 @@
 				"cpe:/o:redhat:enterprise_linux:7::server"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/power-le/7/7.9/ppc64le/os",
 				"content/dist/rhel/power-le/7/7Server/ppc64le/os"
 			]
 		},
@@ -36629,6 +36641,7 @@
 				"cpe:/o:redhat:enterprise_linux:7::server"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/power-le/7/7.9/ppc64le/source/SRPMS",
 				"content/dist/rhel/power-le/7/7Server/ppc64le/source/SRPMS"
 			]
 		},
@@ -36661,6 +36674,7 @@
 				"cpe:/o:redhat:enterprise_linux:7::server"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/power/7/7.9/ppc64/optional/debug",
 				"content/dist/rhel/power/7/7Server/ppc64/optional/debug"
 			]
 		},
@@ -36693,6 +36707,7 @@
 				"cpe:/o:redhat:enterprise_linux:7::server"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/power/7/7.9/ppc64/optional/os",
 				"content/dist/rhel/power/7/7Server/ppc64/optional/os"
 			]
 		},
@@ -36701,6 +36716,7 @@
 				"cpe:/o:redhat:enterprise_linux:7::server"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/power/7/7.9/ppc64/optional/source/SRPMS",
 				"content/dist/rhel/power/7/7Server/ppc64/optional/source/SRPMS"
 			]
 		},
@@ -36757,6 +36773,7 @@
 				"cpe:/o:redhat:enterprise_linux:7::server"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/power/7/7.9/ppc64/os",
 				"content/dist/rhel/power/7/7Server/ppc64/os"
 			]
 		},
@@ -37029,6 +37046,7 @@
 				"cpe:/o:redhat:enterprise_linux:7::server"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/power/7/7.9/ppc64/source/SRPMS",
 				"content/dist/rhel/power/7/7Server/ppc64/source/SRPMS"
 			]
 		},
@@ -37404,6 +37422,7 @@
 				"cpe:/o:redhat:enterprise_linux:7::server"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/system-z/7/7.9/s390x/debug",
 				"content/dist/rhel/system-z/7/7Server/s390x/debug"
 			]
 		},
@@ -38402,6 +38421,7 @@
 				"cpe:/o:redhat:enterprise_linux:7::server"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/system-z/7/7.9/s390x/optional/debug",
 				"content/dist/rhel/system-z/7/7Server/s390x/optional/debug"
 			]
 		},
@@ -38434,6 +38454,7 @@
 				"cpe:/o:redhat:enterprise_linux:7::server"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/system-z/7/7.9/s390x/optional/os",
 				"content/dist/rhel/system-z/7/7Server/s390x/optional/os"
 			]
 		},
@@ -38442,6 +38463,7 @@
 				"cpe:/o:redhat:enterprise_linux:7::server"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/system-z/7/7.9/s390x/optional/source/SRPMS",
 				"content/dist/rhel/system-z/7/7Server/s390x/optional/source/SRPMS"
 			]
 		},
@@ -38818,6 +38840,7 @@
 				"cpe:/o:redhat:enterprise_linux:7::server"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/system-z/7/7.9/s390x/os",
 				"content/dist/rhel/system-z/7/7Server/s390x/os"
 			]
 		},
@@ -39090,6 +39113,7 @@
 				"cpe:/o:redhat:enterprise_linux:7::server"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/system-z/7/7.9/s390x/source/SRPMS",
 				"content/dist/rhel/system-z/7/7Server/s390x/source/SRPMS"
 			]
 		},
@@ -39676,6 +39700,7 @@
 				"cpe:/o:redhat:enterprise_linux:7::computenode"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/computenode/7/7.9/x86_64/optional/debug",
 				"content/dist/rhel/computenode/7/7ComputeNode/x86_64/optional/debug"
 			]
 		},
@@ -39684,6 +39709,7 @@
 				"cpe:/o:redhat:enterprise_linux:7::computenode"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/computenode/7/7.9/x86_64/optional/os",
 				"content/dist/rhel/computenode/7/7ComputeNode/x86_64/optional/os"
 			]
 		},
@@ -39692,6 +39718,7 @@
 				"cpe:/o:redhat:enterprise_linux:7::computenode"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/computenode/7/7.9/x86_64/optional/source/SRPMS",
 				"content/dist/rhel/computenode/7/7ComputeNode/x86_64/optional/source/SRPMS"
 			]
 		},
@@ -42011,6 +42038,7 @@
 				"cpe:/o:redhat:enterprise_linux:7::server"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/server/7/7.9/x86_64/debug",
 				"content/dist/rhel/server/7/7Server/x86_64/debug"
 			]
 		},
@@ -44508,6 +44536,7 @@
 				"cpe:/a:redhat:rhel_extras_rt:7"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/server/7/7.9/x86_64/nfv/debug",
 				"content/dist/rhel/server/7/7Server/x86_64/nfv/debug"
 			]
 		},
@@ -44516,6 +44545,7 @@
 				"cpe:/a:redhat:rhel_extras_rt:7"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/server/7/7.9/x86_64/nfv/os",
 				"content/dist/rhel/server/7/7Server/x86_64/nfv/os"
 			]
 		},
@@ -44524,6 +44554,7 @@
 				"cpe:/a:redhat:rhel_extras_rt:7"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/server/7/7.9/x86_64/nfv/source/SRPMS",
 				"content/dist/rhel/server/7/7Server/x86_64/nfv/source/SRPMS"
 			]
 		},
@@ -46140,6 +46171,7 @@
 				"cpe:/o:redhat:enterprise_linux:7::server"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/server/7/7.9/x86_64/optional/debug",
 				"content/dist/rhel/server/7/7Server/x86_64/optional/debug"
 			]
 		},
@@ -46172,6 +46204,7 @@
 				"cpe:/o:redhat:enterprise_linux:7::server"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/server/7/7.9/x86_64/optional/os",
 				"content/dist/rhel/server/7/7Server/x86_64/optional/os"
 			]
 		},
@@ -46180,6 +46213,7 @@
 				"cpe:/o:redhat:enterprise_linux:7::server"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/server/7/7.9/x86_64/optional/source/SRPMS",
 				"content/dist/rhel/server/7/7Server/x86_64/optional/source/SRPMS"
 			]
 		},
@@ -49033,6 +49067,7 @@
 				"cpe:/o:redhat:enterprise_linux:7::server"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/server/7/7.9/x86_64/os",
 				"content/dist/rhel/server/7/7Server/x86_64/os"
 			]
 		},
@@ -49041,6 +49076,7 @@
 				"cpe:/a:redhat:rhel_extras_rt:7"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/server/7/7.9/x86_64/rt/debug",
 				"content/dist/rhel/server/7/7Server/x86_64/rt/debug"
 			]
 		},
@@ -49049,6 +49085,7 @@
 				"cpe:/a:redhat:rhel_extras_rt:7"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/server/7/7.9/x86_64/rt/os",
 				"content/dist/rhel/server/7/7Server/x86_64/rt/os"
 			]
 		},
@@ -49057,6 +49094,7 @@
 				"cpe:/a:redhat:rhel_extras_rt:7"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/server/7/7.9/x86_64/rt/source/SRPMS",
 				"content/dist/rhel/server/7/7Server/x86_64/rt/source/SRPMS"
 			]
 		},
@@ -50073,6 +50111,7 @@
 				"cpe:/o:redhat:enterprise_linux:7::server"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/server/7/7.9/x86_64/source/SRPMS",
 				"content/dist/rhel/server/7/7Server/x86_64/source/SRPMS"
 			]
 		},
@@ -50767,6 +50806,7 @@
 				"cpe:/o:redhat:enterprise_linux:7::workstation"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/workstation/7/7.9/x86_64/debug",
 				"content/dist/rhel/workstation/7/7Workstation/x86_64/debug"
 			]
 		},
@@ -51156,6 +51196,7 @@
 				"cpe:/o:redhat:enterprise_linux:7::workstation"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/workstation/7/7.9/x86_64/optional/debug",
 				"content/dist/rhel/workstation/7/7Workstation/x86_64/optional/debug"
 			]
 		},
@@ -51188,6 +51229,7 @@
 				"cpe:/o:redhat:enterprise_linux:7::workstation"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/workstation/7/7.9/x86_64/optional/os",
 				"content/dist/rhel/workstation/7/7Workstation/x86_64/optional/os"
 			]
 		},
@@ -51196,6 +51238,7 @@
 				"cpe:/o:redhat:enterprise_linux:7::workstation"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/workstation/7/7.9/x86_64/optional/source/SRPMS",
 				"content/dist/rhel/workstation/7/7Workstation/x86_64/optional/source/SRPMS"
 			]
 		},
@@ -51308,6 +51351,7 @@
 				"cpe:/o:redhat:enterprise_linux:7::workstation"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/workstation/7/7.9/x86_64/os",
 				"content/dist/rhel/workstation/7/7Workstation/x86_64/os"
 			]
 		},
@@ -51628,6 +51672,7 @@
 				"cpe:/o:redhat:enterprise_linux:7::workstation"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/workstation/7/7.9/x86_64/source/SRPMS",
 				"content/dist/rhel/workstation/7/7Workstation/x86_64/source/SRPMS"
 			]
 		},
@@ -65571,6 +65616,7 @@
 				"cpe:/o:redhat:enterprise_linux:7::server"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/system-z/7/7.9/s390x/highavailability/debug",
 				"content/dist/rhel/system-z/7/7Server/s390x/highavailability/debug"
 			]
 		},
@@ -65579,6 +65625,7 @@
 				"cpe:/o:redhat:enterprise_linux:7::server"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/system-z/7/7.9/s390x/highavailability/os",
 				"content/dist/rhel/system-z/7/7Server/s390x/highavailability/os"
 			]
 		},
@@ -65587,6 +65634,7 @@
 				"cpe:/o:redhat:enterprise_linux:7::server"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/system-z/7/7.9/s390x/highavailability/source/SRPMS",
 				"content/dist/rhel/system-z/7/7Server/s390x/highavailability/source/SRPMS"
 			]
 		},
@@ -65595,6 +65643,7 @@
 				"cpe:/o:redhat:enterprise_linux:7::server"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/server/7/7.9/x86_64/highavailability/debug",
 				"content/dist/rhel/server/7/7Server/x86_64/highavailability/debug"
 			]
 		},
@@ -66068,6 +66117,7 @@
 				"cpe:/o:redhat:enterprise_linux:7::server"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/power-le/7/7.9/ppc64le/highavailability/debug",
 				"content/dist/rhel/power-le/7/7Server/ppc64le/highavailability/debug"
 			]
 		},
@@ -66337,6 +66387,7 @@
 				"cpe:/o:redhat:enterprise_linux:7::server"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/power-le/7/7.9/ppc64le/highavailability/os",
 				"content/dist/rhel/power-le/7/7Server/ppc64le/highavailability/os"
 			]
 		},
@@ -66345,6 +66396,7 @@
 				"cpe:/o:redhat:enterprise_linux:7::server"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/power-le/7/7.9/ppc64le/highavailability/source/SRPMS",
 				"content/dist/rhel/power-le/7/7Server/ppc64le/highavailability/source/SRPMS"
 			]
 		},
@@ -66353,6 +66405,7 @@
 				"cpe:/o:redhat:enterprise_linux:7::server"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/server/7/7.9/x86_64/highavailability/os",
 				"content/dist/rhel/server/7/7Server/x86_64/highavailability/os"
 			]
 		},
@@ -66361,6 +66414,7 @@
 				"cpe:/o:redhat:enterprise_linux:7::server"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/server/7/7.9/x86_64/highavailability/source/SRPMS",
 				"content/dist/rhel/server/7/7Server/x86_64/highavailability/source/SRPMS"
 			]
 		},
@@ -68446,6 +68500,7 @@
 				"cpe:/o:redhat:enterprise_linux:7::server"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/system-z/7/7.9/s390x/resilientstorage/debug",
 				"content/dist/rhel/system-z/7/7Server/s390x/resilientstorage/debug"
 			]
 		},
@@ -68454,6 +68509,7 @@
 				"cpe:/o:redhat:enterprise_linux:7::server"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/system-z/7/7.9/s390x/resilientstorage/os",
 				"content/dist/rhel/system-z/7/7Server/s390x/resilientstorage/os"
 			]
 		},
@@ -68462,6 +68518,7 @@
 				"cpe:/o:redhat:enterprise_linux:7::server"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/system-z/7/7.9/s390x/resilientstorage/source/SRPMS",
 				"content/dist/rhel/system-z/7/7Server/s390x/resilientstorage/source/SRPMS"
 			]
 		},
@@ -68470,6 +68527,7 @@
 				"cpe:/o:redhat:enterprise_linux:7::server"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/server/7/7.9/x86_64/resilientstorage/debug",
 				"content/dist/rhel/server/7/7Server/x86_64/resilientstorage/debug"
 			]
 		},
@@ -68754,6 +68812,7 @@
 				"cpe:/o:redhat:enterprise_linux:7::server"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/power-le/7/7.9/ppc64le/resilientstorage/debug",
 				"content/dist/rhel/power-le/7/7Server/ppc64le/resilientstorage/debug"
 			]
 		},
@@ -68903,6 +68962,7 @@
 				"cpe:/o:redhat:enterprise_linux:7::server"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/power-le/7/7.9/ppc64le/resilientstorage/os",
 				"content/dist/rhel/power-le/7/7Server/ppc64le/resilientstorage/os"
 			]
 		},
@@ -68911,6 +68971,7 @@
 				"cpe:/o:redhat:enterprise_linux:7::server"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/power-le/7/7.9/ppc64le/resilientstorage/source/SRPMS",
 				"content/dist/rhel/power-le/7/7Server/ppc64le/resilientstorage/source/SRPMS"
 			]
 		},
@@ -68919,6 +68980,7 @@
 				"cpe:/o:redhat:enterprise_linux:7::server"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/server/7/7.9/x86_64/resilientstorage/os",
 				"content/dist/rhel/server/7/7Server/x86_64/resilientstorage/os"
 			]
 		},
@@ -68927,6 +68989,7 @@
 				"cpe:/o:redhat:enterprise_linux:7::server"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/server/7/7.9/x86_64/resilientstorage/source/SRPMS",
 				"content/dist/rhel/server/7/7Server/x86_64/resilientstorage/source/SRPMS"
 			]
 		},
@@ -69218,6 +69281,7 @@
 				"cpe:/a:redhat:rhel_extras_sap:7"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/power/7/7.9/ppc64/sap/debug",
 				"content/dist/rhel/power/7/7Server/ppc64/sap/debug"
 			]
 		},
@@ -69397,6 +69461,7 @@
 				"cpe:/a:redhat:rhel_extras_sap:7"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/power-le/7/7.9/ppc64le/sap/debug",
 				"content/dist/rhel/power-le/7/7Server/ppc64le/sap/debug"
 			]
 		},
@@ -69759,6 +69824,7 @@
 				"cpe:/a:redhat:rhel_extras_sap:7"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/power-le/7/7.9/ppc64le/sap/os",
 				"content/dist/rhel/power-le/7/7Server/ppc64le/sap/os"
 			]
 		},
@@ -69767,6 +69833,7 @@
 				"cpe:/a:redhat:rhel_extras_sap:7"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/power-le/7/7.9/ppc64le/sap/source/SRPMS",
 				"content/dist/rhel/power-le/7/7Server/ppc64le/sap/source/SRPMS"
 			]
 		},
@@ -69775,6 +69842,7 @@
 				"cpe:/a:redhat:rhel_extras_sap:7"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/power/7/7.9/ppc64/sap/os",
 				"content/dist/rhel/power/7/7Server/ppc64/sap/os"
 			]
 		},
@@ -69783,6 +69851,7 @@
 				"cpe:/a:redhat:rhel_extras_sap:7"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/power/7/7.9/ppc64/sap/source/SRPMS",
 				"content/dist/rhel/power/7/7Server/ppc64/sap/source/SRPMS"
 			]
 		},
@@ -69791,6 +69860,7 @@
 				"cpe:/a:redhat:rhel_extras_sap:7"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/system-z/7/7.9/s390x/sap/debug",
 				"content/dist/rhel/system-z/7/7Server/s390x/sap/debug"
 			]
 		},
@@ -69970,6 +70040,7 @@
 				"cpe:/a:redhat:rhel_extras_sap:7"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/system-z/7/7.9/s390x/sap/os",
 				"content/dist/rhel/system-z/7/7Server/s390x/sap/os"
 			]
 		},
@@ -69978,6 +70049,7 @@
 				"cpe:/a:redhat:rhel_extras_sap:7"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/system-z/7/7.9/s390x/sap/source/SRPMS",
 				"content/dist/rhel/system-z/7/7Server/s390x/sap/source/SRPMS"
 			]
 		},
@@ -69986,6 +70058,7 @@
 				"cpe:/a:redhat:rhel_extras_sap:7"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/server/7/7.9/x86_64/sap/debug",
 				"content/dist/rhel/server/7/7Server/x86_64/sap/debug"
 			]
 		},
@@ -70483,6 +70556,7 @@
 				"cpe:/a:redhat:rhel_extras_sap:7"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/server/7/7.9/x86_64/sap/os",
 				"content/dist/rhel/server/7/7Server/x86_64/sap/os"
 			]
 		},
@@ -70491,6 +70565,7 @@
 				"cpe:/a:redhat:rhel_extras_sap:7"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/server/7/7.9/x86_64/sap/source/SRPMS",
 				"content/dist/rhel/server/7/7Server/x86_64/sap/source/SRPMS"
 			]
 		},
@@ -70628,6 +70703,7 @@
 				"cpe:/a:redhat:rhel_extras_sap_hana:7"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/power-le/7/7.9/ppc64le/sap-hana/debug",
 				"content/dist/rhel/power-le/7/7Server/ppc64le/sap-hana/debug"
 			]
 		},
@@ -70990,6 +71066,7 @@
 				"cpe:/a:redhat:rhel_extras_sap_hana:7"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/power-le/7/7.9/ppc64le/sap-hana/os",
 				"content/dist/rhel/power-le/7/7Server/ppc64le/sap-hana/os"
 			]
 		},
@@ -70998,6 +71075,7 @@
 				"cpe:/a:redhat:rhel_extras_sap_hana:7"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/power-le/7/7.9/ppc64le/sap-hana/source/SRPMS",
 				"content/dist/rhel/power-le/7/7Server/ppc64le/sap-hana/source/SRPMS"
 			]
 		},
@@ -71006,6 +71084,7 @@
 				"cpe:/a:redhat:rhel_extras_sap_hana:7"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/server/7/7.9/x86_64/sap-hana/debug",
 				"content/dist/rhel/server/7/7Server/x86_64/sap-hana/debug"
 			]
 		},
@@ -71452,6 +71531,7 @@
 				"cpe:/a:redhat:rhel_extras_sap_hana:7"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/server/7/7.9/x86_64/sap-hana/os",
 				"content/dist/rhel/server/7/7Server/x86_64/sap-hana/os"
 			]
 		},
@@ -71460,6 +71540,7 @@
 				"cpe:/a:redhat:rhel_extras_sap_hana:7"
 			],
 			"repo_relative_urls": [
+				"content/dist/rhel/server/7/7.9/x86_64/sap-hana/source/SRPMS",
 				"content/dist/rhel/server/7/7Server/x86_64/sap-hana/source/SRPMS"
 			]
 		},
@@ -80729,5 +80810,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-03-13T00:47:27.941Z"
+	"last_updated": "2024-03-14T00:46:21.279Z"
 }
