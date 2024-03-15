@@ -69864,6 +69864,57 @@
 				"content/dist/rhel/system-z/7/7Server/s390x/sap/debug"
 			]
 		},
+		"rhel-sap-for-rhel-7-for-system-z-els-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_extras_sap:7",
+				"cpe:/a:redhat:rhel_extras_sap_els:7"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/system-z/7/7Server/s390x/sap/debug"
+			]
+		},
+		"rhel-sap-for-rhel-7-for-system-z-els-debug-rpms__s390x": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_extras_sap_els:7"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/system-z/7/7Server/s390x/sap/debug"
+			]
+		},
+		"rhel-sap-for-rhel-7-for-system-z-els-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_extras_sap:7",
+				"cpe:/a:redhat:rhel_extras_sap_els:7"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/system-z/7/7Server/s390x/sap/os"
+			]
+		},
+		"rhel-sap-for-rhel-7-for-system-z-els-rpms__s390x": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_extras_sap_els:7"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/system-z/7/7Server/s390x/sap/os"
+			]
+		},
+		"rhel-sap-for-rhel-7-for-system-z-els-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_extras_sap:7",
+				"cpe:/a:redhat:rhel_extras_sap_els:7"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/system-z/7/7Server/s390x/sap/source/SRPMS"
+			]
+		},
+		"rhel-sap-for-rhel-7-for-system-z-els-source-rpms__s390x": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_extras_sap_els:7"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/system-z/7/7Server/s390x/sap/source/SRPMS"
+			]
+		},
 		"rhel-sap-for-rhel-7-for-system-z-eus-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_extras_sap:7",
@@ -70498,57 +70549,6 @@
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel/server/7/7.7/x86_64/sap/source/SRPMS"
-			]
-		},
-		"rhel-sap-for-rhel-7-server-for-system-z-els-debug-rpms": {
-			"cpes": [
-				"cpe:/a:redhat:rhel_extras_sap:7",
-				"cpe:/a:redhat:rhel_extras_sap_els:7"
-			],
-			"repo_relative_urls": [
-				"content/els/rhel/system-z/7/7Server/s390x/sap/debug"
-			]
-		},
-		"rhel-sap-for-rhel-7-server-for-system-z-els-debug-rpms__s390x": {
-			"cpes": [
-				"cpe:/a:redhat:rhel_extras_sap_els:7"
-			],
-			"repo_relative_urls": [
-				"content/els/rhel/system-z/7/7Server/s390x/sap/debug"
-			]
-		},
-		"rhel-sap-for-rhel-7-server-for-system-z-els-rpms": {
-			"cpes": [
-				"cpe:/a:redhat:rhel_extras_sap:7",
-				"cpe:/a:redhat:rhel_extras_sap_els:7"
-			],
-			"repo_relative_urls": [
-				"content/els/rhel/system-z/7/7Server/s390x/sap/os"
-			]
-		},
-		"rhel-sap-for-rhel-7-server-for-system-z-els-rpms__s390x": {
-			"cpes": [
-				"cpe:/a:redhat:rhel_extras_sap_els:7"
-			],
-			"repo_relative_urls": [
-				"content/els/rhel/system-z/7/7Server/s390x/sap/os"
-			]
-		},
-		"rhel-sap-for-rhel-7-server-for-system-z-els-source-rpms": {
-			"cpes": [
-				"cpe:/a:redhat:rhel_extras_sap:7",
-				"cpe:/a:redhat:rhel_extras_sap_els:7"
-			],
-			"repo_relative_urls": [
-				"content/els/rhel/system-z/7/7Server/s390x/sap/source/SRPMS"
-			]
-		},
-		"rhel-sap-for-rhel-7-server-for-system-z-els-source-rpms__s390x": {
-			"cpes": [
-				"cpe:/a:redhat:rhel_extras_sap_els:7"
-			],
-			"repo_relative_urls": [
-				"content/els/rhel/system-z/7/7Server/s390x/sap/source/SRPMS"
 			]
 		},
 		"rhel-sap-for-rhel-7-server-rpms": {
@@ -80810,5 +80810,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-03-14T00:46:21.279Z"
+	"last_updated": "2024-03-15T00:46:51.183Z"
 }
