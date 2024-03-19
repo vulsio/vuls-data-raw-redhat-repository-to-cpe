@@ -7733,6 +7733,150 @@
 				"content/dist/layered/rhel8/x86_64/gitops/1.11/source/SRPMS"
 			]
 		},
+		"gitops-1.12-for-rhel-8-aarch64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_gitops:1.12::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/aarch64/gitops/1.12/debug"
+			]
+		},
+		"gitops-1.12-for-rhel-8-aarch64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_gitops:1.12::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/aarch64/gitops/1.12/os"
+			]
+		},
+		"gitops-1.12-for-rhel-8-aarch64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_gitops:1.12::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/aarch64/gitops/1.12/source/SRPMS"
+			]
+		},
+		"gitops-1.12-for-rhel-8-ppc64le-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_gitops:1.12::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/ppc64le/gitops/1.12/debug"
+			]
+		},
+		"gitops-1.12-for-rhel-8-ppc64le-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_gitops:1.12::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/ppc64le/gitops/1.12/os"
+			]
+		},
+		"gitops-1.12-for-rhel-8-ppc64le-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_gitops:1.12::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/ppc64le/gitops/1.12/source/SRPMS"
+			]
+		},
+		"gitops-1.12-for-rhel-8-s390x-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_gitops:1.12::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/s390x/gitops/1.12/debug"
+			]
+		},
+		"gitops-1.12-for-rhel-8-s390x-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_gitops:1.12::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/s390x/gitops/1.12/os"
+			]
+		},
+		"gitops-1.12-for-rhel-8-s390x-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_gitops:1.12::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/s390x/gitops/1.12/source/SRPMS"
+			]
+		},
+		"gitops-1.12-for-rhel-8-x86_64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_gitops:1.12::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/gitops/1.12/debug"
+			]
+		},
+		"gitops-1.12-for-rhel-8-x86_64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_gitops:1.12::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/gitops/1.12/os"
+			]
+		},
+		"gitops-1.12-for-rhel-8-x86_64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_gitops:1.12::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/gitops/1.12/source/SRPMS"
+			]
+		},
+		"gitops-1.12-for-rhel-9-aarch64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_gitops:1.12::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/aarch64/gitops/1.12/debug"
+			]
+		},
+		"gitops-1.12-for-rhel-9-aarch64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_gitops:1.12::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/aarch64/gitops/1.12/os"
+			]
+		},
+		"gitops-1.12-for-rhel-9-aarch64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_gitops:1.12::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/aarch64/gitops/1.12/source/SRPMS"
+			]
+		},
+		"gitops-1.12-for-rhel-9-x86_64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_gitops:1.12::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/gitops/1.12/debug"
+			]
+		},
+		"gitops-1.12-for-rhel-9-x86_64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_gitops:1.12::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/gitops/1.12/os"
+			]
+		},
+		"gitops-1.12-for-rhel-9-x86_64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_gitops:1.12::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/gitops/1.12/source/SRPMS"
+			]
+		},
 		"gitops-1.2-for-rhel-8-x86_64-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:openshift_gitops:1.2::el8"
@@ -77445,7 +77589,8 @@
 			"cpes": [
 				"cpe:/a:redhat:workload_availability_machine_deletion_remediation:0.1::el8",
 				"cpe:/a:redhat:workload_availability_machine_deletion_remediation:0.2::el8",
-				"cpe:/a:redhat:workload_availability_machine_deletion_remediation:0.3::el8"
+				"cpe:/a:redhat:workload_availability_machine_deletion_remediation:0.3::el8",
+				"cpe:/a:redhat:workload_availability_machine_deletion_remediation:0.4::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/rhwa-mdr/1/debug"
@@ -77455,7 +77600,8 @@
 			"cpes": [
 				"cpe:/a:redhat:workload_availability_machine_deletion_remediation:0.1::el8",
 				"cpe:/a:redhat:workload_availability_machine_deletion_remediation:0.2::el8",
-				"cpe:/a:redhat:workload_availability_machine_deletion_remediation:0.3::el8"
+				"cpe:/a:redhat:workload_availability_machine_deletion_remediation:0.3::el8",
+				"cpe:/a:redhat:workload_availability_machine_deletion_remediation:0.4::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/rhwa-mdr/1/os"
@@ -77465,7 +77611,8 @@
 			"cpes": [
 				"cpe:/a:redhat:workload_availability_machine_deletion_remediation:0.1::el8",
 				"cpe:/a:redhat:workload_availability_machine_deletion_remediation:0.2::el8",
-				"cpe:/a:redhat:workload_availability_machine_deletion_remediation:0.3::el8"
+				"cpe:/a:redhat:workload_availability_machine_deletion_remediation:0.3::el8",
+				"cpe:/a:redhat:workload_availability_machine_deletion_remediation:0.4::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/rhwa-mdr/1/source/SRPMS"
@@ -80810,5 +80957,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-03-18T00:46:21.257Z"
+	"last_updated": "2024-03-19T00:46:55.510Z"
 }
