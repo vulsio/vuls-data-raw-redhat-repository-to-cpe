@@ -8336,7 +8336,9 @@
 		},
 		"integration-camel-spring-boot-textonly-1-for-middleware-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:integration:1"
+				"cpe:/a:redhat:apache_camel_spring_boot:3.20::el6",
+				"cpe:/a:redhat:apache_camel_spring_boot:4.0::el6",
+				"cpe:/a:redhat:apache_camel_spring_boot:4.4::el6"
 			],
 			"repo_relative_urls": [
 				"content/dist/middleware/integration-spring-boot/1.0/x86_64/os"
@@ -80957,5 +80959,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-03-19T00:46:55.510Z"
+	"last_updated": "2024-03-20T00:46:50.930Z"
 }
