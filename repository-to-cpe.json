@@ -10779,7 +10779,8 @@
 				"cpe:/a:redhat:multicluster_engine:2.2::el8",
 				"cpe:/a:redhat:multicluster_engine:2.3::el8",
 				"cpe:/a:redhat:multicluster_engine:2.4::el8",
-				"cpe:/a:redhat:multicluster_engine:2.5::el8"
+				"cpe:/a:redhat:multicluster_engine:2.5::el8",
+				"cpe:/a:redhat:multicluster_engine:2.6::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/multicluster-engine-textonly/1/os"
@@ -10787,7 +10788,8 @@
 		},
 		"multicluster-engine-for-rhel-9-textonly-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:multicluster_engine:2.5::el8"
+				"cpe:/a:redhat:multicluster_engine:2.5::el8",
+				"cpe:/a:redhat:multicluster_engine:2.6::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/x86_64/multicluster-engine-textonly/1/os"
@@ -77561,7 +77563,8 @@
 			"cpes": [
 				"cpe:/a:redhat:workload_availability_fence_agents_remediation:0.1::el8",
 				"cpe:/a:redhat:workload_availability_fence_agents_remediation:0.2::el8",
-				"cpe:/a:redhat:workload_availability_fence_agents_remediation:0.3::el8"
+				"cpe:/a:redhat:workload_availability_fence_agents_remediation:0.3::el8",
+				"cpe:/a:redhat:workload_availability_fence_agents_remediation:0.4::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/rhwa-far/1/debug"
@@ -77571,7 +77574,8 @@
 			"cpes": [
 				"cpe:/a:redhat:workload_availability_fence_agents_remediation:0.1::el8",
 				"cpe:/a:redhat:workload_availability_fence_agents_remediation:0.2::el8",
-				"cpe:/a:redhat:workload_availability_fence_agents_remediation:0.3::el8"
+				"cpe:/a:redhat:workload_availability_fence_agents_remediation:0.3::el8",
+				"cpe:/a:redhat:workload_availability_fence_agents_remediation:0.4::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/rhwa-far/1/os"
@@ -77581,7 +77585,8 @@
 			"cpes": [
 				"cpe:/a:redhat:workload_availability_fence_agents_remediation:0.1::el8",
 				"cpe:/a:redhat:workload_availability_fence_agents_remediation:0.2::el8",
-				"cpe:/a:redhat:workload_availability_fence_agents_remediation:0.3::el8"
+				"cpe:/a:redhat:workload_availability_fence_agents_remediation:0.3::el8",
+				"cpe:/a:redhat:workload_availability_fence_agents_remediation:0.4::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/rhwa-far/1/source/SRPMS"
@@ -80959,5 +80964,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-03-20T00:46:50.930Z"
+	"last_updated": "2024-03-21T00:46:28.743Z"
 }
