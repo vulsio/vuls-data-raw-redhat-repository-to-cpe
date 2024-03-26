@@ -13650,6 +13650,30 @@
 				"content/dist/layered/rhel9/x86_64/openstack/17.1/source/SRPMS"
 			]
 		},
+		"openstack-17.1-tools-for-rhel-8-x86_64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openstack:17.1::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/openstack-tools/17.1/debug"
+			]
+		},
+		"openstack-17.1-tools-for-rhel-8-x86_64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openstack:17.1::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/openstack-tools/17.1/os"
+			]
+		},
+		"openstack-17.1-tools-for-rhel-8-x86_64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openstack:17.1::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/openstack-tools/17.1/source/SRPMS"
+			]
+		},
 		"openstack-dev-preview-for-rhel-9-x86_64-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:openstack-dev:18.0::el9"
@@ -80975,5 +80999,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-03-25T00:46:32.705Z"
+	"last_updated": "2024-03-26T00:46:34.610Z"
 }
