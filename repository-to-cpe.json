@@ -76281,7 +76281,8 @@
 		},
 		"rhol-5-for-rhel-9-aarch64-debug-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:logging:5.8::el9"
+				"cpe:/a:redhat:logging:5.8::el9",
+				"cpe:/a:redhat:logging:5.9::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/aarch64/rhol/5/debug"
@@ -76289,7 +76290,8 @@
 		},
 		"rhol-5-for-rhel-9-aarch64-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:logging:5.8::el9"
+				"cpe:/a:redhat:logging:5.8::el9",
+				"cpe:/a:redhat:logging:5.9::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/aarch64/rhol/5/os"
@@ -76297,7 +76299,8 @@
 		},
 		"rhol-5-for-rhel-9-aarch64-source-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:logging:5.8::el9"
+				"cpe:/a:redhat:logging:5.8::el9",
+				"cpe:/a:redhat:logging:5.9::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/aarch64/rhol/5/source/SRPMS"
@@ -76305,7 +76308,8 @@
 		},
 		"rhol-5-for-rhel-9-ppc64le-debug-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:logging:5.8::el9"
+				"cpe:/a:redhat:logging:5.8::el9",
+				"cpe:/a:redhat:logging:5.9::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/ppc64le/rhol/5/debug"
@@ -76313,7 +76317,8 @@
 		},
 		"rhol-5-for-rhel-9-ppc64le-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:logging:5.8::el9"
+				"cpe:/a:redhat:logging:5.8::el9",
+				"cpe:/a:redhat:logging:5.9::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/ppc64le/rhol/5/os"
@@ -76321,7 +76326,8 @@
 		},
 		"rhol-5-for-rhel-9-ppc64le-source-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:logging:5.8::el9"
+				"cpe:/a:redhat:logging:5.8::el9",
+				"cpe:/a:redhat:logging:5.9::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/ppc64le/rhol/5/source/SRPMS"
@@ -76329,7 +76335,8 @@
 		},
 		"rhol-5-for-rhel-9-s390x-debug-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:logging:5.8::el9"
+				"cpe:/a:redhat:logging:5.8::el9",
+				"cpe:/a:redhat:logging:5.9::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/s390x/rhol/5/debug"
@@ -76337,7 +76344,8 @@
 		},
 		"rhol-5-for-rhel-9-s390x-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:logging:5.8::el9"
+				"cpe:/a:redhat:logging:5.8::el9",
+				"cpe:/a:redhat:logging:5.9::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/s390x/rhol/5/os"
@@ -76345,7 +76353,8 @@
 		},
 		"rhol-5-for-rhel-9-s390x-source-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:logging:5.8::el9"
+				"cpe:/a:redhat:logging:5.8::el9",
+				"cpe:/a:redhat:logging:5.9::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/s390x/rhol/5/source/SRPMS"
@@ -76353,7 +76362,8 @@
 		},
 		"rhol-5-for-rhel-9-x86_64-debug-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:logging:5.8::el9"
+				"cpe:/a:redhat:logging:5.8::el9",
+				"cpe:/a:redhat:logging:5.9::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/x86_64/rhol/5/debug"
@@ -76361,7 +76371,8 @@
 		},
 		"rhol-5-for-rhel-9-x86_64-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:logging:5.8::el9"
+				"cpe:/a:redhat:logging:5.8::el9",
+				"cpe:/a:redhat:logging:5.9::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/x86_64/rhol/5/os"
@@ -76369,7 +76380,8 @@
 		},
 		"rhol-5-for-rhel-9-x86_64-source-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:logging:5.8::el9"
+				"cpe:/a:redhat:logging:5.8::el9",
+				"cpe:/a:redhat:logging:5.9::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/x86_64/rhol/5/source/SRPMS"
@@ -80999,5 +81011,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-03-29T00:46:08.739Z"
+	"last_updated": "2024-03-30T00:47:31.149Z"
 }
