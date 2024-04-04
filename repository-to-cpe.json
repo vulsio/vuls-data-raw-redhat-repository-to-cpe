@@ -12798,11 +12798,33 @@
 		},
 		"openshift-serverless-1-for-rhel-8-x86_64-debug-rpms": {
 			"cpes": [
+				"cpe:/a:redhat:openshift_serverless:1.26::el8",
+				"cpe:/a:redhat:openshift_serverless:1.27::el8",
+				"cpe:/a:redhat:openshift_serverless:1.28::el8",
 				"cpe:/a:redhat:openshift_serverless:1.29::el8",
 				"cpe:/a:redhat:openshift_serverless:1.30::el8",
 				"cpe:/a:redhat:openshift_serverless:1.31::el8",
 				"cpe:/a:redhat:openshift_serverless:1.32::el8",
-				"cpe:/a:redhat:serverless:1.0::el8"
+				"cpe:/a:redhat:serverless:1.0::el8",
+				"cpe:/a:redhat:serverless:1.10::el8",
+				"cpe:/a:redhat:serverless:1.11::el8",
+				"cpe:/a:redhat:serverless:1.12::el8",
+				"cpe:/a:redhat:serverless:1.13::el8",
+				"cpe:/a:redhat:serverless:1.14::el8",
+				"cpe:/a:redhat:serverless:1.15::el8",
+				"cpe:/a:redhat:serverless:1.16::el8",
+				"cpe:/a:redhat:serverless:1.17::el8",
+				"cpe:/a:redhat:serverless:1.18::el8",
+				"cpe:/a:redhat:serverless:1.19::el8",
+				"cpe:/a:redhat:serverless:1.20::el8",
+				"cpe:/a:redhat:serverless:1.21::el8",
+				"cpe:/a:redhat:serverless:1.22::el8",
+				"cpe:/a:redhat:serverless:1.23::el8",
+				"cpe:/a:redhat:serverless:1.24::el8",
+				"cpe:/a:redhat:serverless:1.25::el8",
+				"cpe:/a:redhat:serverless:1.7::el8",
+				"cpe:/a:redhat:serverless:1.8::el8",
+				"cpe:/a:redhat:serverless:1.9::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/rhoss/1/debug"
@@ -12844,11 +12866,33 @@
 		},
 		"openshift-serverless-1-for-rhel-8-x86_64-source-rpms": {
 			"cpes": [
+				"cpe:/a:redhat:openshift_serverless:1.26::el8",
+				"cpe:/a:redhat:openshift_serverless:1.27::el8",
+				"cpe:/a:redhat:openshift_serverless:1.28::el8",
 				"cpe:/a:redhat:openshift_serverless:1.29::el8",
 				"cpe:/a:redhat:openshift_serverless:1.30::el8",
 				"cpe:/a:redhat:openshift_serverless:1.31::el8",
 				"cpe:/a:redhat:openshift_serverless:1.32::el8",
-				"cpe:/a:redhat:serverless:1.0::el8"
+				"cpe:/a:redhat:serverless:1.0::el8",
+				"cpe:/a:redhat:serverless:1.10::el8",
+				"cpe:/a:redhat:serverless:1.11::el8",
+				"cpe:/a:redhat:serverless:1.12::el8",
+				"cpe:/a:redhat:serverless:1.13::el8",
+				"cpe:/a:redhat:serverless:1.14::el8",
+				"cpe:/a:redhat:serverless:1.15::el8",
+				"cpe:/a:redhat:serverless:1.16::el8",
+				"cpe:/a:redhat:serverless:1.17::el8",
+				"cpe:/a:redhat:serverless:1.18::el8",
+				"cpe:/a:redhat:serverless:1.19::el8",
+				"cpe:/a:redhat:serverless:1.20::el8",
+				"cpe:/a:redhat:serverless:1.21::el8",
+				"cpe:/a:redhat:serverless:1.22::el8",
+				"cpe:/a:redhat:serverless:1.23::el8",
+				"cpe:/a:redhat:serverless:1.24::el8",
+				"cpe:/a:redhat:serverless:1.25::el8",
+				"cpe:/a:redhat:serverless:1.7::el8",
+				"cpe:/a:redhat:serverless:1.8::el8",
+				"cpe:/a:redhat:serverless:1.9::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/rhoss/1/source/SRPMS"
@@ -81232,5 +81276,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-04-03T00:49:00.669Z"
+	"last_updated": "2024-04-04T00:47:54.762Z"
 }
