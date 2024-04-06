@@ -1446,6 +1446,78 @@
 				"content/dist/layered/rhel8/x86_64/amq-streams/1/source/SRPMS"
 			]
 		},
+		"amq-streams-2-for-rhel-7-server-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:amq_streams:2.7::el7"
+			],
+			"repo_relative_urls": [
+				"content/dist/rhel/server/7/7Server/x86_64/amq-streams/2/debug"
+			]
+		},
+		"amq-streams-2-for-rhel-7-server-for-arm-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:amq_streams:2.7::el7"
+			],
+			"repo_relative_urls": [
+				"content/dist/rhel/arm/7/7Server/aarch64/amq-streams/2/debug"
+			]
+		},
+		"amq-streams-2-for-rhel-7-server-for-arm-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:amq_streams:2.7::el7"
+			],
+			"repo_relative_urls": [
+				"content/dist/rhel/arm/7/7Server/aarch64/amq-streams/2/os"
+			]
+		},
+		"amq-streams-2-for-rhel-7-server-for-arm-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:amq_streams:2.7::el7"
+			],
+			"repo_relative_urls": [
+				"content/dist/rhel/arm/7/7Server/aarch64/amq-streams/2/source/SRPMS"
+			]
+		},
+		"amq-streams-2-for-rhel-7-server-for-system-z-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:amq_streams:2.7::el7"
+			],
+			"repo_relative_urls": [
+				"content/dist/rhel/system-z/7/7Server/s390x/amq-streams/2/debug"
+			]
+		},
+		"amq-streams-2-for-rhel-7-server-for-system-z-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:amq_streams:2.7::el7"
+			],
+			"repo_relative_urls": [
+				"content/dist/rhel/system-z/7/7Server/s390x/amq-streams/2/os"
+			]
+		},
+		"amq-streams-2-for-rhel-7-server-for-system-z-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:amq_streams:2.7::el7"
+			],
+			"repo_relative_urls": [
+				"content/dist/rhel/system-z/7/7Server/s390x/amq-streams/2/source/SRPMS"
+			]
+		},
+		"amq-streams-2-for-rhel-7-server-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:amq_streams:2.7::el7"
+			],
+			"repo_relative_urls": [
+				"content/dist/rhel/server/7/7Server/x86_64/amq-streams/2/os"
+			]
+		},
+		"amq-streams-2-for-rhel-7-server-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:amq_streams:2.7::el7"
+			],
+			"repo_relative_urls": [
+				"content/dist/rhel/server/7/7Server/x86_64/amq-streams/2/source/SRPMS"
+			]
+		},
 		"amq-streams-2-for-rhel-8-aarch64-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:amq_streams:2.0::el8",
@@ -1554,6 +1626,102 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/amq-streams/2/source/SRPMS"
+			]
+		},
+		"amq-streams-2-for-rhel-9-aarch64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:amq_streams:2.7::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/aarch64/amq-streams/2/debug"
+			]
+		},
+		"amq-streams-2-for-rhel-9-aarch64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:amq_streams:2.7::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/aarch64/amq-streams/2/os"
+			]
+		},
+		"amq-streams-2-for-rhel-9-aarch64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:amq_streams:2.7::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/aarch64/amq-streams/2/source/SRPMS"
+			]
+		},
+		"amq-streams-2-for-rhel-9-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:amq_streams:2.7::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/amq-streams/2/debug"
+			]
+		},
+		"amq-streams-2-for-rhel-9-ppc64le-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:amq_streams:2.7::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/ppc64le/amq-streams/2/debug"
+			]
+		},
+		"amq-streams-2-for-rhel-9-ppc64le-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:amq_streams:2.7::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/ppc64le/amq-streams/2/os"
+			]
+		},
+		"amq-streams-2-for-rhel-9-ppc64le-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:amq_streams:2.7::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/ppc64le/amq-streams/2/source/SRPMS"
+			]
+		},
+		"amq-streams-2-for-rhel-9-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:amq_streams:2.7::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/amq-streams/2/os"
+			]
+		},
+		"amq-streams-2-for-rhel-9-s390x-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:amq_streams:2.7::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/s390x/amq-streams/2/debug"
+			]
+		},
+		"amq-streams-2-for-rhel-9-s390x-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:amq_streams:2.7::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/s390x/amq-streams/2/os"
+			]
+		},
+		"amq-streams-2-for-rhel-9-s390x-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:amq_streams:2.7::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/s390x/amq-streams/2/source/SRPMS"
+			]
+		},
+		"amq-streams-2-for-rhel-9-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:amq_streams:2.7::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/amq-streams/2/source/SRPMS"
 			]
 		},
 		"amq-streams-textonly-1-for-middleware-rpms": {
@@ -81277,5 +81445,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-04-05T00:45:58.257Z"
+	"last_updated": "2024-04-06T00:48:19.806Z"
 }
