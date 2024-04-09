@@ -81016,30 +81016,6 @@
 				"content/dist/layered/rhel9/x86_64/rhsi/1/source/SRPMS"
 			]
 		},
-		"service-interconnect-1.4-for-rhel-8-aarch64-debug-rpms": {
-			"cpes": [
-				"cpe:/a:redhat:service_interconnect:1.4::el8"
-			],
-			"repo_relative_urls": [
-				"content/dist/layered/rhel8/aarch64/rhsi/1.4/debug"
-			]
-		},
-		"service-interconnect-1.4-for-rhel-8-aarch64-rpms": {
-			"cpes": [
-				"cpe:/a:redhat:service_interconnect:1.4::el8"
-			],
-			"repo_relative_urls": [
-				"content/dist/layered/rhel8/aarch64/rhsi/1.4/os"
-			]
-		},
-		"service-interconnect-1.4-for-rhel-8-aarch64-source-rpms": {
-			"cpes": [
-				"cpe:/a:redhat:service_interconnect:1.4::el8"
-			],
-			"repo_relative_urls": [
-				"content/dist/layered/rhel8/aarch64/rhsi/1.4/source/SRPMS"
-			]
-		},
 		"service-interconnect-1.4-for-rhel-8-x86_64-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:service_interconnect:1.4::el8"
@@ -81062,30 +81038,6 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/rhsi/1.4/source/SRPMS"
-			]
-		},
-		"service-interconnect-1.4-for-rhel-9-aarch64-debug-rpms": {
-			"cpes": [
-				"cpe:/a:redhat:service_interconnect:1.4::el9"
-			],
-			"repo_relative_urls": [
-				"content/dist/layered/rhel9/aarch64/rhsi/1.4/debug"
-			]
-		},
-		"service-interconnect-1.4-for-rhel-9-aarch64-rpms": {
-			"cpes": [
-				"cpe:/a:redhat:service_interconnect:1.4::el9"
-			],
-			"repo_relative_urls": [
-				"content/dist/layered/rhel9/aarch64/rhsi/1.4/os"
-			]
-		},
-		"service-interconnect-1.4-for-rhel-9-aarch64-source-rpms": {
-			"cpes": [
-				"cpe:/a:redhat:service_interconnect:1.4::el9"
-			],
-			"repo_relative_urls": [
-				"content/dist/layered/rhel9/aarch64/rhsi/1.4/source/SRPMS"
 			]
 		},
 		"service-interconnect-1.4-for-rhel-9-x86_64-debug-rpms": {
@@ -81445,5 +81397,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-04-08T00:48:21.330Z"
+	"last_updated": "2024-04-09T00:46:05.854Z"
 }
