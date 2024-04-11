@@ -12869,7 +12869,8 @@
 		"openshift-serverless-1-for-rhel-8-aarch64-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:openshift_serverless:1.31::el8",
-				"cpe:/a:redhat:openshift_serverless:1.32::el8"
+				"cpe:/a:redhat:openshift_serverless:1.32::el8",
+				"cpe:/a:redhat:openshift_serverless:1.33::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/aarch64/rhoss/1/debug"
@@ -12878,7 +12879,8 @@
 		"openshift-serverless-1-for-rhel-8-aarch64-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:openshift_serverless:1.31::el8",
-				"cpe:/a:redhat:openshift_serverless:1.32::el8"
+				"cpe:/a:redhat:openshift_serverless:1.32::el8",
+				"cpe:/a:redhat:openshift_serverless:1.33::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/aarch64/rhoss/1/os"
@@ -12887,7 +12889,8 @@
 		"openshift-serverless-1-for-rhel-8-aarch64-source-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:openshift_serverless:1.31::el8",
-				"cpe:/a:redhat:openshift_serverless:1.32::el8"
+				"cpe:/a:redhat:openshift_serverless:1.32::el8",
+				"cpe:/a:redhat:openshift_serverless:1.33::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/aarch64/rhoss/1/source/SRPMS"
@@ -12899,6 +12902,7 @@
 				"cpe:/a:redhat:openshift_serverless:1.30::el8",
 				"cpe:/a:redhat:openshift_serverless:1.31::el8",
 				"cpe:/a:redhat:openshift_serverless:1.32::el8",
+				"cpe:/a:redhat:openshift_serverless:1.33::el8",
 				"cpe:/a:redhat:serverless:1.0::el8"
 			],
 			"repo_relative_urls": [
@@ -12911,6 +12915,7 @@
 				"cpe:/a:redhat:openshift_serverless:1.30::el8",
 				"cpe:/a:redhat:openshift_serverless:1.31::el8",
 				"cpe:/a:redhat:openshift_serverless:1.32::el8",
+				"cpe:/a:redhat:openshift_serverless:1.33::el8",
 				"cpe:/a:redhat:serverless:1.0::el8"
 			],
 			"repo_relative_urls": [
@@ -12923,6 +12928,7 @@
 				"cpe:/a:redhat:openshift_serverless:1.30::el8",
 				"cpe:/a:redhat:openshift_serverless:1.31::el8",
 				"cpe:/a:redhat:openshift_serverless:1.32::el8",
+				"cpe:/a:redhat:openshift_serverless:1.33::el8",
 				"cpe:/a:redhat:serverless:1.0::el8"
 			],
 			"repo_relative_urls": [
@@ -12935,6 +12941,7 @@
 				"cpe:/a:redhat:openshift_serverless:1.30::el8",
 				"cpe:/a:redhat:openshift_serverless:1.31::el8",
 				"cpe:/a:redhat:openshift_serverless:1.32::el8",
+				"cpe:/a:redhat:openshift_serverless:1.33::el8",
 				"cpe:/a:redhat:serverless:1.0::el8"
 			],
 			"repo_relative_urls": [
@@ -12947,6 +12954,7 @@
 				"cpe:/a:redhat:openshift_serverless:1.30::el8",
 				"cpe:/a:redhat:openshift_serverless:1.31::el8",
 				"cpe:/a:redhat:openshift_serverless:1.32::el8",
+				"cpe:/a:redhat:openshift_serverless:1.33::el8",
 				"cpe:/a:redhat:serverless:1.0::el8"
 			],
 			"repo_relative_urls": [
@@ -12959,6 +12967,7 @@
 				"cpe:/a:redhat:openshift_serverless:1.30::el8",
 				"cpe:/a:redhat:openshift_serverless:1.31::el8",
 				"cpe:/a:redhat:openshift_serverless:1.32::el8",
+				"cpe:/a:redhat:openshift_serverless:1.33::el8",
 				"cpe:/a:redhat:serverless:1.0::el8"
 			],
 			"repo_relative_urls": [
@@ -12974,6 +12983,7 @@
 				"cpe:/a:redhat:openshift_serverless:1.30::el8",
 				"cpe:/a:redhat:openshift_serverless:1.31::el8",
 				"cpe:/a:redhat:openshift_serverless:1.32::el8",
+				"cpe:/a:redhat:openshift_serverless:1.33::el8",
 				"cpe:/a:redhat:serverless:1.0::el8",
 				"cpe:/a:redhat:serverless:1.10::el8",
 				"cpe:/a:redhat:serverless:1.11::el8",
@@ -13008,6 +13018,7 @@
 				"cpe:/a:redhat:openshift_serverless:1.30::el8",
 				"cpe:/a:redhat:openshift_serverless:1.31::el8",
 				"cpe:/a:redhat:openshift_serverless:1.32::el8",
+				"cpe:/a:redhat:openshift_serverless:1.33::el8",
 				"cpe:/a:redhat:serverless:1.0::el8",
 				"cpe:/a:redhat:serverless:1.10::el8",
 				"cpe:/a:redhat:serverless:1.11::el8",
@@ -13042,6 +13053,7 @@
 				"cpe:/a:redhat:openshift_serverless:1.30::el8",
 				"cpe:/a:redhat:openshift_serverless:1.31::el8",
 				"cpe:/a:redhat:openshift_serverless:1.32::el8",
+				"cpe:/a:redhat:openshift_serverless:1.33::el8",
 				"cpe:/a:redhat:serverless:1.0::el8",
 				"cpe:/a:redhat:serverless:1.10::el8",
 				"cpe:/a:redhat:serverless:1.11::el8",
@@ -81421,5 +81433,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-04-10T00:46:48.138Z"
+	"last_updated": "2024-04-11T00:52:21.445Z"
 }
