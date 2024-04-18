@@ -78436,6 +78436,30 @@
 				"content/dist/layered/rhel8/x86_64/satellite/6.14/source/SRPMS"
 			]
 		},
+		"satellite-6.15-for-rhel-8-x86_64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:satellite:6.15::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/satellite/6.15/debug"
+			]
+		},
+		"satellite-6.15-for-rhel-8-x86_64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:satellite:6.15::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/satellite/6.15/os"
+			]
+		},
+		"satellite-6.15-for-rhel-8-x86_64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:satellite:6.15::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/satellite/6.15/source/SRPMS"
+			]
+		},
 		"satellite-capsule-6.11-for-rhel-8-x86_64-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:satellite_capsule:6.11::el8"
@@ -78530,6 +78554,30 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/sat-capsule/6.14/source/SRPMS"
+			]
+		},
+		"satellite-capsule-6.15-for-rhel-8-x86_64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:satellite_capsule:6.15::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/sat-capsule/6.15/debug"
+			]
+		},
+		"satellite-capsule-6.15-for-rhel-8-x86_64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:satellite_capsule:6.15::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/sat-capsule/6.15/os"
+			]
+		},
+		"satellite-capsule-6.15-for-rhel-8-x86_64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:satellite_capsule:6.15::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/sat-capsule/6.15/source/SRPMS"
 			]
 		},
 		"satellite-client-6-for-rhel-8-aarch64-debug-rpms": {
@@ -78818,6 +78866,30 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/sat-maintenance/6.14/source/SRPMS"
+			]
+		},
+		"satellite-maintenance-6.15-for-rhel-8-x86_64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:satellite_maintenance:6.15::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/sat-maintenance/6.15/debug"
+			]
+		},
+		"satellite-maintenance-6.15-for-rhel-8-x86_64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:satellite_maintenance:6.15::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/sat-maintenance/6.15/os"
+			]
+		},
+		"satellite-maintenance-6.15-for-rhel-8-x86_64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:satellite_maintenance:6.15::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/sat-maintenance/6.15/source/SRPMS"
 			]
 		},
 		"satellite-tools-6.10-for-rhel-8-aarch64-debug-rpms": {
@@ -80968,6 +81040,30 @@
 				"content/dist/layered/rhel8/x86_64/sat-utils/6.14/source/SRPMS"
 			]
 		},
+		"satellite-utils-6.15-for-rhel-8-x86_64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:satellite_utils:6.15::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/sat-utils/6.15/debug"
+			]
+		},
+		"satellite-utils-6.15-for-rhel-8-x86_64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:satellite_utils:6.15::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/sat-utils/6.15/os"
+			]
+		},
+		"satellite-utils-6.15-for-rhel-8-x86_64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:satellite_utils:6.15::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/sat-utils/6.15/source/SRPMS"
+			]
+		},
 		"service-interconnect-1-for-rhel-8-aarch64-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:service_interconnect:1::el8"
@@ -81445,5 +81541,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-04-17T00:47:06.644Z"
+	"last_updated": "2024-04-18T00:45:43.092Z"
 }
