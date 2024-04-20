@@ -4629,7 +4629,8 @@
 		},
 		"cluster-observability-operator-1-for-rhel-8-x86_64-textonly-debug-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:cluster_observability_operator:0.1::el8"
+				"cpe:/a:redhat:cluster_observability_operator:0.1::el8",
+				"cpe:/a:redhat:cluster_observability_operator:0.2::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/cluster-observability-operator/1/debug"
@@ -4637,7 +4638,8 @@
 		},
 		"cluster-observability-operator-1-for-rhel-8-x86_64-textonly-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:cluster_observability_operator:0.1::el8"
+				"cpe:/a:redhat:cluster_observability_operator:0.1::el8",
+				"cpe:/a:redhat:cluster_observability_operator:0.2::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/cluster-observability-operator/1/os"
@@ -4645,7 +4647,8 @@
 		},
 		"cluster-observability-operator-1-for-rhel-8-x86_64-textonly-source-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:cluster_observability_operator:0.1::el8"
+				"cpe:/a:redhat:cluster_observability_operator:0.1::el8",
+				"cpe:/a:redhat:cluster_observability_operator:0.2::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/cluster-observability-operator/1/source/SRPMS"
@@ -81541,5 +81544,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-04-19T00:48:12.285Z"
+	"last_updated": "2024-04-20T00:47:17.682Z"
 }
