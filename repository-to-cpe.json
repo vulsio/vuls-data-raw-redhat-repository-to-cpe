@@ -7699,6 +7699,14 @@
 				"content/dist/layered/rhel9/x86_64/gatekeeper-textonly/3.14/os"
 			]
 		},
+		"gatekeeper-3.15-for-rhel-9-textonly-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:gatekeeper:3.15::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/gatekeeper-textonly/3.15/os"
+			]
+		},
 		"gatekeeper-3.9-for-rhel-8-textonly-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:gatekeeper:3.9::el8"
@@ -81544,5 +81552,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-04-29T00:47:19.260Z"
+	"last_updated": "2024-04-30T00:46:59.818Z"
 }
