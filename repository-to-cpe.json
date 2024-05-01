@@ -12881,7 +12881,8 @@
 			"cpes": [
 				"cpe:/a:redhat:openshift_serverless:1.31::el8",
 				"cpe:/a:redhat:openshift_serverless:1.32::el8",
-				"cpe:/a:redhat:openshift_serverless:1.33::el8"
+				"cpe:/a:redhat:openshift_serverless:1.33::el8",
+				"cpe:/a:redhat:serverless:1.0::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/aarch64/rhoss/1/debug"
@@ -12891,7 +12892,8 @@
 			"cpes": [
 				"cpe:/a:redhat:openshift_serverless:1.31::el8",
 				"cpe:/a:redhat:openshift_serverless:1.32::el8",
-				"cpe:/a:redhat:openshift_serverless:1.33::el8"
+				"cpe:/a:redhat:openshift_serverless:1.33::el8",
+				"cpe:/a:redhat:serverless:1.0::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/aarch64/rhoss/1/os"
@@ -12901,7 +12903,8 @@
 			"cpes": [
 				"cpe:/a:redhat:openshift_serverless:1.31::el8",
 				"cpe:/a:redhat:openshift_serverless:1.32::el8",
-				"cpe:/a:redhat:openshift_serverless:1.33::el8"
+				"cpe:/a:redhat:openshift_serverless:1.33::el8",
+				"cpe:/a:redhat:serverless:1.0::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/aarch64/rhoss/1/source/SRPMS"
@@ -14450,6 +14453,30 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/ossm/2.1/source/SRPMS"
+			]
+		},
+		"ossm-3-for-rhel-9-aarch64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:service_mesh:3.0::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/aarch64/ossm/3/debug"
+			]
+		},
+		"ossm-3-for-rhel-9-aarch64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:service_mesh:3.0::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/aarch64/ossm/3/os"
+			]
+		},
+		"ossm-3-for-rhel-9-aarch64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:service_mesh:3.0::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/aarch64/ossm/3/source/SRPMS"
 			]
 		},
 		"ossm-3-for-rhel-9-ppc64le-debug-rpms": {
@@ -75194,8 +75221,7 @@
 		},
 		"rhocp-4.15-for-rhel-9-s390x-debug-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:openshift:4.15::el9",
-				"cpe:/a:redhat:openshift_sandboxed_containers:1.7::el9"
+				"cpe:/a:redhat:openshift:4.15::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/s390x/rhocp/4.15/debug"
@@ -75219,8 +75245,7 @@
 		},
 		"rhocp-4.15-for-rhel-9-x86_64-debug-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:openshift:4.15::el9",
-				"cpe:/a:redhat:openshift_sandboxed_containers:1.7::el9"
+				"cpe:/a:redhat:openshift:4.15::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/x86_64/rhocp/4.15/debug"
@@ -75228,8 +75253,7 @@
 		},
 		"rhocp-4.15-for-rhel-9-x86_64-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:openshift:4.15::el9",
-				"cpe:/a:redhat:openshift_sandboxed_containers:1.7::el9"
+				"cpe:/a:redhat:openshift:4.15::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/x86_64/rhocp/4.15/os"
@@ -75237,8 +75261,7 @@
 		},
 		"rhocp-4.15-for-rhel-9-x86_64-source-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:openshift:4.15::el9",
-				"cpe:/a:redhat:openshift_sandboxed_containers:1.7::el9"
+				"cpe:/a:redhat:openshift:4.15::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/x86_64/rhocp/4.15/source/SRPMS"
@@ -81552,5 +81575,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-04-30T00:46:59.818Z"
+	"last_updated": "2024-05-01T00:48:49.957Z"
 }
