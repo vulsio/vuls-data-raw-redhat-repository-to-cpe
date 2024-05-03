@@ -18518,6 +18518,38 @@
 				"content/dist/layered/rhel9/x86_64/rhceph-tools/6/source/SRPMS"
 			]
 		},
+		"rhceph-7-tools-for-rhel-8-ppc64le-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:ceph_storage:7.1::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/ppc64le/rhceph-tools/7/debug"
+			]
+		},
+		"rhceph-7-tools-for-rhel-8-ppc64le-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:ceph_storage:7.1::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/ppc64le/rhceph-tools/7/os"
+			]
+		},
+		"rhceph-7-tools-for-rhel-8-ppc64le-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:ceph_storage:7.1::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/ppc64le/rhceph-tools/7/source/SRPMS"
+			]
+		},
+		"rhceph-7-tools-for-rhel-8-s390x-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:ceph_storage:7.1::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/s390x/rhceph-tools/7/debug"
+			]
+		},
 		"rhceph-7-tools-for-rhel-9-ppc64le-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:ceph_storage:7.0::el9",
@@ -81575,5 +81607,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-05-02T00:47:25.146Z"
+	"last_updated": "2024-05-03T00:45:38.565Z"
 }
