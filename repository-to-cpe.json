@@ -4413,7 +4413,7 @@
 		},
 		"cf-me-5.2-for-rhel-6-debug-rpms": {
 			"cpes": [
-				"cpe:/a:cloudforms_managementengine:5::el6"
+				"cpe:/a:redhat:cloudforms_managementengine:5::el6"
 			],
 			"repo_relative_urls": [
 				"content/dist/cf-me/server/5.2/x86_64/debug"
@@ -4421,7 +4421,7 @@
 		},
 		"cf-me-5.2-for-rhel-6-rpms": {
 			"cpes": [
-				"cpe:/a:cloudforms_managementengine:5::el6"
+				"cpe:/a:redhat:cloudforms_managementengine:5::el6"
 			],
 			"repo_relative_urls": [
 				"content/dist/cf-me/server/5.2/x86_64/os"
@@ -4429,7 +4429,7 @@
 		},
 		"cf-me-5.2-for-rhel-6-source-rpms": {
 			"cpes": [
-				"cpe:/a:cloudforms_managementengine:5::el6"
+				"cpe:/a:redhat:cloudforms_managementengine:5::el6"
 			],
 			"repo_relative_urls": [
 				"content/dist/cf-me/server/5.2/x86_64/source/SRPMS"
@@ -4437,7 +4437,7 @@
 		},
 		"cf-me-5.3-for-rhel-6-debug-rpms": {
 			"cpes": [
-				"cpe:/a:cloudforms_managementengine:5::el6"
+				"cpe:/a:redhat:cloudforms_managementengine:5::el6"
 			],
 			"repo_relative_urls": [
 				"content/dist/cf-me/server/5.3/x86_64/debug"
@@ -4445,7 +4445,7 @@
 		},
 		"cf-me-5.3-for-rhel-6-rpms": {
 			"cpes": [
-				"cpe:/a:cloudforms_managementengine:5::el6"
+				"cpe:/a:redhat:cloudforms_managementengine:5::el6"
 			],
 			"repo_relative_urls": [
 				"content/dist/cf-me/server/5.3/x86_64/os"
@@ -4453,7 +4453,7 @@
 		},
 		"cf-me-5.3-for-rhel-6-source-rpms": {
 			"cpes": [
-				"cpe:/a:cloudforms_managementengine:5::el6"
+				"cpe:/a:redhat:cloudforms_managementengine:5::el6"
 			],
 			"repo_relative_urls": [
 				"content/dist/cf-me/server/5.3/x86_64/source/SRPMS"
@@ -18548,6 +18548,46 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/s390x/rhceph-tools/7/debug"
+			]
+		},
+		"rhceph-7-tools-for-rhel-8-s390x-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:ceph_storage:7.1::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/s390x/rhceph-tools/7/os"
+			]
+		},
+		"rhceph-7-tools-for-rhel-8-s390x-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:ceph_storage:7.1::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/s390x/rhceph-tools/7/source/SRPMS"
+			]
+		},
+		"rhceph-7-tools-for-rhel-8-x86_64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:ceph_storage:7.1::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/rhceph-tools/7/debug"
+			]
+		},
+		"rhceph-7-tools-for-rhel-8-x86_64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:ceph_storage:7.1::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/rhceph-tools/7/os"
+			]
+		},
+		"rhceph-7-tools-for-rhel-8-x86_64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:ceph_storage:7.1::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/rhceph-tools/7/source/SRPMS"
 			]
 		},
 		"rhceph-7-tools-for-rhel-9-ppc64le-debug-rpms": {
@@ -34907,7 +34947,6 @@
 		},
 		"rhel-7-for-power-le-debug-rpms": {
 			"cpes": [
-				"cpe:/o:redhat:enterprise_linux:7::ppc64le:server",
 				"cpe:/o:redhat:enterprise_linux:7::server"
 			],
 			"repo_relative_urls": [
@@ -35565,9 +35604,8 @@
 		},
 		"rhel-7-for-power-le-eus-debug-rpms": {
 			"cpes": [
-				"cpe:/o:redhat:enterprise_linux:7::ppc64le:server",
 				"cpe:/o:redhat:enterprise_linux:7::server",
-				"cpe:/o:redhat:rhel_eus:7.1::ppc64le:server",
+				"cpe:/o:redhat:rhel_eus:7.1::server",
 				"cpe:/o:redhat:rhel_eus:7.2::server",
 				"cpe:/o:redhat:rhel_eus:7.3::server",
 				"cpe:/o:redhat:rhel_eus:7.4::server",
@@ -35587,7 +35625,7 @@
 		},
 		"rhel-7-for-power-le-eus-debug-rpms__7_DOT_1__ppc64le": {
 			"cpes": [
-				"cpe:/o:redhat:rhel_eus:7.1::ppc64le:server"
+				"cpe:/o:redhat:rhel_eus:7.1::server"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel/power-le/7/7.1/ppc64le/debug"
@@ -35643,9 +35681,8 @@
 		},
 		"rhel-7-for-power-le-eus-optional-debug-rpms": {
 			"cpes": [
-				"cpe:/o:redhat:enterprise_linux:7::ppc64le:server",
 				"cpe:/o:redhat:enterprise_linux:7::server",
-				"cpe:/o:redhat:rhel_eus:7.1::ppc64le:server",
+				"cpe:/o:redhat:rhel_eus:7.1::server",
 				"cpe:/o:redhat:rhel_eus:7.2::server",
 				"cpe:/o:redhat:rhel_eus:7.3::server",
 				"cpe:/o:redhat:rhel_eus:7.4::server",
@@ -35665,7 +35702,7 @@
 		},
 		"rhel-7-for-power-le-eus-optional-debug-rpms__7_DOT_1__ppc64le": {
 			"cpes": [
-				"cpe:/o:redhat:rhel_eus:7.1::ppc64le:server"
+				"cpe:/o:redhat:rhel_eus:7.1::server"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel/power-le/7/7.1/ppc64le/optional/debug"
@@ -35721,9 +35758,8 @@
 		},
 		"rhel-7-for-power-le-eus-optional-rpms": {
 			"cpes": [
-				"cpe:/o:redhat:enterprise_linux:7::ppc64le:server",
 				"cpe:/o:redhat:enterprise_linux:7::server",
-				"cpe:/o:redhat:rhel_eus:7.1::ppc64le:server",
+				"cpe:/o:redhat:rhel_eus:7.1::server",
 				"cpe:/o:redhat:rhel_eus:7.2::server",
 				"cpe:/o:redhat:rhel_eus:7.3::server",
 				"cpe:/o:redhat:rhel_eus:7.4::server",
@@ -35743,7 +35779,7 @@
 		},
 		"rhel-7-for-power-le-eus-optional-rpms__7_DOT_1__ppc64le": {
 			"cpes": [
-				"cpe:/o:redhat:rhel_eus:7.1::ppc64le:server"
+				"cpe:/o:redhat:rhel_eus:7.1::server"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel/power-le/7/7.1/ppc64le/optional/os"
@@ -35799,9 +35835,8 @@
 		},
 		"rhel-7-for-power-le-eus-optional-source-rpms": {
 			"cpes": [
-				"cpe:/o:redhat:enterprise_linux:7::ppc64le:server",
 				"cpe:/o:redhat:enterprise_linux:7::server",
-				"cpe:/o:redhat:rhel_eus:7.1::ppc64le:server",
+				"cpe:/o:redhat:rhel_eus:7.1::server",
 				"cpe:/o:redhat:rhel_eus:7.2::server",
 				"cpe:/o:redhat:rhel_eus:7.3::server",
 				"cpe:/o:redhat:rhel_eus:7.4::server",
@@ -35821,7 +35856,7 @@
 		},
 		"rhel-7-for-power-le-eus-optional-source-rpms__7_DOT_1__ppc64le": {
 			"cpes": [
-				"cpe:/o:redhat:rhel_eus:7.1::ppc64le:server"
+				"cpe:/o:redhat:rhel_eus:7.1::server"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel/power-le/7/7.1/ppc64le/optional/source/SRPMS"
@@ -35916,9 +35951,8 @@
 		},
 		"rhel-7-for-power-le-eus-rpms": {
 			"cpes": [
-				"cpe:/o:redhat:enterprise_linux:7::ppc64le:server",
 				"cpe:/o:redhat:enterprise_linux:7::server",
-				"cpe:/o:redhat:rhel_eus:7.1::ppc64le:server",
+				"cpe:/o:redhat:rhel_eus:7.1::server",
 				"cpe:/o:redhat:rhel_eus:7.2::server",
 				"cpe:/o:redhat:rhel_eus:7.3::server",
 				"cpe:/o:redhat:rhel_eus:7.4::server",
@@ -35938,7 +35972,7 @@
 		},
 		"rhel-7-for-power-le-eus-rpms__7_DOT_1__ppc64le": {
 			"cpes": [
-				"cpe:/o:redhat:rhel_eus:7.1::ppc64le:server"
+				"cpe:/o:redhat:rhel_eus:7.1::server"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel/power-le/7/7.1/ppc64le/os"
@@ -36318,9 +36352,8 @@
 		},
 		"rhel-7-for-power-le-eus-source-rpms": {
 			"cpes": [
-				"cpe:/o:redhat:enterprise_linux:7::ppc64le:server",
 				"cpe:/o:redhat:enterprise_linux:7::server",
-				"cpe:/o:redhat:rhel_eus:7.1::ppc64le:server",
+				"cpe:/o:redhat:rhel_eus:7.1::server",
 				"cpe:/o:redhat:rhel_eus:7.2::server",
 				"cpe:/o:redhat:rhel_eus:7.3::server",
 				"cpe:/o:redhat:rhel_eus:7.4::server",
@@ -36340,7 +36373,7 @@
 		},
 		"rhel-7-for-power-le-eus-source-rpms__7_DOT_1__ppc64le": {
 			"cpes": [
-				"cpe:/o:redhat:rhel_eus:7.1::ppc64le:server"
+				"cpe:/o:redhat:rhel_eus:7.1::server"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel/power-le/7/7.1/ppc64le/source/SRPMS"
@@ -36468,7 +36501,6 @@
 		},
 		"rhel-7-for-power-le-optional-debug-rpms": {
 			"cpes": [
-				"cpe:/o:redhat:enterprise_linux:7::ppc64le:server",
 				"cpe:/o:redhat:enterprise_linux:7::server"
 			],
 			"repo_relative_urls": [
@@ -36478,7 +36510,6 @@
 		},
 		"rhel-7-for-power-le-optional-rpms": {
 			"cpes": [
-				"cpe:/o:redhat:enterprise_linux:7::ppc64le:server",
 				"cpe:/o:redhat:enterprise_linux:7::server"
 			],
 			"repo_relative_urls": [
@@ -36488,7 +36519,6 @@
 		},
 		"rhel-7-for-power-le-optional-source-rpms": {
 			"cpes": [
-				"cpe:/o:redhat:enterprise_linux:7::ppc64le:server",
 				"cpe:/o:redhat:enterprise_linux:7::server"
 			],
 			"repo_relative_urls": [
@@ -36891,7 +36921,6 @@
 		},
 		"rhel-7-for-power-le-rpms": {
 			"cpes": [
-				"cpe:/o:redhat:enterprise_linux:7::ppc64le:server",
 				"cpe:/o:redhat:enterprise_linux:7::server"
 			],
 			"repo_relative_urls": [
@@ -37189,7 +37218,6 @@
 		},
 		"rhel-7-for-power-le-source-rpms": {
 			"cpes": [
-				"cpe:/o:redhat:enterprise_linux:7::ppc64le:server",
 				"cpe:/o:redhat:enterprise_linux:7::server"
 			],
 			"repo_relative_urls": [
@@ -81607,5 +81635,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-05-06T00:48:33.670Z"
+	"last_updated": "2024-05-07T00:46:04.639Z"
 }
