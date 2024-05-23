@@ -78268,7 +78268,7 @@
 		},
 		"rhv-4-mgmt-agent-for-rhel-8-ppc64le-debug-rpms": {
 			"cpes": [
-				"cpe:/o:redhat:enterprise_linux:8::hypervisor"
+				"cpe:/o:redhat:rhev_hypervisor:4.4::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/ppc64le/rhv-mgmt-agent/4/debug"
@@ -78276,7 +78276,7 @@
 		},
 		"rhv-4-mgmt-agent-for-rhel-8-ppc64le-rpms": {
 			"cpes": [
-				"cpe:/o:redhat:enterprise_linux:8::hypervisor"
+				"cpe:/o:redhat:rhev_hypervisor:4.4::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/ppc64le/rhv-mgmt-agent/4/os"
@@ -78284,7 +78284,7 @@
 		},
 		"rhv-4-mgmt-agent-for-rhel-8-ppc64le-source-rpms": {
 			"cpes": [
-				"cpe:/o:redhat:enterprise_linux:8::hypervisor"
+				"cpe:/o:redhat:rhev_hypervisor:4.4::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/ppc64le/rhv-mgmt-agent/4/source/SRPMS"
@@ -78292,7 +78292,7 @@
 		},
 		"rhv-4-mgmt-agent-for-rhel-8-x86_64-debug-rpms": {
 			"cpes": [
-				"cpe:/o:redhat:enterprise_linux:8::hypervisor"
+				"cpe:/o:redhat:rhev_hypervisor:4.4::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/rhv-mgmt-agent/4/debug"
@@ -78300,7 +78300,7 @@
 		},
 		"rhv-4-mgmt-agent-for-rhel-8-x86_64-rpms": {
 			"cpes": [
-				"cpe:/o:redhat:enterprise_linux:8::hypervisor"
+				"cpe:/o:redhat:rhev_hypervisor:4.4::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/rhv-mgmt-agent/4/os"
@@ -78308,7 +78308,7 @@
 		},
 		"rhv-4-mgmt-agent-for-rhel-8-x86_64-source-rpms": {
 			"cpes": [
-				"cpe:/o:redhat:enterprise_linux:8::hypervisor"
+				"cpe:/o:redhat:rhev_hypervisor:4.4::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/rhv-mgmt-agent/4/source/SRPMS"
@@ -78316,7 +78316,7 @@
 		},
 		"rhv-4-tools-for-rhel-8-ppc64le-debug-rpms": {
 			"cpes": [
-				"cpe:/o:redhat:enterprise_linux:8::hypervisor"
+				"cpe:/o:redhat:rhev_hypervisor:4.4::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/ppc64le/rhv-tools/4/debug"
@@ -78324,7 +78324,7 @@
 		},
 		"rhv-4-tools-for-rhel-8-ppc64le-rpms": {
 			"cpes": [
-				"cpe:/o:redhat:enterprise_linux:8::hypervisor"
+				"cpe:/o:redhat:rhev_hypervisor:4.4::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/ppc64le/rhv-tools/4/os"
@@ -78332,7 +78332,7 @@
 		},
 		"rhv-4-tools-for-rhel-8-ppc64le-source-rpms": {
 			"cpes": [
-				"cpe:/o:redhat:enterprise_linux:8::hypervisor"
+				"cpe:/o:redhat:rhev_hypervisor:4.4::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/ppc64le/rhv-tools/4/source/SRPMS"
@@ -78340,7 +78340,7 @@
 		},
 		"rhv-4-tools-for-rhel-8-x86_64-debug-rpms": {
 			"cpes": [
-				"cpe:/o:redhat:enterprise_linux:8::hypervisor"
+				"cpe:/o:redhat:rhev_hypervisor:4.4::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/rhv-tools/4/debug"
@@ -78348,7 +78348,7 @@
 		},
 		"rhv-4-tools-for-rhel-8-x86_64-rpms": {
 			"cpes": [
-				"cpe:/o:redhat:enterprise_linux:8::hypervisor"
+				"cpe:/o:redhat:rhev_hypervisor:4.4::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/rhv-tools/4/os"
@@ -78356,7 +78356,7 @@
 		},
 		"rhv-4-tools-for-rhel-8-x86_64-source-rpms": {
 			"cpes": [
-				"cpe:/o:redhat:enterprise_linux:8::hypervisor"
+				"cpe:/o:redhat:rhev_hypervisor:4.4::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/rhv-tools/4/source/SRPMS"
@@ -78436,7 +78436,7 @@
 		},
 		"rhvh-4-build-for-rhel-8-x86_64-debug-rpms": {
 			"cpes": [
-				"cpe:/o:redhat:enterprise_linux:8::hypervisor"
+				"cpe:/o:redhat:rhev_hypervisor:4.4::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/rhvh-build/4/debug"
@@ -78444,7 +78444,7 @@
 		},
 		"rhvh-4-build-for-rhel-8-x86_64-rpms": {
 			"cpes": [
-				"cpe:/o:redhat:enterprise_linux:8::hypervisor"
+				"cpe:/o:redhat:rhev_hypervisor:4.4::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/rhvh-build/4/os"
@@ -78452,7 +78452,7 @@
 		},
 		"rhvh-4-build-for-rhel-8-x86_64-source-rpms": {
 			"cpes": [
-				"cpe:/o:redhat:enterprise_linux:8::hypervisor"
+				"cpe:/o:redhat:rhev_hypervisor:4.4::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/rhvh-build/4/source/SRPMS"
@@ -78460,7 +78460,7 @@
 		},
 		"rhvh-4-for-rhel-8-x86_64-debug-rpms": {
 			"cpes": [
-				"cpe:/o:redhat:enterprise_linux:8::hypervisor"
+				"cpe:/o:redhat:rhev_hypervisor:4.4::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/rhvh/4/debug"
@@ -78468,7 +78468,7 @@
 		},
 		"rhvh-4-for-rhel-8-x86_64-rpms": {
 			"cpes": [
-				"cpe:/o:redhat:enterprise_linux:8::hypervisor"
+				"cpe:/o:redhat:rhev_hypervisor:4.4::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/rhvh/4/os"
@@ -78476,7 +78476,7 @@
 		},
 		"rhvh-4-for-rhel-8-x86_64-source-rpms": {
 			"cpes": [
-				"cpe:/o:redhat:enterprise_linux:8::hypervisor"
+				"cpe:/o:redhat:rhev_hypervisor:4.4::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/rhvh/4/source/SRPMS"
@@ -81959,5 +81959,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-05-23T00:47:22.652Z"
+	"last_updated": "2024-05-23T17:23:26.164Z"
 }
