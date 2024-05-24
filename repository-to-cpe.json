@@ -2640,6 +2640,54 @@
 				"content/dist/layered/rhel8/x86_64/ansible-automation-platform-textonly/ee/os"
 			]
 		},
+		"ansible-developer-1-beta-for-rhel-8-x86_64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:ansible_developer:1.2::el8"
+			],
+			"repo_relative_urls": [
+				"content/beta/layered/rhel8/x86_64/ansible-developer/1-beta/debug"
+			]
+		},
+		"ansible-developer-1-beta-for-rhel-8-x86_64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:ansible_developer:1.2::el8"
+			],
+			"repo_relative_urls": [
+				"content/beta/layered/rhel8/x86_64/ansible-developer/1-beta/os"
+			]
+		},
+		"ansible-developer-1-beta-for-rhel-8-x86_64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:ansible_developer:1.2::el8"
+			],
+			"repo_relative_urls": [
+				"content/beta/layered/rhel8/x86_64/ansible-developer/1-beta/source/SRPMS"
+			]
+		},
+		"ansible-developer-1-beta-for-rhel-9-x86_64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:ansible_developer:1.2::el9"
+			],
+			"repo_relative_urls": [
+				"content/beta/layered/rhel9/x86_64/ansible-developer/1-beta/debug"
+			]
+		},
+		"ansible-developer-1-beta-for-rhel-9-x86_64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:ansible_developer:1.2::el9"
+			],
+			"repo_relative_urls": [
+				"content/beta/layered/rhel9/x86_64/ansible-developer/1-beta/os"
+			]
+		},
+		"ansible-developer-1-beta-for-rhel-9-x86_64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:ansible_developer:1.2::el9"
+			],
+			"repo_relative_urls": [
+				"content/beta/layered/rhel9/x86_64/ansible-developer/1-beta/source/SRPMS"
+			]
+		},
 		"ansible-developer-1.0-for-rhel-8-x86_64-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:ansible_automation_platform_developer:2.3::el8",
@@ -3012,7 +3060,7 @@
 		"ansible-developer-1.2-for-rhel-8-x86_64-source-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:ansible_automation_platform_developer:2.5::el8",
-				"cpe:/a:redhat:ansible_developer:1.1::el8"
+				"cpe:/a:redhat:ansible_developer:1.2::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/ansible-developer/1.2/source/SRPMS"
@@ -81959,5 +82007,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-05-23T17:23:26.164Z"
+	"last_updated": "2024-05-24T00:48:05.230Z"
 }
