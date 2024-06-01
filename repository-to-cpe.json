@@ -2640,6 +2640,78 @@
 				"content/dist/layered/rhel8/x86_64/ansible-automation-platform-textonly/ee/os"
 			]
 		},
+		"ansible-developer-1-beta-for-rhel-8-aarch64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:ansible_developer:1.2::el8"
+			],
+			"repo_relative_urls": [
+				"content/beta/layered/rhel8/aarch64/ansible-developer/1-beta/debug"
+			]
+		},
+		"ansible-developer-1-beta-for-rhel-8-aarch64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:ansible_developer:1.2::el8"
+			],
+			"repo_relative_urls": [
+				"content/beta/layered/rhel8/aarch64/ansible-developer/1-beta/os"
+			]
+		},
+		"ansible-developer-1-beta-for-rhel-8-aarch64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:ansible_developer:1.2::el8"
+			],
+			"repo_relative_urls": [
+				"content/beta/layered/rhel8/aarch64/ansible-developer/1-beta/source/SRPMS"
+			]
+		},
+		"ansible-developer-1-beta-for-rhel-8-ppc64le-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:ansible_developer:1.2::el8"
+			],
+			"repo_relative_urls": [
+				"content/beta/layered/rhel8/ppc64le/ansible-developer/1-beta/debug"
+			]
+		},
+		"ansible-developer-1-beta-for-rhel-8-ppc64le-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:ansible_developer:1.2::el8"
+			],
+			"repo_relative_urls": [
+				"content/beta/layered/rhel8/ppc64le/ansible-developer/1-beta/os"
+			]
+		},
+		"ansible-developer-1-beta-for-rhel-8-ppc64le-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:ansible_developer:1.2::el8"
+			],
+			"repo_relative_urls": [
+				"content/beta/layered/rhel8/ppc64le/ansible-developer/1-beta/source/SRPMS"
+			]
+		},
+		"ansible-developer-1-beta-for-rhel-8-s390x-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:ansible_developer:1.2::el8"
+			],
+			"repo_relative_urls": [
+				"content/beta/layered/rhel8/s390x/ansible-developer/1-beta/debug"
+			]
+		},
+		"ansible-developer-1-beta-for-rhel-8-s390x-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:ansible_developer:1.2::el8"
+			],
+			"repo_relative_urls": [
+				"content/beta/layered/rhel8/s390x/ansible-developer/1-beta/os"
+			]
+		},
+		"ansible-developer-1-beta-for-rhel-8-s390x-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:ansible_developer:1.2::el8"
+			],
+			"repo_relative_urls": [
+				"content/beta/layered/rhel8/s390x/ansible-developer/1-beta/source/SRPMS"
+			]
+		},
 		"ansible-developer-1-beta-for-rhel-8-x86_64-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:ansible_developer:1.2::el8"
@@ -2662,6 +2734,78 @@
 			],
 			"repo_relative_urls": [
 				"content/beta/layered/rhel8/x86_64/ansible-developer/1-beta/source/SRPMS"
+			]
+		},
+		"ansible-developer-1-beta-for-rhel-9-aarch64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:ansible_developer:1.2::el9"
+			],
+			"repo_relative_urls": [
+				"content/beta/layered/rhel9/aarch64/ansible-developer/1-beta/debug"
+			]
+		},
+		"ansible-developer-1-beta-for-rhel-9-aarch64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:ansible_developer:1.2::el9"
+			],
+			"repo_relative_urls": [
+				"content/beta/layered/rhel9/aarch64/ansible-developer/1-beta/os"
+			]
+		},
+		"ansible-developer-1-beta-for-rhel-9-aarch64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:ansible_developer:1.2::el9"
+			],
+			"repo_relative_urls": [
+				"content/beta/layered/rhel9/aarch64/ansible-developer/1-beta/source/SRPMS"
+			]
+		},
+		"ansible-developer-1-beta-for-rhel-9-ppc64le-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:ansible_developer:1.2::el9"
+			],
+			"repo_relative_urls": [
+				"content/beta/layered/rhel9/ppc64le/ansible-developer/1-beta/debug"
+			]
+		},
+		"ansible-developer-1-beta-for-rhel-9-ppc64le-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:ansible_developer:1.2::el9"
+			],
+			"repo_relative_urls": [
+				"content/beta/layered/rhel9/ppc64le/ansible-developer/1-beta/os"
+			]
+		},
+		"ansible-developer-1-beta-for-rhel-9-ppc64le-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:ansible_developer:1.2::el9"
+			],
+			"repo_relative_urls": [
+				"content/beta/layered/rhel9/ppc64le/ansible-developer/1-beta/source/SRPMS"
+			]
+		},
+		"ansible-developer-1-beta-for-rhel-9-s390x-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:ansible_developer:1.2::el9"
+			],
+			"repo_relative_urls": [
+				"content/beta/layered/rhel9/s390x/ansible-developer/1-beta/debug"
+			]
+		},
+		"ansible-developer-1-beta-for-rhel-9-s390x-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:ansible_developer:1.2::el9"
+			],
+			"repo_relative_urls": [
+				"content/beta/layered/rhel9/s390x/ansible-developer/1-beta/os"
+			]
+		},
+		"ansible-developer-1-beta-for-rhel-9-s390x-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:ansible_developer:1.2::el9"
+			],
+			"repo_relative_urls": [
+				"content/beta/layered/rhel9/s390x/ansible-developer/1-beta/source/SRPMS"
 			]
 		},
 		"ansible-developer-1-beta-for-rhel-9-x86_64-debug-rpms": {
@@ -17740,6 +17884,15 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/middleware/rhbk/1/x86_64/os"
+			]
+		},
+		"rhboac-hwt-textonly-1-for-middleware-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:apache_camel_hawtio:4.0::el6",
+				"cpe:/a:redhat:apache_camel_hawtio:4.0::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/middleware/rhboac-hwt/1/x86_64/os"
 			]
 		},
 		"rhbop-textonly-1-for-middleware-rpms": {
@@ -52464,10 +52617,12 @@
 		"rhel-8-for-aarch64-appstream-e4s-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_e4s:8.4::appstream",
+				"cpe:/a:redhat:rhel_e4s:8.6::appstream",
 				"cpe:/a:redhat:rhel_eus:8.4::appstream"
 			],
 			"repo_relative_urls": [
-				"content/e4s/rhel8/8.4/aarch64/appstream/debug"
+				"content/e4s/rhel8/8.4/aarch64/appstream/debug",
+				"content/e4s/rhel8/8.6/aarch64/appstream/debug"
 			]
 		},
 		"rhel-8-for-aarch64-appstream-e4s-debug-rpms__8_DOT_4": {
@@ -52478,13 +52633,23 @@
 				"content/e4s/rhel8/8.4/aarch64/appstream/debug"
 			]
 		},
+		"rhel-8-for-aarch64-appstream-e4s-debug-rpms__8_DOT_6": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_e4s:8.6::appstream"
+			],
+			"repo_relative_urls": [
+				"content/e4s/rhel8/8.6/aarch64/appstream/debug"
+			]
+		},
 		"rhel-8-for-aarch64-appstream-e4s-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_e4s:8.4::appstream",
+				"cpe:/a:redhat:rhel_e4s:8.6::appstream",
 				"cpe:/a:redhat:rhel_eus:8.4::appstream"
 			],
 			"repo_relative_urls": [
-				"content/e4s/rhel8/8.4/aarch64/appstream/os"
+				"content/e4s/rhel8/8.4/aarch64/appstream/os",
+				"content/e4s/rhel8/8.6/aarch64/appstream/os"
 			]
 		},
 		"rhel-8-for-aarch64-appstream-e4s-rpms__8_DOT_4": {
@@ -52495,13 +52660,23 @@
 				"content/e4s/rhel8/8.4/aarch64/appstream/os"
 			]
 		},
+		"rhel-8-for-aarch64-appstream-e4s-rpms__8_DOT_6": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_e4s:8.6::appstream"
+			],
+			"repo_relative_urls": [
+				"content/e4s/rhel8/8.6/aarch64/appstream/os"
+			]
+		},
 		"rhel-8-for-aarch64-appstream-e4s-source-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_e4s:8.4::appstream",
+				"cpe:/a:redhat:rhel_e4s:8.6::appstream",
 				"cpe:/a:redhat:rhel_eus:8.4::appstream"
 			],
 			"repo_relative_urls": [
-				"content/e4s/rhel8/8.4/aarch64/appstream/source/SRPMS"
+				"content/e4s/rhel8/8.4/aarch64/appstream/source/SRPMS",
+				"content/e4s/rhel8/8.6/aarch64/appstream/source/SRPMS"
 			]
 		},
 		"rhel-8-for-aarch64-appstream-e4s-source-rpms__8_DOT_4": {
@@ -52510,6 +52685,14 @@
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel8/8.4/aarch64/appstream/source/SRPMS"
+			]
+		},
+		"rhel-8-for-aarch64-appstream-e4s-source-rpms__8_DOT_6": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_e4s:8.6::appstream"
+			],
+			"repo_relative_urls": [
+				"content/e4s/rhel8/8.6/aarch64/appstream/source/SRPMS"
 			]
 		},
 		"rhel-8-for-aarch64-appstream-eus-debug-rpms": {
@@ -52722,10 +52905,12 @@
 		"rhel-8-for-aarch64-baseos-e4s-debug-rpms": {
 			"cpes": [
 				"cpe:/o:redhat:rhel_e4s:8.4::baseos",
+				"cpe:/o:redhat:rhel_e4s:8.6::baseos",
 				"cpe:/o:redhat:rhel_eus:8.4::baseos"
 			],
 			"repo_relative_urls": [
-				"content/e4s/rhel8/8.4/aarch64/baseos/debug"
+				"content/e4s/rhel8/8.4/aarch64/baseos/debug",
+				"content/e4s/rhel8/8.6/aarch64/baseos/debug"
 			]
 		},
 		"rhel-8-for-aarch64-baseos-e4s-debug-rpms__8_DOT_4": {
@@ -52736,13 +52921,23 @@
 				"content/e4s/rhel8/8.4/aarch64/baseos/debug"
 			]
 		},
+		"rhel-8-for-aarch64-baseos-e4s-debug-rpms__8_DOT_6": {
+			"cpes": [
+				"cpe:/o:redhat:rhel_e4s:8.6::baseos"
+			],
+			"repo_relative_urls": [
+				"content/e4s/rhel8/8.6/aarch64/baseos/debug"
+			]
+		},
 		"rhel-8-for-aarch64-baseos-e4s-rpms": {
 			"cpes": [
 				"cpe:/o:redhat:rhel_e4s:8.4::baseos",
+				"cpe:/o:redhat:rhel_e4s:8.6::baseos",
 				"cpe:/o:redhat:rhel_eus:8.4::baseos"
 			],
 			"repo_relative_urls": [
-				"content/e4s/rhel8/8.4/aarch64/baseos/os"
+				"content/e4s/rhel8/8.4/aarch64/baseos/os",
+				"content/e4s/rhel8/8.6/aarch64/baseos/os"
 			]
 		},
 		"rhel-8-for-aarch64-baseos-e4s-rpms__8_DOT_4": {
@@ -52753,13 +52948,23 @@
 				"content/e4s/rhel8/8.4/aarch64/baseos/os"
 			]
 		},
+		"rhel-8-for-aarch64-baseos-e4s-rpms__8_DOT_6": {
+			"cpes": [
+				"cpe:/o:redhat:rhel_e4s:8.6::baseos"
+			],
+			"repo_relative_urls": [
+				"content/e4s/rhel8/8.6/aarch64/baseos/os"
+			]
+		},
 		"rhel-8-for-aarch64-baseos-e4s-source-rpms": {
 			"cpes": [
 				"cpe:/o:redhat:rhel_e4s:8.4::baseos",
+				"cpe:/o:redhat:rhel_e4s:8.6::baseos",
 				"cpe:/o:redhat:rhel_eus:8.4::baseos"
 			],
 			"repo_relative_urls": [
-				"content/e4s/rhel8/8.4/aarch64/baseos/source/SRPMS"
+				"content/e4s/rhel8/8.4/aarch64/baseos/source/SRPMS",
+				"content/e4s/rhel8/8.6/aarch64/baseos/source/SRPMS"
 			]
 		},
 		"rhel-8-for-aarch64-baseos-e4s-source-rpms__8_DOT_4": {
@@ -52768,6 +52973,14 @@
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel8/8.4/aarch64/baseos/source/SRPMS"
+			]
+		},
+		"rhel-8-for-aarch64-baseos-e4s-source-rpms__8_DOT_6": {
+			"cpes": [
+				"cpe:/o:redhat:rhel_e4s:8.6::baseos"
+			],
+			"repo_relative_urls": [
+				"content/e4s/rhel8/8.6/aarch64/baseos/source/SRPMS"
 			]
 		},
 		"rhel-8-for-aarch64-baseos-eus-debug-rpms": {
@@ -55902,10 +56115,12 @@
 		"rhel-8-for-s390x-appstream-e4s-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_e4s:8.4::appstream",
+				"cpe:/a:redhat:rhel_e4s:8.6::appstream",
 				"cpe:/a:redhat:rhel_eus:8.4::appstream"
 			],
 			"repo_relative_urls": [
-				"content/e4s/rhel8/8.4/s390x/appstream/debug"
+				"content/e4s/rhel8/8.4/s390x/appstream/debug",
+				"content/e4s/rhel8/8.6/s390x/appstream/debug"
 			]
 		},
 		"rhel-8-for-s390x-appstream-e4s-debug-rpms__8_DOT_4": {
@@ -55916,13 +56131,23 @@
 				"content/e4s/rhel8/8.4/s390x/appstream/debug"
 			]
 		},
+		"rhel-8-for-s390x-appstream-e4s-debug-rpms__8_DOT_6": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_e4s:8.6::appstream"
+			],
+			"repo_relative_urls": [
+				"content/e4s/rhel8/8.6/s390x/appstream/debug"
+			]
+		},
 		"rhel-8-for-s390x-appstream-e4s-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_e4s:8.4::appstream",
+				"cpe:/a:redhat:rhel_e4s:8.6::appstream",
 				"cpe:/a:redhat:rhel_eus:8.4::appstream"
 			],
 			"repo_relative_urls": [
-				"content/e4s/rhel8/8.4/s390x/appstream/os"
+				"content/e4s/rhel8/8.4/s390x/appstream/os",
+				"content/e4s/rhel8/8.6/s390x/appstream/os"
 			]
 		},
 		"rhel-8-for-s390x-appstream-e4s-rpms__8_DOT_4": {
@@ -55933,13 +56158,23 @@
 				"content/e4s/rhel8/8.4/s390x/appstream/os"
 			]
 		},
+		"rhel-8-for-s390x-appstream-e4s-rpms__8_DOT_6": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_e4s:8.6::appstream"
+			],
+			"repo_relative_urls": [
+				"content/e4s/rhel8/8.6/s390x/appstream/os"
+			]
+		},
 		"rhel-8-for-s390x-appstream-e4s-source-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_e4s:8.4::appstream",
+				"cpe:/a:redhat:rhel_e4s:8.6::appstream",
 				"cpe:/a:redhat:rhel_eus:8.4::appstream"
 			],
 			"repo_relative_urls": [
-				"content/e4s/rhel8/8.4/s390x/appstream/source/SRPMS"
+				"content/e4s/rhel8/8.4/s390x/appstream/source/SRPMS",
+				"content/e4s/rhel8/8.6/s390x/appstream/source/SRPMS"
 			]
 		},
 		"rhel-8-for-s390x-appstream-e4s-source-rpms__8_DOT_4": {
@@ -55948,6 +56183,14 @@
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel8/8.4/s390x/appstream/source/SRPMS"
+			]
+		},
+		"rhel-8-for-s390x-appstream-e4s-source-rpms__8_DOT_6": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_e4s:8.6::appstream"
+			],
+			"repo_relative_urls": [
+				"content/e4s/rhel8/8.6/s390x/appstream/source/SRPMS"
 			]
 		},
 		"rhel-8-for-s390x-appstream-eus-debug-rpms": {
@@ -56160,10 +56403,12 @@
 		"rhel-8-for-s390x-baseos-e4s-debug-rpms": {
 			"cpes": [
 				"cpe:/o:redhat:rhel_e4s:8.4::baseos",
+				"cpe:/o:redhat:rhel_e4s:8.6::baseos",
 				"cpe:/o:redhat:rhel_eus:8.4::baseos"
 			],
 			"repo_relative_urls": [
-				"content/e4s/rhel8/8.4/s390x/baseos/debug"
+				"content/e4s/rhel8/8.4/s390x/baseos/debug",
+				"content/e4s/rhel8/8.6/s390x/baseos/debug"
 			]
 		},
 		"rhel-8-for-s390x-baseos-e4s-debug-rpms__8_DOT_4": {
@@ -56174,13 +56419,23 @@
 				"content/e4s/rhel8/8.4/s390x/baseos/debug"
 			]
 		},
+		"rhel-8-for-s390x-baseos-e4s-debug-rpms__8_DOT_6": {
+			"cpes": [
+				"cpe:/o:redhat:rhel_e4s:8.6::baseos"
+			],
+			"repo_relative_urls": [
+				"content/e4s/rhel8/8.6/s390x/baseos/debug"
+			]
+		},
 		"rhel-8-for-s390x-baseos-e4s-rpms": {
 			"cpes": [
 				"cpe:/o:redhat:rhel_e4s:8.4::baseos",
+				"cpe:/o:redhat:rhel_e4s:8.6::baseos",
 				"cpe:/o:redhat:rhel_eus:8.4::baseos"
 			],
 			"repo_relative_urls": [
-				"content/e4s/rhel8/8.4/s390x/baseos/os"
+				"content/e4s/rhel8/8.4/s390x/baseos/os",
+				"content/e4s/rhel8/8.6/s390x/baseos/os"
 			]
 		},
 		"rhel-8-for-s390x-baseos-e4s-rpms__8_DOT_4": {
@@ -56191,13 +56446,23 @@
 				"content/e4s/rhel8/8.4/s390x/baseos/os"
 			]
 		},
+		"rhel-8-for-s390x-baseos-e4s-rpms__8_DOT_6": {
+			"cpes": [
+				"cpe:/o:redhat:rhel_e4s:8.6::baseos"
+			],
+			"repo_relative_urls": [
+				"content/e4s/rhel8/8.6/s390x/baseos/os"
+			]
+		},
 		"rhel-8-for-s390x-baseos-e4s-source-rpms": {
 			"cpes": [
 				"cpe:/o:redhat:rhel_e4s:8.4::baseos",
+				"cpe:/o:redhat:rhel_e4s:8.6::baseos",
 				"cpe:/o:redhat:rhel_eus:8.4::baseos"
 			],
 			"repo_relative_urls": [
-				"content/e4s/rhel8/8.4/s390x/baseos/source/SRPMS"
+				"content/e4s/rhel8/8.4/s390x/baseos/source/SRPMS",
+				"content/e4s/rhel8/8.6/s390x/baseos/source/SRPMS"
 			]
 		},
 		"rhel-8-for-s390x-baseos-e4s-source-rpms__8_DOT_4": {
@@ -56206,6 +56471,14 @@
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel8/8.4/s390x/baseos/source/SRPMS"
+			]
+		},
+		"rhel-8-for-s390x-baseos-e4s-source-rpms__8_DOT_6": {
+			"cpes": [
+				"cpe:/o:redhat:rhel_e4s:8.6::baseos"
+			],
+			"repo_relative_urls": [
+				"content/e4s/rhel8/8.6/s390x/baseos/source/SRPMS"
 			]
 		},
 		"rhel-8-for-s390x-baseos-eus-debug-rpms": {
@@ -82007,5 +82280,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-05-24T00:48:05.230Z"
+	"last_updated": "2024-06-01T00:47:38.350Z"
 }
