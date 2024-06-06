@@ -10558,7 +10558,8 @@
 		},
 		"kdo-5-for-rhel-9-x86_64-debug-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:kube_descheduler_operator:5.0::el9"
+				"cpe:/a:redhat:kube_descheduler_operator:5.0::el9",
+				"cpe:/a:redhat:kube_descheduler_operator:5.1::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/x86_64/kdo/5/debug"
@@ -10566,7 +10567,8 @@
 		},
 		"kdo-5-for-rhel-9-x86_64-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:kube_descheduler_operator:5.0::el9"
+				"cpe:/a:redhat:kube_descheduler_operator:5.0::el9",
+				"cpe:/a:redhat:kube_descheduler_operator:5.1::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/x86_64/kdo/5/os"
@@ -10574,7 +10576,8 @@
 		},
 		"kdo-5-for-rhel-9-x86_64-source-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:kube_descheduler_operator:5.0::el9"
+				"cpe:/a:redhat:kube_descheduler_operator:5.0::el9",
+				"cpe:/a:redhat:kube_descheduler_operator:5.1::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/x86_64/kdo/5/source/SRPMS"
@@ -19020,7 +19023,8 @@
 		"rhdh-1-for-rhel-9-x86_64-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhdh:1.0::el9",
-				"cpe:/a:redhat:rhdh:1.1::el9"
+				"cpe:/a:redhat:rhdh:1.1::el9",
+				"cpe:/a:redhat:rhdh:1.2::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/x86_64/rhdh/1/os"
@@ -79065,7 +79069,8 @@
 				"cpe:/a:redhat:workload_availability_self_node_remediation:0.5::el8",
 				"cpe:/a:redhat:workload_availability_self_node_remediation:0.6::el8",
 				"cpe:/a:redhat:workload_availability_self_node_remediation:0.7::el8",
-				"cpe:/a:redhat:workload_availability_self_node_remediation:0.8::el8"
+				"cpe:/a:redhat:workload_availability_self_node_remediation:0.8::el8",
+				"cpe:/a:redhat:workload_availability_self_node_remediation:0.9::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/rhwa-snr/1/debug"
@@ -79077,7 +79082,8 @@
 				"cpe:/a:redhat:workload_availability_self_node_remediation:0.5::el8",
 				"cpe:/a:redhat:workload_availability_self_node_remediation:0.6::el8",
 				"cpe:/a:redhat:workload_availability_self_node_remediation:0.7::el8",
-				"cpe:/a:redhat:workload_availability_self_node_remediation:0.8::el8"
+				"cpe:/a:redhat:workload_availability_self_node_remediation:0.8::el8",
+				"cpe:/a:redhat:workload_availability_self_node_remediation:0.9::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/rhwa-snr/1/os"
@@ -79089,7 +79095,8 @@
 				"cpe:/a:redhat:workload_availability_self_node_remediation:0.5::el8",
 				"cpe:/a:redhat:workload_availability_self_node_remediation:0.6::el8",
 				"cpe:/a:redhat:workload_availability_self_node_remediation:0.7::el8",
-				"cpe:/a:redhat:workload_availability_self_node_remediation:0.8::el8"
+				"cpe:/a:redhat:workload_availability_self_node_remediation:0.8::el8",
+				"cpe:/a:redhat:workload_availability_self_node_remediation:0.9::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/rhwa-snr/1/source/SRPMS"
@@ -82371,5 +82378,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-06-05T00:47:32.202Z"
+	"last_updated": "2024-06-06T00:47:43.509Z"
 }
