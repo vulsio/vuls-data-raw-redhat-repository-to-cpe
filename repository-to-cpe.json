@@ -34430,6 +34430,108 @@
 				"content/dist/rhel/power/7/7Server/ppc64/debug"
 			]
 		},
+		"rhel-7-for-power-els-debug-rpms": {
+			"cpes": [
+				"cpe:/o:redhat:enterprise_linux:7::server",
+				"cpe:/o:redhat:rhel_els:7"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/power/7/7Server/ppc64/debug"
+			]
+		},
+		"rhel-7-for-power-els-debug-rpms__ppc64": {
+			"cpes": [
+				"cpe:/o:redhat:rhel_els:7"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/power/7/7Server/ppc64/debug"
+			]
+		},
+		"rhel-7-for-power-els-optional-debug-rpms": {
+			"cpes": [
+				"cpe:/o:redhat:enterprise_linux:7::server",
+				"cpe:/o:redhat:rhel_els:7"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/power/7/7Server/ppc64/optional/debug"
+			]
+		},
+		"rhel-7-for-power-els-optional-debug-rpms__ppc64": {
+			"cpes": [
+				"cpe:/o:redhat:rhel_els:7"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/power/7/7Server/ppc64/optional/debug"
+			]
+		},
+		"rhel-7-for-power-els-optional-rpms": {
+			"cpes": [
+				"cpe:/o:redhat:enterprise_linux:7::server",
+				"cpe:/o:redhat:rhel_els:7"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/power/7/7Server/ppc64/optional/os"
+			]
+		},
+		"rhel-7-for-power-els-optional-rpms__ppc64": {
+			"cpes": [
+				"cpe:/o:redhat:rhel_els:7"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/power/7/7Server/ppc64/optional/os"
+			]
+		},
+		"rhel-7-for-power-els-optional-source-rpms": {
+			"cpes": [
+				"cpe:/o:redhat:enterprise_linux:7::server",
+				"cpe:/o:redhat:rhel_els:7"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/power/7/7Server/ppc64/optional/source/SRPMS"
+			]
+		},
+		"rhel-7-for-power-els-optional-source-rpms__ppc64": {
+			"cpes": [
+				"cpe:/o:redhat:rhel_els:7"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/power/7/7Server/ppc64/optional/source/SRPMS"
+			]
+		},
+		"rhel-7-for-power-els-rpms": {
+			"cpes": [
+				"cpe:/o:redhat:enterprise_linux:7::server",
+				"cpe:/o:redhat:rhel_els:7"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/power/7/7Server/ppc64/os"
+			]
+		},
+		"rhel-7-for-power-els-rpms__ppc64": {
+			"cpes": [
+				"cpe:/o:redhat:rhel_els:7"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/power/7/7Server/ppc64/os"
+			]
+		},
+		"rhel-7-for-power-els-source-rpms": {
+			"cpes": [
+				"cpe:/o:redhat:enterprise_linux:7::server",
+				"cpe:/o:redhat:rhel_els:7"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/power/7/7Server/ppc64/source/SRPMS"
+			]
+		},
+		"rhel-7-for-power-els-source-rpms__ppc64": {
+			"cpes": [
+				"cpe:/o:redhat:rhel_els:7"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/power/7/7Server/ppc64/source/SRPMS"
+			]
+		},
 		"rhel-7-for-power-eus-debug-rpms": {
 			"cpes": [
 				"cpe:/o:redhat:enterprise_linux:7::server",
@@ -35941,6 +36043,108 @@
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel/power-le/7/7.7/ppc64le/source/SRPMS"
+			]
+		},
+		"rhel-7-for-power-le-els-debug-rpms": {
+			"cpes": [
+				"cpe:/o:redhat:enterprise_linux:7::server",
+				"cpe:/o:redhat:rhel_els:7"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/power-le/7/7Server/ppc64le/debug"
+			]
+		},
+		"rhel-7-for-power-le-els-debug-rpms__ppc64le": {
+			"cpes": [
+				"cpe:/o:redhat:rhel_els:7"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/power-le/7/7Server/ppc64le/debug"
+			]
+		},
+		"rhel-7-for-power-le-els-optional-debug-rpms": {
+			"cpes": [
+				"cpe:/o:redhat:enterprise_linux:7::server",
+				"cpe:/o:redhat:rhel_els:7"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/power-le/7/7Server/ppc64le/optional/debug"
+			]
+		},
+		"rhel-7-for-power-le-els-optional-debug-rpms__ppc64le": {
+			"cpes": [
+				"cpe:/o:redhat:rhel_els:7"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/power-le/7/7Server/ppc64le/optional/debug"
+			]
+		},
+		"rhel-7-for-power-le-els-optional-rpms": {
+			"cpes": [
+				"cpe:/o:redhat:enterprise_linux:7::server",
+				"cpe:/o:redhat:rhel_els:7"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/power-le/7/7Server/ppc64le/optional/os"
+			]
+		},
+		"rhel-7-for-power-le-els-optional-rpms__ppc64le": {
+			"cpes": [
+				"cpe:/o:redhat:rhel_els:7"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/power-le/7/7Server/ppc64le/optional/os"
+			]
+		},
+		"rhel-7-for-power-le-els-optional-source-rpms": {
+			"cpes": [
+				"cpe:/o:redhat:enterprise_linux:7::server",
+				"cpe:/o:redhat:rhel_els:7"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/power-le/7/7Server/ppc64le/optional/source/SRPMS"
+			]
+		},
+		"rhel-7-for-power-le-els-optional-source-rpms__ppc64le": {
+			"cpes": [
+				"cpe:/o:redhat:rhel_els:7"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/power-le/7/7Server/ppc64le/optional/source/SRPMS"
+			]
+		},
+		"rhel-7-for-power-le-els-rpms": {
+			"cpes": [
+				"cpe:/o:redhat:enterprise_linux:7::server",
+				"cpe:/o:redhat:rhel_els:7"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/power-le/7/7Server/ppc64le/os"
+			]
+		},
+		"rhel-7-for-power-le-els-rpms__ppc64le": {
+			"cpes": [
+				"cpe:/o:redhat:rhel_els:7"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/power-le/7/7Server/ppc64le/os"
+			]
+		},
+		"rhel-7-for-power-le-els-source-rpms": {
+			"cpes": [
+				"cpe:/o:redhat:enterprise_linux:7::server",
+				"cpe:/o:redhat:rhel_els:7"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/power-le/7/7Server/ppc64le/source/SRPMS"
+			]
+		},
+		"rhel-7-for-power-le-els-source-rpms__ppc64le": {
+			"cpes": [
+				"cpe:/o:redhat:rhel_els:7"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/power-le/7/7Server/ppc64le/source/SRPMS"
 			]
 		},
 		"rhel-7-for-power-le-eus-debug-rpms": {
@@ -66808,6 +67012,30 @@
 				"content/dist/rhel/server/6/6Server/x86_64/highavailability/source/SRPMS"
 			]
 		},
+		"rhel-ha-for-rhel-7-for-power-le-els-debug-rpms": {
+			"cpes": [
+				"cpe:/o:redhat:enterprise_linux:7::server"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/power-le/7/7Server/ppc64le/highavailability/debug"
+			]
+		},
+		"rhel-ha-for-rhel-7-for-power-le-els-rpms": {
+			"cpes": [
+				"cpe:/o:redhat:enterprise_linux:7::server"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/power-le/7/7Server/ppc64le/highavailability/os"
+			]
+		},
+		"rhel-ha-for-rhel-7-for-power-le-els-source-rpms": {
+			"cpes": [
+				"cpe:/o:redhat:enterprise_linux:7::server"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/power-le/7/7Server/ppc64le/highavailability/source/SRPMS"
+			]
+		},
 		"rhel-ha-for-rhel-7-for-system-z-debug-rpms": {
 			"cpes": [
 				"cpe:/o:redhat:enterprise_linux:7::server"
@@ -69692,6 +69920,30 @@
 				"content/dist/rhel/server/6/6Server/x86_64/resilientstorage/source/SRPMS"
 			]
 		},
+		"rhel-rs-for-rhel-7-for-power-le-els-debug-rpms": {
+			"cpes": [
+				"cpe:/o:redhat:enterprise_linux:7::server"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/power-le/7/7Server/ppc64le/resilientstorage/debug"
+			]
+		},
+		"rhel-rs-for-rhel-7-for-power-le-els-rpms": {
+			"cpes": [
+				"cpe:/o:redhat:enterprise_linux:7::server"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/power-le/7/7Server/ppc64le/resilientstorage/os"
+			]
+		},
+		"rhel-rs-for-rhel-7-for-power-le-els-source-rpms": {
+			"cpes": [
+				"cpe:/o:redhat:enterprise_linux:7::server"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/power-le/7/7Server/ppc64le/resilientstorage/source/SRPMS"
+			]
+		},
 		"rhel-rs-for-rhel-7-for-system-z-debug-rpms": {
 			"cpes": [
 				"cpe:/o:redhat:enterprise_linux:7::server"
@@ -70482,6 +70734,57 @@
 				"content/dist/rhel/power/7/7Server/ppc64/sap/debug"
 			]
 		},
+		"rhel-sap-for-rhel-7-for-power-els-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_extras_sap:7",
+				"cpe:/a:redhat:rhel_extras_sap_els:7"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/power/7/7Server/ppc64/sap/debug"
+			]
+		},
+		"rhel-sap-for-rhel-7-for-power-els-debug-rpms__ppc64": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_extras_sap_els:7"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/power/7/7Server/ppc64/sap/debug"
+			]
+		},
+		"rhel-sap-for-rhel-7-for-power-els-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_extras_sap:7",
+				"cpe:/a:redhat:rhel_extras_sap_els:7"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/power/7/7Server/ppc64/sap/os"
+			]
+		},
+		"rhel-sap-for-rhel-7-for-power-els-rpms__ppc64": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_extras_sap_els:7"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/power/7/7Server/ppc64/sap/os"
+			]
+		},
+		"rhel-sap-for-rhel-7-for-power-els-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_extras_sap:7",
+				"cpe:/a:redhat:rhel_extras_sap_els:7"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/power/7/7Server/ppc64/sap/source/SRPMS"
+			]
+		},
+		"rhel-sap-for-rhel-7-for-power-els-source-rpms__ppc64": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_extras_sap_els:7"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/power/7/7Server/ppc64/sap/source/SRPMS"
+			]
+		},
 		"rhel-sap-for-rhel-7-for-power-eus-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_extras_sap:7",
@@ -70813,6 +71116,57 @@
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel/power-le/7/7.7/ppc64le/sap/source/SRPMS"
+			]
+		},
+		"rhel-sap-for-rhel-7-for-power-le-els-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_extras_sap:7",
+				"cpe:/a:redhat:rhel_extras_sap_els:7"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/power-le/7/7Server/ppc64le/sap/debug"
+			]
+		},
+		"rhel-sap-for-rhel-7-for-power-le-els-debug-rpms__ppc64le": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_extras_sap_els:7"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/power-le/7/7Server/ppc64le/sap/debug"
+			]
+		},
+		"rhel-sap-for-rhel-7-for-power-le-els-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_extras_sap:7",
+				"cpe:/a:redhat:rhel_extras_sap_els:7"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/power-le/7/7Server/ppc64le/sap/os"
+			]
+		},
+		"rhel-sap-for-rhel-7-for-power-le-els-rpms__ppc64le": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_extras_sap_els:7"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/power-le/7/7Server/ppc64le/sap/os"
+			]
+		},
+		"rhel-sap-for-rhel-7-for-power-le-els-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_extras_sap:7",
+				"cpe:/a:redhat:rhel_extras_sap_els:7"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/power-le/7/7Server/ppc64le/sap/source/SRPMS"
+			]
+		},
+		"rhel-sap-for-rhel-7-for-power-le-els-source-rpms__ppc64le": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_extras_sap_els:7"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/power-le/7/7Server/ppc64le/sap/source/SRPMS"
 			]
 		},
 		"rhel-sap-for-rhel-7-for-power-le-eus-debug-rpms": {
@@ -72055,6 +72409,57 @@
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel/power-le/7/7.7/ppc64le/sap-hana/source/SRPMS"
+			]
+		},
+		"rhel-sap-hana-for-rhel-7-for-power-le-els-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_extras_sap_hana:7",
+				"cpe:/a:redhat:rhel_extras_sap_hana_els:7"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/power-le/7/7Server/ppc64le/sap-hana/debug"
+			]
+		},
+		"rhel-sap-hana-for-rhel-7-for-power-le-els-debug-rpms__ppc64le": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_extras_sap_hana_els:7"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/power-le/7/7Server/ppc64le/sap-hana/debug"
+			]
+		},
+		"rhel-sap-hana-for-rhel-7-for-power-le-els-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_extras_sap_hana:7",
+				"cpe:/a:redhat:rhel_extras_sap_hana_els:7"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/power-le/7/7Server/ppc64le/sap-hana/os"
+			]
+		},
+		"rhel-sap-hana-for-rhel-7-for-power-le-els-rpms__ppc64le": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_extras_sap_hana_els:7"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/power-le/7/7Server/ppc64le/sap-hana/os"
+			]
+		},
+		"rhel-sap-hana-for-rhel-7-for-power-le-els-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_extras_sap_hana:7",
+				"cpe:/a:redhat:rhel_extras_sap_hana_els:7"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/power-le/7/7Server/ppc64le/sap-hana/source/SRPMS"
+			]
+		},
+		"rhel-sap-hana-for-rhel-7-for-power-le-els-source-rpms__ppc64le": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_extras_sap_hana_els:7"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/power-le/7/7Server/ppc64le/sap-hana/source/SRPMS"
 			]
 		},
 		"rhel-sap-hana-for-rhel-7-for-power-le-eus-debug-rpms": {
@@ -82378,5 +82783,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-06-06T00:47:43.509Z"
+	"last_updated": "2024-06-07T00:48:31.552Z"
 }
