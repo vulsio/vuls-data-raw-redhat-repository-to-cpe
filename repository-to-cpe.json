@@ -50205,6 +50205,30 @@
 				"content/dist/rhel/server/7/7Server/x86_64/rt/debug"
 			]
 		},
+		"rhel-7-server-rt-els-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_extras_rt:7"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/server/7/7Server/x86_64/rt/debug"
+			]
+		},
+		"rhel-7-server-rt-els-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_extras_rt:7"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/server/7/7Server/x86_64/rt/os"
+			]
+		},
+		"rhel-7-server-rt-els-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_extras_rt:7"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/server/7/7Server/x86_64/rt/source/SRPMS"
+			]
+		},
 		"rhel-7-server-rt-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_extras_rt:7"
@@ -82783,5 +82807,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-06-07T00:48:31.552Z"
+	"last_updated": "2024-06-08T00:47:48.572Z"
 }
