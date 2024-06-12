@@ -76031,7 +76031,8 @@
 		},
 		"rhocp-4.14-for-rhel-9-x86_64-debug-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:openshift:4.14::el9"
+				"cpe:/a:redhat:openshift:4.14::el9",
+				"cpe:/a:redhat:openshift_sandboxed_containers:1.6.0::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/x86_64/rhocp/4.14/debug"
@@ -76039,7 +76040,8 @@
 		},
 		"rhocp-4.14-for-rhel-9-x86_64-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:openshift:4.14::el9"
+				"cpe:/a:redhat:openshift:4.14::el9",
+				"cpe:/a:redhat:openshift_sandboxed_containers:1.6.0::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/x86_64/rhocp/4.14/os"
@@ -76047,7 +76049,8 @@
 		},
 		"rhocp-4.14-for-rhel-9-x86_64-source-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:openshift:4.14::el9"
+				"cpe:/a:redhat:openshift:4.14::el9",
+				"cpe:/a:redhat:openshift_sandboxed_containers:1.6.0::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/x86_64/rhocp/4.14/source/SRPMS"
@@ -82834,5 +82837,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-06-11T00:47:59.762Z"
+	"last_updated": "2024-06-12T00:46:48.790Z"
 }
