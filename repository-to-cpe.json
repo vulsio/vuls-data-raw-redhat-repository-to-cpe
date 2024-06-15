@@ -59732,10 +59732,12 @@
 		},
 		"rhel-8-for-x86_64-nfv-e4s-debug-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:rhel_e4s:8.4::nfv"
+				"cpe:/a:redhat:rhel_e4s:8.4::nfv",
+				"cpe:/a:redhat:rhel_e4s:8.6::nfv"
 			],
 			"repo_relative_urls": [
-				"content/e4s/rhel8/8.4/x86_64/nfv/debug"
+				"content/e4s/rhel8/8.4/x86_64/nfv/debug",
+				"content/e4s/rhel8/8.6/x86_64/nfv/debug"
 			]
 		},
 		"rhel-8-for-x86_64-nfv-e4s-debug-rpms__8_DOT_4": {
@@ -59746,12 +59748,22 @@
 				"content/e4s/rhel8/8.4/x86_64/nfv/debug"
 			]
 		},
-		"rhel-8-for-x86_64-nfv-e4s-rpms": {
+		"rhel-8-for-x86_64-nfv-e4s-debug-rpms__8_DOT_6": {
 			"cpes": [
-				"cpe:/a:redhat:rhel_e4s:8.4::nfv"
+				"cpe:/a:redhat:rhel_e4s:8.6::nfv"
 			],
 			"repo_relative_urls": [
-				"content/e4s/rhel8/8.4/x86_64/nfv/os"
+				"content/e4s/rhel8/8.6/x86_64/nfv/debug"
+			]
+		},
+		"rhel-8-for-x86_64-nfv-e4s-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_e4s:8.4::nfv",
+				"cpe:/a:redhat:rhel_e4s:8.6::nfv"
+			],
+			"repo_relative_urls": [
+				"content/e4s/rhel8/8.4/x86_64/nfv/os",
+				"content/e4s/rhel8/8.6/x86_64/nfv/os"
 			]
 		},
 		"rhel-8-for-x86_64-nfv-e4s-rpms__8_DOT_4": {
@@ -59762,12 +59774,22 @@
 				"content/e4s/rhel8/8.4/x86_64/nfv/os"
 			]
 		},
-		"rhel-8-for-x86_64-nfv-e4s-source-rpms": {
+		"rhel-8-for-x86_64-nfv-e4s-rpms__8_DOT_6": {
 			"cpes": [
-				"cpe:/a:redhat:rhel_e4s:8.4::nfv"
+				"cpe:/a:redhat:rhel_e4s:8.6::nfv"
 			],
 			"repo_relative_urls": [
-				"content/e4s/rhel8/8.4/x86_64/nfv/source/SRPMS"
+				"content/e4s/rhel8/8.6/x86_64/nfv/os"
+			]
+		},
+		"rhel-8-for-x86_64-nfv-e4s-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_e4s:8.4::nfv",
+				"cpe:/a:redhat:rhel_e4s:8.6::nfv"
+			],
+			"repo_relative_urls": [
+				"content/e4s/rhel8/8.4/x86_64/nfv/source/SRPMS",
+				"content/e4s/rhel8/8.6/x86_64/nfv/source/SRPMS"
 			]
 		},
 		"rhel-8-for-x86_64-nfv-e4s-source-rpms__8_DOT_4": {
@@ -59776,6 +59798,14 @@
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel8/8.4/x86_64/nfv/source/SRPMS"
+			]
+		},
+		"rhel-8-for-x86_64-nfv-e4s-source-rpms__8_DOT_6": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_e4s:8.6::nfv"
+			],
+			"repo_relative_urls": [
+				"content/e4s/rhel8/8.6/x86_64/nfv/source/SRPMS"
 			]
 		},
 		"rhel-8-for-x86_64-nfv-rpms": {
@@ -82837,5 +82867,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-06-14T00:47:44.932Z"
+	"last_updated": "2024-06-15T00:47:18.343Z"
 }
