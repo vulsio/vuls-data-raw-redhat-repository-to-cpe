@@ -12348,6 +12348,46 @@
 				"content/dist/layered/rhel9/x86_64/ocp-tools/4.15/source/SRPMS"
 			]
 		},
+		"ocp-tools-4.16-for-rhel-9-aarch64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:ocp_tools:4.16::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/aarch64/ocp-tools/4.16/debug"
+			]
+		},
+		"ocp-tools-4.16-for-rhel-9-aarch64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:ocp_tools:4.16::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/aarch64/ocp-tools/4.16/os"
+			]
+		},
+		"ocp-tools-4.16-for-rhel-9-aarch64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:ocp_tools:4.16::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/aarch64/ocp-tools/4.16/source/SRPMS"
+			]
+		},
+		"ocp-tools-4.16-for-rhel-9-ppc64le-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:ocp_tools:4.16::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/ppc64le/ocp-tools/4.16/debug"
+			]
+		},
+		"ocp-tools-4.16-for-rhel-9-ppc64le-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:ocp_tools:4.16::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/ppc64le/ocp-tools/4.16/os"
+			]
+		},
 		"ocp-tools-4.3-for-rhel-8-x86_64-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:ocp_tools:4.3::el8"
@@ -52893,7 +52933,8 @@
 			"cpes": [
 				"cpe:/a:redhat:rhel_e4s:8.4::appstream",
 				"cpe:/a:redhat:rhel_e4s:8.6::appstream",
-				"cpe:/a:redhat:rhel_eus:8.4::appstream"
+				"cpe:/a:redhat:rhel_eus:8.4::appstream",
+				"cpe:/a:redhat:rhel_eus:8.6::appstream"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel8/8.4/aarch64/appstream/debug",
@@ -52920,7 +52961,8 @@
 			"cpes": [
 				"cpe:/a:redhat:rhel_e4s:8.4::appstream",
 				"cpe:/a:redhat:rhel_e4s:8.6::appstream",
-				"cpe:/a:redhat:rhel_eus:8.4::appstream"
+				"cpe:/a:redhat:rhel_eus:8.4::appstream",
+				"cpe:/a:redhat:rhel_eus:8.6::appstream"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel8/8.4/aarch64/appstream/os",
@@ -52947,7 +52989,8 @@
 			"cpes": [
 				"cpe:/a:redhat:rhel_e4s:8.4::appstream",
 				"cpe:/a:redhat:rhel_e4s:8.6::appstream",
-				"cpe:/a:redhat:rhel_eus:8.4::appstream"
+				"cpe:/a:redhat:rhel_eus:8.4::appstream",
+				"cpe:/a:redhat:rhel_eus:8.6::appstream"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel8/8.4/aarch64/appstream/source/SRPMS",
@@ -53181,7 +53224,8 @@
 			"cpes": [
 				"cpe:/o:redhat:rhel_e4s:8.4::baseos",
 				"cpe:/o:redhat:rhel_e4s:8.6::baseos",
-				"cpe:/o:redhat:rhel_eus:8.4::baseos"
+				"cpe:/o:redhat:rhel_eus:8.4::baseos",
+				"cpe:/o:redhat:rhel_eus:8.6::baseos"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel8/8.4/aarch64/baseos/debug",
@@ -53208,7 +53252,8 @@
 			"cpes": [
 				"cpe:/o:redhat:rhel_e4s:8.4::baseos",
 				"cpe:/o:redhat:rhel_e4s:8.6::baseos",
-				"cpe:/o:redhat:rhel_eus:8.4::baseos"
+				"cpe:/o:redhat:rhel_eus:8.4::baseos",
+				"cpe:/o:redhat:rhel_eus:8.6::baseos"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel8/8.4/aarch64/baseos/os",
@@ -53235,7 +53280,8 @@
 			"cpes": [
 				"cpe:/o:redhat:rhel_e4s:8.4::baseos",
 				"cpe:/o:redhat:rhel_e4s:8.6::baseos",
-				"cpe:/o:redhat:rhel_eus:8.4::baseos"
+				"cpe:/o:redhat:rhel_eus:8.4::baseos",
+				"cpe:/o:redhat:rhel_eus:8.6::baseos"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel8/8.4/aarch64/baseos/source/SRPMS",
@@ -56391,7 +56437,8 @@
 			"cpes": [
 				"cpe:/a:redhat:rhel_e4s:8.4::appstream",
 				"cpe:/a:redhat:rhel_e4s:8.6::appstream",
-				"cpe:/a:redhat:rhel_eus:8.4::appstream"
+				"cpe:/a:redhat:rhel_eus:8.4::appstream",
+				"cpe:/a:redhat:rhel_eus:8.6::appstream"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel8/8.4/s390x/appstream/debug",
@@ -56418,7 +56465,8 @@
 			"cpes": [
 				"cpe:/a:redhat:rhel_e4s:8.4::appstream",
 				"cpe:/a:redhat:rhel_e4s:8.6::appstream",
-				"cpe:/a:redhat:rhel_eus:8.4::appstream"
+				"cpe:/a:redhat:rhel_eus:8.4::appstream",
+				"cpe:/a:redhat:rhel_eus:8.6::appstream"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel8/8.4/s390x/appstream/os",
@@ -56445,7 +56493,8 @@
 			"cpes": [
 				"cpe:/a:redhat:rhel_e4s:8.4::appstream",
 				"cpe:/a:redhat:rhel_e4s:8.6::appstream",
-				"cpe:/a:redhat:rhel_eus:8.4::appstream"
+				"cpe:/a:redhat:rhel_eus:8.4::appstream",
+				"cpe:/a:redhat:rhel_eus:8.6::appstream"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel8/8.4/s390x/appstream/source/SRPMS",
@@ -56679,7 +56728,8 @@
 			"cpes": [
 				"cpe:/o:redhat:rhel_e4s:8.4::baseos",
 				"cpe:/o:redhat:rhel_e4s:8.6::baseos",
-				"cpe:/o:redhat:rhel_eus:8.4::baseos"
+				"cpe:/o:redhat:rhel_eus:8.4::baseos",
+				"cpe:/o:redhat:rhel_eus:8.6::baseos"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel8/8.4/s390x/baseos/debug",
@@ -56706,7 +56756,8 @@
 			"cpes": [
 				"cpe:/o:redhat:rhel_e4s:8.4::baseos",
 				"cpe:/o:redhat:rhel_e4s:8.6::baseos",
-				"cpe:/o:redhat:rhel_eus:8.4::baseos"
+				"cpe:/o:redhat:rhel_eus:8.4::baseos",
+				"cpe:/o:redhat:rhel_eus:8.6::baseos"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel8/8.4/s390x/baseos/os",
@@ -56733,7 +56784,8 @@
 			"cpes": [
 				"cpe:/o:redhat:rhel_e4s:8.4::baseos",
 				"cpe:/o:redhat:rhel_e4s:8.6::baseos",
-				"cpe:/o:redhat:rhel_eus:8.4::baseos"
+				"cpe:/o:redhat:rhel_eus:8.4::baseos",
+				"cpe:/o:redhat:rhel_eus:8.6::baseos"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel8/8.4/s390x/baseos/source/SRPMS",
@@ -59840,6 +59892,7 @@
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:8.2::nfv",
 				"cpe:/a:redhat:rhel_eus:8.4::nfv",
+				"cpe:/a:redhat:rhel_eus:8.6::nfv",
 				"cpe:/a:redhat:rhel_eus:8.8::nfv",
 				"cpe:/a:redhat:rhel_tus:8.2::nfv",
 				"cpe:/a:redhat:rhel_tus:8.4::nfv",
@@ -59889,6 +59942,7 @@
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:8.2::nfv",
 				"cpe:/a:redhat:rhel_eus:8.4::nfv",
+				"cpe:/a:redhat:rhel_eus:8.6::nfv",
 				"cpe:/a:redhat:rhel_eus:8.8::nfv",
 				"cpe:/a:redhat:rhel_tus:8.2::nfv",
 				"cpe:/a:redhat:rhel_tus:8.4::nfv",
@@ -59938,6 +59992,7 @@
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:8.2::nfv",
 				"cpe:/a:redhat:rhel_eus:8.4::nfv",
+				"cpe:/a:redhat:rhel_eus:8.6::nfv",
 				"cpe:/a:redhat:rhel_eus:8.8::nfv",
 				"cpe:/a:redhat:rhel_tus:8.2::nfv",
 				"cpe:/a:redhat:rhel_tus:8.4::nfv",
@@ -60230,6 +60285,7 @@
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:8.2::realtime",
 				"cpe:/a:redhat:rhel_eus:8.4::realtime",
+				"cpe:/a:redhat:rhel_eus:8.6::realtime",
 				"cpe:/a:redhat:rhel_eus:8.8::realtime",
 				"cpe:/a:redhat:rhel_tus:8.2::realtime",
 				"cpe:/a:redhat:rhel_tus:8.4::realtime",
@@ -60279,6 +60335,7 @@
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:8.2::realtime",
 				"cpe:/a:redhat:rhel_eus:8.4::realtime",
+				"cpe:/a:redhat:rhel_eus:8.6::realtime",
 				"cpe:/a:redhat:rhel_eus:8.8::realtime",
 				"cpe:/a:redhat:rhel_tus:8.2::realtime",
 				"cpe:/a:redhat:rhel_tus:8.4::realtime",
@@ -60328,6 +60385,7 @@
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:8.2::realtime",
 				"cpe:/a:redhat:rhel_eus:8.4::realtime",
+				"cpe:/a:redhat:rhel_eus:8.6::realtime",
 				"cpe:/a:redhat:rhel_eus:8.8::realtime",
 				"cpe:/a:redhat:rhel_tus:8.2::realtime",
 				"cpe:/a:redhat:rhel_tus:8.4::realtime",
@@ -82867,5 +82925,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-06-18T00:48:07.584Z"
+	"last_updated": "2024-06-19T00:46:48.871Z"
 }
