@@ -4822,7 +4822,8 @@
 		"cluster-observability-operator-1-for-rhel-8-x86_64-textonly-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:cluster_observability_operator:0.1::el8",
-				"cpe:/a:redhat:cluster_observability_operator:0.2::el8"
+				"cpe:/a:redhat:cluster_observability_operator:0.2::el8",
+				"cpe:/a:redhat:cluster_observability_operator:0.3::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/cluster-observability-operator/1/debug"
@@ -4831,7 +4832,8 @@
 		"cluster-observability-operator-1-for-rhel-8-x86_64-textonly-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:cluster_observability_operator:0.1::el8",
-				"cpe:/a:redhat:cluster_observability_operator:0.2::el8"
+				"cpe:/a:redhat:cluster_observability_operator:0.2::el8",
+				"cpe:/a:redhat:cluster_observability_operator:0.3::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/cluster-observability-operator/1/os"
@@ -4840,7 +4842,8 @@
 		"cluster-observability-operator-1-for-rhel-8-x86_64-textonly-source-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:cluster_observability_operator:0.1::el8",
-				"cpe:/a:redhat:cluster_observability_operator:0.2::el8"
+				"cpe:/a:redhat:cluster_observability_operator:0.2::el8",
+				"cpe:/a:redhat:cluster_observability_operator:0.3::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/cluster-observability-operator/1/source/SRPMS"
@@ -7463,6 +7466,30 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/x86_64/dirsrv/12.4/source/SRPMS"
+			]
+		},
+		"dirsrv-12.5-for-rhel-9-x86_64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:directory_server:12.5::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/dirsrv/12.5/debug"
+			]
+		},
+		"dirsrv-12.5-for-rhel-9-x86_64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:directory_server:12.5::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/dirsrv/12.5/os"
+			]
+		},
+		"dirsrv-12.5-for-rhel-9-x86_64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:directory_server:12.5::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/dirsrv/12.5/source/SRPMS"
 			]
 		},
 		"discovery-0-for-rhel-8-x86_64-debug-rpms": {
@@ -14507,7 +14534,8 @@
 		"ossm-2-for-rhel-8-aarch64-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:service_mesh:2.4::el8",
-				"cpe:/a:redhat:service_mesh:2.5::el8"
+				"cpe:/a:redhat:service_mesh:2.5::el8",
+				"cpe:/a:redhat:service_mesh:2.6::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/aarch64/ossm/2/debug"
@@ -14525,7 +14553,8 @@
 		"ossm-2-for-rhel-8-aarch64-source-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:service_mesh:2.4::el8",
-				"cpe:/a:redhat:service_mesh:2.5::el8"
+				"cpe:/a:redhat:service_mesh:2.5::el8",
+				"cpe:/a:redhat:service_mesh:2.6::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/aarch64/ossm/2/source/SRPMS"
@@ -14536,7 +14565,8 @@
 				"cpe:/a:redhat:service_mesh:2.2::el8",
 				"cpe:/a:redhat:service_mesh:2.3::el8",
 				"cpe:/a:redhat:service_mesh:2.4::el8",
-				"cpe:/a:redhat:service_mesh:2.5::el8"
+				"cpe:/a:redhat:service_mesh:2.5::el8",
+				"cpe:/a:redhat:service_mesh:2.6::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/ppc64le/ossm/2/debug"
@@ -14558,7 +14588,8 @@
 				"cpe:/a:redhat:service_mesh:2.2::el8",
 				"cpe:/a:redhat:service_mesh:2.3::el8",
 				"cpe:/a:redhat:service_mesh:2.4::el8",
-				"cpe:/a:redhat:service_mesh:2.5::el8"
+				"cpe:/a:redhat:service_mesh:2.5::el8",
+				"cpe:/a:redhat:service_mesh:2.6::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/ppc64le/ossm/2/source/SRPMS"
@@ -14569,7 +14600,8 @@
 				"cpe:/a:redhat:service_mesh:2.2::el8",
 				"cpe:/a:redhat:service_mesh:2.3::el8",
 				"cpe:/a:redhat:service_mesh:2.4::el8",
-				"cpe:/a:redhat:service_mesh:2.5::el8"
+				"cpe:/a:redhat:service_mesh:2.5::el8",
+				"cpe:/a:redhat:service_mesh:2.6::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/s390x/ossm/2/debug"
@@ -14591,7 +14623,8 @@
 				"cpe:/a:redhat:service_mesh:2.2::el8",
 				"cpe:/a:redhat:service_mesh:2.3::el8",
 				"cpe:/a:redhat:service_mesh:2.4::el8",
-				"cpe:/a:redhat:service_mesh:2.5::el8"
+				"cpe:/a:redhat:service_mesh:2.5::el8",
+				"cpe:/a:redhat:service_mesh:2.6::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/s390x/ossm/2/source/SRPMS"
@@ -14602,7 +14635,8 @@
 				"cpe:/a:redhat:service_mesh:2.2::el8",
 				"cpe:/a:redhat:service_mesh:2.3::el8",
 				"cpe:/a:redhat:service_mesh:2.4::el8",
-				"cpe:/a:redhat:service_mesh:2.5::el8"
+				"cpe:/a:redhat:service_mesh:2.5::el8",
+				"cpe:/a:redhat:service_mesh:2.6::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/ossm/2/debug"
@@ -14624,7 +14658,8 @@
 				"cpe:/a:redhat:service_mesh:2.2::el8",
 				"cpe:/a:redhat:service_mesh:2.3::el8",
 				"cpe:/a:redhat:service_mesh:2.4::el8",
-				"cpe:/a:redhat:service_mesh:2.5::el8"
+				"cpe:/a:redhat:service_mesh:2.5::el8",
+				"cpe:/a:redhat:service_mesh:2.6::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/ossm/2/source/SRPMS"
@@ -82981,5 +83016,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-06-24T00:47:26.668Z"
+	"last_updated": "2024-06-25T00:46:44.034Z"
 }
