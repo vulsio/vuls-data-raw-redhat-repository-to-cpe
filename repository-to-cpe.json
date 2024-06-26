@@ -4819,6 +4819,78 @@
 				"content/dist/layered/rhel8/x86_64/cfme/5.11/source/SRPMS"
 			]
 		},
+		"cluster-observability-operator-1-for-rhel-8-aarch64-textonly-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:cluster_observability_operator:0.3::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/aarch64/cluster-observability-operator/1/debug"
+			]
+		},
+		"cluster-observability-operator-1-for-rhel-8-aarch64-textonly-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:cluster_observability_operator:0.3::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/aarch64/cluster-observability-operator/1/os"
+			]
+		},
+		"cluster-observability-operator-1-for-rhel-8-aarch64-textonly-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:cluster_observability_operator:0.3::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/aarch64/cluster-observability-operator/1/source/SRPMS"
+			]
+		},
+		"cluster-observability-operator-1-for-rhel-8-ppc64le-textonly-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:cluster_observability_operator:0.3::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/ppc64le/cluster-observability-operator/1/debug"
+			]
+		},
+		"cluster-observability-operator-1-for-rhel-8-ppc64le-textonly-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:cluster_observability_operator:0.3::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/ppc64le/cluster-observability-operator/1/os"
+			]
+		},
+		"cluster-observability-operator-1-for-rhel-8-ppc64le-textonly-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:cluster_observability_operator:0.3::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/ppc64le/cluster-observability-operator/1/source/SRPMS"
+			]
+		},
+		"cluster-observability-operator-1-for-rhel-8-s390x-textonly-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:cluster_observability_operator:0.3::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/s390x/cluster-observability-operator/1/debug"
+			]
+		},
+		"cluster-observability-operator-1-for-rhel-8-s390x-textonly-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:cluster_observability_operator:0.3::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/s390x/cluster-observability-operator/1/os"
+			]
+		},
+		"cluster-observability-operator-1-for-rhel-8-s390x-textonly-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:cluster_observability_operator:0.3::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/s390x/cluster-observability-operator/1/source/SRPMS"
+			]
+		},
 		"cluster-observability-operator-1-for-rhel-8-x86_64-textonly-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:cluster_observability_operator:0.1::el8",
@@ -83016,5 +83088,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-06-25T00:46:44.034Z"
+	"last_updated": "2024-06-26T00:46:35.071Z"
 }
