@@ -11447,7 +11447,8 @@
 				"cpe:/a:redhat:network_observ_optr:1.3.0::el9",
 				"cpe:/a:redhat:network_observ_optr:1.4.0::el9",
 				"cpe:/a:redhat:network_observ_optr:1.5.0::el9",
-				"cpe:/a:redhat:network_observ_optr:1.6.0::el9"
+				"cpe:/a:redhat:network_observ_optr:1.6.0::el9",
+				"cpe:/a:redhat:network_observ_optr:1.7.0::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/aarch64/network-observability/1/debug"
@@ -11458,7 +11459,8 @@
 				"cpe:/a:redhat:network_observ_optr:1.3.0::el9",
 				"cpe:/a:redhat:network_observ_optr:1.4.0::el9",
 				"cpe:/a:redhat:network_observ_optr:1.5.0::el9",
-				"cpe:/a:redhat:network_observ_optr:1.6.0::el9"
+				"cpe:/a:redhat:network_observ_optr:1.6.0::el9",
+				"cpe:/a:redhat:network_observ_optr:1.7.0::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/aarch64/network-observability/1/os"
@@ -11469,7 +11471,8 @@
 				"cpe:/a:redhat:network_observ_optr:1.3.0::el9",
 				"cpe:/a:redhat:network_observ_optr:1.4.0::el9",
 				"cpe:/a:redhat:network_observ_optr:1.5.0::el9",
-				"cpe:/a:redhat:network_observ_optr:1.6.0::el9"
+				"cpe:/a:redhat:network_observ_optr:1.6.0::el9",
+				"cpe:/a:redhat:network_observ_optr:1.7.0::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/aarch64/network-observability/1/source/SRPMS"
@@ -11480,7 +11483,8 @@
 				"cpe:/a:redhat:network_observ_optr:1.3.0::el9",
 				"cpe:/a:redhat:network_observ_optr:1.4.0::el9",
 				"cpe:/a:redhat:network_observ_optr:1.5.0::el9",
-				"cpe:/a:redhat:network_observ_optr:1.6.0::el9"
+				"cpe:/a:redhat:network_observ_optr:1.6.0::el9",
+				"cpe:/a:redhat:network_observ_optr:1.7.0::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/ppc64le/network-observability/1/debug"
@@ -11491,7 +11495,8 @@
 				"cpe:/a:redhat:network_observ_optr:1.3.0::el9",
 				"cpe:/a:redhat:network_observ_optr:1.4.0::el9",
 				"cpe:/a:redhat:network_observ_optr:1.5.0::el9",
-				"cpe:/a:redhat:network_observ_optr:1.6.0::el9"
+				"cpe:/a:redhat:network_observ_optr:1.6.0::el9",
+				"cpe:/a:redhat:network_observ_optr:1.7.0::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/ppc64le/network-observability/1/os"
@@ -11502,7 +11507,8 @@
 				"cpe:/a:redhat:network_observ_optr:1.3.0::el9",
 				"cpe:/a:redhat:network_observ_optr:1.4.0::el9",
 				"cpe:/a:redhat:network_observ_optr:1.5.0::el9",
-				"cpe:/a:redhat:network_observ_optr:1.6.0::el9"
+				"cpe:/a:redhat:network_observ_optr:1.6.0::el9",
+				"cpe:/a:redhat:network_observ_optr:1.7.0::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/ppc64le/network-observability/1/source/SRPMS"
@@ -11513,7 +11519,8 @@
 				"cpe:/a:redhat:network_observ_optr:1.3.0::el9",
 				"cpe:/a:redhat:network_observ_optr:1.4.0::el9",
 				"cpe:/a:redhat:network_observ_optr:1.5.0::el9",
-				"cpe:/a:redhat:network_observ_optr:1.6.0::el9"
+				"cpe:/a:redhat:network_observ_optr:1.6.0::el9",
+				"cpe:/a:redhat:network_observ_optr:1.7.0::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/s390x/network-observability/1/debug"
@@ -11524,7 +11531,8 @@
 				"cpe:/a:redhat:network_observ_optr:1.3.0::el9",
 				"cpe:/a:redhat:network_observ_optr:1.4.0::el9",
 				"cpe:/a:redhat:network_observ_optr:1.5.0::el9",
-				"cpe:/a:redhat:network_observ_optr:1.6.0::el9"
+				"cpe:/a:redhat:network_observ_optr:1.6.0::el9",
+				"cpe:/a:redhat:network_observ_optr:1.7.0::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/s390x/network-observability/1/os"
@@ -11535,7 +11543,8 @@
 				"cpe:/a:redhat:network_observ_optr:1.3.0::el9",
 				"cpe:/a:redhat:network_observ_optr:1.4.0::el9",
 				"cpe:/a:redhat:network_observ_optr:1.5.0::el9",
-				"cpe:/a:redhat:network_observ_optr:1.6.0::el9"
+				"cpe:/a:redhat:network_observ_optr:1.6.0::el9",
+				"cpe:/a:redhat:network_observ_optr:1.7.0::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/s390x/network-observability/1/source/SRPMS"
@@ -11547,7 +11556,8 @@
 				"cpe:/a:redhat:network_observ_optr:1.3.0::el9",
 				"cpe:/a:redhat:network_observ_optr:1.4.0::el9",
 				"cpe:/a:redhat:network_observ_optr:1.5.0::el9",
-				"cpe:/a:redhat:network_observ_optr:1.6.0::el9"
+				"cpe:/a:redhat:network_observ_optr:1.6.0::el9",
+				"cpe:/a:redhat:network_observ_optr:1.7.0::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/x86_64/network-observability/1/debug"
@@ -11559,7 +11569,8 @@
 				"cpe:/a:redhat:network_observ_optr:1.3.0::el9",
 				"cpe:/a:redhat:network_observ_optr:1.4.0::el9",
 				"cpe:/a:redhat:network_observ_optr:1.5.0::el9",
-				"cpe:/a:redhat:network_observ_optr:1.6.0::el9"
+				"cpe:/a:redhat:network_observ_optr:1.6.0::el9",
+				"cpe:/a:redhat:network_observ_optr:1.7.0::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/x86_64/network-observability/1/os"
@@ -11571,7 +11582,8 @@
 				"cpe:/a:redhat:network_observ_optr:1.3.0::el9",
 				"cpe:/a:redhat:network_observ_optr:1.4.0::el9",
 				"cpe:/a:redhat:network_observ_optr:1.5.0::el9",
-				"cpe:/a:redhat:network_observ_optr:1.6.0::el9"
+				"cpe:/a:redhat:network_observ_optr:1.6.0::el9",
+				"cpe:/a:redhat:network_observ_optr:1.7.0::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/x86_64/network-observability/1/source/SRPMS"
@@ -12349,6 +12361,102 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/ocp-tools/4.14/source/SRPMS"
+			]
+		},
+		"ocp-tools-4.15-for-rhel-8-aarch64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:ocp_tools:4.15::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/aarch64/ocp-tools/4.15/debug"
+			]
+		},
+		"ocp-tools-4.15-for-rhel-8-aarch64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:ocp_tools:4.15::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/aarch64/ocp-tools/4.15/os"
+			]
+		},
+		"ocp-tools-4.15-for-rhel-8-aarch64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:ocp_tools:4.15::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/aarch64/ocp-tools/4.15/source/SRPMS"
+			]
+		},
+		"ocp-tools-4.15-for-rhel-8-ppc64le-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:ocp_tools:4.15::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/ppc64le/ocp-tools/4.15/debug"
+			]
+		},
+		"ocp-tools-4.15-for-rhel-8-ppc64le-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:ocp_tools:4.15::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/ppc64le/ocp-tools/4.15/os"
+			]
+		},
+		"ocp-tools-4.15-for-rhel-8-ppc64le-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:ocp_tools:4.15::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/ppc64le/ocp-tools/4.15/source/SRPMS"
+			]
+		},
+		"ocp-tools-4.15-for-rhel-8-s390x-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:ocp_tools:4.15::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/s390x/ocp-tools/4.15/debug"
+			]
+		},
+		"ocp-tools-4.15-for-rhel-8-s390x-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:ocp_tools:4.15::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/s390x/ocp-tools/4.15/os"
+			]
+		},
+		"ocp-tools-4.15-for-rhel-8-s390x-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:ocp_tools:4.15::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/s390x/ocp-tools/4.15/source/SRPMS"
+			]
+		},
+		"ocp-tools-4.15-for-rhel-8-x86_64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:ocp_tools:4.15::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/ocp-tools/4.15/debug"
+			]
+		},
+		"ocp-tools-4.15-for-rhel-8-x86_64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:ocp_tools:4.15::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/ocp-tools/4.15/os"
+			]
+		},
+		"ocp-tools-4.15-for-rhel-8-x86_64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:ocp_tools:4.15::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/ocp-tools/4.15/source/SRPMS"
 			]
 		},
 		"ocp-tools-4.15-for-rhel-9-aarch64-debug-rpms": {
@@ -78990,6 +79098,22 @@
 				"content/beta/layered/rhel9/x86_64/rhoso-podified/1/source/SRPMS"
 			]
 		},
+		"rhoso-tools-18-beta-for-rhel-9-x86_64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openstack:18.0::el9"
+			],
+			"repo_relative_urls": [
+				"content/beta/layered/rhel9/x86_64/rhoso-tools/18/os"
+			]
+		},
+		"rhoso-tools-18-beta-for-rhel-9-x86_64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openstack:18.0::el9"
+			],
+			"repo_relative_urls": [
+				"content/beta/layered/rhel9/x86_64/rhoso-tools/18/source/SRPMS"
+			]
+		},
 		"rhpib-1-for-rhel-9-x86_64-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:plugin_backstage:1.0::el9"
@@ -83088,5 +83212,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-06-26T00:46:35.071Z"
+	"last_updated": "2024-06-27T00:45:01.314Z"
 }
