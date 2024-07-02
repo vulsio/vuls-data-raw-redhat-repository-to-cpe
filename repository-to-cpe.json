@@ -4365,6 +4365,102 @@
 				"content/dist/layered/rhel9/x86_64/cert-manager/1.13/source/SRPMS"
 			]
 		},
+		"cert-manager-1.14-for-rhel-9-aarch64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:cert_manager:1.14::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/aarch64/cert-manager/1.14/debug"
+			]
+		},
+		"cert-manager-1.14-for-rhel-9-aarch64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:cert_manager:1.14::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/aarch64/cert-manager/1.14/os"
+			]
+		},
+		"cert-manager-1.14-for-rhel-9-aarch64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:cert_manager:1.14::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/aarch64/cert-manager/1.14/source/SRPMS"
+			]
+		},
+		"cert-manager-1.14-for-rhel-9-ppc64le-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:cert_manager:1.14::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/ppc64le/cert-manager/1.14/debug"
+			]
+		},
+		"cert-manager-1.14-for-rhel-9-ppc64le-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:cert_manager:1.14::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/ppc64le/cert-manager/1.14/os"
+			]
+		},
+		"cert-manager-1.14-for-rhel-9-ppc64le-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:cert_manager:1.14::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/ppc64le/cert-manager/1.14/source/SRPMS"
+			]
+		},
+		"cert-manager-1.14-for-rhel-9-s390x-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:cert_manager:1.14::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/s390x/cert-manager/1.14/debug"
+			]
+		},
+		"cert-manager-1.14-for-rhel-9-s390x-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:cert_manager:1.14::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/s390x/cert-manager/1.14/os"
+			]
+		},
+		"cert-manager-1.14-for-rhel-9-s390x-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:cert_manager:1.14::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/s390x/cert-manager/1.14/source/SRPMS"
+			]
+		},
+		"cert-manager-1.14-for-rhel-9-x86_64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:cert_manager:1.14::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/cert-manager/1.14/debug"
+			]
+		},
+		"cert-manager-1.14-for-rhel-9-x86_64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:cert_manager:1.14::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/cert-manager/1.14/os"
+			]
+		},
+		"cert-manager-1.14-for-rhel-9-x86_64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:cert_manager:1.14::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/cert-manager/1.14/source/SRPMS"
+			]
+		},
 		"cert-manager-1.6-for-rhel-8-x86_64-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:cert_manager:1.6::el8"
@@ -11142,6 +11238,102 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/x86_64/lvms/4.15/source/SRPMS"
+			]
+		},
+		"lvms-4.16-for-rhel-9-aarch64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:lvms:4.16::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/aarch64/lvms/4.16/debug"
+			]
+		},
+		"lvms-4.16-for-rhel-9-aarch64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:lvms:4.16::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/aarch64/lvms/4.16/os"
+			]
+		},
+		"lvms-4.16-for-rhel-9-aarch64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:lvms:4.16::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/aarch64/lvms/4.16/source/SRPMS"
+			]
+		},
+		"lvms-4.16-for-rhel-9-ppc64le-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:lvms:4.16::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/ppc64le/lvms/4.16/debug"
+			]
+		},
+		"lvms-4.16-for-rhel-9-ppc64le-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:lvms:4.16::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/ppc64le/lvms/4.16/os"
+			]
+		},
+		"lvms-4.16-for-rhel-9-ppc64le-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:lvms:4.16::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/ppc64le/lvms/4.16/source/SRPMS"
+			]
+		},
+		"lvms-4.16-for-rhel-9-s390x-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:lvms:4.16::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/s390x/lvms/4.16/debug"
+			]
+		},
+		"lvms-4.16-for-rhel-9-s390x-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:lvms:4.16::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/s390x/lvms/4.16/os"
+			]
+		},
+		"lvms-4.16-for-rhel-9-s390x-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:lvms:4.16::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/s390x/lvms/4.16/source/SRPMS"
+			]
+		},
+		"lvms-4.16-for-rhel-9-x86_64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:lvms:4.16::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/lvms/4.16/debug"
+			]
+		},
+		"lvms-4.16-for-rhel-9-x86_64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:lvms:4.16::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/lvms/4.16/os"
+			]
+		},
+		"lvms-4.16-for-rhel-9-x86_64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:lvms:4.16::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/lvms/4.16/source/SRPMS"
 			]
 		},
 		"mirror-registry-1-for-rhel-8-x86_64-debug-rpms": {
@@ -83212,5 +83404,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-07-01T00:49:31.757Z"
+	"last_updated": "2024-07-02T00:48:32.258Z"
 }
