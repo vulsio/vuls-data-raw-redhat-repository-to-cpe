@@ -5569,6 +5569,102 @@
 				"content/dist/layered/rhel9/x86_64/cnv/4.15/source/SRPMS"
 			]
 		},
+		"cnv-4.16-for-rhel-8-aarch64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:container_native_virtualization:4.16::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/aarch64/cnv/4.16/debug"
+			]
+		},
+		"cnv-4.16-for-rhel-8-aarch64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:container_native_virtualization:4.16::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/aarch64/cnv/4.16/os"
+			]
+		},
+		"cnv-4.16-for-rhel-8-aarch64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:container_native_virtualization:4.16::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/aarch64/cnv/4.16/source/SRPMS"
+			]
+		},
+		"cnv-4.16-for-rhel-8-x86_64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:container_native_virtualization:4.16::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/cnv/4.16/debug"
+			]
+		},
+		"cnv-4.16-for-rhel-8-x86_64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:container_native_virtualization:4.16::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/cnv/4.16/os"
+			]
+		},
+		"cnv-4.16-for-rhel-8-x86_64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:container_native_virtualization:4.16::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/cnv/4.16/source/SRPMS"
+			]
+		},
+		"cnv-4.16-for-rhel-9-aarch64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:container_native_virtualization:4.16::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/aarch64/cnv/4.16/debug"
+			]
+		},
+		"cnv-4.16-for-rhel-9-aarch64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:container_native_virtualization:4.16::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/aarch64/cnv/4.16/os"
+			]
+		},
+		"cnv-4.16-for-rhel-9-aarch64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:container_native_virtualization:4.16::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/aarch64/cnv/4.16/source/SRPMS"
+			]
+		},
+		"cnv-4.16-for-rhel-9-x86_64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:container_native_virtualization:4.16::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/cnv/4.16/debug"
+			]
+		},
+		"cnv-4.16-for-rhel-9-x86_64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:container_native_virtualization:4.16::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/cnv/4.16/os"
+			]
+		},
+		"cnv-4.16-for-rhel-9-x86_64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:container_native_virtualization:4.16::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/cnv/4.16/source/SRPMS"
+			]
+		},
 		"cnv-4.8-for-rhel-8-x86_64-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:container_native_virtualization:4.8::el8"
@@ -83596,5 +83692,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-07-04T00:48:49.243Z"
+	"last_updated": "2024-07-05T00:48:16.556Z"
 }
