@@ -83688,15 +83688,17 @@
 		"web-terminal-textonly-1-for-middleware-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:webterminal:1.10::el8",
+				"cpe:/a:redhat:webterminal:1.11::el9",
 				"cpe:/a:redhat:webterminal:1.5::el8",
 				"cpe:/a:redhat:webterminal:1.6::el8",
 				"cpe:/a:redhat:webterminal:1.7::el8",
-				"cpe:/a:redhat:webterminal:1.8::el8"
+				"cpe:/a:redhat:webterminal:1.8::el8",
+				"cpe:/a:redhat:webterminal:1.9::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/middleware/rhwt/1.0/x86_64/os"
 			]
 		}
 	},
-	"last_updated": "2024-07-09T00:48:47.954Z"
+	"last_updated": "2024-07-10T00:48:29.892Z"
 }
