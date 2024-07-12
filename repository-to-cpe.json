@@ -79578,6 +79578,14 @@
 				"content/beta/layered/rhel9/x86_64/rhoso-podified/1/source/SRPMS"
 			]
 		},
+		"rhoso-tools-18-beta-for-rhel-9-x86_64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openstack:18.0::el9"
+			],
+			"repo_relative_urls": [
+				"content/beta/layered/rhel9/x86_64/rhoso-tools/18/debug"
+			]
+		},
 		"rhoso-tools-18-beta-for-rhel-9-x86_64-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:openstack:18.0::el9"
@@ -83700,5 +83708,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-07-11T00:49:24.387Z"
+	"last_updated": "2024-07-12T00:48:44.647Z"
 }
