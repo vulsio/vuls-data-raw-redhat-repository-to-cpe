@@ -79553,6 +79553,30 @@
 				"content/beta/layered/rhel9/x86_64/rhoso/18/source/SRPMS"
 			]
 		},
+		"rhoso-18.0-for-rhel-9-x86_64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openstack:18.0::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/rhoso/18.0/debug"
+			]
+		},
+		"rhoso-18.0-for-rhel-9-x86_64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openstack:18.0::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/rhoso/18.0/os"
+			]
+		},
+		"rhoso-18.0-for-rhel-9-x86_64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openstack:18.0::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/rhoso/18.0/source/SRPMS"
+			]
+		},
 		"rhoso-edpm-1-beta-for-rhel-9-x86_64-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:openstack_edpm:1.0::el9"
@@ -79575,6 +79599,30 @@
 			],
 			"repo_relative_urls": [
 				"content/beta/layered/rhel9/x86_64/rhoso-edpm/1/source/SRPMS"
+			]
+		},
+		"rhoso-edpm-1.0-for-rhel-9-x86_64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openstack_edpm:1.0::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/rhoso-edpm/1.0/debug"
+			]
+		},
+		"rhoso-edpm-1.0-for-rhel-9-x86_64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openstack_edpm:1.0::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/rhoso-edpm/1.0/os"
+			]
+		},
+		"rhoso-edpm-1.0-for-rhel-9-x86_64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openstack_edpm:1.0::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/rhoso-edpm/1.0/source/SRPMS"
 			]
 		},
 		"rhoso-podified-1-beta-for-rhel-9-x86_64-debug-rpms": {
@@ -79601,6 +79649,30 @@
 				"content/beta/layered/rhel9/x86_64/rhoso-podified/1/source/SRPMS"
 			]
 		},
+		"rhoso-podified-1.0-for-rhel-9-x86_64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openstack_podified:1.0::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/rhoso-podified/1.0/debug"
+			]
+		},
+		"rhoso-podified-1.0-for-rhel-9-x86_64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openstack_podified:1.0::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/rhoso-podified/1.0/os"
+			]
+		},
+		"rhoso-podified-1.0-for-rhel-9-x86_64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openstack_podified:1.0::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/rhoso-podified/1.0/source/SRPMS"
+			]
+		},
 		"rhoso-tools-18-beta-for-rhel-9-x86_64-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:openstack:18.0::el9"
@@ -79623,6 +79695,30 @@
 			],
 			"repo_relative_urls": [
 				"content/beta/layered/rhel9/x86_64/rhoso-tools/18/source/SRPMS"
+			]
+		},
+		"rhoso-tools-18-for-rhel-9-x86_64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openstack:18.0::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/rhoso-tools/18/debug"
+			]
+		},
+		"rhoso-tools-18-for-rhel-9-x86_64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openstack:18.0::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/rhoso-tools/18/os"
+			]
+		},
+		"rhoso-tools-18-for-rhel-9-x86_64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openstack:18.0::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/rhoso-tools/18/source/SRPMS"
 			]
 		},
 		"rhpib-1-for-rhel-9-x86_64-debug-rpms": {
@@ -83731,5 +83827,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-07-19T00:46:46.054Z"
+	"last_updated": "2024-07-20T00:48:10.426Z"
 }
