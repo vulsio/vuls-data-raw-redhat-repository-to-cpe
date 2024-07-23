@@ -15218,7 +15218,8 @@
 		"ossm-2-for-rhel-8-aarch64-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:service_mesh:2.4::el8",
-				"cpe:/a:redhat:service_mesh:2.5::el8"
+				"cpe:/a:redhat:service_mesh:2.5::el8",
+				"cpe:/a:redhat:service_mesh:2.6::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/aarch64/ossm/2/os"
@@ -15251,7 +15252,8 @@
 				"cpe:/a:redhat:service_mesh:2.2::el8",
 				"cpe:/a:redhat:service_mesh:2.3::el8",
 				"cpe:/a:redhat:service_mesh:2.4::el8",
-				"cpe:/a:redhat:service_mesh:2.5::el8"
+				"cpe:/a:redhat:service_mesh:2.5::el8",
+				"cpe:/a:redhat:service_mesh:2.6::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/ppc64le/ossm/2/os"
@@ -15286,7 +15288,8 @@
 				"cpe:/a:redhat:service_mesh:2.2::el8",
 				"cpe:/a:redhat:service_mesh:2.3::el8",
 				"cpe:/a:redhat:service_mesh:2.4::el8",
-				"cpe:/a:redhat:service_mesh:2.5::el8"
+				"cpe:/a:redhat:service_mesh:2.5::el8",
+				"cpe:/a:redhat:service_mesh:2.6::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/s390x/ossm/2/os"
@@ -15321,7 +15324,8 @@
 				"cpe:/a:redhat:service_mesh:2.2::el8",
 				"cpe:/a:redhat:service_mesh:2.3::el8",
 				"cpe:/a:redhat:service_mesh:2.4::el8",
-				"cpe:/a:redhat:service_mesh:2.5::el8"
+				"cpe:/a:redhat:service_mesh:2.5::el8",
+				"cpe:/a:redhat:service_mesh:2.6::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/ossm/2/os"
@@ -83827,5 +83831,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-07-22T00:47:34.253Z"
+	"last_updated": "2024-07-23T00:47:19.954Z"
 }
