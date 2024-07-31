@@ -4521,10 +4521,12 @@
 		},
 		"certsys-10-for-rhel-8-x86_64-eus-debug-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:certificate_system_eus:10.4::el8"
+				"cpe:/a:redhat:certificate_system_eus:10.4::el8",
+				"cpe:/a:redhat:certificate_system_eus:10.6::el8"
 			],
 			"repo_relative_urls": [
-				"content/eus/rhel8/8.6/x86_64/certsys/10/debug"
+				"content/eus/rhel8/8.6/x86_64/certsys/10/debug",
+				"content/eus/rhel8/8.8/x86_64/certsys/10/debug"
 			]
 		},
 		"certsys-10-for-rhel-8-x86_64-eus-debug-rpms__8_DOT_6": {
@@ -4535,12 +4537,22 @@
 				"content/eus/rhel8/8.6/x86_64/certsys/10/debug"
 			]
 		},
-		"certsys-10-for-rhel-8-x86_64-eus-rpms": {
+		"certsys-10-for-rhel-8-x86_64-eus-debug-rpms__8_DOT_8": {
 			"cpes": [
-				"cpe:/a:redhat:certificate_system_eus:10.4::el8"
+				"cpe:/a:redhat:certificate_system_eus:10.6::el8"
 			],
 			"repo_relative_urls": [
-				"content/eus/rhel8/8.6/x86_64/certsys/10/os"
+				"content/eus/rhel8/8.8/x86_64/certsys/10/debug"
+			]
+		},
+		"certsys-10-for-rhel-8-x86_64-eus-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:certificate_system_eus:10.4::el8",
+				"cpe:/a:redhat:certificate_system_eus:10.6::el8"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel8/8.6/x86_64/certsys/10/os",
+				"content/eus/rhel8/8.8/x86_64/certsys/10/os"
 			]
 		},
 		"certsys-10-for-rhel-8-x86_64-eus-rpms__8_DOT_6": {
@@ -4551,12 +4563,22 @@
 				"content/eus/rhel8/8.6/x86_64/certsys/10/os"
 			]
 		},
-		"certsys-10-for-rhel-8-x86_64-eus-source-rpms": {
+		"certsys-10-for-rhel-8-x86_64-eus-rpms__8_DOT_8": {
 			"cpes": [
-				"cpe:/a:redhat:certificate_system_eus:10.4::el8"
+				"cpe:/a:redhat:certificate_system_eus:10.6::el8"
 			],
 			"repo_relative_urls": [
-				"content/eus/rhel8/8.6/x86_64/certsys/10/source/SRPMS"
+				"content/eus/rhel8/8.8/x86_64/certsys/10/os"
+			]
+		},
+		"certsys-10-for-rhel-8-x86_64-eus-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:certificate_system_eus:10.4::el8",
+				"cpe:/a:redhat:certificate_system_eus:10.6::el8"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel8/8.6/x86_64/certsys/10/source/SRPMS",
+				"content/eus/rhel8/8.8/x86_64/certsys/10/source/SRPMS"
 			]
 		},
 		"certsys-10-for-rhel-8-x86_64-eus-source-rpms__8_DOT_6": {
@@ -4565,6 +4587,14 @@
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel8/8.6/x86_64/certsys/10/source/SRPMS"
+			]
+		},
+		"certsys-10-for-rhel-8-x86_64-eus-source-rpms__8_DOT_8": {
+			"cpes": [
+				"cpe:/a:redhat:certificate_system_eus:10.6::el8"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel8/8.8/x86_64/certsys/10/source/SRPMS"
 			]
 		},
 		"certsys-10-for-rhel-8-x86_64-rpms": {
@@ -11120,7 +11150,8 @@
 		"kmm-2-for-rhel-9-x86_64-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:kernel_module_management:2.0::el9",
-				"cpe:/a:redhat:kernel_module_management:2.1::el9"
+				"cpe:/a:redhat:kernel_module_management:2.1::el9",
+				"cpe:/a:redhat:kernel_module_management:2.2::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/x86_64/kmm/2/debug"
@@ -11129,7 +11160,8 @@
 		"kmm-2-for-rhel-9-x86_64-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:kernel_module_management:2.0::el9",
-				"cpe:/a:redhat:kernel_module_management:2.1::el9"
+				"cpe:/a:redhat:kernel_module_management:2.1::el9",
+				"cpe:/a:redhat:kernel_module_management:2.2::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/x86_64/kmm/2/os"
@@ -11138,7 +11170,8 @@
 		"kmm-2-for-rhel-9-x86_64-source-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:kernel_module_management:2.0::el9",
-				"cpe:/a:redhat:kernel_module_management:2.1::el9"
+				"cpe:/a:redhat:kernel_module_management:2.1::el9",
+				"cpe:/a:redhat:kernel_module_management:2.2::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/x86_64/kmm/2/source/SRPMS"
@@ -18726,7 +18759,9 @@
 		"rhboac-hwt-textonly-1-for-middleware-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:apache_camel_hawtio:4.0::el6",
-				"cpe:/a:redhat:apache_camel_hawtio:4.0::el8"
+				"cpe:/a:redhat:apache_camel_hawtio:4.0::el8",
+				"cpe:/a:redhat:apache_camel_hawtio:4.1::el6",
+				"cpe:/a:redhat:apache_camel_hawtio:4.1::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/middleware/rhboac-hwt/1/x86_64/os"
@@ -75912,6 +75947,8 @@
 			"cpes": [
 				"cpe:/a:redhat:openshift_ai:2.10::el8",
 				"cpe:/a:redhat:openshift_ai:2.11::el8",
+				"cpe:/a:redhat:openshift_ai:2.12::el8",
+				"cpe:/a:redhat:openshift_ai:2.13::el8",
 				"cpe:/a:redhat:openshift_ai:2.6::el8",
 				"cpe:/a:redhat:openshift_ai:2.7::el8",
 				"cpe:/a:redhat:openshift_ai:2.8::el8",
@@ -75925,6 +75962,8 @@
 			"cpes": [
 				"cpe:/a:redhat:openshift_ai:2.10::el8",
 				"cpe:/a:redhat:openshift_ai:2.11::el8",
+				"cpe:/a:redhat:openshift_ai:2.12::el8",
+				"cpe:/a:redhat:openshift_ai:2.13::el8",
 				"cpe:/a:redhat:openshift_ai:2.6::el8",
 				"cpe:/a:redhat:openshift_ai:2.7::el8",
 				"cpe:/a:redhat:openshift_ai:2.8::el8",
@@ -75938,6 +75977,8 @@
 			"cpes": [
 				"cpe:/a:redhat:openshift_ai:2.10::el8",
 				"cpe:/a:redhat:openshift_ai:2.11::el8",
+				"cpe:/a:redhat:openshift_ai:2.12::el8",
+				"cpe:/a:redhat:openshift_ai:2.13::el8",
 				"cpe:/a:redhat:openshift_ai:2.6::el8",
 				"cpe:/a:redhat:openshift_ai:2.7::el8",
 				"cpe:/a:redhat:openshift_ai:2.8::el8",
@@ -83831,5 +83872,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-07-30T00:47:55.189Z"
+	"last_updated": "2024-07-31T00:47:21.575Z"
 }
