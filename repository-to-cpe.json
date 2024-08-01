@@ -11662,7 +11662,8 @@
 				"cpe:/a:redhat:mirror_registry:1.0::el8",
 				"cpe:/a:redhat:mirror_registry:1.1.0::el8",
 				"cpe:/a:redhat:mirror_registry:1.2.0::el8",
-				"cpe:/a:redhat:mirror_registry:1.3.0::el8"
+				"cpe:/a:redhat:mirror_registry:1.3.0::el8",
+				"cpe:/a:redhat:mirror_registry:2.0.0::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/mirror-registry/1/debug"
@@ -11673,7 +11674,8 @@
 				"cpe:/a:redhat:mirror_registry:1.0::el8",
 				"cpe:/a:redhat:mirror_registry:1.1.0::el8",
 				"cpe:/a:redhat:mirror_registry:1.2.0::el8",
-				"cpe:/a:redhat:mirror_registry:1.3.0::el8"
+				"cpe:/a:redhat:mirror_registry:1.3.0::el8",
+				"cpe:/a:redhat:mirror_registry:2.0.0::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/mirror-registry/1/os"
@@ -77349,6 +77351,198 @@
 				"content/dist/layered/rhel9/x86_64/rhocp/4.16/source/SRPMS"
 			]
 		},
+		"rhocp-4.17-for-rhel-8-aarch64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift:4.17::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/aarch64/rhocp/4.17/debug"
+			]
+		},
+		"rhocp-4.17-for-rhel-8-aarch64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift:4.17::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/aarch64/rhocp/4.17/os"
+			]
+		},
+		"rhocp-4.17-for-rhel-8-aarch64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift:4.17::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/aarch64/rhocp/4.17/source/SRPMS"
+			]
+		},
+		"rhocp-4.17-for-rhel-8-ppc64le-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift:4.17::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/ppc64le/rhocp/4.17/debug"
+			]
+		},
+		"rhocp-4.17-for-rhel-8-ppc64le-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift:4.17::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/ppc64le/rhocp/4.17/os"
+			]
+		},
+		"rhocp-4.17-for-rhel-8-ppc64le-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift:4.17::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/ppc64le/rhocp/4.17/source/SRPMS"
+			]
+		},
+		"rhocp-4.17-for-rhel-8-s390x-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift:4.17::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/s390x/rhocp/4.17/debug"
+			]
+		},
+		"rhocp-4.17-for-rhel-8-s390x-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift:4.17::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/s390x/rhocp/4.17/os"
+			]
+		},
+		"rhocp-4.17-for-rhel-8-s390x-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift:4.17::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/s390x/rhocp/4.17/source/SRPMS"
+			]
+		},
+		"rhocp-4.17-for-rhel-8-x86_64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift:4.17::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/rhocp/4.17/debug"
+			]
+		},
+		"rhocp-4.17-for-rhel-8-x86_64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift:4.17::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/rhocp/4.17/os"
+			]
+		},
+		"rhocp-4.17-for-rhel-8-x86_64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift:4.17::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/rhocp/4.17/source/SRPMS"
+			]
+		},
+		"rhocp-4.17-for-rhel-9-aarch64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift:4.17::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/aarch64/rhocp/4.17/debug"
+			]
+		},
+		"rhocp-4.17-for-rhel-9-aarch64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift:4.17::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/aarch64/rhocp/4.17/os"
+			]
+		},
+		"rhocp-4.17-for-rhel-9-aarch64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift:4.17::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/aarch64/rhocp/4.17/source/SRPMS"
+			]
+		},
+		"rhocp-4.17-for-rhel-9-ppc64le-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift:4.17::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/ppc64le/rhocp/4.17/debug"
+			]
+		},
+		"rhocp-4.17-for-rhel-9-ppc64le-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift:4.17::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/ppc64le/rhocp/4.17/os"
+			]
+		},
+		"rhocp-4.17-for-rhel-9-ppc64le-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift:4.17::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/ppc64le/rhocp/4.17/source/SRPMS"
+			]
+		},
+		"rhocp-4.17-for-rhel-9-s390x-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift:4.17::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/s390x/rhocp/4.17/debug"
+			]
+		},
+		"rhocp-4.17-for-rhel-9-s390x-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift:4.17::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/s390x/rhocp/4.17/os"
+			]
+		},
+		"rhocp-4.17-for-rhel-9-s390x-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift:4.17::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/s390x/rhocp/4.17/source/SRPMS"
+			]
+		},
+		"rhocp-4.17-for-rhel-9-x86_64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift:4.17::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/rhocp/4.17/debug"
+			]
+		},
+		"rhocp-4.17-for-rhel-9-x86_64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift:4.17::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/rhocp/4.17/os"
+			]
+		},
+		"rhocp-4.17-for-rhel-9-x86_64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift:4.17::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/rhocp/4.17/source/SRPMS"
+			]
+		},
 		"rhocp-4.2-for-rhel-8-s390x-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:openshift:4.2::el8"
@@ -78569,6 +78763,102 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/x86_64/rhocp-ironic/4.16/source/SRPMS"
+			]
+		},
+		"rhocp-ironic-4.17-for-rhel-9-aarch64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_ironic:4.17::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/aarch64/rhocp-ironic/4.17/debug"
+			]
+		},
+		"rhocp-ironic-4.17-for-rhel-9-aarch64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_ironic:4.17::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/aarch64/rhocp-ironic/4.17/os"
+			]
+		},
+		"rhocp-ironic-4.17-for-rhel-9-aarch64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_ironic:4.17::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/aarch64/rhocp-ironic/4.17/source/SRPMS"
+			]
+		},
+		"rhocp-ironic-4.17-for-rhel-9-ppc64le-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_ironic:4.17::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/ppc64le/rhocp-ironic/4.17/debug"
+			]
+		},
+		"rhocp-ironic-4.17-for-rhel-9-ppc64le-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_ironic:4.17::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/ppc64le/rhocp-ironic/4.17/os"
+			]
+		},
+		"rhocp-ironic-4.17-for-rhel-9-ppc64le-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_ironic:4.17::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/ppc64le/rhocp-ironic/4.17/source/SRPMS"
+			]
+		},
+		"rhocp-ironic-4.17-for-rhel-9-s390x-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_ironic:4.17::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/s390x/rhocp-ironic/4.17/debug"
+			]
+		},
+		"rhocp-ironic-4.17-for-rhel-9-s390x-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_ironic:4.17::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/s390x/rhocp-ironic/4.17/os"
+			]
+		},
+		"rhocp-ironic-4.17-for-rhel-9-s390x-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_ironic:4.17::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/s390x/rhocp-ironic/4.17/source/SRPMS"
+			]
+		},
+		"rhocp-ironic-4.17-for-rhel-9-x86_64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_ironic:4.17::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/rhocp-ironic/4.17/debug"
+			]
+		},
+		"rhocp-ironic-4.17-for-rhel-9-x86_64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_ironic:4.17::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/rhocp-ironic/4.17/os"
+			]
+		},
+		"rhocp-ironic-4.17-for-rhel-9-x86_64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_ironic:4.17::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/rhocp-ironic/4.17/source/SRPMS"
 			]
 		},
 		"rhodo-1-for-rhel-7-server-debug-rpms": {
@@ -83872,5 +84162,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-07-31T00:47:21.575Z"
+	"last_updated": "2024-08-01T00:49:05.238Z"
 }
