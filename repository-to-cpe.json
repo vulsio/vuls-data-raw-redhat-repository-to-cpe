@@ -75826,6 +75826,30 @@
 				"content/dist/rhel/server/7/7Server/x86_64/mrg-m/2/source/SRPMS"
 			]
 		},
+		"rhelai-1.1-for-rhel-9-x86_64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux_ai:1.1::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/rhelai/1.1/debug"
+			]
+		},
+		"rhelai-1.1-for-rhel-9-x86_64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux_ai:1.1::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/rhelai/1.1/os"
+			]
+		},
+		"rhelai-1.1-for-rhel-9-x86_64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux_ai:1.1::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/rhelai/1.1/source/SRPMS"
+			]
+		},
 		"rhmt-1.0-for-rhel-8-x86_64-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhmt:1.0::el8"
@@ -84162,5 +84186,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-08-06T00:47:16.855Z"
+	"last_updated": "2024-08-08T00:47:53.701Z"
 }
