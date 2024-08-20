@@ -11807,7 +11807,9 @@
 		},
 		"mtv-for-rhel-9-x86_64-debug-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:migration_toolkit_virtualization:2.6::el8"
+				"cpe:/a:redhat:migration_toolkit_virtualization:2.4::el9",
+				"cpe:/a:redhat:migration_toolkit_virtualization:2.5::el9",
+				"cpe:/a:redhat:migration_toolkit_virtualization:2.6::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/x86_64/mtv/2/debug"
@@ -11815,7 +11817,9 @@
 		},
 		"mtv-for-rhel-9-x86_64-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:migration_toolkit_virtualization:2.6::el8"
+				"cpe:/a:redhat:migration_toolkit_virtualization:2.4::el9",
+				"cpe:/a:redhat:migration_toolkit_virtualization:2.5::el9",
+				"cpe:/a:redhat:migration_toolkit_virtualization:2.6::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/x86_64/mtv/2/os"
@@ -11823,7 +11827,9 @@
 		},
 		"mtv-for-rhel-9-x86_64-source-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:migration_toolkit_virtualization:2.6::el8"
+				"cpe:/a:redhat:migration_toolkit_virtualization:2.4::el9",
+				"cpe:/a:redhat:migration_toolkit_virtualization:2.5::el9",
+				"cpe:/a:redhat:migration_toolkit_virtualization:2.6::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/x86_64/mtv/2/source/SRPMS"
@@ -84183,5 +84189,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-08-19T01:32:11.649Z"
+	"last_updated": "2024-08-20T00:47:16.748Z"
 }
