@@ -10427,6 +10427,30 @@
 				"content/dist/rhel/server/7/7Server/x86_64/jbeap/7.0/source/SRPMS"
 			]
 		},
+		"jb-eap-7.1-eus-for-rhel-7-server-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:jboss_enterprise_application_platform_eus:7.1::el7"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel/server/7/7Server/x86_64/jbeap/7.1/debug"
+			]
+		},
+		"jb-eap-7.1-eus-for-rhel-7-server-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:jboss_enterprise_application_platform_eus:7.1::el7"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel/server/7/7Server/x86_64/jbeap/7.1/os"
+			]
+		},
+		"jb-eap-7.1-eus-for-rhel-7-server-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:jboss_enterprise_application_platform_eus:7.1::el7"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel/server/7/7Server/x86_64/jbeap/7.1/source/SRPMS"
+			]
+		},
 		"jb-eap-7.1-for-rhel-6-server-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:jboss_enterprise_application_platform:7::el6"
@@ -10456,7 +10480,7 @@
 		},
 		"jb-eap-7.1-for-rhel-7-server-debug-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:jboss_enterprise_application_platform:7::el7"
+				"cpe:/a:redhat:jboss_enterprise_application_platform:7.1::el7"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel/server/7/7Server/x86_64/jbeap/7.1/debug"
@@ -10464,7 +10488,7 @@
 		},
 		"jb-eap-7.1-for-rhel-7-server-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:jboss_enterprise_application_platform:7::el7"
+				"cpe:/a:redhat:jboss_enterprise_application_platform:7.1::el7"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel/server/7/7Server/x86_64/jbeap/7.1/os"
@@ -10472,7 +10496,7 @@
 		},
 		"jb-eap-7.1-for-rhel-7-server-source-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:jboss_enterprise_application_platform:7::el7"
+				"cpe:/a:redhat:jboss_enterprise_application_platform:7.1::el7"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel/server/7/7Server/x86_64/jbeap/7.1/source/SRPMS"
@@ -10548,6 +10572,30 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/jbeap/7.2/source/SRPMS"
+			]
+		},
+		"jb-eap-7.3-eus-for-rhel-7-server-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:jboss_enterprise_application_platform_eus:7.3::el7"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel/server/7/7Server/x86_64/jbeap/7.3/debug"
+			]
+		},
+		"jb-eap-7.3-eus-for-rhel-7-server-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:jboss_enterprise_application_platform_eus:7.3::el7"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel/server/7/7Server/x86_64/jbeap/7.3/os"
+			]
+		},
+		"jb-eap-7.3-eus-for-rhel-7-server-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:jboss_enterprise_application_platform_eus:7.3::el7"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel/server/7/7Server/x86_64/jbeap/7.3/source/SRPMS"
 			]
 		},
 		"jb-eap-7.3-for-rhel-6-server-debug-rpms": {
@@ -10692,6 +10740,54 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/x86_64/jbeap/7.4/source/SRPMS"
+			]
+		},
+		"jb-eap-7_DOT_1-eus-for-rhel-7-server-debug-rpms__x86_64": {
+			"cpes": [
+				"cpe:/a:redhat:jboss_enterprise_application_platform_eus:7.1::el7"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel/server/7/7Server/x86_64/jbeap/7.1/debug"
+			]
+		},
+		"jb-eap-7_DOT_1-eus-for-rhel-7-server-rpms__x86_64": {
+			"cpes": [
+				"cpe:/a:redhat:jboss_enterprise_application_platform_eus:7.1::el7"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel/server/7/7Server/x86_64/jbeap/7.1/os"
+			]
+		},
+		"jb-eap-7_DOT_1-eus-for-rhel-7-server-source-rpms__x86_64": {
+			"cpes": [
+				"cpe:/a:redhat:jboss_enterprise_application_platform_eus:7.1::el7"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel/server/7/7Server/x86_64/jbeap/7.1/source/SRPMS"
+			]
+		},
+		"jb-eap-7_DOT_3-eus-for-rhel-7-server-debug-rpms__x86_64": {
+			"cpes": [
+				"cpe:/a:redhat:jboss_enterprise_application_platform_eus:7.3::el7"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel/server/7/7Server/x86_64/jbeap/7.3/debug"
+			]
+		},
+		"jb-eap-7_DOT_3-eus-for-rhel-7-server-rpms__x86_64": {
+			"cpes": [
+				"cpe:/a:redhat:jboss_enterprise_application_platform_eus:7.3::el7"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel/server/7/7Server/x86_64/jbeap/7.3/os"
+			]
+		},
+		"jb-eap-7_DOT_3-eus-for-rhel-7-server-source-rpms__x86_64": {
+			"cpes": [
+				"cpe:/a:redhat:jboss_enterprise_application_platform_eus:7.3::el7"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel/server/7/7Server/x86_64/jbeap/7.3/source/SRPMS"
 			]
 		},
 		"jb-eap-8.0-for-rhel-8-x86_64-debug-rpms": {
@@ -76123,6 +76219,7 @@
 				"cpe:/a:redhat:openshift_ai:2.11::el8",
 				"cpe:/a:redhat:openshift_ai:2.12::el8",
 				"cpe:/a:redhat:openshift_ai:2.13::el8",
+				"cpe:/a:redhat:openshift_ai:2.14::el8",
 				"cpe:/a:redhat:openshift_ai:2.6::el8",
 				"cpe:/a:redhat:openshift_ai:2.7::el8",
 				"cpe:/a:redhat:openshift_ai:2.8::el8",
@@ -76138,6 +76235,7 @@
 				"cpe:/a:redhat:openshift_ai:2.11::el8",
 				"cpe:/a:redhat:openshift_ai:2.12::el8",
 				"cpe:/a:redhat:openshift_ai:2.13::el8",
+				"cpe:/a:redhat:openshift_ai:2.14::el8",
 				"cpe:/a:redhat:openshift_ai:2.6::el8",
 				"cpe:/a:redhat:openshift_ai:2.7::el8",
 				"cpe:/a:redhat:openshift_ai:2.8::el8",
@@ -76153,6 +76251,7 @@
 				"cpe:/a:redhat:openshift_ai:2.11::el8",
 				"cpe:/a:redhat:openshift_ai:2.12::el8",
 				"cpe:/a:redhat:openshift_ai:2.13::el8",
+				"cpe:/a:redhat:openshift_ai:2.14::el8",
 				"cpe:/a:redhat:openshift_ai:2.6::el8",
 				"cpe:/a:redhat:openshift_ai:2.7::el8",
 				"cpe:/a:redhat:openshift_ai:2.8::el8",
@@ -84331,5 +84430,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-08-22T00:47:28.310Z"
+	"last_updated": "2024-08-23T00:47:38.651Z"
 }
