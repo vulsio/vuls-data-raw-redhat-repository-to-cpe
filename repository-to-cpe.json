@@ -11928,6 +11928,22 @@
 				"content/dist/layered/rhel8/x86_64/mirror-registry/1/source/SRPMS"
 			]
 		},
+		"mirror-registry-2-for-rhel-8-x86_64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:mirror_registry:2.0.0::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/mirror-registry/2/debug"
+			]
+		},
+		"mirror-registry-2-for-rhel-8-x86_64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:mirror_registry:2.0.0::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/mirror-registry/2/os"
+			]
+		},
 		"mta-1-for-middleware-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:migration_toolkit_applications:6.0::el8",
@@ -84430,5 +84446,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-08-26T01:20:07.016Z"
+	"last_updated": "2024-08-27T00:46:47.008Z"
 }
