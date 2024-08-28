@@ -4947,7 +4947,8 @@
 		},
 		"cluster-observability-operator-1-for-rhel-8-aarch64-textonly-debug-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:cluster_observability_operator:0.3::el8"
+				"cpe:/a:redhat:cluster_observability_operator:0.3::el8",
+				"cpe:/a:redhat:cluster_observability_operator:0.4::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/aarch64/cluster-observability-operator/1/debug"
@@ -4955,7 +4956,8 @@
 		},
 		"cluster-observability-operator-1-for-rhel-8-aarch64-textonly-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:cluster_observability_operator:0.3::el8"
+				"cpe:/a:redhat:cluster_observability_operator:0.3::el8",
+				"cpe:/a:redhat:cluster_observability_operator:0.4::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/aarch64/cluster-observability-operator/1/os"
@@ -4963,7 +4965,8 @@
 		},
 		"cluster-observability-operator-1-for-rhel-8-aarch64-textonly-source-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:cluster_observability_operator:0.3::el8"
+				"cpe:/a:redhat:cluster_observability_operator:0.3::el8",
+				"cpe:/a:redhat:cluster_observability_operator:0.4::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/aarch64/cluster-observability-operator/1/source/SRPMS"
@@ -4971,7 +4974,8 @@
 		},
 		"cluster-observability-operator-1-for-rhel-8-ppc64le-textonly-debug-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:cluster_observability_operator:0.3::el8"
+				"cpe:/a:redhat:cluster_observability_operator:0.3::el8",
+				"cpe:/a:redhat:cluster_observability_operator:0.4::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/ppc64le/cluster-observability-operator/1/debug"
@@ -4979,7 +4983,8 @@
 		},
 		"cluster-observability-operator-1-for-rhel-8-ppc64le-textonly-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:cluster_observability_operator:0.3::el8"
+				"cpe:/a:redhat:cluster_observability_operator:0.3::el8",
+				"cpe:/a:redhat:cluster_observability_operator:0.4::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/ppc64le/cluster-observability-operator/1/os"
@@ -4987,7 +4992,8 @@
 		},
 		"cluster-observability-operator-1-for-rhel-8-ppc64le-textonly-source-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:cluster_observability_operator:0.3::el8"
+				"cpe:/a:redhat:cluster_observability_operator:0.3::el8",
+				"cpe:/a:redhat:cluster_observability_operator:0.4::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/ppc64le/cluster-observability-operator/1/source/SRPMS"
@@ -4995,7 +5001,8 @@
 		},
 		"cluster-observability-operator-1-for-rhel-8-s390x-textonly-debug-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:cluster_observability_operator:0.3::el8"
+				"cpe:/a:redhat:cluster_observability_operator:0.3::el8",
+				"cpe:/a:redhat:cluster_observability_operator:0.4::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/s390x/cluster-observability-operator/1/debug"
@@ -5003,7 +5010,8 @@
 		},
 		"cluster-observability-operator-1-for-rhel-8-s390x-textonly-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:cluster_observability_operator:0.3::el8"
+				"cpe:/a:redhat:cluster_observability_operator:0.3::el8",
+				"cpe:/a:redhat:cluster_observability_operator:0.4::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/s390x/cluster-observability-operator/1/os"
@@ -5011,7 +5019,8 @@
 		},
 		"cluster-observability-operator-1-for-rhel-8-s390x-textonly-source-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:cluster_observability_operator:0.3::el8"
+				"cpe:/a:redhat:cluster_observability_operator:0.3::el8",
+				"cpe:/a:redhat:cluster_observability_operator:0.4::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/s390x/cluster-observability-operator/1/source/SRPMS"
@@ -5021,7 +5030,8 @@
 			"cpes": [
 				"cpe:/a:redhat:cluster_observability_operator:0.1::el8",
 				"cpe:/a:redhat:cluster_observability_operator:0.2::el8",
-				"cpe:/a:redhat:cluster_observability_operator:0.3::el8"
+				"cpe:/a:redhat:cluster_observability_operator:0.3::el8",
+				"cpe:/a:redhat:cluster_observability_operator:0.4::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/cluster-observability-operator/1/debug"
@@ -5031,7 +5041,8 @@
 			"cpes": [
 				"cpe:/a:redhat:cluster_observability_operator:0.1::el8",
 				"cpe:/a:redhat:cluster_observability_operator:0.2::el8",
-				"cpe:/a:redhat:cluster_observability_operator:0.3::el8"
+				"cpe:/a:redhat:cluster_observability_operator:0.3::el8",
+				"cpe:/a:redhat:cluster_observability_operator:0.4::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/cluster-observability-operator/1/os"
@@ -5041,7 +5052,8 @@
 			"cpes": [
 				"cpe:/a:redhat:cluster_observability_operator:0.1::el8",
 				"cpe:/a:redhat:cluster_observability_operator:0.2::el8",
-				"cpe:/a:redhat:cluster_observability_operator:0.3::el8"
+				"cpe:/a:redhat:cluster_observability_operator:0.3::el8",
+				"cpe:/a:redhat:cluster_observability_operator:0.4::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/cluster-observability-operator/1/source/SRPMS"
@@ -6778,11 +6790,13 @@
 		"codeready-builder-for-rhel-9-aarch64-eus-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:9.0::crb",
-				"cpe:/a:redhat:rhel_eus:9.2::crb"
+				"cpe:/a:redhat:rhel_eus:9.2::crb",
+				"cpe:/a:redhat:rhel_eus:9.4::crb"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/aarch64/codeready-builder/debug",
-				"content/eus/rhel9/9.2/aarch64/codeready-builder/debug"
+				"content/eus/rhel9/9.2/aarch64/codeready-builder/debug",
+				"content/eus/rhel9/9.4/aarch64/codeready-builder/debug"
 			]
 		},
 		"codeready-builder-for-rhel-9-aarch64-eus-debug-rpms__9_DOT_0": {
@@ -6801,14 +6815,24 @@
 				"content/eus/rhel9/9.2/aarch64/codeready-builder/debug"
 			]
 		},
+		"codeready-builder-for-rhel-9-aarch64-eus-debug-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_eus:9.4::crb"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/aarch64/codeready-builder/debug"
+			]
+		},
 		"codeready-builder-for-rhel-9-aarch64-eus-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:9.0::crb",
-				"cpe:/a:redhat:rhel_eus:9.2::crb"
+				"cpe:/a:redhat:rhel_eus:9.2::crb",
+				"cpe:/a:redhat:rhel_eus:9.4::crb"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/aarch64/codeready-builder/os",
-				"content/eus/rhel9/9.2/aarch64/codeready-builder/os"
+				"content/eus/rhel9/9.2/aarch64/codeready-builder/os",
+				"content/eus/rhel9/9.4/aarch64/codeready-builder/os"
 			]
 		},
 		"codeready-builder-for-rhel-9-aarch64-eus-rpms__9_DOT_0": {
@@ -6827,14 +6851,24 @@
 				"content/eus/rhel9/9.2/aarch64/codeready-builder/os"
 			]
 		},
+		"codeready-builder-for-rhel-9-aarch64-eus-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_eus:9.4::crb"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/aarch64/codeready-builder/os"
+			]
+		},
 		"codeready-builder-for-rhel-9-aarch64-eus-source-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:9.0::crb",
-				"cpe:/a:redhat:rhel_eus:9.2::crb"
+				"cpe:/a:redhat:rhel_eus:9.2::crb",
+				"cpe:/a:redhat:rhel_eus:9.4::crb"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/aarch64/codeready-builder/source/SRPMS",
-				"content/eus/rhel9/9.2/aarch64/codeready-builder/source/SRPMS"
+				"content/eus/rhel9/9.2/aarch64/codeready-builder/source/SRPMS",
+				"content/eus/rhel9/9.4/aarch64/codeready-builder/source/SRPMS"
 			]
 		},
 		"codeready-builder-for-rhel-9-aarch64-eus-source-rpms__9_DOT_0": {
@@ -6851,6 +6885,14 @@
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.2/aarch64/codeready-builder/source/SRPMS"
+			]
+		},
+		"codeready-builder-for-rhel-9-aarch64-eus-source-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_eus:9.4::crb"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/aarch64/codeready-builder/source/SRPMS"
 			]
 		},
 		"codeready-builder-for-rhel-9-aarch64-rpms": {
@@ -6892,11 +6934,13 @@
 		"codeready-builder-for-rhel-9-ppc64le-eus-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:9.0::crb",
-				"cpe:/a:redhat:rhel_eus:9.2::crb"
+				"cpe:/a:redhat:rhel_eus:9.2::crb",
+				"cpe:/a:redhat:rhel_eus:9.4::crb"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/ppc64le/codeready-builder/debug",
-				"content/eus/rhel9/9.2/ppc64le/codeready-builder/debug"
+				"content/eus/rhel9/9.2/ppc64le/codeready-builder/debug",
+				"content/eus/rhel9/9.4/ppc64le/codeready-builder/debug"
 			]
 		},
 		"codeready-builder-for-rhel-9-ppc64le-eus-debug-rpms__9_DOT_0": {
@@ -6915,14 +6959,24 @@
 				"content/eus/rhel9/9.2/ppc64le/codeready-builder/debug"
 			]
 		},
+		"codeready-builder-for-rhel-9-ppc64le-eus-debug-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_eus:9.4::crb"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/ppc64le/codeready-builder/debug"
+			]
+		},
 		"codeready-builder-for-rhel-9-ppc64le-eus-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:9.0::crb",
-				"cpe:/a:redhat:rhel_eus:9.2::crb"
+				"cpe:/a:redhat:rhel_eus:9.2::crb",
+				"cpe:/a:redhat:rhel_eus:9.4::crb"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/ppc64le/codeready-builder/os",
-				"content/eus/rhel9/9.2/ppc64le/codeready-builder/os"
+				"content/eus/rhel9/9.2/ppc64le/codeready-builder/os",
+				"content/eus/rhel9/9.4/ppc64le/codeready-builder/os"
 			]
 		},
 		"codeready-builder-for-rhel-9-ppc64le-eus-rpms__9_DOT_0": {
@@ -6941,14 +6995,24 @@
 				"content/eus/rhel9/9.2/ppc64le/codeready-builder/os"
 			]
 		},
+		"codeready-builder-for-rhel-9-ppc64le-eus-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_eus:9.4::crb"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/ppc64le/codeready-builder/os"
+			]
+		},
 		"codeready-builder-for-rhel-9-ppc64le-eus-source-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:9.0::crb",
-				"cpe:/a:redhat:rhel_eus:9.2::crb"
+				"cpe:/a:redhat:rhel_eus:9.2::crb",
+				"cpe:/a:redhat:rhel_eus:9.4::crb"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/ppc64le/codeready-builder/source/SRPMS",
-				"content/eus/rhel9/9.2/ppc64le/codeready-builder/source/SRPMS"
+				"content/eus/rhel9/9.2/ppc64le/codeready-builder/source/SRPMS",
+				"content/eus/rhel9/9.4/ppc64le/codeready-builder/source/SRPMS"
 			]
 		},
 		"codeready-builder-for-rhel-9-ppc64le-eus-source-rpms__9_DOT_0": {
@@ -6965,6 +7029,14 @@
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.2/ppc64le/codeready-builder/source/SRPMS"
+			]
+		},
+		"codeready-builder-for-rhel-9-ppc64le-eus-source-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_eus:9.4::crb"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/ppc64le/codeready-builder/source/SRPMS"
 			]
 		},
 		"codeready-builder-for-rhel-9-ppc64le-rpms": {
@@ -7006,11 +7078,13 @@
 		"codeready-builder-for-rhel-9-s390x-eus-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:9.0::crb",
-				"cpe:/a:redhat:rhel_eus:9.2::crb"
+				"cpe:/a:redhat:rhel_eus:9.2::crb",
+				"cpe:/a:redhat:rhel_eus:9.4::crb"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/s390x/codeready-builder/debug",
-				"content/eus/rhel9/9.2/s390x/codeready-builder/debug"
+				"content/eus/rhel9/9.2/s390x/codeready-builder/debug",
+				"content/eus/rhel9/9.4/s390x/codeready-builder/debug"
 			]
 		},
 		"codeready-builder-for-rhel-9-s390x-eus-debug-rpms__9_DOT_0": {
@@ -7029,14 +7103,24 @@
 				"content/eus/rhel9/9.2/s390x/codeready-builder/debug"
 			]
 		},
+		"codeready-builder-for-rhel-9-s390x-eus-debug-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_eus:9.4::crb"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/s390x/codeready-builder/debug"
+			]
+		},
 		"codeready-builder-for-rhel-9-s390x-eus-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:9.0::crb",
-				"cpe:/a:redhat:rhel_eus:9.2::crb"
+				"cpe:/a:redhat:rhel_eus:9.2::crb",
+				"cpe:/a:redhat:rhel_eus:9.4::crb"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/s390x/codeready-builder/os",
-				"content/eus/rhel9/9.2/s390x/codeready-builder/os"
+				"content/eus/rhel9/9.2/s390x/codeready-builder/os",
+				"content/eus/rhel9/9.4/s390x/codeready-builder/os"
 			]
 		},
 		"codeready-builder-for-rhel-9-s390x-eus-rpms__9_DOT_0": {
@@ -7055,14 +7139,24 @@
 				"content/eus/rhel9/9.2/s390x/codeready-builder/os"
 			]
 		},
+		"codeready-builder-for-rhel-9-s390x-eus-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_eus:9.4::crb"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/s390x/codeready-builder/os"
+			]
+		},
 		"codeready-builder-for-rhel-9-s390x-eus-source-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:9.0::crb",
-				"cpe:/a:redhat:rhel_eus:9.2::crb"
+				"cpe:/a:redhat:rhel_eus:9.2::crb",
+				"cpe:/a:redhat:rhel_eus:9.4::crb"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/s390x/codeready-builder/source/SRPMS",
-				"content/eus/rhel9/9.2/s390x/codeready-builder/source/SRPMS"
+				"content/eus/rhel9/9.2/s390x/codeready-builder/source/SRPMS",
+				"content/eus/rhel9/9.4/s390x/codeready-builder/source/SRPMS"
 			]
 		},
 		"codeready-builder-for-rhel-9-s390x-eus-source-rpms__9_DOT_0": {
@@ -7079,6 +7173,14 @@
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.2/s390x/codeready-builder/source/SRPMS"
+			]
+		},
+		"codeready-builder-for-rhel-9-s390x-eus-source-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_eus:9.4::crb"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/s390x/codeready-builder/source/SRPMS"
 			]
 		},
 		"codeready-builder-for-rhel-9-s390x-rpms": {
@@ -7120,11 +7222,13 @@
 		"codeready-builder-for-rhel-9-x86_64-eus-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:9.0::crb",
-				"cpe:/a:redhat:rhel_eus:9.2::crb"
+				"cpe:/a:redhat:rhel_eus:9.2::crb",
+				"cpe:/a:redhat:rhel_eus:9.4::crb"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/x86_64/codeready-builder/debug",
-				"content/eus/rhel9/9.2/x86_64/codeready-builder/debug"
+				"content/eus/rhel9/9.2/x86_64/codeready-builder/debug",
+				"content/eus/rhel9/9.4/x86_64/codeready-builder/debug"
 			]
 		},
 		"codeready-builder-for-rhel-9-x86_64-eus-debug-rpms__9_DOT_0": {
@@ -7143,14 +7247,24 @@
 				"content/eus/rhel9/9.2/x86_64/codeready-builder/debug"
 			]
 		},
+		"codeready-builder-for-rhel-9-x86_64-eus-debug-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_eus:9.4::crb"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/x86_64/codeready-builder/debug"
+			]
+		},
 		"codeready-builder-for-rhel-9-x86_64-eus-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:9.0::crb",
-				"cpe:/a:redhat:rhel_eus:9.2::crb"
+				"cpe:/a:redhat:rhel_eus:9.2::crb",
+				"cpe:/a:redhat:rhel_eus:9.4::crb"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/x86_64/codeready-builder/os",
-				"content/eus/rhel9/9.2/x86_64/codeready-builder/os"
+				"content/eus/rhel9/9.2/x86_64/codeready-builder/os",
+				"content/eus/rhel9/9.4/x86_64/codeready-builder/os"
 			]
 		},
 		"codeready-builder-for-rhel-9-x86_64-eus-rpms__9_DOT_0": {
@@ -7169,14 +7283,24 @@
 				"content/eus/rhel9/9.2/x86_64/codeready-builder/os"
 			]
 		},
+		"codeready-builder-for-rhel-9-x86_64-eus-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_eus:9.4::crb"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/x86_64/codeready-builder/os"
+			]
+		},
 		"codeready-builder-for-rhel-9-x86_64-eus-source-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:9.0::crb",
-				"cpe:/a:redhat:rhel_eus:9.2::crb"
+				"cpe:/a:redhat:rhel_eus:9.2::crb",
+				"cpe:/a:redhat:rhel_eus:9.4::crb"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/x86_64/codeready-builder/source/SRPMS",
-				"content/eus/rhel9/9.2/x86_64/codeready-builder/source/SRPMS"
+				"content/eus/rhel9/9.2/x86_64/codeready-builder/source/SRPMS",
+				"content/eus/rhel9/9.4/x86_64/codeready-builder/source/SRPMS"
 			]
 		},
 		"codeready-builder-for-rhel-9-x86_64-eus-source-rpms__9_DOT_0": {
@@ -7193,6 +7317,14 @@
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.2/x86_64/codeready-builder/source/SRPMS"
+			]
+		},
+		"codeready-builder-for-rhel-9-x86_64-eus-source-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_eus:9.4::crb"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/x86_64/codeready-builder/source/SRPMS"
 			]
 		},
 		"codeready-builder-for-rhel-9-x86_64-rpms": {
@@ -14174,6 +14306,38 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/middleware/openliberty/1.0/x86_64/os"
+			]
+		},
+		"openshift-builds-1-for-rhel-8-aarch64-textonly-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_builds:1.1::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/aarch64/openshift-builds-textonly/1/os"
+			]
+		},
+		"openshift-builds-1-for-rhel-8-ppc64le-textonly-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_builds:1.1::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/ppc64le/openshift-builds-textonly/1/os"
+			]
+		},
+		"openshift-builds-1-for-rhel-8-s390x-textonly-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_builds:1.1::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/s390x/openshift-builds-textonly/1/os"
+			]
+		},
+		"openshift-builds-1-for-rhel-8-x86_64-textonly-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_builds:1.1::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/openshift-builds-textonly/1/os"
 			]
 		},
 		"openshift-builds-1.0-for-rhel-8-aarch64-debug-rpms": {
@@ -63389,11 +63553,13 @@
 				"cpe:/a:redhat:rhel_e4s:9.0::appstream",
 				"cpe:/a:redhat:rhel_e4s:9.2::appstream",
 				"cpe:/a:redhat:rhel_eus:9.0::appstream",
-				"cpe:/a:redhat:rhel_eus:9.2::appstream"
+				"cpe:/a:redhat:rhel_eus:9.2::appstream",
+				"cpe:/a:redhat:rhel_eus:9.4::appstream"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel9/9.0/aarch64/appstream/debug",
-				"content/e4s/rhel9/9.2/aarch64/appstream/debug"
+				"content/e4s/rhel9/9.2/aarch64/appstream/debug",
+				"content/e4s/rhel9/9.4/aarch64/appstream/debug"
 			]
 		},
 		"rhel-9-for-aarch64-appstream-e4s-debug-rpms__9_DOT_0": {
@@ -63417,11 +63583,13 @@
 				"cpe:/a:redhat:rhel_e4s:9.0::appstream",
 				"cpe:/a:redhat:rhel_e4s:9.2::appstream",
 				"cpe:/a:redhat:rhel_eus:9.0::appstream",
-				"cpe:/a:redhat:rhel_eus:9.2::appstream"
+				"cpe:/a:redhat:rhel_eus:9.2::appstream",
+				"cpe:/a:redhat:rhel_eus:9.4::appstream"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel9/9.0/aarch64/appstream/os",
-				"content/e4s/rhel9/9.2/aarch64/appstream/os"
+				"content/e4s/rhel9/9.2/aarch64/appstream/os",
+				"content/e4s/rhel9/9.4/aarch64/appstream/os"
 			]
 		},
 		"rhel-9-for-aarch64-appstream-e4s-rpms__9_DOT_0": {
@@ -63445,11 +63613,13 @@
 				"cpe:/a:redhat:rhel_e4s:9.0::appstream",
 				"cpe:/a:redhat:rhel_e4s:9.2::appstream",
 				"cpe:/a:redhat:rhel_eus:9.0::appstream",
-				"cpe:/a:redhat:rhel_eus:9.2::appstream"
+				"cpe:/a:redhat:rhel_eus:9.2::appstream",
+				"cpe:/a:redhat:rhel_eus:9.4::appstream"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel9/9.0/aarch64/appstream/source/SRPMS",
-				"content/e4s/rhel9/9.2/aarch64/appstream/source/SRPMS"
+				"content/e4s/rhel9/9.2/aarch64/appstream/source/SRPMS",
+				"content/e4s/rhel9/9.4/aarch64/appstream/source/SRPMS"
 			]
 		},
 		"rhel-9-for-aarch64-appstream-e4s-source-rpms__9_DOT_0": {
@@ -63471,11 +63641,13 @@
 		"rhel-9-for-aarch64-appstream-eus-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:9.0::appstream",
-				"cpe:/a:redhat:rhel_eus:9.2::appstream"
+				"cpe:/a:redhat:rhel_eus:9.2::appstream",
+				"cpe:/a:redhat:rhel_eus:9.4::appstream"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/aarch64/appstream/debug",
-				"content/eus/rhel9/9.2/aarch64/appstream/debug"
+				"content/eus/rhel9/9.2/aarch64/appstream/debug",
+				"content/eus/rhel9/9.4/aarch64/appstream/debug"
 			]
 		},
 		"rhel-9-for-aarch64-appstream-eus-debug-rpms__9_DOT_0": {
@@ -63494,14 +63666,24 @@
 				"content/eus/rhel9/9.2/aarch64/appstream/debug"
 			]
 		},
+		"rhel-9-for-aarch64-appstream-eus-debug-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_eus:9.4::appstream"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/aarch64/appstream/debug"
+			]
+		},
 		"rhel-9-for-aarch64-appstream-eus-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:9.0::appstream",
-				"cpe:/a:redhat:rhel_eus:9.2::appstream"
+				"cpe:/a:redhat:rhel_eus:9.2::appstream",
+				"cpe:/a:redhat:rhel_eus:9.4::appstream"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/aarch64/appstream/os",
-				"content/eus/rhel9/9.2/aarch64/appstream/os"
+				"content/eus/rhel9/9.2/aarch64/appstream/os",
+				"content/eus/rhel9/9.4/aarch64/appstream/os"
 			]
 		},
 		"rhel-9-for-aarch64-appstream-eus-rpms__9_DOT_0": {
@@ -63520,14 +63702,24 @@
 				"content/eus/rhel9/9.2/aarch64/appstream/os"
 			]
 		},
+		"rhel-9-for-aarch64-appstream-eus-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_eus:9.4::appstream"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/aarch64/appstream/os"
+			]
+		},
 		"rhel-9-for-aarch64-appstream-eus-source-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:9.0::appstream",
-				"cpe:/a:redhat:rhel_eus:9.2::appstream"
+				"cpe:/a:redhat:rhel_eus:9.2::appstream",
+				"cpe:/a:redhat:rhel_eus:9.4::appstream"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/aarch64/appstream/source/SRPMS",
-				"content/eus/rhel9/9.2/aarch64/appstream/source/SRPMS"
+				"content/eus/rhel9/9.2/aarch64/appstream/source/SRPMS",
+				"content/eus/rhel9/9.4/aarch64/appstream/source/SRPMS"
 			]
 		},
 		"rhel-9-for-aarch64-appstream-eus-source-rpms__9_DOT_0": {
@@ -63544,6 +63736,14 @@
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.2/aarch64/appstream/source/SRPMS"
+			]
+		},
+		"rhel-9-for-aarch64-appstream-eus-source-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_eus:9.4::appstream"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/aarch64/appstream/source/SRPMS"
 			]
 		},
 		"rhel-9-for-aarch64-appstream-rpms": {
@@ -63587,11 +63787,13 @@
 				"cpe:/o:redhat:rhel_e4s:9.0::baseos",
 				"cpe:/o:redhat:rhel_e4s:9.2::baseos",
 				"cpe:/o:redhat:rhel_eus:9.0::baseos",
-				"cpe:/o:redhat:rhel_eus:9.2::baseos"
+				"cpe:/o:redhat:rhel_eus:9.2::baseos",
+				"cpe:/o:redhat:rhel_eus:9.4::baseos"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel9/9.0/aarch64/baseos/debug",
-				"content/e4s/rhel9/9.2/aarch64/baseos/debug"
+				"content/e4s/rhel9/9.2/aarch64/baseos/debug",
+				"content/e4s/rhel9/9.4/aarch64/baseos/debug"
 			]
 		},
 		"rhel-9-for-aarch64-baseos-e4s-debug-rpms__9_DOT_0": {
@@ -63615,11 +63817,13 @@
 				"cpe:/o:redhat:rhel_e4s:9.0::baseos",
 				"cpe:/o:redhat:rhel_e4s:9.2::baseos",
 				"cpe:/o:redhat:rhel_eus:9.0::baseos",
-				"cpe:/o:redhat:rhel_eus:9.2::baseos"
+				"cpe:/o:redhat:rhel_eus:9.2::baseos",
+				"cpe:/o:redhat:rhel_eus:9.4::baseos"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel9/9.0/aarch64/baseos/os",
-				"content/e4s/rhel9/9.2/aarch64/baseos/os"
+				"content/e4s/rhel9/9.2/aarch64/baseos/os",
+				"content/e4s/rhel9/9.4/aarch64/baseos/os"
 			]
 		},
 		"rhel-9-for-aarch64-baseos-e4s-rpms__9_DOT_0": {
@@ -63643,11 +63847,13 @@
 				"cpe:/o:redhat:rhel_e4s:9.0::baseos",
 				"cpe:/o:redhat:rhel_e4s:9.2::baseos",
 				"cpe:/o:redhat:rhel_eus:9.0::baseos",
-				"cpe:/o:redhat:rhel_eus:9.2::baseos"
+				"cpe:/o:redhat:rhel_eus:9.2::baseos",
+				"cpe:/o:redhat:rhel_eus:9.4::baseos"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel9/9.0/aarch64/baseos/source/SRPMS",
-				"content/e4s/rhel9/9.2/aarch64/baseos/source/SRPMS"
+				"content/e4s/rhel9/9.2/aarch64/baseos/source/SRPMS",
+				"content/e4s/rhel9/9.4/aarch64/baseos/source/SRPMS"
 			]
 		},
 		"rhel-9-for-aarch64-baseos-e4s-source-rpms__9_DOT_0": {
@@ -63669,11 +63875,13 @@
 		"rhel-9-for-aarch64-baseos-eus-debug-rpms": {
 			"cpes": [
 				"cpe:/o:redhat:rhel_eus:9.0::baseos",
-				"cpe:/o:redhat:rhel_eus:9.2::baseos"
+				"cpe:/o:redhat:rhel_eus:9.2::baseos",
+				"cpe:/o:redhat:rhel_eus:9.4::baseos"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/aarch64/baseos/debug",
-				"content/eus/rhel9/9.2/aarch64/baseos/debug"
+				"content/eus/rhel9/9.2/aarch64/baseos/debug",
+				"content/eus/rhel9/9.4/aarch64/baseos/debug"
 			]
 		},
 		"rhel-9-for-aarch64-baseos-eus-debug-rpms__9_DOT_0": {
@@ -63692,14 +63900,24 @@
 				"content/eus/rhel9/9.2/aarch64/baseos/debug"
 			]
 		},
+		"rhel-9-for-aarch64-baseos-eus-debug-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/o:redhat:rhel_eus:9.4::baseos"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/aarch64/baseos/debug"
+			]
+		},
 		"rhel-9-for-aarch64-baseos-eus-rpms": {
 			"cpes": [
 				"cpe:/o:redhat:rhel_eus:9.0::baseos",
-				"cpe:/o:redhat:rhel_eus:9.2::baseos"
+				"cpe:/o:redhat:rhel_eus:9.2::baseos",
+				"cpe:/o:redhat:rhel_eus:9.4::baseos"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/aarch64/baseos/os",
-				"content/eus/rhel9/9.2/aarch64/baseos/os"
+				"content/eus/rhel9/9.2/aarch64/baseos/os",
+				"content/eus/rhel9/9.4/aarch64/baseos/os"
 			]
 		},
 		"rhel-9-for-aarch64-baseos-eus-rpms__9_DOT_0": {
@@ -63718,14 +63936,24 @@
 				"content/eus/rhel9/9.2/aarch64/baseos/os"
 			]
 		},
+		"rhel-9-for-aarch64-baseos-eus-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/o:redhat:rhel_eus:9.4::baseos"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/aarch64/baseos/os"
+			]
+		},
 		"rhel-9-for-aarch64-baseos-eus-source-rpms": {
 			"cpes": [
 				"cpe:/o:redhat:rhel_eus:9.0::baseos",
-				"cpe:/o:redhat:rhel_eus:9.2::baseos"
+				"cpe:/o:redhat:rhel_eus:9.2::baseos",
+				"cpe:/o:redhat:rhel_eus:9.4::baseos"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/aarch64/baseos/source/SRPMS",
-				"content/eus/rhel9/9.2/aarch64/baseos/source/SRPMS"
+				"content/eus/rhel9/9.2/aarch64/baseos/source/SRPMS",
+				"content/eus/rhel9/9.4/aarch64/baseos/source/SRPMS"
 			]
 		},
 		"rhel-9-for-aarch64-baseos-eus-source-rpms__9_DOT_0": {
@@ -63742,6 +63970,14 @@
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.2/aarch64/baseos/source/SRPMS"
+			]
+		},
+		"rhel-9-for-aarch64-baseos-eus-source-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/o:redhat:rhel_eus:9.4::baseos"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/aarch64/baseos/source/SRPMS"
 			]
 		},
 		"rhel-9-for-aarch64-baseos-rpms": {
@@ -63785,11 +64021,13 @@
 				"cpe:/a:redhat:rhel_e4s:9.0::highavailability",
 				"cpe:/a:redhat:rhel_e4s:9.2::highavailability",
 				"cpe:/a:redhat:rhel_eus:9.0::highavailability",
-				"cpe:/a:redhat:rhel_eus:9.2::highavailability"
+				"cpe:/a:redhat:rhel_eus:9.2::highavailability",
+				"cpe:/a:redhat:rhel_eus:9.4::highavailability"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel9/9.0/aarch64/highavailability/debug",
-				"content/e4s/rhel9/9.2/aarch64/highavailability/debug"
+				"content/e4s/rhel9/9.2/aarch64/highavailability/debug",
+				"content/e4s/rhel9/9.4/aarch64/highavailability/debug"
 			]
 		},
 		"rhel-9-for-aarch64-highavailability-e4s-debug-rpms__9_DOT_0": {
@@ -63813,11 +64051,13 @@
 				"cpe:/a:redhat:rhel_e4s:9.0::highavailability",
 				"cpe:/a:redhat:rhel_e4s:9.2::highavailability",
 				"cpe:/a:redhat:rhel_eus:9.0::highavailability",
-				"cpe:/a:redhat:rhel_eus:9.2::highavailability"
+				"cpe:/a:redhat:rhel_eus:9.2::highavailability",
+				"cpe:/a:redhat:rhel_eus:9.4::highavailability"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel9/9.0/aarch64/highavailability/os",
-				"content/e4s/rhel9/9.2/aarch64/highavailability/os"
+				"content/e4s/rhel9/9.2/aarch64/highavailability/os",
+				"content/e4s/rhel9/9.4/aarch64/highavailability/os"
 			]
 		},
 		"rhel-9-for-aarch64-highavailability-e4s-rpms__9_DOT_0": {
@@ -63841,11 +64081,13 @@
 				"cpe:/a:redhat:rhel_e4s:9.0::highavailability",
 				"cpe:/a:redhat:rhel_e4s:9.2::highavailability",
 				"cpe:/a:redhat:rhel_eus:9.0::highavailability",
-				"cpe:/a:redhat:rhel_eus:9.2::highavailability"
+				"cpe:/a:redhat:rhel_eus:9.2::highavailability",
+				"cpe:/a:redhat:rhel_eus:9.4::highavailability"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel9/9.0/aarch64/highavailability/source/SRPMS",
-				"content/e4s/rhel9/9.2/aarch64/highavailability/source/SRPMS"
+				"content/e4s/rhel9/9.2/aarch64/highavailability/source/SRPMS",
+				"content/e4s/rhel9/9.4/aarch64/highavailability/source/SRPMS"
 			]
 		},
 		"rhel-9-for-aarch64-highavailability-e4s-source-rpms__9_DOT_0": {
@@ -63867,11 +64109,13 @@
 		"rhel-9-for-aarch64-highavailability-eus-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:9.0::highavailability",
-				"cpe:/a:redhat:rhel_eus:9.2::highavailability"
+				"cpe:/a:redhat:rhel_eus:9.2::highavailability",
+				"cpe:/a:redhat:rhel_eus:9.4::highavailability"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/aarch64/highavailability/debug",
-				"content/eus/rhel9/9.2/aarch64/highavailability/debug"
+				"content/eus/rhel9/9.2/aarch64/highavailability/debug",
+				"content/eus/rhel9/9.4/aarch64/highavailability/debug"
 			]
 		},
 		"rhel-9-for-aarch64-highavailability-eus-debug-rpms__9_DOT_0": {
@@ -63890,14 +64134,24 @@
 				"content/eus/rhel9/9.2/aarch64/highavailability/debug"
 			]
 		},
+		"rhel-9-for-aarch64-highavailability-eus-debug-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_eus:9.4::highavailability"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/aarch64/highavailability/debug"
+			]
+		},
 		"rhel-9-for-aarch64-highavailability-eus-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:9.0::highavailability",
-				"cpe:/a:redhat:rhel_eus:9.2::highavailability"
+				"cpe:/a:redhat:rhel_eus:9.2::highavailability",
+				"cpe:/a:redhat:rhel_eus:9.4::highavailability"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/aarch64/highavailability/os",
-				"content/eus/rhel9/9.2/aarch64/highavailability/os"
+				"content/eus/rhel9/9.2/aarch64/highavailability/os",
+				"content/eus/rhel9/9.4/aarch64/highavailability/os"
 			]
 		},
 		"rhel-9-for-aarch64-highavailability-eus-rpms__9_DOT_0": {
@@ -63916,14 +64170,24 @@
 				"content/eus/rhel9/9.2/aarch64/highavailability/os"
 			]
 		},
+		"rhel-9-for-aarch64-highavailability-eus-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_eus:9.4::highavailability"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/aarch64/highavailability/os"
+			]
+		},
 		"rhel-9-for-aarch64-highavailability-eus-source-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:9.0::highavailability",
-				"cpe:/a:redhat:rhel_eus:9.2::highavailability"
+				"cpe:/a:redhat:rhel_eus:9.2::highavailability",
+				"cpe:/a:redhat:rhel_eus:9.4::highavailability"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/aarch64/highavailability/source/SRPMS",
-				"content/eus/rhel9/9.2/aarch64/highavailability/source/SRPMS"
+				"content/eus/rhel9/9.2/aarch64/highavailability/source/SRPMS",
+				"content/eus/rhel9/9.4/aarch64/highavailability/source/SRPMS"
 			]
 		},
 		"rhel-9-for-aarch64-highavailability-eus-source-rpms__9_DOT_0": {
@@ -63940,6 +64204,14 @@
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.2/aarch64/highavailability/source/SRPMS"
+			]
+		},
+		"rhel-9-for-aarch64-highavailability-eus-source-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_eus:9.4::highavailability"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/aarch64/highavailability/source/SRPMS"
 			]
 		},
 		"rhel-9-for-aarch64-highavailability-rpms": {
@@ -63981,11 +64253,13 @@
 		"rhel-9-for-aarch64-supplementary-eus-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:9.0::supplementary",
-				"cpe:/a:redhat:rhel_eus:9.2::supplementary"
+				"cpe:/a:redhat:rhel_eus:9.2::supplementary",
+				"cpe:/a:redhat:rhel_eus:9.4::supplementary"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/aarch64/supplementary/debug",
-				"content/eus/rhel9/9.2/aarch64/supplementary/debug"
+				"content/eus/rhel9/9.2/aarch64/supplementary/debug",
+				"content/eus/rhel9/9.4/aarch64/supplementary/debug"
 			]
 		},
 		"rhel-9-for-aarch64-supplementary-eus-debug-rpms__9_DOT_0": {
@@ -64004,14 +64278,24 @@
 				"content/eus/rhel9/9.2/aarch64/supplementary/debug"
 			]
 		},
+		"rhel-9-for-aarch64-supplementary-eus-debug-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_eus:9.4::supplementary"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/aarch64/supplementary/debug"
+			]
+		},
 		"rhel-9-for-aarch64-supplementary-eus-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:9.0::supplementary",
-				"cpe:/a:redhat:rhel_eus:9.2::supplementary"
+				"cpe:/a:redhat:rhel_eus:9.2::supplementary",
+				"cpe:/a:redhat:rhel_eus:9.4::supplementary"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/aarch64/supplementary/os",
-				"content/eus/rhel9/9.2/aarch64/supplementary/os"
+				"content/eus/rhel9/9.2/aarch64/supplementary/os",
+				"content/eus/rhel9/9.4/aarch64/supplementary/os"
 			]
 		},
 		"rhel-9-for-aarch64-supplementary-eus-rpms__9_DOT_0": {
@@ -64030,14 +64314,24 @@
 				"content/eus/rhel9/9.2/aarch64/supplementary/os"
 			]
 		},
+		"rhel-9-for-aarch64-supplementary-eus-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_eus:9.4::supplementary"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/aarch64/supplementary/os"
+			]
+		},
 		"rhel-9-for-aarch64-supplementary-eus-source-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:9.0::supplementary",
-				"cpe:/a:redhat:rhel_eus:9.2::supplementary"
+				"cpe:/a:redhat:rhel_eus:9.2::supplementary",
+				"cpe:/a:redhat:rhel_eus:9.4::supplementary"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/aarch64/supplementary/source/SRPMS",
-				"content/eus/rhel9/9.2/aarch64/supplementary/source/SRPMS"
+				"content/eus/rhel9/9.2/aarch64/supplementary/source/SRPMS",
+				"content/eus/rhel9/9.4/aarch64/supplementary/source/SRPMS"
 			]
 		},
 		"rhel-9-for-aarch64-supplementary-eus-source-rpms__9_DOT_0": {
@@ -64054,6 +64348,14 @@
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.2/aarch64/supplementary/source/SRPMS"
+			]
+		},
+		"rhel-9-for-aarch64-supplementary-eus-source-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_eus:9.4::supplementary"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/aarch64/supplementary/source/SRPMS"
 			]
 		},
 		"rhel-9-for-aarch64-supplementary-rpms": {
@@ -64097,11 +64399,13 @@
 				"cpe:/a:redhat:rhel_e4s:9.0::appstream",
 				"cpe:/a:redhat:rhel_e4s:9.2::appstream",
 				"cpe:/a:redhat:rhel_eus:9.0::appstream",
-				"cpe:/a:redhat:rhel_eus:9.2::appstream"
+				"cpe:/a:redhat:rhel_eus:9.2::appstream",
+				"cpe:/a:redhat:rhel_eus:9.4::appstream"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel9/9.0/ppc64le/appstream/debug",
-				"content/e4s/rhel9/9.2/ppc64le/appstream/debug"
+				"content/e4s/rhel9/9.2/ppc64le/appstream/debug",
+				"content/e4s/rhel9/9.4/ppc64le/appstream/debug"
 			]
 		},
 		"rhel-9-for-ppc64le-appstream-e4s-debug-rpms__9_DOT_0": {
@@ -64125,11 +64429,13 @@
 				"cpe:/a:redhat:rhel_e4s:9.0::appstream",
 				"cpe:/a:redhat:rhel_e4s:9.2::appstream",
 				"cpe:/a:redhat:rhel_eus:9.0::appstream",
-				"cpe:/a:redhat:rhel_eus:9.2::appstream"
+				"cpe:/a:redhat:rhel_eus:9.2::appstream",
+				"cpe:/a:redhat:rhel_eus:9.4::appstream"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel9/9.0/ppc64le/appstream/os",
-				"content/e4s/rhel9/9.2/ppc64le/appstream/os"
+				"content/e4s/rhel9/9.2/ppc64le/appstream/os",
+				"content/e4s/rhel9/9.4/ppc64le/appstream/os"
 			]
 		},
 		"rhel-9-for-ppc64le-appstream-e4s-rpms__9_DOT_0": {
@@ -64153,11 +64459,13 @@
 				"cpe:/a:redhat:rhel_e4s:9.0::appstream",
 				"cpe:/a:redhat:rhel_e4s:9.2::appstream",
 				"cpe:/a:redhat:rhel_eus:9.0::appstream",
-				"cpe:/a:redhat:rhel_eus:9.2::appstream"
+				"cpe:/a:redhat:rhel_eus:9.2::appstream",
+				"cpe:/a:redhat:rhel_eus:9.4::appstream"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel9/9.0/ppc64le/appstream/source/SRPMS",
-				"content/e4s/rhel9/9.2/ppc64le/appstream/source/SRPMS"
+				"content/e4s/rhel9/9.2/ppc64le/appstream/source/SRPMS",
+				"content/e4s/rhel9/9.4/ppc64le/appstream/source/SRPMS"
 			]
 		},
 		"rhel-9-for-ppc64le-appstream-e4s-source-rpms__9_DOT_0": {
@@ -64179,11 +64487,13 @@
 		"rhel-9-for-ppc64le-appstream-eus-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:9.0::appstream",
-				"cpe:/a:redhat:rhel_eus:9.2::appstream"
+				"cpe:/a:redhat:rhel_eus:9.2::appstream",
+				"cpe:/a:redhat:rhel_eus:9.4::appstream"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/ppc64le/appstream/debug",
-				"content/eus/rhel9/9.2/ppc64le/appstream/debug"
+				"content/eus/rhel9/9.2/ppc64le/appstream/debug",
+				"content/eus/rhel9/9.4/ppc64le/appstream/debug"
 			]
 		},
 		"rhel-9-for-ppc64le-appstream-eus-debug-rpms__9_DOT_0": {
@@ -64202,14 +64512,24 @@
 				"content/eus/rhel9/9.2/ppc64le/appstream/debug"
 			]
 		},
+		"rhel-9-for-ppc64le-appstream-eus-debug-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_eus:9.4::appstream"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/ppc64le/appstream/debug"
+			]
+		},
 		"rhel-9-for-ppc64le-appstream-eus-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:9.0::appstream",
-				"cpe:/a:redhat:rhel_eus:9.2::appstream"
+				"cpe:/a:redhat:rhel_eus:9.2::appstream",
+				"cpe:/a:redhat:rhel_eus:9.4::appstream"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/ppc64le/appstream/os",
-				"content/eus/rhel9/9.2/ppc64le/appstream/os"
+				"content/eus/rhel9/9.2/ppc64le/appstream/os",
+				"content/eus/rhel9/9.4/ppc64le/appstream/os"
 			]
 		},
 		"rhel-9-for-ppc64le-appstream-eus-rpms__9_DOT_0": {
@@ -64228,14 +64548,24 @@
 				"content/eus/rhel9/9.2/ppc64le/appstream/os"
 			]
 		},
+		"rhel-9-for-ppc64le-appstream-eus-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_eus:9.4::appstream"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/ppc64le/appstream/os"
+			]
+		},
 		"rhel-9-for-ppc64le-appstream-eus-source-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:9.0::appstream",
-				"cpe:/a:redhat:rhel_eus:9.2::appstream"
+				"cpe:/a:redhat:rhel_eus:9.2::appstream",
+				"cpe:/a:redhat:rhel_eus:9.4::appstream"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/ppc64le/appstream/source/SRPMS",
-				"content/eus/rhel9/9.2/ppc64le/appstream/source/SRPMS"
+				"content/eus/rhel9/9.2/ppc64le/appstream/source/SRPMS",
+				"content/eus/rhel9/9.4/ppc64le/appstream/source/SRPMS"
 			]
 		},
 		"rhel-9-for-ppc64le-appstream-eus-source-rpms__9_DOT_0": {
@@ -64252,6 +64582,14 @@
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.2/ppc64le/appstream/source/SRPMS"
+			]
+		},
+		"rhel-9-for-ppc64le-appstream-eus-source-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_eus:9.4::appstream"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/ppc64le/appstream/source/SRPMS"
 			]
 		},
 		"rhel-9-for-ppc64le-appstream-rpms": {
@@ -64295,11 +64633,13 @@
 				"cpe:/o:redhat:rhel_e4s:9.0::baseos",
 				"cpe:/o:redhat:rhel_e4s:9.2::baseos",
 				"cpe:/o:redhat:rhel_eus:9.0::baseos",
-				"cpe:/o:redhat:rhel_eus:9.2::baseos"
+				"cpe:/o:redhat:rhel_eus:9.2::baseos",
+				"cpe:/o:redhat:rhel_eus:9.4::baseos"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel9/9.0/ppc64le/baseos/debug",
-				"content/e4s/rhel9/9.2/ppc64le/baseos/debug"
+				"content/e4s/rhel9/9.2/ppc64le/baseos/debug",
+				"content/e4s/rhel9/9.4/ppc64le/baseos/debug"
 			]
 		},
 		"rhel-9-for-ppc64le-baseos-e4s-debug-rpms__9_DOT_0": {
@@ -64323,11 +64663,13 @@
 				"cpe:/o:redhat:rhel_e4s:9.0::baseos",
 				"cpe:/o:redhat:rhel_e4s:9.2::baseos",
 				"cpe:/o:redhat:rhel_eus:9.0::baseos",
-				"cpe:/o:redhat:rhel_eus:9.2::baseos"
+				"cpe:/o:redhat:rhel_eus:9.2::baseos",
+				"cpe:/o:redhat:rhel_eus:9.4::baseos"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel9/9.0/ppc64le/baseos/os",
-				"content/e4s/rhel9/9.2/ppc64le/baseos/os"
+				"content/e4s/rhel9/9.2/ppc64le/baseos/os",
+				"content/e4s/rhel9/9.4/ppc64le/baseos/os"
 			]
 		},
 		"rhel-9-for-ppc64le-baseos-e4s-rpms__9_DOT_0": {
@@ -64351,11 +64693,13 @@
 				"cpe:/o:redhat:rhel_e4s:9.0::baseos",
 				"cpe:/o:redhat:rhel_e4s:9.2::baseos",
 				"cpe:/o:redhat:rhel_eus:9.0::baseos",
-				"cpe:/o:redhat:rhel_eus:9.2::baseos"
+				"cpe:/o:redhat:rhel_eus:9.2::baseos",
+				"cpe:/o:redhat:rhel_eus:9.4::baseos"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel9/9.0/ppc64le/baseos/source/SRPMS",
-				"content/e4s/rhel9/9.2/ppc64le/baseos/source/SRPMS"
+				"content/e4s/rhel9/9.2/ppc64le/baseos/source/SRPMS",
+				"content/e4s/rhel9/9.4/ppc64le/baseos/source/SRPMS"
 			]
 		},
 		"rhel-9-for-ppc64le-baseos-e4s-source-rpms__9_DOT_0": {
@@ -64377,11 +64721,13 @@
 		"rhel-9-for-ppc64le-baseos-eus-debug-rpms": {
 			"cpes": [
 				"cpe:/o:redhat:rhel_eus:9.0::baseos",
-				"cpe:/o:redhat:rhel_eus:9.2::baseos"
+				"cpe:/o:redhat:rhel_eus:9.2::baseos",
+				"cpe:/o:redhat:rhel_eus:9.4::baseos"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/ppc64le/baseos/debug",
-				"content/eus/rhel9/9.2/ppc64le/baseos/debug"
+				"content/eus/rhel9/9.2/ppc64le/baseos/debug",
+				"content/eus/rhel9/9.4/ppc64le/baseos/debug"
 			]
 		},
 		"rhel-9-for-ppc64le-baseos-eus-debug-rpms__9_DOT_0": {
@@ -64400,14 +64746,24 @@
 				"content/eus/rhel9/9.2/ppc64le/baseos/debug"
 			]
 		},
+		"rhel-9-for-ppc64le-baseos-eus-debug-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/o:redhat:rhel_eus:9.4::baseos"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/ppc64le/baseos/debug"
+			]
+		},
 		"rhel-9-for-ppc64le-baseos-eus-rpms": {
 			"cpes": [
 				"cpe:/o:redhat:rhel_eus:9.0::baseos",
-				"cpe:/o:redhat:rhel_eus:9.2::baseos"
+				"cpe:/o:redhat:rhel_eus:9.2::baseos",
+				"cpe:/o:redhat:rhel_eus:9.4::baseos"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/ppc64le/baseos/os",
-				"content/eus/rhel9/9.2/ppc64le/baseos/os"
+				"content/eus/rhel9/9.2/ppc64le/baseos/os",
+				"content/eus/rhel9/9.4/ppc64le/baseos/os"
 			]
 		},
 		"rhel-9-for-ppc64le-baseos-eus-rpms__9_DOT_0": {
@@ -64426,14 +64782,24 @@
 				"content/eus/rhel9/9.2/ppc64le/baseos/os"
 			]
 		},
+		"rhel-9-for-ppc64le-baseos-eus-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/o:redhat:rhel_eus:9.4::baseos"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/ppc64le/baseos/os"
+			]
+		},
 		"rhel-9-for-ppc64le-baseos-eus-source-rpms": {
 			"cpes": [
 				"cpe:/o:redhat:rhel_eus:9.0::baseos",
-				"cpe:/o:redhat:rhel_eus:9.2::baseos"
+				"cpe:/o:redhat:rhel_eus:9.2::baseos",
+				"cpe:/o:redhat:rhel_eus:9.4::baseos"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/ppc64le/baseos/source/SRPMS",
-				"content/eus/rhel9/9.2/ppc64le/baseos/source/SRPMS"
+				"content/eus/rhel9/9.2/ppc64le/baseos/source/SRPMS",
+				"content/eus/rhel9/9.4/ppc64le/baseos/source/SRPMS"
 			]
 		},
 		"rhel-9-for-ppc64le-baseos-eus-source-rpms__9_DOT_0": {
@@ -64450,6 +64816,14 @@
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.2/ppc64le/baseos/source/SRPMS"
+			]
+		},
+		"rhel-9-for-ppc64le-baseos-eus-source-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/o:redhat:rhel_eus:9.4::baseos"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/ppc64le/baseos/source/SRPMS"
 			]
 		},
 		"rhel-9-for-ppc64le-baseos-rpms": {
@@ -64493,11 +64867,13 @@
 				"cpe:/a:redhat:rhel_e4s:9.0::highavailability",
 				"cpe:/a:redhat:rhel_e4s:9.2::highavailability",
 				"cpe:/a:redhat:rhel_eus:9.0::highavailability",
-				"cpe:/a:redhat:rhel_eus:9.2::highavailability"
+				"cpe:/a:redhat:rhel_eus:9.2::highavailability",
+				"cpe:/a:redhat:rhel_eus:9.4::highavailability"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel9/9.0/ppc64le/highavailability/debug",
-				"content/e4s/rhel9/9.2/ppc64le/highavailability/debug"
+				"content/e4s/rhel9/9.2/ppc64le/highavailability/debug",
+				"content/e4s/rhel9/9.4/ppc64le/highavailability/debug"
 			]
 		},
 		"rhel-9-for-ppc64le-highavailability-e4s-debug-rpms__9_DOT_0": {
@@ -64521,11 +64897,13 @@
 				"cpe:/a:redhat:rhel_e4s:9.0::highavailability",
 				"cpe:/a:redhat:rhel_e4s:9.2::highavailability",
 				"cpe:/a:redhat:rhel_eus:9.0::highavailability",
-				"cpe:/a:redhat:rhel_eus:9.2::highavailability"
+				"cpe:/a:redhat:rhel_eus:9.2::highavailability",
+				"cpe:/a:redhat:rhel_eus:9.4::highavailability"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel9/9.0/ppc64le/highavailability/os",
-				"content/e4s/rhel9/9.2/ppc64le/highavailability/os"
+				"content/e4s/rhel9/9.2/ppc64le/highavailability/os",
+				"content/e4s/rhel9/9.4/ppc64le/highavailability/os"
 			]
 		},
 		"rhel-9-for-ppc64le-highavailability-e4s-rpms__9_DOT_0": {
@@ -64549,11 +64927,13 @@
 				"cpe:/a:redhat:rhel_e4s:9.0::highavailability",
 				"cpe:/a:redhat:rhel_e4s:9.2::highavailability",
 				"cpe:/a:redhat:rhel_eus:9.0::highavailability",
-				"cpe:/a:redhat:rhel_eus:9.2::highavailability"
+				"cpe:/a:redhat:rhel_eus:9.2::highavailability",
+				"cpe:/a:redhat:rhel_eus:9.4::highavailability"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel9/9.0/ppc64le/highavailability/source/SRPMS",
-				"content/e4s/rhel9/9.2/ppc64le/highavailability/source/SRPMS"
+				"content/e4s/rhel9/9.2/ppc64le/highavailability/source/SRPMS",
+				"content/e4s/rhel9/9.4/ppc64le/highavailability/source/SRPMS"
 			]
 		},
 		"rhel-9-for-ppc64le-highavailability-e4s-source-rpms__9_DOT_0": {
@@ -64575,11 +64955,13 @@
 		"rhel-9-for-ppc64le-highavailability-eus-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:9.0::highavailability",
-				"cpe:/a:redhat:rhel_eus:9.2::highavailability"
+				"cpe:/a:redhat:rhel_eus:9.2::highavailability",
+				"cpe:/a:redhat:rhel_eus:9.4::highavailability"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/ppc64le/highavailability/debug",
-				"content/eus/rhel9/9.2/ppc64le/highavailability/debug"
+				"content/eus/rhel9/9.2/ppc64le/highavailability/debug",
+				"content/eus/rhel9/9.4/ppc64le/highavailability/debug"
 			]
 		},
 		"rhel-9-for-ppc64le-highavailability-eus-debug-rpms__9_DOT_0": {
@@ -64598,14 +64980,24 @@
 				"content/eus/rhel9/9.2/ppc64le/highavailability/debug"
 			]
 		},
+		"rhel-9-for-ppc64le-highavailability-eus-debug-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_eus:9.4::highavailability"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/ppc64le/highavailability/debug"
+			]
+		},
 		"rhel-9-for-ppc64le-highavailability-eus-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:9.0::highavailability",
-				"cpe:/a:redhat:rhel_eus:9.2::highavailability"
+				"cpe:/a:redhat:rhel_eus:9.2::highavailability",
+				"cpe:/a:redhat:rhel_eus:9.4::highavailability"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/ppc64le/highavailability/os",
-				"content/eus/rhel9/9.2/ppc64le/highavailability/os"
+				"content/eus/rhel9/9.2/ppc64le/highavailability/os",
+				"content/eus/rhel9/9.4/ppc64le/highavailability/os"
 			]
 		},
 		"rhel-9-for-ppc64le-highavailability-eus-rpms__9_DOT_0": {
@@ -64624,14 +65016,24 @@
 				"content/eus/rhel9/9.2/ppc64le/highavailability/os"
 			]
 		},
+		"rhel-9-for-ppc64le-highavailability-eus-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_eus:9.4::highavailability"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/ppc64le/highavailability/os"
+			]
+		},
 		"rhel-9-for-ppc64le-highavailability-eus-source-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:9.0::highavailability",
-				"cpe:/a:redhat:rhel_eus:9.2::highavailability"
+				"cpe:/a:redhat:rhel_eus:9.2::highavailability",
+				"cpe:/a:redhat:rhel_eus:9.4::highavailability"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/ppc64le/highavailability/source/SRPMS",
-				"content/eus/rhel9/9.2/ppc64le/highavailability/source/SRPMS"
+				"content/eus/rhel9/9.2/ppc64le/highavailability/source/SRPMS",
+				"content/eus/rhel9/9.4/ppc64le/highavailability/source/SRPMS"
 			]
 		},
 		"rhel-9-for-ppc64le-highavailability-eus-source-rpms__9_DOT_0": {
@@ -64648,6 +65050,14 @@
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.2/ppc64le/highavailability/source/SRPMS"
+			]
+		},
+		"rhel-9-for-ppc64le-highavailability-eus-source-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_eus:9.4::highavailability"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/ppc64le/highavailability/source/SRPMS"
 			]
 		},
 		"rhel-9-for-ppc64le-highavailability-rpms": {
@@ -64691,11 +65101,13 @@
 				"cpe:/a:redhat:rhel_e4s:9.0::resilientstorage",
 				"cpe:/a:redhat:rhel_e4s:9.2::resilientstorage",
 				"cpe:/a:redhat:rhel_eus:9.0::resilientstorage",
-				"cpe:/a:redhat:rhel_eus:9.2::resilientstorage"
+				"cpe:/a:redhat:rhel_eus:9.2::resilientstorage",
+				"cpe:/a:redhat:rhel_eus:9.4::resilientstorage"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel9/9.0/ppc64le/resilientstorage/debug",
-				"content/e4s/rhel9/9.2/ppc64le/resilientstorage/debug"
+				"content/e4s/rhel9/9.2/ppc64le/resilientstorage/debug",
+				"content/e4s/rhel9/9.4/ppc64le/resilientstorage/debug"
 			]
 		},
 		"rhel-9-for-ppc64le-resilientstorage-e4s-debug-rpms__9_DOT_0": {
@@ -64719,11 +65131,13 @@
 				"cpe:/a:redhat:rhel_e4s:9.0::resilientstorage",
 				"cpe:/a:redhat:rhel_e4s:9.2::resilientstorage",
 				"cpe:/a:redhat:rhel_eus:9.0::resilientstorage",
-				"cpe:/a:redhat:rhel_eus:9.2::resilientstorage"
+				"cpe:/a:redhat:rhel_eus:9.2::resilientstorage",
+				"cpe:/a:redhat:rhel_eus:9.4::resilientstorage"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel9/9.0/ppc64le/resilientstorage/os",
-				"content/e4s/rhel9/9.2/ppc64le/resilientstorage/os"
+				"content/e4s/rhel9/9.2/ppc64le/resilientstorage/os",
+				"content/e4s/rhel9/9.4/ppc64le/resilientstorage/os"
 			]
 		},
 		"rhel-9-for-ppc64le-resilientstorage-e4s-rpms__9_DOT_0": {
@@ -64747,11 +65161,13 @@
 				"cpe:/a:redhat:rhel_e4s:9.0::resilientstorage",
 				"cpe:/a:redhat:rhel_e4s:9.2::resilientstorage",
 				"cpe:/a:redhat:rhel_eus:9.0::resilientstorage",
-				"cpe:/a:redhat:rhel_eus:9.2::resilientstorage"
+				"cpe:/a:redhat:rhel_eus:9.2::resilientstorage",
+				"cpe:/a:redhat:rhel_eus:9.4::resilientstorage"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel9/9.0/ppc64le/resilientstorage/source/SRPMS",
-				"content/e4s/rhel9/9.2/ppc64le/resilientstorage/source/SRPMS"
+				"content/e4s/rhel9/9.2/ppc64le/resilientstorage/source/SRPMS",
+				"content/e4s/rhel9/9.4/ppc64le/resilientstorage/source/SRPMS"
 			]
 		},
 		"rhel-9-for-ppc64le-resilientstorage-e4s-source-rpms__9_DOT_0": {
@@ -64773,11 +65189,13 @@
 		"rhel-9-for-ppc64le-resilientstorage-eus-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:9.0::resilientstorage",
-				"cpe:/a:redhat:rhel_eus:9.2::resilientstorage"
+				"cpe:/a:redhat:rhel_eus:9.2::resilientstorage",
+				"cpe:/a:redhat:rhel_eus:9.4::resilientstorage"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/ppc64le/resilientstorage/debug",
-				"content/eus/rhel9/9.2/ppc64le/resilientstorage/debug"
+				"content/eus/rhel9/9.2/ppc64le/resilientstorage/debug",
+				"content/eus/rhel9/9.4/ppc64le/resilientstorage/debug"
 			]
 		},
 		"rhel-9-for-ppc64le-resilientstorage-eus-debug-rpms__9_DOT_0": {
@@ -64796,14 +65214,24 @@
 				"content/eus/rhel9/9.2/ppc64le/resilientstorage/debug"
 			]
 		},
+		"rhel-9-for-ppc64le-resilientstorage-eus-debug-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_eus:9.4::resilientstorage"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/ppc64le/resilientstorage/debug"
+			]
+		},
 		"rhel-9-for-ppc64le-resilientstorage-eus-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:9.0::resilientstorage",
-				"cpe:/a:redhat:rhel_eus:9.2::resilientstorage"
+				"cpe:/a:redhat:rhel_eus:9.2::resilientstorage",
+				"cpe:/a:redhat:rhel_eus:9.4::resilientstorage"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/ppc64le/resilientstorage/os",
-				"content/eus/rhel9/9.2/ppc64le/resilientstorage/os"
+				"content/eus/rhel9/9.2/ppc64le/resilientstorage/os",
+				"content/eus/rhel9/9.4/ppc64le/resilientstorage/os"
 			]
 		},
 		"rhel-9-for-ppc64le-resilientstorage-eus-rpms__9_DOT_0": {
@@ -64822,14 +65250,24 @@
 				"content/eus/rhel9/9.2/ppc64le/resilientstorage/os"
 			]
 		},
+		"rhel-9-for-ppc64le-resilientstorage-eus-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_eus:9.4::resilientstorage"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/ppc64le/resilientstorage/os"
+			]
+		},
 		"rhel-9-for-ppc64le-resilientstorage-eus-source-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:9.0::resilientstorage",
-				"cpe:/a:redhat:rhel_eus:9.2::resilientstorage"
+				"cpe:/a:redhat:rhel_eus:9.2::resilientstorage",
+				"cpe:/a:redhat:rhel_eus:9.4::resilientstorage"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/ppc64le/resilientstorage/source/SRPMS",
-				"content/eus/rhel9/9.2/ppc64le/resilientstorage/source/SRPMS"
+				"content/eus/rhel9/9.2/ppc64le/resilientstorage/source/SRPMS",
+				"content/eus/rhel9/9.4/ppc64le/resilientstorage/source/SRPMS"
 			]
 		},
 		"rhel-9-for-ppc64le-resilientstorage-eus-source-rpms__9_DOT_0": {
@@ -64846,6 +65284,14 @@
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.2/ppc64le/resilientstorage/source/SRPMS"
+			]
+		},
+		"rhel-9-for-ppc64le-resilientstorage-eus-source-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_eus:9.4::resilientstorage"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/ppc64le/resilientstorage/source/SRPMS"
 			]
 		},
 		"rhel-9-for-ppc64le-resilientstorage-rpms": {
@@ -64889,11 +65335,13 @@
 				"cpe:/a:redhat:rhel_e4s:9.0::sap",
 				"cpe:/a:redhat:rhel_e4s:9.2::sap",
 				"cpe:/a:redhat:rhel_eus:9.0::sap",
-				"cpe:/a:redhat:rhel_eus:9.2::sap"
+				"cpe:/a:redhat:rhel_eus:9.2::sap",
+				"cpe:/a:redhat:rhel_eus:9.4::sap"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel9/9.0/ppc64le/sap/debug",
-				"content/e4s/rhel9/9.2/ppc64le/sap/debug"
+				"content/e4s/rhel9/9.2/ppc64le/sap/debug",
+				"content/e4s/rhel9/9.4/ppc64le/sap/debug"
 			]
 		},
 		"rhel-9-for-ppc64le-sap-netweaver-e4s-debug-rpms__9_DOT_0": {
@@ -64917,11 +65365,13 @@
 				"cpe:/a:redhat:rhel_e4s:9.0::sap",
 				"cpe:/a:redhat:rhel_e4s:9.2::sap",
 				"cpe:/a:redhat:rhel_eus:9.0::sap",
-				"cpe:/a:redhat:rhel_eus:9.2::sap"
+				"cpe:/a:redhat:rhel_eus:9.2::sap",
+				"cpe:/a:redhat:rhel_eus:9.4::sap"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel9/9.0/ppc64le/sap/os",
-				"content/e4s/rhel9/9.2/ppc64le/sap/os"
+				"content/e4s/rhel9/9.2/ppc64le/sap/os",
+				"content/e4s/rhel9/9.4/ppc64le/sap/os"
 			]
 		},
 		"rhel-9-for-ppc64le-sap-netweaver-e4s-rpms__9_DOT_0": {
@@ -64945,11 +65395,13 @@
 				"cpe:/a:redhat:rhel_e4s:9.0::sap",
 				"cpe:/a:redhat:rhel_e4s:9.2::sap",
 				"cpe:/a:redhat:rhel_eus:9.0::sap",
-				"cpe:/a:redhat:rhel_eus:9.2::sap"
+				"cpe:/a:redhat:rhel_eus:9.2::sap",
+				"cpe:/a:redhat:rhel_eus:9.4::sap"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel9/9.0/ppc64le/sap/source/SRPMS",
-				"content/e4s/rhel9/9.2/ppc64le/sap/source/SRPMS"
+				"content/e4s/rhel9/9.2/ppc64le/sap/source/SRPMS",
+				"content/e4s/rhel9/9.4/ppc64le/sap/source/SRPMS"
 			]
 		},
 		"rhel-9-for-ppc64le-sap-netweaver-e4s-source-rpms__9_DOT_0": {
@@ -64971,11 +65423,13 @@
 		"rhel-9-for-ppc64le-sap-netweaver-eus-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:9.0::sap",
-				"cpe:/a:redhat:rhel_eus:9.2::sap"
+				"cpe:/a:redhat:rhel_eus:9.2::sap",
+				"cpe:/a:redhat:rhel_eus:9.4::sap"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/ppc64le/sap/debug",
-				"content/eus/rhel9/9.2/ppc64le/sap/debug"
+				"content/eus/rhel9/9.2/ppc64le/sap/debug",
+				"content/eus/rhel9/9.4/ppc64le/sap/debug"
 			]
 		},
 		"rhel-9-for-ppc64le-sap-netweaver-eus-debug-rpms__9_DOT_0": {
@@ -64994,14 +65448,24 @@
 				"content/eus/rhel9/9.2/ppc64le/sap/debug"
 			]
 		},
+		"rhel-9-for-ppc64le-sap-netweaver-eus-debug-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_eus:9.4::sap"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/ppc64le/sap/debug"
+			]
+		},
 		"rhel-9-for-ppc64le-sap-netweaver-eus-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:9.0::sap",
-				"cpe:/a:redhat:rhel_eus:9.2::sap"
+				"cpe:/a:redhat:rhel_eus:9.2::sap",
+				"cpe:/a:redhat:rhel_eus:9.4::sap"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/ppc64le/sap/os",
-				"content/eus/rhel9/9.2/ppc64le/sap/os"
+				"content/eus/rhel9/9.2/ppc64le/sap/os",
+				"content/eus/rhel9/9.4/ppc64le/sap/os"
 			]
 		},
 		"rhel-9-for-ppc64le-sap-netweaver-eus-rpms__9_DOT_0": {
@@ -65020,14 +65484,24 @@
 				"content/eus/rhel9/9.2/ppc64le/sap/os"
 			]
 		},
+		"rhel-9-for-ppc64le-sap-netweaver-eus-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_eus:9.4::sap"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/ppc64le/sap/os"
+			]
+		},
 		"rhel-9-for-ppc64le-sap-netweaver-eus-source-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:9.0::sap",
-				"cpe:/a:redhat:rhel_eus:9.2::sap"
+				"cpe:/a:redhat:rhel_eus:9.2::sap",
+				"cpe:/a:redhat:rhel_eus:9.4::sap"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/ppc64le/sap/source/SRPMS",
-				"content/eus/rhel9/9.2/ppc64le/sap/source/SRPMS"
+				"content/eus/rhel9/9.2/ppc64le/sap/source/SRPMS",
+				"content/eus/rhel9/9.4/ppc64le/sap/source/SRPMS"
 			]
 		},
 		"rhel-9-for-ppc64le-sap-netweaver-eus-source-rpms__9_DOT_0": {
@@ -65044,6 +65518,14 @@
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.2/ppc64le/sap/source/SRPMS"
+			]
+		},
+		"rhel-9-for-ppc64le-sap-netweaver-eus-source-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_eus:9.4::sap"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/ppc64le/sap/source/SRPMS"
 			]
 		},
 		"rhel-9-for-ppc64le-sap-netweaver-rpms": {
@@ -65087,11 +65569,13 @@
 				"cpe:/a:redhat:rhel_e4s:9.0::sap_hana",
 				"cpe:/a:redhat:rhel_e4s:9.2::sap_hana",
 				"cpe:/a:redhat:rhel_eus:9.0::sap_hana",
-				"cpe:/a:redhat:rhel_eus:9.2::sap_hana"
+				"cpe:/a:redhat:rhel_eus:9.2::sap_hana",
+				"cpe:/a:redhat:rhel_eus:9.4::sap_hana"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel9/9.0/ppc64le/sap-solutions/debug",
-				"content/e4s/rhel9/9.2/ppc64le/sap-solutions/debug"
+				"content/e4s/rhel9/9.2/ppc64le/sap-solutions/debug",
+				"content/e4s/rhel9/9.4/ppc64le/sap-solutions/debug"
 			]
 		},
 		"rhel-9-for-ppc64le-sap-solutions-e4s-debug-rpms__9_DOT_0": {
@@ -65115,11 +65599,13 @@
 				"cpe:/a:redhat:rhel_e4s:9.0::sap_hana",
 				"cpe:/a:redhat:rhel_e4s:9.2::sap_hana",
 				"cpe:/a:redhat:rhel_eus:9.0::sap_hana",
-				"cpe:/a:redhat:rhel_eus:9.2::sap_hana"
+				"cpe:/a:redhat:rhel_eus:9.2::sap_hana",
+				"cpe:/a:redhat:rhel_eus:9.4::sap_hana"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel9/9.0/ppc64le/sap-solutions/os",
-				"content/e4s/rhel9/9.2/ppc64le/sap-solutions/os"
+				"content/e4s/rhel9/9.2/ppc64le/sap-solutions/os",
+				"content/e4s/rhel9/9.4/ppc64le/sap-solutions/os"
 			]
 		},
 		"rhel-9-for-ppc64le-sap-solutions-e4s-rpms__9_DOT_0": {
@@ -65143,11 +65629,13 @@
 				"cpe:/a:redhat:rhel_e4s:9.0::sap_hana",
 				"cpe:/a:redhat:rhel_e4s:9.2::sap_hana",
 				"cpe:/a:redhat:rhel_eus:9.0::sap_hana",
-				"cpe:/a:redhat:rhel_eus:9.2::sap_hana"
+				"cpe:/a:redhat:rhel_eus:9.2::sap_hana",
+				"cpe:/a:redhat:rhel_eus:9.4::sap_hana"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel9/9.0/ppc64le/sap-solutions/source/SRPMS",
-				"content/e4s/rhel9/9.2/ppc64le/sap-solutions/source/SRPMS"
+				"content/e4s/rhel9/9.2/ppc64le/sap-solutions/source/SRPMS",
+				"content/e4s/rhel9/9.4/ppc64le/sap-solutions/source/SRPMS"
 			]
 		},
 		"rhel-9-for-ppc64le-sap-solutions-e4s-source-rpms__9_DOT_0": {
@@ -65169,11 +65657,13 @@
 		"rhel-9-for-ppc64le-sap-solutions-eus-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:9.0::sap_hana",
-				"cpe:/a:redhat:rhel_eus:9.2::sap_hana"
+				"cpe:/a:redhat:rhel_eus:9.2::sap_hana",
+				"cpe:/a:redhat:rhel_eus:9.4::sap_hana"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/ppc64le/sap-solutions/debug",
-				"content/eus/rhel9/9.2/ppc64le/sap-solutions/debug"
+				"content/eus/rhel9/9.2/ppc64le/sap-solutions/debug",
+				"content/eus/rhel9/9.4/ppc64le/sap-solutions/debug"
 			]
 		},
 		"rhel-9-for-ppc64le-sap-solutions-eus-debug-rpms__9_DOT_0": {
@@ -65192,14 +65682,24 @@
 				"content/eus/rhel9/9.2/ppc64le/sap-solutions/debug"
 			]
 		},
+		"rhel-9-for-ppc64le-sap-solutions-eus-debug-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_eus:9.4::sap_hana"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/ppc64le/sap-solutions/debug"
+			]
+		},
 		"rhel-9-for-ppc64le-sap-solutions-eus-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:9.0::sap_hana",
-				"cpe:/a:redhat:rhel_eus:9.2::sap_hana"
+				"cpe:/a:redhat:rhel_eus:9.2::sap_hana",
+				"cpe:/a:redhat:rhel_eus:9.4::sap_hana"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/ppc64le/sap-solutions/os",
-				"content/eus/rhel9/9.2/ppc64le/sap-solutions/os"
+				"content/eus/rhel9/9.2/ppc64le/sap-solutions/os",
+				"content/eus/rhel9/9.4/ppc64le/sap-solutions/os"
 			]
 		},
 		"rhel-9-for-ppc64le-sap-solutions-eus-rpms__9_DOT_0": {
@@ -65218,14 +65718,24 @@
 				"content/eus/rhel9/9.2/ppc64le/sap-solutions/os"
 			]
 		},
+		"rhel-9-for-ppc64le-sap-solutions-eus-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_eus:9.4::sap_hana"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/ppc64le/sap-solutions/os"
+			]
+		},
 		"rhel-9-for-ppc64le-sap-solutions-eus-source-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:9.0::sap_hana",
-				"cpe:/a:redhat:rhel_eus:9.2::sap_hana"
+				"cpe:/a:redhat:rhel_eus:9.2::sap_hana",
+				"cpe:/a:redhat:rhel_eus:9.4::sap_hana"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/ppc64le/sap-solutions/source/SRPMS",
-				"content/eus/rhel9/9.2/ppc64le/sap-solutions/source/SRPMS"
+				"content/eus/rhel9/9.2/ppc64le/sap-solutions/source/SRPMS",
+				"content/eus/rhel9/9.4/ppc64le/sap-solutions/source/SRPMS"
 			]
 		},
 		"rhel-9-for-ppc64le-sap-solutions-eus-source-rpms__9_DOT_0": {
@@ -65242,6 +65752,14 @@
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.2/ppc64le/sap-solutions/source/SRPMS"
+			]
+		},
+		"rhel-9-for-ppc64le-sap-solutions-eus-source-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_eus:9.4::sap_hana"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/ppc64le/sap-solutions/source/SRPMS"
 			]
 		},
 		"rhel-9-for-ppc64le-sap-solutions-rpms": {
@@ -65283,11 +65801,13 @@
 		"rhel-9-for-ppc64le-supplementary-eus-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:9.0::supplementary",
-				"cpe:/a:redhat:rhel_eus:9.2::supplementary"
+				"cpe:/a:redhat:rhel_eus:9.2::supplementary",
+				"cpe:/a:redhat:rhel_eus:9.4::supplementary"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/ppc64le/supplementary/debug",
-				"content/eus/rhel9/9.2/ppc64le/supplementary/debug"
+				"content/eus/rhel9/9.2/ppc64le/supplementary/debug",
+				"content/eus/rhel9/9.4/ppc64le/supplementary/debug"
 			]
 		},
 		"rhel-9-for-ppc64le-supplementary-eus-debug-rpms__9_DOT_0": {
@@ -65306,14 +65826,24 @@
 				"content/eus/rhel9/9.2/ppc64le/supplementary/debug"
 			]
 		},
+		"rhel-9-for-ppc64le-supplementary-eus-debug-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_eus:9.4::supplementary"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/ppc64le/supplementary/debug"
+			]
+		},
 		"rhel-9-for-ppc64le-supplementary-eus-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:9.0::supplementary",
-				"cpe:/a:redhat:rhel_eus:9.2::supplementary"
+				"cpe:/a:redhat:rhel_eus:9.2::supplementary",
+				"cpe:/a:redhat:rhel_eus:9.4::supplementary"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/ppc64le/supplementary/os",
-				"content/eus/rhel9/9.2/ppc64le/supplementary/os"
+				"content/eus/rhel9/9.2/ppc64le/supplementary/os",
+				"content/eus/rhel9/9.4/ppc64le/supplementary/os"
 			]
 		},
 		"rhel-9-for-ppc64le-supplementary-eus-rpms__9_DOT_0": {
@@ -65332,14 +65862,24 @@
 				"content/eus/rhel9/9.2/ppc64le/supplementary/os"
 			]
 		},
+		"rhel-9-for-ppc64le-supplementary-eus-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_eus:9.4::supplementary"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/ppc64le/supplementary/os"
+			]
+		},
 		"rhel-9-for-ppc64le-supplementary-eus-source-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:9.0::supplementary",
-				"cpe:/a:redhat:rhel_eus:9.2::supplementary"
+				"cpe:/a:redhat:rhel_eus:9.2::supplementary",
+				"cpe:/a:redhat:rhel_eus:9.4::supplementary"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/ppc64le/supplementary/source/SRPMS",
-				"content/eus/rhel9/9.2/ppc64le/supplementary/source/SRPMS"
+				"content/eus/rhel9/9.2/ppc64le/supplementary/source/SRPMS",
+				"content/eus/rhel9/9.4/ppc64le/supplementary/source/SRPMS"
 			]
 		},
 		"rhel-9-for-ppc64le-supplementary-eus-source-rpms__9_DOT_0": {
@@ -65356,6 +65896,14 @@
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.2/ppc64le/supplementary/source/SRPMS"
+			]
+		},
+		"rhel-9-for-ppc64le-supplementary-eus-source-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_eus:9.4::supplementary"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/ppc64le/supplementary/source/SRPMS"
 			]
 		},
 		"rhel-9-for-ppc64le-supplementary-rpms": {
@@ -65399,11 +65947,13 @@
 				"cpe:/a:redhat:rhel_e4s:9.0::appstream",
 				"cpe:/a:redhat:rhel_e4s:9.2::appstream",
 				"cpe:/a:redhat:rhel_eus:9.0::appstream",
-				"cpe:/a:redhat:rhel_eus:9.2::appstream"
+				"cpe:/a:redhat:rhel_eus:9.2::appstream",
+				"cpe:/a:redhat:rhel_eus:9.4::appstream"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel9/9.0/s390x/appstream/debug",
-				"content/e4s/rhel9/9.2/s390x/appstream/debug"
+				"content/e4s/rhel9/9.2/s390x/appstream/debug",
+				"content/e4s/rhel9/9.4/s390x/appstream/debug"
 			]
 		},
 		"rhel-9-for-s390x-appstream-e4s-debug-rpms__9_DOT_0": {
@@ -65427,11 +65977,13 @@
 				"cpe:/a:redhat:rhel_e4s:9.0::appstream",
 				"cpe:/a:redhat:rhel_e4s:9.2::appstream",
 				"cpe:/a:redhat:rhel_eus:9.0::appstream",
-				"cpe:/a:redhat:rhel_eus:9.2::appstream"
+				"cpe:/a:redhat:rhel_eus:9.2::appstream",
+				"cpe:/a:redhat:rhel_eus:9.4::appstream"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel9/9.0/s390x/appstream/os",
-				"content/e4s/rhel9/9.2/s390x/appstream/os"
+				"content/e4s/rhel9/9.2/s390x/appstream/os",
+				"content/e4s/rhel9/9.4/s390x/appstream/os"
 			]
 		},
 		"rhel-9-for-s390x-appstream-e4s-rpms__9_DOT_0": {
@@ -65455,11 +66007,13 @@
 				"cpe:/a:redhat:rhel_e4s:9.0::appstream",
 				"cpe:/a:redhat:rhel_e4s:9.2::appstream",
 				"cpe:/a:redhat:rhel_eus:9.0::appstream",
-				"cpe:/a:redhat:rhel_eus:9.2::appstream"
+				"cpe:/a:redhat:rhel_eus:9.2::appstream",
+				"cpe:/a:redhat:rhel_eus:9.4::appstream"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel9/9.0/s390x/appstream/source/SRPMS",
-				"content/e4s/rhel9/9.2/s390x/appstream/source/SRPMS"
+				"content/e4s/rhel9/9.2/s390x/appstream/source/SRPMS",
+				"content/e4s/rhel9/9.4/s390x/appstream/source/SRPMS"
 			]
 		},
 		"rhel-9-for-s390x-appstream-e4s-source-rpms__9_DOT_0": {
@@ -65481,11 +66035,13 @@
 		"rhel-9-for-s390x-appstream-eus-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:9.0::appstream",
-				"cpe:/a:redhat:rhel_eus:9.2::appstream"
+				"cpe:/a:redhat:rhel_eus:9.2::appstream",
+				"cpe:/a:redhat:rhel_eus:9.4::appstream"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/s390x/appstream/debug",
-				"content/eus/rhel9/9.2/s390x/appstream/debug"
+				"content/eus/rhel9/9.2/s390x/appstream/debug",
+				"content/eus/rhel9/9.4/s390x/appstream/debug"
 			]
 		},
 		"rhel-9-for-s390x-appstream-eus-debug-rpms__9_DOT_0": {
@@ -65504,14 +66060,24 @@
 				"content/eus/rhel9/9.2/s390x/appstream/debug"
 			]
 		},
+		"rhel-9-for-s390x-appstream-eus-debug-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_eus:9.4::appstream"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/s390x/appstream/debug"
+			]
+		},
 		"rhel-9-for-s390x-appstream-eus-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:9.0::appstream",
-				"cpe:/a:redhat:rhel_eus:9.2::appstream"
+				"cpe:/a:redhat:rhel_eus:9.2::appstream",
+				"cpe:/a:redhat:rhel_eus:9.4::appstream"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/s390x/appstream/os",
-				"content/eus/rhel9/9.2/s390x/appstream/os"
+				"content/eus/rhel9/9.2/s390x/appstream/os",
+				"content/eus/rhel9/9.4/s390x/appstream/os"
 			]
 		},
 		"rhel-9-for-s390x-appstream-eus-rpms__9_DOT_0": {
@@ -65530,14 +66096,24 @@
 				"content/eus/rhel9/9.2/s390x/appstream/os"
 			]
 		},
+		"rhel-9-for-s390x-appstream-eus-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_eus:9.4::appstream"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/s390x/appstream/os"
+			]
+		},
 		"rhel-9-for-s390x-appstream-eus-source-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:9.0::appstream",
-				"cpe:/a:redhat:rhel_eus:9.2::appstream"
+				"cpe:/a:redhat:rhel_eus:9.2::appstream",
+				"cpe:/a:redhat:rhel_eus:9.4::appstream"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/s390x/appstream/source/SRPMS",
-				"content/eus/rhel9/9.2/s390x/appstream/source/SRPMS"
+				"content/eus/rhel9/9.2/s390x/appstream/source/SRPMS",
+				"content/eus/rhel9/9.4/s390x/appstream/source/SRPMS"
 			]
 		},
 		"rhel-9-for-s390x-appstream-eus-source-rpms__9_DOT_0": {
@@ -65554,6 +66130,14 @@
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.2/s390x/appstream/source/SRPMS"
+			]
+		},
+		"rhel-9-for-s390x-appstream-eus-source-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_eus:9.4::appstream"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/s390x/appstream/source/SRPMS"
 			]
 		},
 		"rhel-9-for-s390x-appstream-rpms": {
@@ -65597,11 +66181,13 @@
 				"cpe:/o:redhat:rhel_e4s:9.0::baseos",
 				"cpe:/o:redhat:rhel_e4s:9.2::baseos",
 				"cpe:/o:redhat:rhel_eus:9.0::baseos",
-				"cpe:/o:redhat:rhel_eus:9.2::baseos"
+				"cpe:/o:redhat:rhel_eus:9.2::baseos",
+				"cpe:/o:redhat:rhel_eus:9.4::baseos"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel9/9.0/s390x/baseos/debug",
-				"content/e4s/rhel9/9.2/s390x/baseos/debug"
+				"content/e4s/rhel9/9.2/s390x/baseos/debug",
+				"content/e4s/rhel9/9.4/s390x/baseos/debug"
 			]
 		},
 		"rhel-9-for-s390x-baseos-e4s-debug-rpms__9_DOT_0": {
@@ -65625,11 +66211,13 @@
 				"cpe:/o:redhat:rhel_e4s:9.0::baseos",
 				"cpe:/o:redhat:rhel_e4s:9.2::baseos",
 				"cpe:/o:redhat:rhel_eus:9.0::baseos",
-				"cpe:/o:redhat:rhel_eus:9.2::baseos"
+				"cpe:/o:redhat:rhel_eus:9.2::baseos",
+				"cpe:/o:redhat:rhel_eus:9.4::baseos"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel9/9.0/s390x/baseos/os",
-				"content/e4s/rhel9/9.2/s390x/baseos/os"
+				"content/e4s/rhel9/9.2/s390x/baseos/os",
+				"content/e4s/rhel9/9.4/s390x/baseos/os"
 			]
 		},
 		"rhel-9-for-s390x-baseos-e4s-rpms__9_DOT_0": {
@@ -65653,11 +66241,13 @@
 				"cpe:/o:redhat:rhel_e4s:9.0::baseos",
 				"cpe:/o:redhat:rhel_e4s:9.2::baseos",
 				"cpe:/o:redhat:rhel_eus:9.0::baseos",
-				"cpe:/o:redhat:rhel_eus:9.2::baseos"
+				"cpe:/o:redhat:rhel_eus:9.2::baseos",
+				"cpe:/o:redhat:rhel_eus:9.4::baseos"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel9/9.0/s390x/baseos/source/SRPMS",
-				"content/e4s/rhel9/9.2/s390x/baseos/source/SRPMS"
+				"content/e4s/rhel9/9.2/s390x/baseos/source/SRPMS",
+				"content/e4s/rhel9/9.4/s390x/baseos/source/SRPMS"
 			]
 		},
 		"rhel-9-for-s390x-baseos-e4s-source-rpms__9_DOT_0": {
@@ -65679,11 +66269,13 @@
 		"rhel-9-for-s390x-baseos-eus-debug-rpms": {
 			"cpes": [
 				"cpe:/o:redhat:rhel_eus:9.0::baseos",
-				"cpe:/o:redhat:rhel_eus:9.2::baseos"
+				"cpe:/o:redhat:rhel_eus:9.2::baseos",
+				"cpe:/o:redhat:rhel_eus:9.4::baseos"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/s390x/baseos/debug",
-				"content/eus/rhel9/9.2/s390x/baseos/debug"
+				"content/eus/rhel9/9.2/s390x/baseos/debug",
+				"content/eus/rhel9/9.4/s390x/baseos/debug"
 			]
 		},
 		"rhel-9-for-s390x-baseos-eus-debug-rpms__9_DOT_0": {
@@ -65702,14 +66294,24 @@
 				"content/eus/rhel9/9.2/s390x/baseos/debug"
 			]
 		},
+		"rhel-9-for-s390x-baseos-eus-debug-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/o:redhat:rhel_eus:9.4::baseos"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/s390x/baseos/debug"
+			]
+		},
 		"rhel-9-for-s390x-baseos-eus-rpms": {
 			"cpes": [
 				"cpe:/o:redhat:rhel_eus:9.0::baseos",
-				"cpe:/o:redhat:rhel_eus:9.2::baseos"
+				"cpe:/o:redhat:rhel_eus:9.2::baseos",
+				"cpe:/o:redhat:rhel_eus:9.4::baseos"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/s390x/baseos/os",
-				"content/eus/rhel9/9.2/s390x/baseos/os"
+				"content/eus/rhel9/9.2/s390x/baseos/os",
+				"content/eus/rhel9/9.4/s390x/baseos/os"
 			]
 		},
 		"rhel-9-for-s390x-baseos-eus-rpms__9_DOT_0": {
@@ -65728,14 +66330,24 @@
 				"content/eus/rhel9/9.2/s390x/baseos/os"
 			]
 		},
+		"rhel-9-for-s390x-baseos-eus-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/o:redhat:rhel_eus:9.4::baseos"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/s390x/baseos/os"
+			]
+		},
 		"rhel-9-for-s390x-baseos-eus-source-rpms": {
 			"cpes": [
 				"cpe:/o:redhat:rhel_eus:9.0::baseos",
-				"cpe:/o:redhat:rhel_eus:9.2::baseos"
+				"cpe:/o:redhat:rhel_eus:9.2::baseos",
+				"cpe:/o:redhat:rhel_eus:9.4::baseos"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/s390x/baseos/source/SRPMS",
-				"content/eus/rhel9/9.2/s390x/baseos/source/SRPMS"
+				"content/eus/rhel9/9.2/s390x/baseos/source/SRPMS",
+				"content/eus/rhel9/9.4/s390x/baseos/source/SRPMS"
 			]
 		},
 		"rhel-9-for-s390x-baseos-eus-source-rpms__9_DOT_0": {
@@ -65752,6 +66364,14 @@
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.2/s390x/baseos/source/SRPMS"
+			]
+		},
+		"rhel-9-for-s390x-baseos-eus-source-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/o:redhat:rhel_eus:9.4::baseos"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/s390x/baseos/source/SRPMS"
 			]
 		},
 		"rhel-9-for-s390x-baseos-rpms": {
@@ -65795,11 +66415,13 @@
 				"cpe:/a:redhat:rhel_e4s:9.0::highavailability",
 				"cpe:/a:redhat:rhel_e4s:9.2::highavailability",
 				"cpe:/a:redhat:rhel_eus:9.0::highavailability",
-				"cpe:/a:redhat:rhel_eus:9.2::highavailability"
+				"cpe:/a:redhat:rhel_eus:9.2::highavailability",
+				"cpe:/a:redhat:rhel_eus:9.4::highavailability"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel9/9.0/s390x/highavailability/debug",
-				"content/e4s/rhel9/9.2/s390x/highavailability/debug"
+				"content/e4s/rhel9/9.2/s390x/highavailability/debug",
+				"content/e4s/rhel9/9.4/s390x/highavailability/debug"
 			]
 		},
 		"rhel-9-for-s390x-highavailability-e4s-debug-rpms__9_DOT_0": {
@@ -65823,11 +66445,13 @@
 				"cpe:/a:redhat:rhel_e4s:9.0::highavailability",
 				"cpe:/a:redhat:rhel_e4s:9.2::highavailability",
 				"cpe:/a:redhat:rhel_eus:9.0::highavailability",
-				"cpe:/a:redhat:rhel_eus:9.2::highavailability"
+				"cpe:/a:redhat:rhel_eus:9.2::highavailability",
+				"cpe:/a:redhat:rhel_eus:9.4::highavailability"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel9/9.0/s390x/highavailability/os",
-				"content/e4s/rhel9/9.2/s390x/highavailability/os"
+				"content/e4s/rhel9/9.2/s390x/highavailability/os",
+				"content/e4s/rhel9/9.4/s390x/highavailability/os"
 			]
 		},
 		"rhel-9-for-s390x-highavailability-e4s-rpms__9_DOT_0": {
@@ -65851,11 +66475,13 @@
 				"cpe:/a:redhat:rhel_e4s:9.0::highavailability",
 				"cpe:/a:redhat:rhel_e4s:9.2::highavailability",
 				"cpe:/a:redhat:rhel_eus:9.0::highavailability",
-				"cpe:/a:redhat:rhel_eus:9.2::highavailability"
+				"cpe:/a:redhat:rhel_eus:9.2::highavailability",
+				"cpe:/a:redhat:rhel_eus:9.4::highavailability"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel9/9.0/s390x/highavailability/source/SRPMS",
-				"content/e4s/rhel9/9.2/s390x/highavailability/source/SRPMS"
+				"content/e4s/rhel9/9.2/s390x/highavailability/source/SRPMS",
+				"content/e4s/rhel9/9.4/s390x/highavailability/source/SRPMS"
 			]
 		},
 		"rhel-9-for-s390x-highavailability-e4s-source-rpms__9_DOT_0": {
@@ -65877,11 +66503,13 @@
 		"rhel-9-for-s390x-highavailability-eus-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:9.0::highavailability",
-				"cpe:/a:redhat:rhel_eus:9.2::highavailability"
+				"cpe:/a:redhat:rhel_eus:9.2::highavailability",
+				"cpe:/a:redhat:rhel_eus:9.4::highavailability"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/s390x/highavailability/debug",
-				"content/eus/rhel9/9.2/s390x/highavailability/debug"
+				"content/eus/rhel9/9.2/s390x/highavailability/debug",
+				"content/eus/rhel9/9.4/s390x/highavailability/debug"
 			]
 		},
 		"rhel-9-for-s390x-highavailability-eus-debug-rpms__9_DOT_0": {
@@ -65900,14 +66528,24 @@
 				"content/eus/rhel9/9.2/s390x/highavailability/debug"
 			]
 		},
+		"rhel-9-for-s390x-highavailability-eus-debug-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_eus:9.4::highavailability"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/s390x/highavailability/debug"
+			]
+		},
 		"rhel-9-for-s390x-highavailability-eus-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:9.0::highavailability",
-				"cpe:/a:redhat:rhel_eus:9.2::highavailability"
+				"cpe:/a:redhat:rhel_eus:9.2::highavailability",
+				"cpe:/a:redhat:rhel_eus:9.4::highavailability"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/s390x/highavailability/os",
-				"content/eus/rhel9/9.2/s390x/highavailability/os"
+				"content/eus/rhel9/9.2/s390x/highavailability/os",
+				"content/eus/rhel9/9.4/s390x/highavailability/os"
 			]
 		},
 		"rhel-9-for-s390x-highavailability-eus-rpms__9_DOT_0": {
@@ -65926,14 +66564,24 @@
 				"content/eus/rhel9/9.2/s390x/highavailability/os"
 			]
 		},
+		"rhel-9-for-s390x-highavailability-eus-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_eus:9.4::highavailability"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/s390x/highavailability/os"
+			]
+		},
 		"rhel-9-for-s390x-highavailability-eus-source-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:9.0::highavailability",
-				"cpe:/a:redhat:rhel_eus:9.2::highavailability"
+				"cpe:/a:redhat:rhel_eus:9.2::highavailability",
+				"cpe:/a:redhat:rhel_eus:9.4::highavailability"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/s390x/highavailability/source/SRPMS",
-				"content/eus/rhel9/9.2/s390x/highavailability/source/SRPMS"
+				"content/eus/rhel9/9.2/s390x/highavailability/source/SRPMS",
+				"content/eus/rhel9/9.4/s390x/highavailability/source/SRPMS"
 			]
 		},
 		"rhel-9-for-s390x-highavailability-eus-source-rpms__9_DOT_0": {
@@ -65950,6 +66598,14 @@
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.2/s390x/highavailability/source/SRPMS"
+			]
+		},
+		"rhel-9-for-s390x-highavailability-eus-source-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_eus:9.4::highavailability"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/s390x/highavailability/source/SRPMS"
 			]
 		},
 		"rhel-9-for-s390x-highavailability-rpms": {
@@ -65993,11 +66649,13 @@
 				"cpe:/a:redhat:rhel_e4s:9.0::resilientstorage",
 				"cpe:/a:redhat:rhel_e4s:9.2::resilientstorage",
 				"cpe:/a:redhat:rhel_eus:9.0::resilientstorage",
-				"cpe:/a:redhat:rhel_eus:9.2::resilientstorage"
+				"cpe:/a:redhat:rhel_eus:9.2::resilientstorage",
+				"cpe:/a:redhat:rhel_eus:9.4::resilientstorage"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel9/9.0/s390x/resilientstorage/debug",
-				"content/e4s/rhel9/9.2/s390x/resilientstorage/debug"
+				"content/e4s/rhel9/9.2/s390x/resilientstorage/debug",
+				"content/e4s/rhel9/9.4/s390x/resilientstorage/debug"
 			]
 		},
 		"rhel-9-for-s390x-resilientstorage-e4s-debug-rpms__9_DOT_0": {
@@ -66021,11 +66679,13 @@
 				"cpe:/a:redhat:rhel_e4s:9.0::resilientstorage",
 				"cpe:/a:redhat:rhel_e4s:9.2::resilientstorage",
 				"cpe:/a:redhat:rhel_eus:9.0::resilientstorage",
-				"cpe:/a:redhat:rhel_eus:9.2::resilientstorage"
+				"cpe:/a:redhat:rhel_eus:9.2::resilientstorage",
+				"cpe:/a:redhat:rhel_eus:9.4::resilientstorage"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel9/9.0/s390x/resilientstorage/os",
-				"content/e4s/rhel9/9.2/s390x/resilientstorage/os"
+				"content/e4s/rhel9/9.2/s390x/resilientstorage/os",
+				"content/e4s/rhel9/9.4/s390x/resilientstorage/os"
 			]
 		},
 		"rhel-9-for-s390x-resilientstorage-e4s-rpms__9_DOT_0": {
@@ -66049,11 +66709,13 @@
 				"cpe:/a:redhat:rhel_e4s:9.0::resilientstorage",
 				"cpe:/a:redhat:rhel_e4s:9.2::resilientstorage",
 				"cpe:/a:redhat:rhel_eus:9.0::resilientstorage",
-				"cpe:/a:redhat:rhel_eus:9.2::resilientstorage"
+				"cpe:/a:redhat:rhel_eus:9.2::resilientstorage",
+				"cpe:/a:redhat:rhel_eus:9.4::resilientstorage"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel9/9.0/s390x/resilientstorage/source/SRPMS",
-				"content/e4s/rhel9/9.2/s390x/resilientstorage/source/SRPMS"
+				"content/e4s/rhel9/9.2/s390x/resilientstorage/source/SRPMS",
+				"content/e4s/rhel9/9.4/s390x/resilientstorage/source/SRPMS"
 			]
 		},
 		"rhel-9-for-s390x-resilientstorage-e4s-source-rpms__9_DOT_0": {
@@ -66075,11 +66737,13 @@
 		"rhel-9-for-s390x-resilientstorage-eus-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:9.0::resilientstorage",
-				"cpe:/a:redhat:rhel_eus:9.2::resilientstorage"
+				"cpe:/a:redhat:rhel_eus:9.2::resilientstorage",
+				"cpe:/a:redhat:rhel_eus:9.4::resilientstorage"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/s390x/resilientstorage/debug",
-				"content/eus/rhel9/9.2/s390x/resilientstorage/debug"
+				"content/eus/rhel9/9.2/s390x/resilientstorage/debug",
+				"content/eus/rhel9/9.4/s390x/resilientstorage/debug"
 			]
 		},
 		"rhel-9-for-s390x-resilientstorage-eus-debug-rpms__9_DOT_0": {
@@ -66098,14 +66762,24 @@
 				"content/eus/rhel9/9.2/s390x/resilientstorage/debug"
 			]
 		},
+		"rhel-9-for-s390x-resilientstorage-eus-debug-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_eus:9.4::resilientstorage"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/s390x/resilientstorage/debug"
+			]
+		},
 		"rhel-9-for-s390x-resilientstorage-eus-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:9.0::resilientstorage",
-				"cpe:/a:redhat:rhel_eus:9.2::resilientstorage"
+				"cpe:/a:redhat:rhel_eus:9.2::resilientstorage",
+				"cpe:/a:redhat:rhel_eus:9.4::resilientstorage"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/s390x/resilientstorage/os",
-				"content/eus/rhel9/9.2/s390x/resilientstorage/os"
+				"content/eus/rhel9/9.2/s390x/resilientstorage/os",
+				"content/eus/rhel9/9.4/s390x/resilientstorage/os"
 			]
 		},
 		"rhel-9-for-s390x-resilientstorage-eus-rpms__9_DOT_0": {
@@ -66124,14 +66798,24 @@
 				"content/eus/rhel9/9.2/s390x/resilientstorage/os"
 			]
 		},
+		"rhel-9-for-s390x-resilientstorage-eus-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_eus:9.4::resilientstorage"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/s390x/resilientstorage/os"
+			]
+		},
 		"rhel-9-for-s390x-resilientstorage-eus-source-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:9.0::resilientstorage",
-				"cpe:/a:redhat:rhel_eus:9.2::resilientstorage"
+				"cpe:/a:redhat:rhel_eus:9.2::resilientstorage",
+				"cpe:/a:redhat:rhel_eus:9.4::resilientstorage"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/s390x/resilientstorage/source/SRPMS",
-				"content/eus/rhel9/9.2/s390x/resilientstorage/source/SRPMS"
+				"content/eus/rhel9/9.2/s390x/resilientstorage/source/SRPMS",
+				"content/eus/rhel9/9.4/s390x/resilientstorage/source/SRPMS"
 			]
 		},
 		"rhel-9-for-s390x-resilientstorage-eus-source-rpms__9_DOT_0": {
@@ -66148,6 +66832,14 @@
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.2/s390x/resilientstorage/source/SRPMS"
+			]
+		},
+		"rhel-9-for-s390x-resilientstorage-eus-source-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_eus:9.4::resilientstorage"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/s390x/resilientstorage/source/SRPMS"
 			]
 		},
 		"rhel-9-for-s390x-resilientstorage-rpms": {
@@ -66191,11 +66883,13 @@
 				"cpe:/a:redhat:rhel_e4s:9.0::sap",
 				"cpe:/a:redhat:rhel_e4s:9.2::sap",
 				"cpe:/a:redhat:rhel_eus:9.0::sap",
-				"cpe:/a:redhat:rhel_eus:9.2::sap"
+				"cpe:/a:redhat:rhel_eus:9.2::sap",
+				"cpe:/a:redhat:rhel_eus:9.4::sap"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel9/9.0/s390x/sap/debug",
-				"content/e4s/rhel9/9.2/s390x/sap/debug"
+				"content/e4s/rhel9/9.2/s390x/sap/debug",
+				"content/e4s/rhel9/9.4/s390x/sap/debug"
 			]
 		},
 		"rhel-9-for-s390x-sap-netweaver-e4s-debug-rpms__9_DOT_0": {
@@ -66219,11 +66913,13 @@
 				"cpe:/a:redhat:rhel_e4s:9.0::sap",
 				"cpe:/a:redhat:rhel_e4s:9.2::sap",
 				"cpe:/a:redhat:rhel_eus:9.0::sap",
-				"cpe:/a:redhat:rhel_eus:9.2::sap"
+				"cpe:/a:redhat:rhel_eus:9.2::sap",
+				"cpe:/a:redhat:rhel_eus:9.4::sap"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel9/9.0/s390x/sap/os",
-				"content/e4s/rhel9/9.2/s390x/sap/os"
+				"content/e4s/rhel9/9.2/s390x/sap/os",
+				"content/e4s/rhel9/9.4/s390x/sap/os"
 			]
 		},
 		"rhel-9-for-s390x-sap-netweaver-e4s-rpms__9_DOT_0": {
@@ -66247,11 +66943,13 @@
 				"cpe:/a:redhat:rhel_e4s:9.0::sap",
 				"cpe:/a:redhat:rhel_e4s:9.2::sap",
 				"cpe:/a:redhat:rhel_eus:9.0::sap",
-				"cpe:/a:redhat:rhel_eus:9.2::sap"
+				"cpe:/a:redhat:rhel_eus:9.2::sap",
+				"cpe:/a:redhat:rhel_eus:9.4::sap"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel9/9.0/s390x/sap/source/SRPMS",
-				"content/e4s/rhel9/9.2/s390x/sap/source/SRPMS"
+				"content/e4s/rhel9/9.2/s390x/sap/source/SRPMS",
+				"content/e4s/rhel9/9.4/s390x/sap/source/SRPMS"
 			]
 		},
 		"rhel-9-for-s390x-sap-netweaver-e4s-source-rpms__9_DOT_0": {
@@ -66273,11 +66971,13 @@
 		"rhel-9-for-s390x-sap-netweaver-eus-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:9.0::sap",
-				"cpe:/a:redhat:rhel_eus:9.2::sap"
+				"cpe:/a:redhat:rhel_eus:9.2::sap",
+				"cpe:/a:redhat:rhel_eus:9.4::sap"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/s390x/sap/debug",
-				"content/eus/rhel9/9.2/s390x/sap/debug"
+				"content/eus/rhel9/9.2/s390x/sap/debug",
+				"content/eus/rhel9/9.4/s390x/sap/debug"
 			]
 		},
 		"rhel-9-for-s390x-sap-netweaver-eus-debug-rpms__9_DOT_0": {
@@ -66296,14 +66996,24 @@
 				"content/eus/rhel9/9.2/s390x/sap/debug"
 			]
 		},
+		"rhel-9-for-s390x-sap-netweaver-eus-debug-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_eus:9.4::sap"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/s390x/sap/debug"
+			]
+		},
 		"rhel-9-for-s390x-sap-netweaver-eus-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:9.0::sap",
-				"cpe:/a:redhat:rhel_eus:9.2::sap"
+				"cpe:/a:redhat:rhel_eus:9.2::sap",
+				"cpe:/a:redhat:rhel_eus:9.4::sap"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/s390x/sap/os",
-				"content/eus/rhel9/9.2/s390x/sap/os"
+				"content/eus/rhel9/9.2/s390x/sap/os",
+				"content/eus/rhel9/9.4/s390x/sap/os"
 			]
 		},
 		"rhel-9-for-s390x-sap-netweaver-eus-rpms__9_DOT_0": {
@@ -66322,14 +67032,24 @@
 				"content/eus/rhel9/9.2/s390x/sap/os"
 			]
 		},
+		"rhel-9-for-s390x-sap-netweaver-eus-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_eus:9.4::sap"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/s390x/sap/os"
+			]
+		},
 		"rhel-9-for-s390x-sap-netweaver-eus-source-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:9.0::sap",
-				"cpe:/a:redhat:rhel_eus:9.2::sap"
+				"cpe:/a:redhat:rhel_eus:9.2::sap",
+				"cpe:/a:redhat:rhel_eus:9.4::sap"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/s390x/sap/source/SRPMS",
-				"content/eus/rhel9/9.2/s390x/sap/source/SRPMS"
+				"content/eus/rhel9/9.2/s390x/sap/source/SRPMS",
+				"content/eus/rhel9/9.4/s390x/sap/source/SRPMS"
 			]
 		},
 		"rhel-9-for-s390x-sap-netweaver-eus-source-rpms__9_DOT_0": {
@@ -66346,6 +67066,14 @@
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.2/s390x/sap/source/SRPMS"
+			]
+		},
+		"rhel-9-for-s390x-sap-netweaver-eus-source-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_eus:9.4::sap"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/s390x/sap/source/SRPMS"
 			]
 		},
 		"rhel-9-for-s390x-sap-netweaver-rpms": {
@@ -66387,11 +67115,13 @@
 		"rhel-9-for-s390x-supplementary-eus-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:9.0::supplementary",
-				"cpe:/a:redhat:rhel_eus:9.2::supplementary"
+				"cpe:/a:redhat:rhel_eus:9.2::supplementary",
+				"cpe:/a:redhat:rhel_eus:9.4::supplementary"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/s390x/supplementary/debug",
-				"content/eus/rhel9/9.2/s390x/supplementary/debug"
+				"content/eus/rhel9/9.2/s390x/supplementary/debug",
+				"content/eus/rhel9/9.4/s390x/supplementary/debug"
 			]
 		},
 		"rhel-9-for-s390x-supplementary-eus-debug-rpms__9_DOT_0": {
@@ -66410,14 +67140,24 @@
 				"content/eus/rhel9/9.2/s390x/supplementary/debug"
 			]
 		},
+		"rhel-9-for-s390x-supplementary-eus-debug-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_eus:9.4::supplementary"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/s390x/supplementary/debug"
+			]
+		},
 		"rhel-9-for-s390x-supplementary-eus-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:9.0::supplementary",
-				"cpe:/a:redhat:rhel_eus:9.2::supplementary"
+				"cpe:/a:redhat:rhel_eus:9.2::supplementary",
+				"cpe:/a:redhat:rhel_eus:9.4::supplementary"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/s390x/supplementary/os",
-				"content/eus/rhel9/9.2/s390x/supplementary/os"
+				"content/eus/rhel9/9.2/s390x/supplementary/os",
+				"content/eus/rhel9/9.4/s390x/supplementary/os"
 			]
 		},
 		"rhel-9-for-s390x-supplementary-eus-rpms__9_DOT_0": {
@@ -66436,14 +67176,24 @@
 				"content/eus/rhel9/9.2/s390x/supplementary/os"
 			]
 		},
+		"rhel-9-for-s390x-supplementary-eus-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_eus:9.4::supplementary"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/s390x/supplementary/os"
+			]
+		},
 		"rhel-9-for-s390x-supplementary-eus-source-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:9.0::supplementary",
-				"cpe:/a:redhat:rhel_eus:9.2::supplementary"
+				"cpe:/a:redhat:rhel_eus:9.2::supplementary",
+				"cpe:/a:redhat:rhel_eus:9.4::supplementary"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/s390x/supplementary/source/SRPMS",
-				"content/eus/rhel9/9.2/s390x/supplementary/source/SRPMS"
+				"content/eus/rhel9/9.2/s390x/supplementary/source/SRPMS",
+				"content/eus/rhel9/9.4/s390x/supplementary/source/SRPMS"
 			]
 		},
 		"rhel-9-for-s390x-supplementary-eus-source-rpms__9_DOT_0": {
@@ -66460,6 +67210,14 @@
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.2/s390x/supplementary/source/SRPMS"
+			]
+		},
+		"rhel-9-for-s390x-supplementary-eus-source-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_eus:9.4::supplementary"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/s390x/supplementary/source/SRPMS"
 			]
 		},
 		"rhel-9-for-s390x-supplementary-rpms": {
@@ -66489,10 +67247,12 @@
 		"rhel-9-for-x86_64-appstream-aus-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_aus:9.2::appstream",
-				"cpe:/a:redhat:rhel_eus:9.2::appstream"
+				"cpe:/a:redhat:rhel_eus:9.2::appstream",
+				"cpe:/a:redhat:rhel_eus:9.4::appstream"
 			],
 			"repo_relative_urls": [
-				"content/aus/rhel9/9.2/x86_64/appstream/debug"
+				"content/aus/rhel9/9.2/x86_64/appstream/debug",
+				"content/aus/rhel9/9.4/x86_64/appstream/debug"
 			]
 		},
 		"rhel-9-for-x86_64-appstream-aus-debug-rpms__9_DOT_2": {
@@ -66506,10 +67266,12 @@
 		"rhel-9-for-x86_64-appstream-aus-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_aus:9.2::appstream",
-				"cpe:/a:redhat:rhel_eus:9.2::appstream"
+				"cpe:/a:redhat:rhel_eus:9.2::appstream",
+				"cpe:/a:redhat:rhel_eus:9.4::appstream"
 			],
 			"repo_relative_urls": [
-				"content/aus/rhel9/9.2/x86_64/appstream/os"
+				"content/aus/rhel9/9.2/x86_64/appstream/os",
+				"content/aus/rhel9/9.4/x86_64/appstream/os"
 			]
 		},
 		"rhel-9-for-x86_64-appstream-aus-rpms__9_DOT_2": {
@@ -66523,10 +67285,12 @@
 		"rhel-9-for-x86_64-appstream-aus-source-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_aus:9.2::appstream",
-				"cpe:/a:redhat:rhel_eus:9.2::appstream"
+				"cpe:/a:redhat:rhel_eus:9.2::appstream",
+				"cpe:/a:redhat:rhel_eus:9.4::appstream"
 			],
 			"repo_relative_urls": [
-				"content/aus/rhel9/9.2/x86_64/appstream/source/SRPMS"
+				"content/aus/rhel9/9.2/x86_64/appstream/source/SRPMS",
+				"content/aus/rhel9/9.4/x86_64/appstream/source/SRPMS"
 			]
 		},
 		"rhel-9-for-x86_64-appstream-aus-source-rpms__9_DOT_2": {
@@ -66554,11 +67318,13 @@
 				"cpe:/a:redhat:rhel_e4s:9.0::appstream",
 				"cpe:/a:redhat:rhel_e4s:9.2::appstream",
 				"cpe:/a:redhat:rhel_eus:9.0::appstream",
-				"cpe:/a:redhat:rhel_eus:9.2::appstream"
+				"cpe:/a:redhat:rhel_eus:9.2::appstream",
+				"cpe:/a:redhat:rhel_eus:9.4::appstream"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel9/9.0/x86_64/appstream/debug",
-				"content/e4s/rhel9/9.2/x86_64/appstream/debug"
+				"content/e4s/rhel9/9.2/x86_64/appstream/debug",
+				"content/e4s/rhel9/9.4/x86_64/appstream/debug"
 			]
 		},
 		"rhel-9-for-x86_64-appstream-e4s-debug-rpms__9_DOT_0": {
@@ -66582,11 +67348,13 @@
 				"cpe:/a:redhat:rhel_e4s:9.0::appstream",
 				"cpe:/a:redhat:rhel_e4s:9.2::appstream",
 				"cpe:/a:redhat:rhel_eus:9.0::appstream",
-				"cpe:/a:redhat:rhel_eus:9.2::appstream"
+				"cpe:/a:redhat:rhel_eus:9.2::appstream",
+				"cpe:/a:redhat:rhel_eus:9.4::appstream"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel9/9.0/x86_64/appstream/os",
-				"content/e4s/rhel9/9.2/x86_64/appstream/os"
+				"content/e4s/rhel9/9.2/x86_64/appstream/os",
+				"content/e4s/rhel9/9.4/x86_64/appstream/os"
 			]
 		},
 		"rhel-9-for-x86_64-appstream-e4s-rpms__9_DOT_0": {
@@ -66610,11 +67378,13 @@
 				"cpe:/a:redhat:rhel_e4s:9.0::appstream",
 				"cpe:/a:redhat:rhel_e4s:9.2::appstream",
 				"cpe:/a:redhat:rhel_eus:9.0::appstream",
-				"cpe:/a:redhat:rhel_eus:9.2::appstream"
+				"cpe:/a:redhat:rhel_eus:9.2::appstream",
+				"cpe:/a:redhat:rhel_eus:9.4::appstream"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel9/9.0/x86_64/appstream/source/SRPMS",
-				"content/e4s/rhel9/9.2/x86_64/appstream/source/SRPMS"
+				"content/e4s/rhel9/9.2/x86_64/appstream/source/SRPMS",
+				"content/e4s/rhel9/9.4/x86_64/appstream/source/SRPMS"
 			]
 		},
 		"rhel-9-for-x86_64-appstream-e4s-source-rpms__9_DOT_0": {
@@ -66636,11 +67406,13 @@
 		"rhel-9-for-x86_64-appstream-eus-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:9.0::appstream",
-				"cpe:/a:redhat:rhel_eus:9.2::appstream"
+				"cpe:/a:redhat:rhel_eus:9.2::appstream",
+				"cpe:/a:redhat:rhel_eus:9.4::appstream"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/x86_64/appstream/debug",
-				"content/eus/rhel9/9.2/x86_64/appstream/debug"
+				"content/eus/rhel9/9.2/x86_64/appstream/debug",
+				"content/eus/rhel9/9.4/x86_64/appstream/debug"
 			]
 		},
 		"rhel-9-for-x86_64-appstream-eus-debug-rpms__9_DOT_0": {
@@ -66659,14 +67431,24 @@
 				"content/eus/rhel9/9.2/x86_64/appstream/debug"
 			]
 		},
+		"rhel-9-for-x86_64-appstream-eus-debug-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_eus:9.4::appstream"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/x86_64/appstream/debug"
+			]
+		},
 		"rhel-9-for-x86_64-appstream-eus-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:9.0::appstream",
-				"cpe:/a:redhat:rhel_eus:9.2::appstream"
+				"cpe:/a:redhat:rhel_eus:9.2::appstream",
+				"cpe:/a:redhat:rhel_eus:9.4::appstream"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/x86_64/appstream/os",
-				"content/eus/rhel9/9.2/x86_64/appstream/os"
+				"content/eus/rhel9/9.2/x86_64/appstream/os",
+				"content/eus/rhel9/9.4/x86_64/appstream/os"
 			]
 		},
 		"rhel-9-for-x86_64-appstream-eus-rpms__9_DOT_0": {
@@ -66685,14 +67467,24 @@
 				"content/eus/rhel9/9.2/x86_64/appstream/os"
 			]
 		},
+		"rhel-9-for-x86_64-appstream-eus-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_eus:9.4::appstream"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/x86_64/appstream/os"
+			]
+		},
 		"rhel-9-for-x86_64-appstream-eus-source-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:9.0::appstream",
-				"cpe:/a:redhat:rhel_eus:9.2::appstream"
+				"cpe:/a:redhat:rhel_eus:9.2::appstream",
+				"cpe:/a:redhat:rhel_eus:9.4::appstream"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/x86_64/appstream/source/SRPMS",
-				"content/eus/rhel9/9.2/x86_64/appstream/source/SRPMS"
+				"content/eus/rhel9/9.2/x86_64/appstream/source/SRPMS",
+				"content/eus/rhel9/9.4/x86_64/appstream/source/SRPMS"
 			]
 		},
 		"rhel-9-for-x86_64-appstream-eus-source-rpms__9_DOT_0": {
@@ -66709,6 +67501,14 @@
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.2/x86_64/appstream/source/SRPMS"
+			]
+		},
+		"rhel-9-for-x86_64-appstream-eus-source-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_eus:9.4::appstream"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/x86_64/appstream/source/SRPMS"
 			]
 		},
 		"rhel-9-for-x86_64-appstream-rpms": {
@@ -66738,10 +67538,12 @@
 		"rhel-9-for-x86_64-baseos-aus-debug-rpms": {
 			"cpes": [
 				"cpe:/o:redhat:rhel_aus:9.2::baseos",
-				"cpe:/o:redhat:rhel_eus:9.2::baseos"
+				"cpe:/o:redhat:rhel_eus:9.2::baseos",
+				"cpe:/o:redhat:rhel_eus:9.4::baseos"
 			],
 			"repo_relative_urls": [
-				"content/aus/rhel9/9.2/x86_64/baseos/debug"
+				"content/aus/rhel9/9.2/x86_64/baseos/debug",
+				"content/aus/rhel9/9.4/x86_64/baseos/debug"
 			]
 		},
 		"rhel-9-for-x86_64-baseos-aus-debug-rpms__9_DOT_2": {
@@ -66755,10 +67557,12 @@
 		"rhel-9-for-x86_64-baseos-aus-rpms": {
 			"cpes": [
 				"cpe:/o:redhat:rhel_aus:9.2::baseos",
-				"cpe:/o:redhat:rhel_eus:9.2::baseos"
+				"cpe:/o:redhat:rhel_eus:9.2::baseos",
+				"cpe:/o:redhat:rhel_eus:9.4::baseos"
 			],
 			"repo_relative_urls": [
-				"content/aus/rhel9/9.2/x86_64/baseos/os"
+				"content/aus/rhel9/9.2/x86_64/baseos/os",
+				"content/aus/rhel9/9.4/x86_64/baseos/os"
 			]
 		},
 		"rhel-9-for-x86_64-baseos-aus-rpms__9_DOT_2": {
@@ -66772,10 +67576,12 @@
 		"rhel-9-for-x86_64-baseos-aus-source-rpms": {
 			"cpes": [
 				"cpe:/o:redhat:rhel_aus:9.2::baseos",
-				"cpe:/o:redhat:rhel_eus:9.2::baseos"
+				"cpe:/o:redhat:rhel_eus:9.2::baseos",
+				"cpe:/o:redhat:rhel_eus:9.4::baseos"
 			],
 			"repo_relative_urls": [
-				"content/aus/rhel9/9.2/x86_64/baseos/source/SRPMS"
+				"content/aus/rhel9/9.2/x86_64/baseos/source/SRPMS",
+				"content/aus/rhel9/9.4/x86_64/baseos/source/SRPMS"
 			]
 		},
 		"rhel-9-for-x86_64-baseos-aus-source-rpms__9_DOT_2": {
@@ -66803,11 +67609,13 @@
 				"cpe:/o:redhat:rhel_e4s:9.0::baseos",
 				"cpe:/o:redhat:rhel_e4s:9.2::baseos",
 				"cpe:/o:redhat:rhel_eus:9.0::baseos",
-				"cpe:/o:redhat:rhel_eus:9.2::baseos"
+				"cpe:/o:redhat:rhel_eus:9.2::baseos",
+				"cpe:/o:redhat:rhel_eus:9.4::baseos"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel9/9.0/x86_64/baseos/debug",
-				"content/e4s/rhel9/9.2/x86_64/baseos/debug"
+				"content/e4s/rhel9/9.2/x86_64/baseos/debug",
+				"content/e4s/rhel9/9.4/x86_64/baseos/debug"
 			]
 		},
 		"rhel-9-for-x86_64-baseos-e4s-debug-rpms__9_DOT_0": {
@@ -66831,11 +67639,13 @@
 				"cpe:/o:redhat:rhel_e4s:9.0::baseos",
 				"cpe:/o:redhat:rhel_e4s:9.2::baseos",
 				"cpe:/o:redhat:rhel_eus:9.0::baseos",
-				"cpe:/o:redhat:rhel_eus:9.2::baseos"
+				"cpe:/o:redhat:rhel_eus:9.2::baseos",
+				"cpe:/o:redhat:rhel_eus:9.4::baseos"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel9/9.0/x86_64/baseos/os",
-				"content/e4s/rhel9/9.2/x86_64/baseos/os"
+				"content/e4s/rhel9/9.2/x86_64/baseos/os",
+				"content/e4s/rhel9/9.4/x86_64/baseos/os"
 			]
 		},
 		"rhel-9-for-x86_64-baseos-e4s-rpms__9_DOT_0": {
@@ -66859,11 +67669,13 @@
 				"cpe:/o:redhat:rhel_e4s:9.0::baseos",
 				"cpe:/o:redhat:rhel_e4s:9.2::baseos",
 				"cpe:/o:redhat:rhel_eus:9.0::baseos",
-				"cpe:/o:redhat:rhel_eus:9.2::baseos"
+				"cpe:/o:redhat:rhel_eus:9.2::baseos",
+				"cpe:/o:redhat:rhel_eus:9.4::baseos"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel9/9.0/x86_64/baseos/source/SRPMS",
-				"content/e4s/rhel9/9.2/x86_64/baseos/source/SRPMS"
+				"content/e4s/rhel9/9.2/x86_64/baseos/source/SRPMS",
+				"content/e4s/rhel9/9.4/x86_64/baseos/source/SRPMS"
 			]
 		},
 		"rhel-9-for-x86_64-baseos-e4s-source-rpms__9_DOT_0": {
@@ -66885,11 +67697,13 @@
 		"rhel-9-for-x86_64-baseos-eus-debug-rpms": {
 			"cpes": [
 				"cpe:/o:redhat:rhel_eus:9.0::baseos",
-				"cpe:/o:redhat:rhel_eus:9.2::baseos"
+				"cpe:/o:redhat:rhel_eus:9.2::baseos",
+				"cpe:/o:redhat:rhel_eus:9.4::baseos"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/x86_64/baseos/debug",
-				"content/eus/rhel9/9.2/x86_64/baseos/debug"
+				"content/eus/rhel9/9.2/x86_64/baseos/debug",
+				"content/eus/rhel9/9.4/x86_64/baseos/debug"
 			]
 		},
 		"rhel-9-for-x86_64-baseos-eus-debug-rpms__9_DOT_0": {
@@ -66908,14 +67722,24 @@
 				"content/eus/rhel9/9.2/x86_64/baseos/debug"
 			]
 		},
+		"rhel-9-for-x86_64-baseos-eus-debug-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/o:redhat:rhel_eus:9.4::baseos"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/x86_64/baseos/debug"
+			]
+		},
 		"rhel-9-for-x86_64-baseos-eus-rpms": {
 			"cpes": [
 				"cpe:/o:redhat:rhel_eus:9.0::baseos",
-				"cpe:/o:redhat:rhel_eus:9.2::baseos"
+				"cpe:/o:redhat:rhel_eus:9.2::baseos",
+				"cpe:/o:redhat:rhel_eus:9.4::baseos"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/x86_64/baseos/os",
-				"content/eus/rhel9/9.2/x86_64/baseos/os"
+				"content/eus/rhel9/9.2/x86_64/baseos/os",
+				"content/eus/rhel9/9.4/x86_64/baseos/os"
 			]
 		},
 		"rhel-9-for-x86_64-baseos-eus-rpms__9_DOT_0": {
@@ -66934,14 +67758,24 @@
 				"content/eus/rhel9/9.2/x86_64/baseos/os"
 			]
 		},
+		"rhel-9-for-x86_64-baseos-eus-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/o:redhat:rhel_eus:9.4::baseos"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/x86_64/baseos/os"
+			]
+		},
 		"rhel-9-for-x86_64-baseos-eus-source-rpms": {
 			"cpes": [
 				"cpe:/o:redhat:rhel_eus:9.0::baseos",
-				"cpe:/o:redhat:rhel_eus:9.2::baseos"
+				"cpe:/o:redhat:rhel_eus:9.2::baseos",
+				"cpe:/o:redhat:rhel_eus:9.4::baseos"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/x86_64/baseos/source/SRPMS",
-				"content/eus/rhel9/9.2/x86_64/baseos/source/SRPMS"
+				"content/eus/rhel9/9.2/x86_64/baseos/source/SRPMS",
+				"content/eus/rhel9/9.4/x86_64/baseos/source/SRPMS"
 			]
 		},
 		"rhel-9-for-x86_64-baseos-eus-source-rpms__9_DOT_0": {
@@ -66958,6 +67792,14 @@
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.2/x86_64/baseos/source/SRPMS"
+			]
+		},
+		"rhel-9-for-x86_64-baseos-eus-source-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/o:redhat:rhel_eus:9.4::baseos"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/x86_64/baseos/source/SRPMS"
 			]
 		},
 		"rhel-9-for-x86_64-baseos-rpms": {
@@ -67001,11 +67843,13 @@
 				"cpe:/a:redhat:rhel_e4s:9.0::highavailability",
 				"cpe:/a:redhat:rhel_e4s:9.2::highavailability",
 				"cpe:/a:redhat:rhel_eus:9.0::highavailability",
-				"cpe:/a:redhat:rhel_eus:9.2::highavailability"
+				"cpe:/a:redhat:rhel_eus:9.2::highavailability",
+				"cpe:/a:redhat:rhel_eus:9.4::highavailability"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel9/9.0/x86_64/highavailability/debug",
-				"content/e4s/rhel9/9.2/x86_64/highavailability/debug"
+				"content/e4s/rhel9/9.2/x86_64/highavailability/debug",
+				"content/e4s/rhel9/9.4/x86_64/highavailability/debug"
 			]
 		},
 		"rhel-9-for-x86_64-highavailability-e4s-debug-rpms__9_DOT_0": {
@@ -67029,11 +67873,13 @@
 				"cpe:/a:redhat:rhel_e4s:9.0::highavailability",
 				"cpe:/a:redhat:rhel_e4s:9.2::highavailability",
 				"cpe:/a:redhat:rhel_eus:9.0::highavailability",
-				"cpe:/a:redhat:rhel_eus:9.2::highavailability"
+				"cpe:/a:redhat:rhel_eus:9.2::highavailability",
+				"cpe:/a:redhat:rhel_eus:9.4::highavailability"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel9/9.0/x86_64/highavailability/os",
-				"content/e4s/rhel9/9.2/x86_64/highavailability/os"
+				"content/e4s/rhel9/9.2/x86_64/highavailability/os",
+				"content/e4s/rhel9/9.4/x86_64/highavailability/os"
 			]
 		},
 		"rhel-9-for-x86_64-highavailability-e4s-rpms__9_DOT_0": {
@@ -67057,11 +67903,13 @@
 				"cpe:/a:redhat:rhel_e4s:9.0::highavailability",
 				"cpe:/a:redhat:rhel_e4s:9.2::highavailability",
 				"cpe:/a:redhat:rhel_eus:9.0::highavailability",
-				"cpe:/a:redhat:rhel_eus:9.2::highavailability"
+				"cpe:/a:redhat:rhel_eus:9.2::highavailability",
+				"cpe:/a:redhat:rhel_eus:9.4::highavailability"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel9/9.0/x86_64/highavailability/source/SRPMS",
-				"content/e4s/rhel9/9.2/x86_64/highavailability/source/SRPMS"
+				"content/e4s/rhel9/9.2/x86_64/highavailability/source/SRPMS",
+				"content/e4s/rhel9/9.4/x86_64/highavailability/source/SRPMS"
 			]
 		},
 		"rhel-9-for-x86_64-highavailability-e4s-source-rpms__9_DOT_0": {
@@ -67083,11 +67931,13 @@
 		"rhel-9-for-x86_64-highavailability-eus-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:9.0::highavailability",
-				"cpe:/a:redhat:rhel_eus:9.2::highavailability"
+				"cpe:/a:redhat:rhel_eus:9.2::highavailability",
+				"cpe:/a:redhat:rhel_eus:9.4::highavailability"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/x86_64/highavailability/debug",
-				"content/eus/rhel9/9.2/x86_64/highavailability/debug"
+				"content/eus/rhel9/9.2/x86_64/highavailability/debug",
+				"content/eus/rhel9/9.4/x86_64/highavailability/debug"
 			]
 		},
 		"rhel-9-for-x86_64-highavailability-eus-debug-rpms__9_DOT_0": {
@@ -67106,14 +67956,24 @@
 				"content/eus/rhel9/9.2/x86_64/highavailability/debug"
 			]
 		},
+		"rhel-9-for-x86_64-highavailability-eus-debug-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_eus:9.4::highavailability"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/x86_64/highavailability/debug"
+			]
+		},
 		"rhel-9-for-x86_64-highavailability-eus-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:9.0::highavailability",
-				"cpe:/a:redhat:rhel_eus:9.2::highavailability"
+				"cpe:/a:redhat:rhel_eus:9.2::highavailability",
+				"cpe:/a:redhat:rhel_eus:9.4::highavailability"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/x86_64/highavailability/os",
-				"content/eus/rhel9/9.2/x86_64/highavailability/os"
+				"content/eus/rhel9/9.2/x86_64/highavailability/os",
+				"content/eus/rhel9/9.4/x86_64/highavailability/os"
 			]
 		},
 		"rhel-9-for-x86_64-highavailability-eus-rpms__9_DOT_0": {
@@ -67132,14 +67992,24 @@
 				"content/eus/rhel9/9.2/x86_64/highavailability/os"
 			]
 		},
+		"rhel-9-for-x86_64-highavailability-eus-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_eus:9.4::highavailability"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/x86_64/highavailability/os"
+			]
+		},
 		"rhel-9-for-x86_64-highavailability-eus-source-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:9.0::highavailability",
-				"cpe:/a:redhat:rhel_eus:9.2::highavailability"
+				"cpe:/a:redhat:rhel_eus:9.2::highavailability",
+				"cpe:/a:redhat:rhel_eus:9.4::highavailability"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/x86_64/highavailability/source/SRPMS",
-				"content/eus/rhel9/9.2/x86_64/highavailability/source/SRPMS"
+				"content/eus/rhel9/9.2/x86_64/highavailability/source/SRPMS",
+				"content/eus/rhel9/9.4/x86_64/highavailability/source/SRPMS"
 			]
 		},
 		"rhel-9-for-x86_64-highavailability-eus-source-rpms__9_DOT_0": {
@@ -67156,6 +68026,14 @@
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.2/x86_64/highavailability/source/SRPMS"
+			]
+		},
+		"rhel-9-for-x86_64-highavailability-eus-source-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_eus:9.4::highavailability"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/x86_64/highavailability/source/SRPMS"
 			]
 		},
 		"rhel-9-for-x86_64-highavailability-rpms": {
@@ -67199,11 +68077,13 @@
 				"cpe:/a:redhat:rhel_e4s:9.0::nfv",
 				"cpe:/a:redhat:rhel_e4s:9.2::nfv",
 				"cpe:/a:redhat:rhel_eus:9.0::nfv",
-				"cpe:/a:redhat:rhel_eus:9.2::nfv"
+				"cpe:/a:redhat:rhel_eus:9.2::nfv",
+				"cpe:/a:redhat:rhel_eus:9.4::nfv"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel9/9.0/x86_64/nfv/debug",
-				"content/e4s/rhel9/9.2/x86_64/nfv/debug"
+				"content/e4s/rhel9/9.2/x86_64/nfv/debug",
+				"content/e4s/rhel9/9.4/x86_64/nfv/debug"
 			]
 		},
 		"rhel-9-for-x86_64-nfv-e4s-debug-rpms__9_DOT_0": {
@@ -67227,11 +68107,13 @@
 				"cpe:/a:redhat:rhel_e4s:9.0::nfv",
 				"cpe:/a:redhat:rhel_e4s:9.2::nfv",
 				"cpe:/a:redhat:rhel_eus:9.0::nfv",
-				"cpe:/a:redhat:rhel_eus:9.2::nfv"
+				"cpe:/a:redhat:rhel_eus:9.2::nfv",
+				"cpe:/a:redhat:rhel_eus:9.4::nfv"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel9/9.0/x86_64/nfv/os",
-				"content/e4s/rhel9/9.2/x86_64/nfv/os"
+				"content/e4s/rhel9/9.2/x86_64/nfv/os",
+				"content/e4s/rhel9/9.4/x86_64/nfv/os"
 			]
 		},
 		"rhel-9-for-x86_64-nfv-e4s-rpms__9_DOT_0": {
@@ -67255,11 +68137,13 @@
 				"cpe:/a:redhat:rhel_e4s:9.0::nfv",
 				"cpe:/a:redhat:rhel_e4s:9.2::nfv",
 				"cpe:/a:redhat:rhel_eus:9.0::nfv",
-				"cpe:/a:redhat:rhel_eus:9.2::nfv"
+				"cpe:/a:redhat:rhel_eus:9.2::nfv",
+				"cpe:/a:redhat:rhel_eus:9.4::nfv"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel9/9.0/x86_64/nfv/source/SRPMS",
-				"content/e4s/rhel9/9.2/x86_64/nfv/source/SRPMS"
+				"content/e4s/rhel9/9.2/x86_64/nfv/source/SRPMS",
+				"content/e4s/rhel9/9.4/x86_64/nfv/source/SRPMS"
 			]
 		},
 		"rhel-9-for-x86_64-nfv-e4s-source-rpms__9_DOT_0": {
@@ -67319,11 +68203,13 @@
 				"cpe:/a:redhat:rhel_e4s:9.0::resilientstorage",
 				"cpe:/a:redhat:rhel_e4s:9.2::resilientstorage",
 				"cpe:/a:redhat:rhel_eus:9.0::resilientstorage",
-				"cpe:/a:redhat:rhel_eus:9.2::resilientstorage"
+				"cpe:/a:redhat:rhel_eus:9.2::resilientstorage",
+				"cpe:/a:redhat:rhel_eus:9.4::resilientstorage"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel9/9.0/x86_64/resilientstorage/debug",
-				"content/e4s/rhel9/9.2/x86_64/resilientstorage/debug"
+				"content/e4s/rhel9/9.2/x86_64/resilientstorage/debug",
+				"content/e4s/rhel9/9.4/x86_64/resilientstorage/debug"
 			]
 		},
 		"rhel-9-for-x86_64-resilientstorage-e4s-debug-rpms__9_DOT_0": {
@@ -67347,11 +68233,13 @@
 				"cpe:/a:redhat:rhel_e4s:9.0::resilientstorage",
 				"cpe:/a:redhat:rhel_e4s:9.2::resilientstorage",
 				"cpe:/a:redhat:rhel_eus:9.0::resilientstorage",
-				"cpe:/a:redhat:rhel_eus:9.2::resilientstorage"
+				"cpe:/a:redhat:rhel_eus:9.2::resilientstorage",
+				"cpe:/a:redhat:rhel_eus:9.4::resilientstorage"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel9/9.0/x86_64/resilientstorage/os",
-				"content/e4s/rhel9/9.2/x86_64/resilientstorage/os"
+				"content/e4s/rhel9/9.2/x86_64/resilientstorage/os",
+				"content/e4s/rhel9/9.4/x86_64/resilientstorage/os"
 			]
 		},
 		"rhel-9-for-x86_64-resilientstorage-e4s-rpms__9_DOT_0": {
@@ -67375,11 +68263,13 @@
 				"cpe:/a:redhat:rhel_e4s:9.0::resilientstorage",
 				"cpe:/a:redhat:rhel_e4s:9.2::resilientstorage",
 				"cpe:/a:redhat:rhel_eus:9.0::resilientstorage",
-				"cpe:/a:redhat:rhel_eus:9.2::resilientstorage"
+				"cpe:/a:redhat:rhel_eus:9.2::resilientstorage",
+				"cpe:/a:redhat:rhel_eus:9.4::resilientstorage"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel9/9.0/x86_64/resilientstorage/source/SRPMS",
-				"content/e4s/rhel9/9.2/x86_64/resilientstorage/source/SRPMS"
+				"content/e4s/rhel9/9.2/x86_64/resilientstorage/source/SRPMS",
+				"content/e4s/rhel9/9.4/x86_64/resilientstorage/source/SRPMS"
 			]
 		},
 		"rhel-9-for-x86_64-resilientstorage-e4s-source-rpms__9_DOT_0": {
@@ -67401,11 +68291,13 @@
 		"rhel-9-for-x86_64-resilientstorage-eus-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:9.0::resilientstorage",
-				"cpe:/a:redhat:rhel_eus:9.2::resilientstorage"
+				"cpe:/a:redhat:rhel_eus:9.2::resilientstorage",
+				"cpe:/a:redhat:rhel_eus:9.4::resilientstorage"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/x86_64/resilientstorage/debug",
-				"content/eus/rhel9/9.2/x86_64/resilientstorage/debug"
+				"content/eus/rhel9/9.2/x86_64/resilientstorage/debug",
+				"content/eus/rhel9/9.4/x86_64/resilientstorage/debug"
 			]
 		},
 		"rhel-9-for-x86_64-resilientstorage-eus-debug-rpms__9_DOT_0": {
@@ -67424,14 +68316,24 @@
 				"content/eus/rhel9/9.2/x86_64/resilientstorage/debug"
 			]
 		},
+		"rhel-9-for-x86_64-resilientstorage-eus-debug-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_eus:9.4::resilientstorage"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/x86_64/resilientstorage/debug"
+			]
+		},
 		"rhel-9-for-x86_64-resilientstorage-eus-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:9.0::resilientstorage",
-				"cpe:/a:redhat:rhel_eus:9.2::resilientstorage"
+				"cpe:/a:redhat:rhel_eus:9.2::resilientstorage",
+				"cpe:/a:redhat:rhel_eus:9.4::resilientstorage"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/x86_64/resilientstorage/os",
-				"content/eus/rhel9/9.2/x86_64/resilientstorage/os"
+				"content/eus/rhel9/9.2/x86_64/resilientstorage/os",
+				"content/eus/rhel9/9.4/x86_64/resilientstorage/os"
 			]
 		},
 		"rhel-9-for-x86_64-resilientstorage-eus-rpms__9_DOT_0": {
@@ -67450,14 +68352,24 @@
 				"content/eus/rhel9/9.2/x86_64/resilientstorage/os"
 			]
 		},
+		"rhel-9-for-x86_64-resilientstorage-eus-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_eus:9.4::resilientstorage"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/x86_64/resilientstorage/os"
+			]
+		},
 		"rhel-9-for-x86_64-resilientstorage-eus-source-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:9.0::resilientstorage",
-				"cpe:/a:redhat:rhel_eus:9.2::resilientstorage"
+				"cpe:/a:redhat:rhel_eus:9.2::resilientstorage",
+				"cpe:/a:redhat:rhel_eus:9.4::resilientstorage"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/x86_64/resilientstorage/source/SRPMS",
-				"content/eus/rhel9/9.2/x86_64/resilientstorage/source/SRPMS"
+				"content/eus/rhel9/9.2/x86_64/resilientstorage/source/SRPMS",
+				"content/eus/rhel9/9.4/x86_64/resilientstorage/source/SRPMS"
 			]
 		},
 		"rhel-9-for-x86_64-resilientstorage-eus-source-rpms__9_DOT_0": {
@@ -67474,6 +68386,14 @@
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.2/x86_64/resilientstorage/source/SRPMS"
+			]
+		},
+		"rhel-9-for-x86_64-resilientstorage-eus-source-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_eus:9.4::resilientstorage"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/x86_64/resilientstorage/source/SRPMS"
 			]
 		},
 		"rhel-9-for-x86_64-resilientstorage-rpms": {
@@ -67517,11 +68437,13 @@
 				"cpe:/a:redhat:rhel_e4s:9.0::realtime",
 				"cpe:/a:redhat:rhel_e4s:9.2::realtime",
 				"cpe:/a:redhat:rhel_eus:9.0::realtime",
-				"cpe:/a:redhat:rhel_eus:9.2::realtime"
+				"cpe:/a:redhat:rhel_eus:9.2::realtime",
+				"cpe:/a:redhat:rhel_eus:9.4::realtime"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel9/9.0/x86_64/rt/debug",
-				"content/e4s/rhel9/9.2/x86_64/rt/debug"
+				"content/e4s/rhel9/9.2/x86_64/rt/debug",
+				"content/e4s/rhel9/9.4/x86_64/rt/debug"
 			]
 		},
 		"rhel-9-for-x86_64-rt-e4s-debug-rpms__9_DOT_0": {
@@ -67545,11 +68467,13 @@
 				"cpe:/a:redhat:rhel_e4s:9.0::realtime",
 				"cpe:/a:redhat:rhel_e4s:9.2::realtime",
 				"cpe:/a:redhat:rhel_eus:9.0::realtime",
-				"cpe:/a:redhat:rhel_eus:9.2::realtime"
+				"cpe:/a:redhat:rhel_eus:9.2::realtime",
+				"cpe:/a:redhat:rhel_eus:9.4::realtime"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel9/9.0/x86_64/rt/os",
-				"content/e4s/rhel9/9.2/x86_64/rt/os"
+				"content/e4s/rhel9/9.2/x86_64/rt/os",
+				"content/e4s/rhel9/9.4/x86_64/rt/os"
 			]
 		},
 		"rhel-9-for-x86_64-rt-e4s-rpms__9_DOT_0": {
@@ -67573,11 +68497,13 @@
 				"cpe:/a:redhat:rhel_e4s:9.0::realtime",
 				"cpe:/a:redhat:rhel_e4s:9.2::realtime",
 				"cpe:/a:redhat:rhel_eus:9.0::realtime",
-				"cpe:/a:redhat:rhel_eus:9.2::realtime"
+				"cpe:/a:redhat:rhel_eus:9.2::realtime",
+				"cpe:/a:redhat:rhel_eus:9.4::realtime"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel9/9.0/x86_64/rt/source/SRPMS",
-				"content/e4s/rhel9/9.2/x86_64/rt/source/SRPMS"
+				"content/e4s/rhel9/9.2/x86_64/rt/source/SRPMS",
+				"content/e4s/rhel9/9.4/x86_64/rt/source/SRPMS"
 			]
 		},
 		"rhel-9-for-x86_64-rt-e4s-source-rpms__9_DOT_0": {
@@ -67637,11 +68563,13 @@
 				"cpe:/a:redhat:rhel_e4s:9.0::sap",
 				"cpe:/a:redhat:rhel_e4s:9.2::sap",
 				"cpe:/a:redhat:rhel_eus:9.0::sap",
-				"cpe:/a:redhat:rhel_eus:9.2::sap"
+				"cpe:/a:redhat:rhel_eus:9.2::sap",
+				"cpe:/a:redhat:rhel_eus:9.4::sap"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel9/9.0/x86_64/sap/debug",
-				"content/e4s/rhel9/9.2/x86_64/sap/debug"
+				"content/e4s/rhel9/9.2/x86_64/sap/debug",
+				"content/e4s/rhel9/9.4/x86_64/sap/debug"
 			]
 		},
 		"rhel-9-for-x86_64-sap-netweaver-e4s-debug-rpms__9_DOT_0": {
@@ -67665,11 +68593,13 @@
 				"cpe:/a:redhat:rhel_e4s:9.0::sap",
 				"cpe:/a:redhat:rhel_e4s:9.2::sap",
 				"cpe:/a:redhat:rhel_eus:9.0::sap",
-				"cpe:/a:redhat:rhel_eus:9.2::sap"
+				"cpe:/a:redhat:rhel_eus:9.2::sap",
+				"cpe:/a:redhat:rhel_eus:9.4::sap"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel9/9.0/x86_64/sap/os",
-				"content/e4s/rhel9/9.2/x86_64/sap/os"
+				"content/e4s/rhel9/9.2/x86_64/sap/os",
+				"content/e4s/rhel9/9.4/x86_64/sap/os"
 			]
 		},
 		"rhel-9-for-x86_64-sap-netweaver-e4s-rpms__9_DOT_0": {
@@ -67693,11 +68623,13 @@
 				"cpe:/a:redhat:rhel_e4s:9.0::sap",
 				"cpe:/a:redhat:rhel_e4s:9.2::sap",
 				"cpe:/a:redhat:rhel_eus:9.0::sap",
-				"cpe:/a:redhat:rhel_eus:9.2::sap"
+				"cpe:/a:redhat:rhel_eus:9.2::sap",
+				"cpe:/a:redhat:rhel_eus:9.4::sap"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel9/9.0/x86_64/sap/source/SRPMS",
-				"content/e4s/rhel9/9.2/x86_64/sap/source/SRPMS"
+				"content/e4s/rhel9/9.2/x86_64/sap/source/SRPMS",
+				"content/e4s/rhel9/9.4/x86_64/sap/source/SRPMS"
 			]
 		},
 		"rhel-9-for-x86_64-sap-netweaver-e4s-source-rpms__9_DOT_0": {
@@ -67719,11 +68651,13 @@
 		"rhel-9-for-x86_64-sap-netweaver-eus-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:9.0::sap",
-				"cpe:/a:redhat:rhel_eus:9.2::sap"
+				"cpe:/a:redhat:rhel_eus:9.2::sap",
+				"cpe:/a:redhat:rhel_eus:9.4::sap"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/x86_64/sap/debug",
-				"content/eus/rhel9/9.2/x86_64/sap/debug"
+				"content/eus/rhel9/9.2/x86_64/sap/debug",
+				"content/eus/rhel9/9.4/x86_64/sap/debug"
 			]
 		},
 		"rhel-9-for-x86_64-sap-netweaver-eus-debug-rpms__9_DOT_0": {
@@ -67742,14 +68676,24 @@
 				"content/eus/rhel9/9.2/x86_64/sap/debug"
 			]
 		},
+		"rhel-9-for-x86_64-sap-netweaver-eus-debug-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_eus:9.4::sap"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/x86_64/sap/debug"
+			]
+		},
 		"rhel-9-for-x86_64-sap-netweaver-eus-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:9.0::sap",
-				"cpe:/a:redhat:rhel_eus:9.2::sap"
+				"cpe:/a:redhat:rhel_eus:9.2::sap",
+				"cpe:/a:redhat:rhel_eus:9.4::sap"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/x86_64/sap/os",
-				"content/eus/rhel9/9.2/x86_64/sap/os"
+				"content/eus/rhel9/9.2/x86_64/sap/os",
+				"content/eus/rhel9/9.4/x86_64/sap/os"
 			]
 		},
 		"rhel-9-for-x86_64-sap-netweaver-eus-rpms__9_DOT_0": {
@@ -67768,14 +68712,24 @@
 				"content/eus/rhel9/9.2/x86_64/sap/os"
 			]
 		},
+		"rhel-9-for-x86_64-sap-netweaver-eus-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_eus:9.4::sap"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/x86_64/sap/os"
+			]
+		},
 		"rhel-9-for-x86_64-sap-netweaver-eus-source-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:9.0::sap",
-				"cpe:/a:redhat:rhel_eus:9.2::sap"
+				"cpe:/a:redhat:rhel_eus:9.2::sap",
+				"cpe:/a:redhat:rhel_eus:9.4::sap"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/x86_64/sap/source/SRPMS",
-				"content/eus/rhel9/9.2/x86_64/sap/source/SRPMS"
+				"content/eus/rhel9/9.2/x86_64/sap/source/SRPMS",
+				"content/eus/rhel9/9.4/x86_64/sap/source/SRPMS"
 			]
 		},
 		"rhel-9-for-x86_64-sap-netweaver-eus-source-rpms__9_DOT_0": {
@@ -67792,6 +68746,14 @@
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.2/x86_64/sap/source/SRPMS"
+			]
+		},
+		"rhel-9-for-x86_64-sap-netweaver-eus-source-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_eus:9.4::sap"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/x86_64/sap/source/SRPMS"
 			]
 		},
 		"rhel-9-for-x86_64-sap-netweaver-rpms": {
@@ -67835,11 +68797,13 @@
 				"cpe:/a:redhat:rhel_e4s:9.0::sap_hana",
 				"cpe:/a:redhat:rhel_e4s:9.2::sap_hana",
 				"cpe:/a:redhat:rhel_eus:9.0::sap_hana",
-				"cpe:/a:redhat:rhel_eus:9.2::sap_hana"
+				"cpe:/a:redhat:rhel_eus:9.2::sap_hana",
+				"cpe:/a:redhat:rhel_eus:9.4::sap_hana"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel9/9.0/x86_64/sap-solutions/debug",
-				"content/e4s/rhel9/9.2/x86_64/sap-solutions/debug"
+				"content/e4s/rhel9/9.2/x86_64/sap-solutions/debug",
+				"content/e4s/rhel9/9.4/x86_64/sap-solutions/debug"
 			]
 		},
 		"rhel-9-for-x86_64-sap-solutions-e4s-debug-rpms__9_DOT_0": {
@@ -67863,11 +68827,13 @@
 				"cpe:/a:redhat:rhel_e4s:9.0::sap_hana",
 				"cpe:/a:redhat:rhel_e4s:9.2::sap_hana",
 				"cpe:/a:redhat:rhel_eus:9.0::sap_hana",
-				"cpe:/a:redhat:rhel_eus:9.2::sap_hana"
+				"cpe:/a:redhat:rhel_eus:9.2::sap_hana",
+				"cpe:/a:redhat:rhel_eus:9.4::sap_hana"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel9/9.0/x86_64/sap-solutions/os",
-				"content/e4s/rhel9/9.2/x86_64/sap-solutions/os"
+				"content/e4s/rhel9/9.2/x86_64/sap-solutions/os",
+				"content/e4s/rhel9/9.4/x86_64/sap-solutions/os"
 			]
 		},
 		"rhel-9-for-x86_64-sap-solutions-e4s-rpms__9_DOT_0": {
@@ -67891,11 +68857,13 @@
 				"cpe:/a:redhat:rhel_e4s:9.0::sap_hana",
 				"cpe:/a:redhat:rhel_e4s:9.2::sap_hana",
 				"cpe:/a:redhat:rhel_eus:9.0::sap_hana",
-				"cpe:/a:redhat:rhel_eus:9.2::sap_hana"
+				"cpe:/a:redhat:rhel_eus:9.2::sap_hana",
+				"cpe:/a:redhat:rhel_eus:9.4::sap_hana"
 			],
 			"repo_relative_urls": [
 				"content/e4s/rhel9/9.0/x86_64/sap-solutions/source/SRPMS",
-				"content/e4s/rhel9/9.2/x86_64/sap-solutions/source/SRPMS"
+				"content/e4s/rhel9/9.2/x86_64/sap-solutions/source/SRPMS",
+				"content/e4s/rhel9/9.4/x86_64/sap-solutions/source/SRPMS"
 			]
 		},
 		"rhel-9-for-x86_64-sap-solutions-e4s-source-rpms__9_DOT_0": {
@@ -67917,11 +68885,13 @@
 		"rhel-9-for-x86_64-sap-solutions-eus-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:9.0::sap_hana",
-				"cpe:/a:redhat:rhel_eus:9.2::sap_hana"
+				"cpe:/a:redhat:rhel_eus:9.2::sap_hana",
+				"cpe:/a:redhat:rhel_eus:9.4::sap_hana"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/x86_64/sap-solutions/debug",
-				"content/eus/rhel9/9.2/x86_64/sap-solutions/debug"
+				"content/eus/rhel9/9.2/x86_64/sap-solutions/debug",
+				"content/eus/rhel9/9.4/x86_64/sap-solutions/debug"
 			]
 		},
 		"rhel-9-for-x86_64-sap-solutions-eus-debug-rpms__9_DOT_0": {
@@ -67940,14 +68910,24 @@
 				"content/eus/rhel9/9.2/x86_64/sap-solutions/debug"
 			]
 		},
+		"rhel-9-for-x86_64-sap-solutions-eus-debug-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_eus:9.4::sap_hana"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/x86_64/sap-solutions/debug"
+			]
+		},
 		"rhel-9-for-x86_64-sap-solutions-eus-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:9.0::sap_hana",
-				"cpe:/a:redhat:rhel_eus:9.2::sap_hana"
+				"cpe:/a:redhat:rhel_eus:9.2::sap_hana",
+				"cpe:/a:redhat:rhel_eus:9.4::sap_hana"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/x86_64/sap-solutions/os",
-				"content/eus/rhel9/9.2/x86_64/sap-solutions/os"
+				"content/eus/rhel9/9.2/x86_64/sap-solutions/os",
+				"content/eus/rhel9/9.4/x86_64/sap-solutions/os"
 			]
 		},
 		"rhel-9-for-x86_64-sap-solutions-eus-rpms__9_DOT_0": {
@@ -67966,14 +68946,24 @@
 				"content/eus/rhel9/9.2/x86_64/sap-solutions/os"
 			]
 		},
+		"rhel-9-for-x86_64-sap-solutions-eus-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_eus:9.4::sap_hana"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/x86_64/sap-solutions/os"
+			]
+		},
 		"rhel-9-for-x86_64-sap-solutions-eus-source-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:9.0::sap_hana",
-				"cpe:/a:redhat:rhel_eus:9.2::sap_hana"
+				"cpe:/a:redhat:rhel_eus:9.2::sap_hana",
+				"cpe:/a:redhat:rhel_eus:9.4::sap_hana"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/x86_64/sap-solutions/source/SRPMS",
-				"content/eus/rhel9/9.2/x86_64/sap-solutions/source/SRPMS"
+				"content/eus/rhel9/9.2/x86_64/sap-solutions/source/SRPMS",
+				"content/eus/rhel9/9.4/x86_64/sap-solutions/source/SRPMS"
 			]
 		},
 		"rhel-9-for-x86_64-sap-solutions-eus-source-rpms__9_DOT_0": {
@@ -67990,6 +68980,14 @@
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.2/x86_64/sap-solutions/source/SRPMS"
+			]
+		},
+		"rhel-9-for-x86_64-sap-solutions-eus-source-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_eus:9.4::sap_hana"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/x86_64/sap-solutions/source/SRPMS"
 			]
 		},
 		"rhel-9-for-x86_64-sap-solutions-rpms": {
@@ -68031,11 +69029,13 @@
 		"rhel-9-for-x86_64-supplementary-eus-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:9.0::supplementary",
-				"cpe:/a:redhat:rhel_eus:9.2::supplementary"
+				"cpe:/a:redhat:rhel_eus:9.2::supplementary",
+				"cpe:/a:redhat:rhel_eus:9.4::supplementary"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/x86_64/supplementary/debug",
-				"content/eus/rhel9/9.2/x86_64/supplementary/debug"
+				"content/eus/rhel9/9.2/x86_64/supplementary/debug",
+				"content/eus/rhel9/9.4/x86_64/supplementary/debug"
 			]
 		},
 		"rhel-9-for-x86_64-supplementary-eus-debug-rpms__9_DOT_0": {
@@ -68054,14 +69054,24 @@
 				"content/eus/rhel9/9.2/x86_64/supplementary/debug"
 			]
 		},
+		"rhel-9-for-x86_64-supplementary-eus-debug-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_eus:9.4::supplementary"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/x86_64/supplementary/debug"
+			]
+		},
 		"rhel-9-for-x86_64-supplementary-eus-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:9.0::supplementary",
-				"cpe:/a:redhat:rhel_eus:9.2::supplementary"
+				"cpe:/a:redhat:rhel_eus:9.2::supplementary",
+				"cpe:/a:redhat:rhel_eus:9.4::supplementary"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/x86_64/supplementary/os",
-				"content/eus/rhel9/9.2/x86_64/supplementary/os"
+				"content/eus/rhel9/9.2/x86_64/supplementary/os",
+				"content/eus/rhel9/9.4/x86_64/supplementary/os"
 			]
 		},
 		"rhel-9-for-x86_64-supplementary-eus-rpms__9_DOT_0": {
@@ -68080,14 +69090,24 @@
 				"content/eus/rhel9/9.2/x86_64/supplementary/os"
 			]
 		},
+		"rhel-9-for-x86_64-supplementary-eus-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_eus:9.4::supplementary"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/x86_64/supplementary/os"
+			]
+		},
 		"rhel-9-for-x86_64-supplementary-eus-source-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_eus:9.0::supplementary",
-				"cpe:/a:redhat:rhel_eus:9.2::supplementary"
+				"cpe:/a:redhat:rhel_eus:9.2::supplementary",
+				"cpe:/a:redhat:rhel_eus:9.4::supplementary"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/x86_64/supplementary/source/SRPMS",
-				"content/eus/rhel9/9.2/x86_64/supplementary/source/SRPMS"
+				"content/eus/rhel9/9.2/x86_64/supplementary/source/SRPMS",
+				"content/eus/rhel9/9.4/x86_64/supplementary/source/SRPMS"
 			]
 		},
 		"rhel-9-for-x86_64-supplementary-eus-source-rpms__9_DOT_0": {
@@ -68104,6 +69124,14 @@
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.2/x86_64/supplementary/source/SRPMS"
+			]
+		},
+		"rhel-9-for-x86_64-supplementary-eus-source-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_eus:9.4::supplementary"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/x86_64/supplementary/source/SRPMS"
 			]
 		},
 		"rhel-9-for-x86_64-supplementary-rpms": {
@@ -85268,5 +86296,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-08-28T00:47:36.838Z"
+	"last_updated": "2024-08-28T16:11:29.708Z"
 }
