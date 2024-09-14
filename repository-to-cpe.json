@@ -8026,6 +8026,57 @@
 				"content/dist/layered/rhel9/x86_64/dirsrv/12.5/source/SRPMS"
 			]
 		},
+		"dirsrv-13-for-rhel-10-x86_64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:directory_server:13.0::el10"
+			],
+			"repo_relative_urls": [
+				"content/dist/rhel10/10.0/x86_64/dirsrv/13/debug",
+				"content/dist/rhel10/10/x86_64/dirsrv/13/debug"
+			]
+		},
+		"dirsrv-13-for-rhel-10-x86_64-eus-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:directory_server:13.0::el10"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel10/10.0/x86_64/dirsrv/13/debug"
+			]
+		},
+		"dirsrv-13-for-rhel-10-x86_64-eus-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:directory_server:13.0::el10"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel10/10.0/x86_64/dirsrv/13/os"
+			]
+		},
+		"dirsrv-13-for-rhel-10-x86_64-eus-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:directory_server:13.0::el10"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel10/10.0/x86_64/dirsrv/13/source/SRPMS"
+			]
+		},
+		"dirsrv-13-for-rhel-10-x86_64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:directory_server:13.0::el10"
+			],
+			"repo_relative_urls": [
+				"content/dist/rhel10/10.0/x86_64/dirsrv/13/os",
+				"content/dist/rhel10/10/x86_64/dirsrv/13/os"
+			]
+		},
+		"dirsrv-13-for-rhel-10-x86_64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:directory_server:13.0::el10"
+			],
+			"repo_relative_urls": [
+				"content/dist/rhel10/10.0/x86_64/dirsrv/13/source/SRPMS",
+				"content/dist/rhel10/10/x86_64/dirsrv/13/source/SRPMS"
+			]
+		},
 		"discovery-0-for-rhel-8-x86_64-debug-rpms": {
 			"cpes": [
 				"cpe:/o:redhat:discovery:0.9::el8"
@@ -79078,6 +79129,7 @@
 		},
 		"rhocp-4.14-for-rhel-9-s390x-debug-rpms": {
 			"cpes": [
+				"cpe:/a:redhat:openshift:4.14::el9",
 				"cpe:/a:redhat:openshift_sandboxed_containers:1.7::el9"
 			],
 			"repo_relative_urls": [
@@ -86423,5 +86475,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-09-13T00:48:29.516Z"
+	"last_updated": "2024-09-14T00:47:08.911Z"
 }
