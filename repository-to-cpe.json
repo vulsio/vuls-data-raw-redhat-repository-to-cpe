@@ -28499,6 +28499,102 @@
 				"content/eus/rhel/system-z/6/6.7/s390x/supplementary/source/SRPMS"
 			]
 		},
+		"rhel-6-for-system-z-extended-els-debug-rpms": {
+			"cpes": [
+				"cpe:/o:redhat:rhel_els:6"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/system-z/6/6Server/s390x/extended/debug"
+			]
+		},
+		"rhel-6-for-system-z-extended-els-debug-rpms__s390x": {
+			"cpes": [
+				"cpe:/o:redhat:rhel_els:6"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/system-z/6/6Server/s390x/extended/debug"
+			]
+		},
+		"rhel-6-for-system-z-extended-els-optional-debug-rpms": {
+			"cpes": [
+				"cpe:/o:redhat:rhel_els:6"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/system-z/6/6Server/s390x/extended-optional/debug"
+			]
+		},
+		"rhel-6-for-system-z-extended-els-optional-debug-rpms__s390x": {
+			"cpes": [
+				"cpe:/o:redhat:rhel_els:6"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/system-z/6/6Server/s390x/extended-optional/debug"
+			]
+		},
+		"rhel-6-for-system-z-extended-els-optional-rpms": {
+			"cpes": [
+				"cpe:/o:redhat:rhel_els:6"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/system-z/6/6Server/s390x/extended-optional/os"
+			]
+		},
+		"rhel-6-for-system-z-extended-els-optional-rpms__s390x": {
+			"cpes": [
+				"cpe:/o:redhat:rhel_els:6"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/system-z/6/6Server/s390x/extended-optional/os"
+			]
+		},
+		"rhel-6-for-system-z-extended-els-optional-source-rpms": {
+			"cpes": [
+				"cpe:/o:redhat:rhel_els:6"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/system-z/6/6Server/s390x/extended-optional/source/SRPMS"
+			]
+		},
+		"rhel-6-for-system-z-extended-els-optional-source-rpms__s390x": {
+			"cpes": [
+				"cpe:/o:redhat:rhel_els:6"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/system-z/6/6Server/s390x/extended-optional/source/SRPMS"
+			]
+		},
+		"rhel-6-for-system-z-extended-els-rpms": {
+			"cpes": [
+				"cpe:/o:redhat:rhel_els:6"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/system-z/6/6Server/s390x/extended/os"
+			]
+		},
+		"rhel-6-for-system-z-extended-els-rpms__s390x": {
+			"cpes": [
+				"cpe:/o:redhat:rhel_els:6"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/system-z/6/6Server/s390x/extended/os"
+			]
+		},
+		"rhel-6-for-system-z-extended-els-source-rpms": {
+			"cpes": [
+				"cpe:/o:redhat:rhel_els:6"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/system-z/6/6Server/s390x/extended/source/SRPMS"
+			]
+		},
+		"rhel-6-for-system-z-extended-els-source-rpms__s390x": {
+			"cpes": [
+				"cpe:/o:redhat:rhel_els:6"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/system-z/6/6Server/s390x/extended/source/SRPMS"
+			]
+		},
 		"rhel-6-for-system-z-extras-debuginfo": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_extras_other:6"
@@ -31169,6 +31265,156 @@
 				"content/eus/rhel/server/6/6.7/x86_64/supplementary/source/SRPMS"
 			]
 		},
+		"rhel-6-server-extended-els-debug-rpms": {
+			"cpes": [
+				"cpe:/o:redhat:rhel_els:6"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/server/6/6Server/i386/extended/debug",
+				"content/els/rhel/server/6/6Server/x86_64/extended/debug"
+			]
+		},
+		"rhel-6-server-extended-els-debug-rpms__i386": {
+			"cpes": [
+				"cpe:/o:redhat:rhel_els:6"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/server/6/6Server/i386/extended/debug"
+			]
+		},
+		"rhel-6-server-extended-els-debug-rpms__x86_64": {
+			"cpes": [
+				"cpe:/o:redhat:rhel_els:6"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/server/6/6Server/x86_64/extended/debug"
+			]
+		},
+		"rhel-6-server-extended-els-optional-debug-rpms": {
+			"cpes": [
+				"cpe:/o:redhat:rhel_els:6"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/server/6/6Server/i386/extended-optional/debug",
+				"content/els/rhel/server/6/6Server/x86_64/extended-optional/debug"
+			]
+		},
+		"rhel-6-server-extended-els-optional-debug-rpms__i386": {
+			"cpes": [
+				"cpe:/o:redhat:rhel_els:6"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/server/6/6Server/i386/extended-optional/debug"
+			]
+		},
+		"rhel-6-server-extended-els-optional-debug-rpms__x86_64": {
+			"cpes": [
+				"cpe:/o:redhat:rhel_els:6"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/server/6/6Server/x86_64/extended-optional/debug"
+			]
+		},
+		"rhel-6-server-extended-els-optional-rpms": {
+			"cpes": [
+				"cpe:/o:redhat:rhel_els:6"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/server/6/6Server/i386/extended-optional/os",
+				"content/els/rhel/server/6/6Server/x86_64/extended-optional/os"
+			]
+		},
+		"rhel-6-server-extended-els-optional-rpms__i386": {
+			"cpes": [
+				"cpe:/o:redhat:rhel_els:6"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/server/6/6Server/i386/extended-optional/os"
+			]
+		},
+		"rhel-6-server-extended-els-optional-rpms__x86_64": {
+			"cpes": [
+				"cpe:/o:redhat:rhel_els:6"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/server/6/6Server/x86_64/extended-optional/os"
+			]
+		},
+		"rhel-6-server-extended-els-optional-source-rpms": {
+			"cpes": [
+				"cpe:/o:redhat:rhel_els:6"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/server/6/6Server/i386/extended-optional/source/SRPMS",
+				"content/els/rhel/server/6/6Server/x86_64/extended-optional/source/SRPMS"
+			]
+		},
+		"rhel-6-server-extended-els-optional-source-rpms__i386": {
+			"cpes": [
+				"cpe:/o:redhat:rhel_els:6"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/server/6/6Server/i386/extended-optional/source/SRPMS"
+			]
+		},
+		"rhel-6-server-extended-els-optional-source-rpms__x86_64": {
+			"cpes": [
+				"cpe:/o:redhat:rhel_els:6"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/server/6/6Server/x86_64/extended-optional/source/SRPMS"
+			]
+		},
+		"rhel-6-server-extended-els-rpms": {
+			"cpes": [
+				"cpe:/o:redhat:rhel_els:6"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/server/6/6Server/i386/extended/os",
+				"content/els/rhel/server/6/6Server/x86_64/extended/os"
+			]
+		},
+		"rhel-6-server-extended-els-rpms__i386": {
+			"cpes": [
+				"cpe:/o:redhat:rhel_els:6"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/server/6/6Server/i386/extended/os"
+			]
+		},
+		"rhel-6-server-extended-els-rpms__x86_64": {
+			"cpes": [
+				"cpe:/o:redhat:rhel_els:6"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/server/6/6Server/x86_64/extended/os"
+			]
+		},
+		"rhel-6-server-extended-els-source-rpms": {
+			"cpes": [
+				"cpe:/o:redhat:rhel_els:6"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/server/6/6Server/i386/extended/source/SRPMS",
+				"content/els/rhel/server/6/6Server/x86_64/extended/source/SRPMS"
+			]
+		},
+		"rhel-6-server-extended-els-source-rpms__i386": {
+			"cpes": [
+				"cpe:/o:redhat:rhel_els:6"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/server/6/6Server/i386/extended/source/SRPMS"
+			]
+		},
+		"rhel-6-server-extended-els-source-rpms__x86_64": {
+			"cpes": [
+				"cpe:/o:redhat:rhel_els:6"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/server/6/6Server/x86_64/extended/source/SRPMS"
+			]
+		},
 		"rhel-6-server-extras-debuginfo": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_extras_other:6"
@@ -31980,102 +32226,6 @@
 			"repo_relative_urls": [
 				"content/dist/rhel/server/6/6Server/i386/oracle-java-rm/source/SRPMS",
 				"content/dist/rhel/server/6/6Server/x86_64/oracle-java-rm/source/SRPMS"
-			]
-		},
-		"rhel-6-server-retired-els-debug-rpms": {
-			"cpes": [
-				"cpe:/o:redhat:rhel_els:6"
-			],
-			"repo_relative_urls": [
-				"content/retired-els/rhel/server/6/6Server/x86_64/debug"
-			]
-		},
-		"rhel-6-server-retired-els-debug-rpms__x86_64": {
-			"cpes": [
-				"cpe:/o:redhat:rhel_els:6"
-			],
-			"repo_relative_urls": [
-				"content/retired-els/rhel/server/6/6Server/x86_64/debug"
-			]
-		},
-		"rhel-6-server-retired-els-optional-debug-rpms": {
-			"cpes": [
-				"cpe:/o:redhat:rhel_els:6"
-			],
-			"repo_relative_urls": [
-				"content/retired-els/rhel/server/6/6Server/x86_64/optional/debug"
-			]
-		},
-		"rhel-6-server-retired-els-optional-debug-rpms__x86_64": {
-			"cpes": [
-				"cpe:/o:redhat:rhel_els:6"
-			],
-			"repo_relative_urls": [
-				"content/retired-els/rhel/server/6/6Server/x86_64/optional/debug"
-			]
-		},
-		"rhel-6-server-retired-els-optional-rpms": {
-			"cpes": [
-				"cpe:/o:redhat:rhel_els:6"
-			],
-			"repo_relative_urls": [
-				"content/retired-els/rhel/server/6/6Server/x86_64/optional/os"
-			]
-		},
-		"rhel-6-server-retired-els-optional-rpms__x86_64": {
-			"cpes": [
-				"cpe:/o:redhat:rhel_els:6"
-			],
-			"repo_relative_urls": [
-				"content/retired-els/rhel/server/6/6Server/x86_64/optional/os"
-			]
-		},
-		"rhel-6-server-retired-els-optional-source-rpms": {
-			"cpes": [
-				"cpe:/o:redhat:rhel_els:6"
-			],
-			"repo_relative_urls": [
-				"content/retired-els/rhel/server/6/6Server/x86_64/optional/source/SRPMS"
-			]
-		},
-		"rhel-6-server-retired-els-optional-source-rpms__x86_64": {
-			"cpes": [
-				"cpe:/o:redhat:rhel_els:6"
-			],
-			"repo_relative_urls": [
-				"content/retired-els/rhel/server/6/6Server/x86_64/optional/source/SRPMS"
-			]
-		},
-		"rhel-6-server-retired-els-rpms": {
-			"cpes": [
-				"cpe:/o:redhat:rhel_els:6"
-			],
-			"repo_relative_urls": [
-				"content/retired-els/rhel/server/6/6Server/x86_64/os"
-			]
-		},
-		"rhel-6-server-retired-els-rpms__x86_64": {
-			"cpes": [
-				"cpe:/o:redhat:rhel_els:6"
-			],
-			"repo_relative_urls": [
-				"content/retired-els/rhel/server/6/6Server/x86_64/os"
-			]
-		},
-		"rhel-6-server-retired-els-source-rpms": {
-			"cpes": [
-				"cpe:/o:redhat:rhel_els:6"
-			],
-			"repo_relative_urls": [
-				"content/retired-els/rhel/server/6/6Server/x86_64/source/SRPMS"
-			]
-		},
-		"rhel-6-server-retired-els-source-rpms__x86_64": {
-			"cpes": [
-				"cpe:/o:redhat:rhel_els:6"
-			],
-			"repo_relative_urls": [
-				"content/retired-els/rhel/server/6/6Server/x86_64/source/SRPMS"
 			]
 		},
 		"rhel-6-server-rh-common-debug-rpms": {
@@ -73654,6 +73804,54 @@
 				"content/els/rhel/system-z/6/6Server/s390x/sap/source/SRPMS"
 			]
 		},
+		"rhel-sap-for-rhel-6-for-system-z-extended-els-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_extras_sap_els:6"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/system-z/6/6Server/s390x/extended-sap/debug"
+			]
+		},
+		"rhel-sap-for-rhel-6-for-system-z-extended-els-debug-rpms__s390x": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_extras_sap_els:6"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/system-z/6/6Server/s390x/extended-sap/debug"
+			]
+		},
+		"rhel-sap-for-rhel-6-for-system-z-extended-els-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_extras_sap_els:6"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/system-z/6/6Server/s390x/extended-sap/os"
+			]
+		},
+		"rhel-sap-for-rhel-6-for-system-z-extended-els-rpms__s390x": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_extras_sap_els:6"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/system-z/6/6Server/s390x/extended-sap/os"
+			]
+		},
+		"rhel-sap-for-rhel-6-for-system-z-extended-els-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_extras_sap_els:6"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/system-z/6/6Server/s390x/extended-sap/source/SRPMS"
+			]
+		},
+		"rhel-sap-for-rhel-6-for-system-z-extended-els-source-rpms__s390x": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_extras_sap_els:6"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/system-z/6/6Server/s390x/extended-sap/source/SRPMS"
+			]
+		},
 		"rhel-sap-for-rhel-6-for-system-z-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_extras_sap:6"
@@ -73777,52 +73975,52 @@
 				"content/eus/rhel/server/6/6.7/x86_64/sap/source/SRPMS"
 			]
 		},
-		"rhel-sap-for-rhel-6-server-retired-els-debug-rpms": {
+		"rhel-sap-for-rhel-6-server-extended-els-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_extras_sap_els:6"
 			],
 			"repo_relative_urls": [
-				"content/retired-els/rhel/server/6/6Server/x86_64/sap/debug"
+				"content/els/rhel/server/6/6Server/x86_64/extended-sap/debug"
 			]
 		},
-		"rhel-sap-for-rhel-6-server-retired-els-debug-rpms__x86_64": {
+		"rhel-sap-for-rhel-6-server-extended-els-debug-rpms__x86_64": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_extras_sap_els:6"
 			],
 			"repo_relative_urls": [
-				"content/retired-els/rhel/server/6/6Server/x86_64/sap/debug"
+				"content/els/rhel/server/6/6Server/x86_64/extended-sap/debug"
 			]
 		},
-		"rhel-sap-for-rhel-6-server-retired-els-rpms": {
+		"rhel-sap-for-rhel-6-server-extended-els-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_extras_sap_els:6"
 			],
 			"repo_relative_urls": [
-				"content/retired-els/rhel/server/6/6Server/x86_64/sap/os"
+				"content/els/rhel/server/6/6Server/x86_64/extended-sap/os"
 			]
 		},
-		"rhel-sap-for-rhel-6-server-retired-els-rpms__x86_64": {
+		"rhel-sap-for-rhel-6-server-extended-els-rpms__x86_64": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_extras_sap_els:6"
 			],
 			"repo_relative_urls": [
-				"content/retired-els/rhel/server/6/6Server/x86_64/sap/os"
+				"content/els/rhel/server/6/6Server/x86_64/extended-sap/os"
 			]
 		},
-		"rhel-sap-for-rhel-6-server-retired-els-source-rpms": {
+		"rhel-sap-for-rhel-6-server-extended-els-source-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_extras_sap_els:6"
 			],
 			"repo_relative_urls": [
-				"content/retired-els/rhel/server/6/6Server/x86_64/sap/source/SRPMS"
+				"content/els/rhel/server/6/6Server/x86_64/extended-sap/source/SRPMS"
 			]
 		},
-		"rhel-sap-for-rhel-6-server-retired-els-source-rpms__x86_64": {
+		"rhel-sap-for-rhel-6-server-extended-els-source-rpms__x86_64": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_extras_sap_els:6"
 			],
 			"repo_relative_urls": [
-				"content/retired-els/rhel/server/6/6Server/x86_64/sap/source/SRPMS"
+				"content/els/rhel/server/6/6Server/x86_64/extended-sap/source/SRPMS"
 			]
 		},
 		"rhel-sap-for-rhel-6-server-rpms": {
@@ -75347,6 +75545,54 @@
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel/server/6/6.7/x86_64/sap-hana/source/SRPMS"
+			]
+		},
+		"rhel-sap-hana-for-rhel-6-server-extended-els-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_extras_sap_hana_els:6"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/server/6/6Server/x86_64/extended-sap-hana/debug"
+			]
+		},
+		"rhel-sap-hana-for-rhel-6-server-extended-els-debug-rpms__x86_64": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_extras_sap_hana_els:6"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/server/6/6Server/x86_64/extended-sap-hana/debug"
+			]
+		},
+		"rhel-sap-hana-for-rhel-6-server-extended-els-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_extras_sap_hana_els:6"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/server/6/6Server/x86_64/extended-sap-hana/os"
+			]
+		},
+		"rhel-sap-hana-for-rhel-6-server-extended-els-rpms__x86_64": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_extras_sap_hana_els:6"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/server/6/6Server/x86_64/extended-sap-hana/os"
+			]
+		},
+		"rhel-sap-hana-for-rhel-6-server-extended-els-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_extras_sap_hana_els:6"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/server/6/6Server/x86_64/extended-sap-hana/source/SRPMS"
+			]
+		},
+		"rhel-sap-hana-for-rhel-6-server-extended-els-source-rpms__x86_64": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_extras_sap_hana_els:6"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/server/6/6Server/x86_64/extended-sap-hana/source/SRPMS"
 			]
 		},
 		"rhel-sap-hana-for-rhel-6-server-rpms": {
@@ -79138,6 +79384,7 @@
 		},
 		"rhocp-4.14-for-rhel-9-s390x-rpms": {
 			"cpes": [
+				"cpe:/a:redhat:openshift:4.14::el9",
 				"cpe:/a:redhat:openshift_sandboxed_containers:1.7::el9"
 			],
 			"repo_relative_urls": [
@@ -79162,6 +79409,7 @@
 		},
 		"rhocp-4.14-for-rhel-9-x86_64-rpms": {
 			"cpes": [
+				"cpe:/a:redhat:openshift:4.14::el9",
 				"cpe:/a:redhat:openshift_sandboxed_containers:1.7::el9"
 			],
 			"repo_relative_urls": [
@@ -83392,6 +83640,54 @@
 				"content/dist/layered/rhel8/x86_64/satellite/6.15/source/SRPMS"
 			]
 		},
+		"satellite-6.16-for-rhel-8-x86_64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:satellite:6.16::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/satellite/6.16/debug"
+			]
+		},
+		"satellite-6.16-for-rhel-8-x86_64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:satellite:6.16::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/satellite/6.16/os"
+			]
+		},
+		"satellite-6.16-for-rhel-8-x86_64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:satellite:6.16::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/satellite/6.16/source/SRPMS"
+			]
+		},
+		"satellite-6.16-for-rhel-9-x86_64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:satellite:6.16::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/satellite/6.16/debug"
+			]
+		},
+		"satellite-6.16-for-rhel-9-x86_64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:satellite:6.16::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/satellite/6.16/os"
+			]
+		},
+		"satellite-6.16-for-rhel-9-x86_64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:satellite:6.16::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/satellite/6.16/source/SRPMS"
+			]
+		},
 		"satellite-capsule-6.11-for-rhel-8-x86_64-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:satellite_capsule:6.11::el8"
@@ -83510,6 +83806,54 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/sat-capsule/6.15/source/SRPMS"
+			]
+		},
+		"satellite-capsule-6.16-for-rhel-8-x86_64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:satellite_capsule:6.16::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/sat-capsule/6.16/debug"
+			]
+		},
+		"satellite-capsule-6.16-for-rhel-8-x86_64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:satellite_capsule:6.16::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/sat-capsule/6.16/os"
+			]
+		},
+		"satellite-capsule-6.16-for-rhel-8-x86_64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:satellite_capsule:6.16::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/sat-capsule/6.16/source/SRPMS"
+			]
+		},
+		"satellite-capsule-6.16-for-rhel-9-x86_64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:satellite_capsule:6.16::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/sat-capsule/6.16/debug"
+			]
+		},
+		"satellite-capsule-6.16-for-rhel-9-x86_64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:satellite_capsule:6.16::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/sat-capsule/6.16/os"
+			]
+		},
+		"satellite-capsule-6.16-for-rhel-9-x86_64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:satellite_capsule:6.16::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/sat-capsule/6.16/source/SRPMS"
 			]
 		},
 		"satellite-client-6-for-rhel-8-aarch64-debug-rpms": {
@@ -83822,6 +84166,54 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/sat-maintenance/6.15/source/SRPMS"
+			]
+		},
+		"satellite-maintenance-6.16-for-rhel-8-x86_64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:satellite_maintenance:6.16::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/sat-maintenance/6.16/debug"
+			]
+		},
+		"satellite-maintenance-6.16-for-rhel-8-x86_64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:satellite_maintenance:6.16::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/sat-maintenance/6.16/os"
+			]
+		},
+		"satellite-maintenance-6.16-for-rhel-8-x86_64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:satellite_maintenance:6.16::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/sat-maintenance/6.16/source/SRPMS"
+			]
+		},
+		"satellite-maintenance-6.16-for-rhel-9-x86_64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:satellite_maintenance:6.16::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/sat-maintenance/6.16/debug"
+			]
+		},
+		"satellite-maintenance-6.16-for-rhel-9-x86_64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:satellite_maintenance:6.16::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/sat-maintenance/6.16/os"
+			]
+		},
+		"satellite-maintenance-6.16-for-rhel-9-x86_64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:satellite_maintenance:6.16::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/sat-maintenance/6.16/source/SRPMS"
 			]
 		},
 		"satellite-tools-6.10-for-rhel-8-aarch64-debug-rpms": {
@@ -85996,6 +86388,54 @@
 				"content/dist/layered/rhel8/x86_64/sat-utils/6.15/source/SRPMS"
 			]
 		},
+		"satellite-utils-6.16-for-rhel-8-x86_64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:satellite_utils:6.16::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/sat-utils/6.16/debug"
+			]
+		},
+		"satellite-utils-6.16-for-rhel-8-x86_64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:satellite_utils:6.16::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/sat-utils/6.16/os"
+			]
+		},
+		"satellite-utils-6.16-for-rhel-8-x86_64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:satellite_utils:6.16::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/sat-utils/6.16/source/SRPMS"
+			]
+		},
+		"satellite-utils-6.16-for-rhel-9-x86_64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:satellite_utils:6.16::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/sat-utils/6.16/debug"
+			]
+		},
+		"satellite-utils-6.16-for-rhel-9-x86_64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:satellite_utils:6.16::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/sat-utils/6.16/os"
+			]
+		},
+		"satellite-utils-6.16-for-rhel-9-x86_64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:satellite_utils:6.16::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/sat-utils/6.16/source/SRPMS"
+			]
+		},
 		"service-interconnect-1-for-rhel-8-aarch64-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:service_interconnect:1::el8"
@@ -86475,5 +86915,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-09-16T01:42:03.239Z"
+	"last_updated": "2024-09-17T00:46:50.002Z"
 }
