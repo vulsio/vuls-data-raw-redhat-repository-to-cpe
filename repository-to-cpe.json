@@ -7836,18 +7836,33 @@
 		},
 		"dirsrv-12-for-rhel-9-x86_64-debug-rpms": {
 			"cpes": [
+				"cpe:/a:redhat:directory_server:12.1::el9",
+				"cpe:/a:redhat:directory_server:12.2::el9",
+				"cpe:/a:redhat:directory_server:12.3::el9",
+				"cpe:/a:redhat:directory_server:12.4::el9",
+				"cpe:/a:redhat:directory_server:12.5::el9",
 				"cpe:/a:redhat:directory_server:12::el9"
 			],
 			"repo_relative_urls": [
-				"content/dist/layered/rhel9/x86_64/dirsrv/12/debug"
+				"content/dist/rhel9/9.0/x86_64/dirsrv/12/debug",
+				"content/dist/rhel9/9.1/x86_64/dirsrv/12/debug",
+				"content/dist/rhel9/9.2/x86_64/dirsrv/12/debug",
+				"content/dist/rhel9/9.3/x86_64/dirsrv/12/debug",
+				"content/dist/rhel9/9.4/x86_64/dirsrv/12/debug",
+				"content/dist/rhel9/9/x86_64/dirsrv/12/debug"
 			]
 		},
 		"dirsrv-12-for-rhel-9-x86_64-eus-debug-rpms": {
 			"cpes": [
+				"cpe:/a:redhat:directory_server:12.2::el9",
+				"cpe:/a:redhat:directory_server:12.4::el9",
+				"cpe:/a:redhat:directory_server:12::el9",
 				"cpe:/a:redhat:directory_server_eus:12::el9"
 			],
 			"repo_relative_urls": [
-				"content/eus/rhel9/9.0/x86_64/dirsrv/12/debug"
+				"content/eus/rhel9/9.0/x86_64/dirsrv/12/debug",
+				"content/eus/rhel9/9.2/x86_64/dirsrv/12/debug",
+				"content/eus/rhel9/9.4/x86_64/dirsrv/12/debug"
 			]
 		},
 		"dirsrv-12-for-rhel-9-x86_64-eus-debug-rpms__9_DOT_0": {
@@ -7860,10 +7875,15 @@
 		},
 		"dirsrv-12-for-rhel-9-x86_64-eus-rpms": {
 			"cpes": [
+				"cpe:/a:redhat:directory_server:12.2::el9",
+				"cpe:/a:redhat:directory_server:12.4::el9",
+				"cpe:/a:redhat:directory_server:12::el9",
 				"cpe:/a:redhat:directory_server_eus:12::el9"
 			],
 			"repo_relative_urls": [
-				"content/eus/rhel9/9.0/x86_64/dirsrv/12/os"
+				"content/eus/rhel9/9.0/x86_64/dirsrv/12/os",
+				"content/eus/rhel9/9.2/x86_64/dirsrv/12/os",
+				"content/eus/rhel9/9.4/x86_64/dirsrv/12/os"
 			]
 		},
 		"dirsrv-12-for-rhel-9-x86_64-eus-rpms__9_DOT_0": {
@@ -7876,10 +7896,15 @@
 		},
 		"dirsrv-12-for-rhel-9-x86_64-eus-source-rpms": {
 			"cpes": [
+				"cpe:/a:redhat:directory_server:12.2::el9",
+				"cpe:/a:redhat:directory_server:12.4::el9",
+				"cpe:/a:redhat:directory_server:12::el9",
 				"cpe:/a:redhat:directory_server_eus:12::el9"
 			],
 			"repo_relative_urls": [
-				"content/eus/rhel9/9.0/x86_64/dirsrv/12/source/SRPMS"
+				"content/eus/rhel9/9.0/x86_64/dirsrv/12/source/SRPMS",
+				"content/eus/rhel9/9.2/x86_64/dirsrv/12/source/SRPMS",
+				"content/eus/rhel9/9.4/x86_64/dirsrv/12/source/SRPMS"
 			]
 		},
 		"dirsrv-12-for-rhel-9-x86_64-eus-source-rpms__9_DOT_0": {
@@ -7892,138 +7917,38 @@
 		},
 		"dirsrv-12-for-rhel-9-x86_64-rpms": {
 			"cpes": [
+				"cpe:/a:redhat:directory_server:12.1::el9",
+				"cpe:/a:redhat:directory_server:12.2::el9",
+				"cpe:/a:redhat:directory_server:12.3::el9",
+				"cpe:/a:redhat:directory_server:12.4::el9",
+				"cpe:/a:redhat:directory_server:12.5::el9",
 				"cpe:/a:redhat:directory_server:12::el9"
 			],
 			"repo_relative_urls": [
-				"content/dist/layered/rhel9/x86_64/dirsrv/12/os"
+				"content/dist/rhel9/9.0/x86_64/dirsrv/12/os",
+				"content/dist/rhel9/9.1/x86_64/dirsrv/12/os",
+				"content/dist/rhel9/9.2/x86_64/dirsrv/12/os",
+				"content/dist/rhel9/9.3/x86_64/dirsrv/12/os",
+				"content/dist/rhel9/9.4/x86_64/dirsrv/12/os",
+				"content/dist/rhel9/9/x86_64/dirsrv/12/os"
 			]
 		},
 		"dirsrv-12-for-rhel-9-x86_64-source-rpms": {
 			"cpes": [
+				"cpe:/a:redhat:directory_server:12.1::el9",
+				"cpe:/a:redhat:directory_server:12.2::el9",
+				"cpe:/a:redhat:directory_server:12.3::el9",
+				"cpe:/a:redhat:directory_server:12.4::el9",
+				"cpe:/a:redhat:directory_server:12.5::el9",
 				"cpe:/a:redhat:directory_server:12::el9"
 			],
 			"repo_relative_urls": [
-				"content/dist/layered/rhel9/x86_64/dirsrv/12/source/SRPMS"
-			]
-		},
-		"dirsrv-12.1-for-rhel-9-x86_64-debug-rpms": {
-			"cpes": [
-				"cpe:/a:redhat:directory_server:12.1::el9"
-			],
-			"repo_relative_urls": [
-				"content/dist/layered/rhel9/x86_64/dirsrv/12.1/debug"
-			]
-		},
-		"dirsrv-12.1-for-rhel-9-x86_64-rpms": {
-			"cpes": [
-				"cpe:/a:redhat:directory_server:12.1::el9"
-			],
-			"repo_relative_urls": [
-				"content/dist/layered/rhel9/x86_64/dirsrv/12.1/os"
-			]
-		},
-		"dirsrv-12.1-for-rhel-9-x86_64-source-rpms": {
-			"cpes": [
-				"cpe:/a:redhat:directory_server:12.1::el9"
-			],
-			"repo_relative_urls": [
-				"content/dist/layered/rhel9/x86_64/dirsrv/12.1/source/SRPMS"
-			]
-		},
-		"dirsrv-12.2-for-rhel-9-x86_64-debug-rpms": {
-			"cpes": [
-				"cpe:/a:redhat:directory_server:12.2::el9"
-			],
-			"repo_relative_urls": [
-				"content/dist/layered/rhel9/x86_64/dirsrv/12.2/debug"
-			]
-		},
-		"dirsrv-12.2-for-rhel-9-x86_64-rpms": {
-			"cpes": [
-				"cpe:/a:redhat:directory_server:12.2::el9"
-			],
-			"repo_relative_urls": [
-				"content/dist/layered/rhel9/x86_64/dirsrv/12.2/os"
-			]
-		},
-		"dirsrv-12.2-for-rhel-9-x86_64-source-rpms": {
-			"cpes": [
-				"cpe:/a:redhat:directory_server:12.2::el9"
-			],
-			"repo_relative_urls": [
-				"content/dist/layered/rhel9/x86_64/dirsrv/12.2/source/SRPMS"
-			]
-		},
-		"dirsrv-12.3-for-rhel-9-x86_64-debug-rpms": {
-			"cpes": [
-				"cpe:/a:redhat:directory_server:12.3::el9"
-			],
-			"repo_relative_urls": [
-				"content/dist/layered/rhel9/x86_64/dirsrv/12.3/debug"
-			]
-		},
-		"dirsrv-12.3-for-rhel-9-x86_64-rpms": {
-			"cpes": [
-				"cpe:/a:redhat:directory_server:12.3::el9"
-			],
-			"repo_relative_urls": [
-				"content/dist/layered/rhel9/x86_64/dirsrv/12.3/os"
-			]
-		},
-		"dirsrv-12.3-for-rhel-9-x86_64-source-rpms": {
-			"cpes": [
-				"cpe:/a:redhat:directory_server:12.3::el9"
-			],
-			"repo_relative_urls": [
-				"content/dist/layered/rhel9/x86_64/dirsrv/12.3/source/SRPMS"
-			]
-		},
-		"dirsrv-12.4-for-rhel-9-x86_64-debug-rpms": {
-			"cpes": [
-				"cpe:/a:redhat:directory_server:12.4::el9"
-			],
-			"repo_relative_urls": [
-				"content/dist/layered/rhel9/x86_64/dirsrv/12.4/debug"
-			]
-		},
-		"dirsrv-12.4-for-rhel-9-x86_64-rpms": {
-			"cpes": [
-				"cpe:/a:redhat:directory_server:12.4::el9"
-			],
-			"repo_relative_urls": [
-				"content/dist/layered/rhel9/x86_64/dirsrv/12.4/os"
-			]
-		},
-		"dirsrv-12.4-for-rhel-9-x86_64-source-rpms": {
-			"cpes": [
-				"cpe:/a:redhat:directory_server:12.4::el9"
-			],
-			"repo_relative_urls": [
-				"content/dist/layered/rhel9/x86_64/dirsrv/12.4/source/SRPMS"
-			]
-		},
-		"dirsrv-12.5-for-rhel-9-x86_64-debug-rpms": {
-			"cpes": [
-				"cpe:/a:redhat:directory_server:12.5::el9"
-			],
-			"repo_relative_urls": [
-				"content/dist/layered/rhel9/x86_64/dirsrv/12.5/debug"
-			]
-		},
-		"dirsrv-12.5-for-rhel-9-x86_64-rpms": {
-			"cpes": [
-				"cpe:/a:redhat:directory_server:12.5::el9"
-			],
-			"repo_relative_urls": [
-				"content/dist/layered/rhel9/x86_64/dirsrv/12.5/os"
-			]
-		},
-		"dirsrv-12.5-for-rhel-9-x86_64-source-rpms": {
-			"cpes": [
-				"cpe:/a:redhat:directory_server:12.5::el9"
-			],
-			"repo_relative_urls": [
-				"content/dist/layered/rhel9/x86_64/dirsrv/12.5/source/SRPMS"
+				"content/dist/rhel9/9.0/x86_64/dirsrv/12/source/SRPMS",
+				"content/dist/rhel9/9.1/x86_64/dirsrv/12/source/SRPMS",
+				"content/dist/rhel9/9.2/x86_64/dirsrv/12/source/SRPMS",
+				"content/dist/rhel9/9.3/x86_64/dirsrv/12/source/SRPMS",
+				"content/dist/rhel9/9.4/x86_64/dirsrv/12/source/SRPMS",
+				"content/dist/rhel9/9/x86_64/dirsrv/12/source/SRPMS"
 			]
 		},
 		"dirsrv-13-for-rhel-10-x86_64-debug-rpms": {
@@ -14330,6 +14255,198 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/s390x/openj9/1/source/SRPMS"
+			]
+		},
+		"openjdk-11-els-for-rhel-8-aarch64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openjdk_els:11::el8"
+			],
+			"repo_relative_urls": [
+				"content/els/layered/rhel8/aarch64/openjdk/11/debug"
+			]
+		},
+		"openjdk-11-els-for-rhel-8-aarch64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openjdk_els:11::el8"
+			],
+			"repo_relative_urls": [
+				"content/els/layered/rhel8/aarch64/openjdk/11/os"
+			]
+		},
+		"openjdk-11-els-for-rhel-8-aarch64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openjdk_els:11::el8"
+			],
+			"repo_relative_urls": [
+				"content/els/layered/rhel8/aarch64/openjdk/11/source/SRPMS"
+			]
+		},
+		"openjdk-11-els-for-rhel-8-ppc64le-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openjdk_els:11::el8"
+			],
+			"repo_relative_urls": [
+				"content/els/layered/rhel8/ppc64le/openjdk/11/debug"
+			]
+		},
+		"openjdk-11-els-for-rhel-8-ppc64le-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openjdk_els:11::el8"
+			],
+			"repo_relative_urls": [
+				"content/els/layered/rhel8/ppc64le/openjdk/11/os"
+			]
+		},
+		"openjdk-11-els-for-rhel-8-ppc64le-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openjdk_els:11::el8"
+			],
+			"repo_relative_urls": [
+				"content/els/layered/rhel8/ppc64le/openjdk/11/source/SRPMS"
+			]
+		},
+		"openjdk-11-els-for-rhel-8-s390x-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openjdk_els:11::el8"
+			],
+			"repo_relative_urls": [
+				"content/els/layered/rhel8/s390x/openjdk/11/debug"
+			]
+		},
+		"openjdk-11-els-for-rhel-8-s390x-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openjdk_els:11::el8"
+			],
+			"repo_relative_urls": [
+				"content/els/layered/rhel8/s390x/openjdk/11/os"
+			]
+		},
+		"openjdk-11-els-for-rhel-8-s390x-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openjdk_els:11::el8"
+			],
+			"repo_relative_urls": [
+				"content/els/layered/rhel8/s390x/openjdk/11/source/SRPMS"
+			]
+		},
+		"openjdk-11-els-for-rhel-8-x86_64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openjdk_els:11::el8"
+			],
+			"repo_relative_urls": [
+				"content/els/layered/rhel8/x86_64/openjdk/11/debug"
+			]
+		},
+		"openjdk-11-els-for-rhel-8-x86_64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openjdk_els:11::el8"
+			],
+			"repo_relative_urls": [
+				"content/els/layered/rhel8/x86_64/openjdk/11/os"
+			]
+		},
+		"openjdk-11-els-for-rhel-8-x86_64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openjdk_els:11::el8"
+			],
+			"repo_relative_urls": [
+				"content/els/layered/rhel8/x86_64/openjdk/11/source/SRPMS"
+			]
+		},
+		"openjdk-11-els-for-rhel-9-aarch64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openjdk_els:11::el9"
+			],
+			"repo_relative_urls": [
+				"content/els/layered/rhel9/aarch64/openjdk/11/debug"
+			]
+		},
+		"openjdk-11-els-for-rhel-9-aarch64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openjdk_els:11::el9"
+			],
+			"repo_relative_urls": [
+				"content/els/layered/rhel9/aarch64/openjdk/11/os"
+			]
+		},
+		"openjdk-11-els-for-rhel-9-aarch64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openjdk_els:11::el9"
+			],
+			"repo_relative_urls": [
+				"content/els/layered/rhel9/aarch64/openjdk/11/source/SRPMS"
+			]
+		},
+		"openjdk-11-els-for-rhel-9-ppc64le-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openjdk_els:11::el9"
+			],
+			"repo_relative_urls": [
+				"content/els/layered/rhel9/ppc64le/openjdk/11/debug"
+			]
+		},
+		"openjdk-11-els-for-rhel-9-ppc64le-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openjdk_els:11::el9"
+			],
+			"repo_relative_urls": [
+				"content/els/layered/rhel9/ppc64le/openjdk/11/os"
+			]
+		},
+		"openjdk-11-els-for-rhel-9-ppc64le-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openjdk_els:11::el9"
+			],
+			"repo_relative_urls": [
+				"content/els/layered/rhel9/ppc64le/openjdk/11/source/SRPMS"
+			]
+		},
+		"openjdk-11-els-for-rhel-9-s390x-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openjdk_els:11::el9"
+			],
+			"repo_relative_urls": [
+				"content/els/layered/rhel9/s390x/openjdk/11/debug"
+			]
+		},
+		"openjdk-11-els-for-rhel-9-s390x-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openjdk_els:11::el9"
+			],
+			"repo_relative_urls": [
+				"content/els/layered/rhel9/s390x/openjdk/11/os"
+			]
+		},
+		"openjdk-11-els-for-rhel-9-s390x-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openjdk_els:11::el9"
+			],
+			"repo_relative_urls": [
+				"content/els/layered/rhel9/s390x/openjdk/11/source/SRPMS"
+			]
+		},
+		"openjdk-11-els-for-rhel-9-x86_64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openjdk_els:11::el9"
+			],
+			"repo_relative_urls": [
+				"content/els/layered/rhel9/x86_64/openjdk/11/debug"
+			]
+		},
+		"openjdk-11-els-for-rhel-9-x86_64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openjdk_els:11::el9"
+			],
+			"repo_relative_urls": [
+				"content/els/layered/rhel9/x86_64/openjdk/11/os"
+			]
+		},
+		"openjdk-11-els-for-rhel-9-x86_64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openjdk_els:11::el9"
+			],
+			"repo_relative_urls": [
+				"content/els/layered/rhel9/x86_64/openjdk/11/source/SRPMS"
 			]
 		},
 		"openjdk-textonly-1-for-middleware-rpms": {
@@ -41929,6 +42046,54 @@
 				"content/fastrack/rhel/system-z/7/s390x/source/SRPMS"
 			]
 		},
+		"rhel-7-for-system-z-openjdk-11-els-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openjdk_els:11::el7"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/system-z/7/7Server/s390x/openjdk/11/debug"
+			]
+		},
+		"rhel-7-for-system-z-openjdk-11-els-debug-rpms__s390x": {
+			"cpes": [
+				"cpe:/a:redhat:openjdk_els:11::el7"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/system-z/7/7Server/s390x/openjdk/11/debug"
+			]
+		},
+		"rhel-7-for-system-z-openjdk-11-els-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openjdk_els:11::el7"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/system-z/7/7Server/s390x/openjdk/11/os"
+			]
+		},
+		"rhel-7-for-system-z-openjdk-11-els-rpms__s390x": {
+			"cpes": [
+				"cpe:/a:redhat:openjdk_els:11::el7"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/system-z/7/7Server/s390x/openjdk/11/os"
+			]
+		},
+		"rhel-7-for-system-z-openjdk-11-els-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openjdk_els:11::el7"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/system-z/7/7Server/s390x/openjdk/11/source/SRPMS"
+			]
+		},
+		"rhel-7-for-system-z-openjdk-11-els-source-rpms__s390x": {
+			"cpes": [
+				"cpe:/a:redhat:openjdk_els:11::el7"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/system-z/7/7Server/s390x/openjdk/11/source/SRPMS"
+			]
+		},
 		"rhel-7-for-system-z-optional-debug-rpms": {
 			"cpes": [
 				"cpe:/o:redhat:enterprise_linux:7::server"
@@ -48069,6 +48234,54 @@
 			"repo_relative_urls": [
 				"content/dist/rhel/server/7/7.9/x86_64/nfv/source/SRPMS",
 				"content/dist/rhel/server/7/7Server/x86_64/nfv/source/SRPMS"
+			]
+		},
+		"rhel-7-server-openjdk-11-els-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openjdk_els:11::el7"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/server/7/7Server/x86_64/openjdk/11/debug"
+			]
+		},
+		"rhel-7-server-openjdk-11-els-debug-rpms__x86_64": {
+			"cpes": [
+				"cpe:/a:redhat:openjdk_els:11::el7"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/server/7/7Server/x86_64/openjdk/11/debug"
+			]
+		},
+		"rhel-7-server-openjdk-11-els-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openjdk_els:11::el7"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/server/7/7Server/x86_64/openjdk/11/os"
+			]
+		},
+		"rhel-7-server-openjdk-11-els-rpms__x86_64": {
+			"cpes": [
+				"cpe:/a:redhat:openjdk_els:11::el7"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/server/7/7Server/x86_64/openjdk/11/os"
+			]
+		},
+		"rhel-7-server-openjdk-11-els-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openjdk_els:11::el7"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/server/7/7Server/x86_64/openjdk/11/source/SRPMS"
+			]
+		},
+		"rhel-7-server-openjdk-11-els-source-rpms__x86_64": {
+			"cpes": [
+				"cpe:/a:redhat:openjdk_els:11::el7"
+			],
+			"repo_relative_urls": [
+				"content/els/rhel/server/7/7Server/x86_64/openjdk/11/source/SRPMS"
 			]
 		},
 		"rhel-7-server-openstack-10-debug-rpms": {
@@ -87051,5 +87264,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-09-23T00:48:51.559Z"
+	"last_updated": "2024-09-24T00:48:11.559Z"
 }
