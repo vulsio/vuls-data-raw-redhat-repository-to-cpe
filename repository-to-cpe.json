@@ -14465,12 +14465,28 @@
 				"content/dist/middleware/openliberty/1.0/x86_64/os"
 			]
 		},
+		"openshift-builds-1-for-rhel-8-aarch64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_builds:1.1::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/aarch64/openshift-builds/1/os"
+			]
+		},
 		"openshift-builds-1-for-rhel-8-aarch64-textonly-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:openshift_builds:1.1::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/aarch64/openshift-builds-textonly/1/os"
+			]
+		},
+		"openshift-builds-1-for-rhel-8-ppc64le-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_builds:1.1::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/ppc64le/openshift-builds/1/os"
 			]
 		},
 		"openshift-builds-1-for-rhel-8-ppc64le-textonly-rpms": {
@@ -14481,12 +14497,28 @@
 				"content/dist/layered/rhel8/ppc64le/openshift-builds-textonly/1/os"
 			]
 		},
+		"openshift-builds-1-for-rhel-8-s390x-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_builds:1.1::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/s390x/openshift-builds/1/os"
+			]
+		},
 		"openshift-builds-1-for-rhel-8-s390x-textonly-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:openshift_builds:1.1::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/s390x/openshift-builds-textonly/1/os"
+			]
+		},
+		"openshift-builds-1-for-rhel-8-x86_64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_builds:1.1::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/openshift-builds/1/os"
 			]
 		},
 		"openshift-builds-1-for-rhel-8-x86_64-textonly-rpms": {
@@ -87264,5 +87296,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-09-24T00:48:11.559Z"
+	"last_updated": "2024-09-25T00:48:47.568Z"
 }
