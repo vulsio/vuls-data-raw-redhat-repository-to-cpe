@@ -12113,6 +12113,102 @@
 				"content/dist/layered/rhel9/x86_64/lvms/4.16/source/SRPMS"
 			]
 		},
+		"lvms-4.17-for-rhel-9-aarch64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:lvms:4.17::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/aarch64/lvms/4.17/debug"
+			]
+		},
+		"lvms-4.17-for-rhel-9-aarch64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:lvms:4.17::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/aarch64/lvms/4.17/os"
+			]
+		},
+		"lvms-4.17-for-rhel-9-aarch64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:lvms:4.17::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/aarch64/lvms/4.17/source/SRPMS"
+			]
+		},
+		"lvms-4.17-for-rhel-9-ppc64le-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:lvms:4.17::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/ppc64le/lvms/4.17/debug"
+			]
+		},
+		"lvms-4.17-for-rhel-9-ppc64le-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:lvms:4.17::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/ppc64le/lvms/4.17/os"
+			]
+		},
+		"lvms-4.17-for-rhel-9-ppc64le-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:lvms:4.17::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/ppc64le/lvms/4.17/source/SRPMS"
+			]
+		},
+		"lvms-4.17-for-rhel-9-s390x-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:lvms:4.17::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/s390x/lvms/4.17/debug"
+			]
+		},
+		"lvms-4.17-for-rhel-9-s390x-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:lvms:4.17::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/s390x/lvms/4.17/os"
+			]
+		},
+		"lvms-4.17-for-rhel-9-s390x-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:lvms:4.17::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/s390x/lvms/4.17/source/SRPMS"
+			]
+		},
+		"lvms-4.17-for-rhel-9-x86_64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:lvms:4.17::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/lvms/4.17/debug"
+			]
+		},
+		"lvms-4.17-for-rhel-9-x86_64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:lvms:4.17::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/lvms/4.17/os"
+			]
+		},
+		"lvms-4.17-for-rhel-9-x86_64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:lvms:4.17::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/lvms/4.17/source/SRPMS"
+			]
+		},
 		"mirror-registry-1-for-rhel-8-x86_64-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:mirror_registry:1.0::el8",
@@ -87296,5 +87392,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-09-25T00:48:47.568Z"
+	"last_updated": "2024-09-26T00:47:52.237Z"
 }
