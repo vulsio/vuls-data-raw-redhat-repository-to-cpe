@@ -7857,6 +7857,7 @@
 				"cpe:/a:redhat:directory_server:12.2::el9",
 				"cpe:/a:redhat:directory_server:12.4::el9",
 				"cpe:/a:redhat:directory_server:12::el9",
+				"cpe:/a:redhat:directory_server_eus:12.2::el9",
 				"cpe:/a:redhat:directory_server_eus:12::el9"
 			],
 			"repo_relative_urls": [
@@ -7873,11 +7874,20 @@
 				"content/eus/rhel9/9.0/x86_64/dirsrv/12/debug"
 			]
 		},
+		"dirsrv-12-for-rhel-9-x86_64-eus-debug-rpms__9_DOT_2": {
+			"cpes": [
+				"cpe:/a:redhat:directory_server_eus:12.2::el9"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.2/x86_64/dirsrv/12/debug"
+			]
+		},
 		"dirsrv-12-for-rhel-9-x86_64-eus-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:directory_server:12.2::el9",
 				"cpe:/a:redhat:directory_server:12.4::el9",
 				"cpe:/a:redhat:directory_server:12::el9",
+				"cpe:/a:redhat:directory_server_eus:12.2::el9",
 				"cpe:/a:redhat:directory_server_eus:12::el9"
 			],
 			"repo_relative_urls": [
@@ -7894,11 +7904,20 @@
 				"content/eus/rhel9/9.0/x86_64/dirsrv/12/os"
 			]
 		},
+		"dirsrv-12-for-rhel-9-x86_64-eus-rpms__9_DOT_2": {
+			"cpes": [
+				"cpe:/a:redhat:directory_server_eus:12.2::el9"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.2/x86_64/dirsrv/12/os"
+			]
+		},
 		"dirsrv-12-for-rhel-9-x86_64-eus-source-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:directory_server:12.2::el9",
 				"cpe:/a:redhat:directory_server:12.4::el9",
 				"cpe:/a:redhat:directory_server:12::el9",
+				"cpe:/a:redhat:directory_server_eus:12.2::el9",
 				"cpe:/a:redhat:directory_server_eus:12::el9"
 			],
 			"repo_relative_urls": [
@@ -7913,6 +7932,14 @@
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.0/x86_64/dirsrv/12/source/SRPMS"
+			]
+		},
+		"dirsrv-12-for-rhel-9-x86_64-eus-source-rpms__9_DOT_2": {
+			"cpes": [
+				"cpe:/a:redhat:directory_server_eus:12.2::el9"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.2/x86_64/dirsrv/12/source/SRPMS"
 			]
 		},
 		"dirsrv-12-for-rhel-9-x86_64-rpms": {
@@ -87392,5 +87419,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-09-27T00:48:11.138Z"
+	"last_updated": "2024-09-28T00:48:00.985Z"
 }
