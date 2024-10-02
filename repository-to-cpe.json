@@ -7733,11 +7733,13 @@
 		"dirsrv-11-for-rhel-8-x86_64-eus-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:directory_server_eus:11.3::el8",
-				"cpe:/a:redhat:directory_server_eus:11.5::el8"
+				"cpe:/a:redhat:directory_server_eus:11.5::el8",
+				"cpe:/a:redhat:directory_server_eus:11.7::el8"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel8/8.4/x86_64/dirsrv/11/debug",
-				"content/eus/rhel8/8.6/x86_64/dirsrv/11/debug"
+				"content/eus/rhel8/8.6/x86_64/dirsrv/11/debug",
+				"content/eus/rhel8/8.8/x86_64/dirsrv/11/debug"
 			]
 		},
 		"dirsrv-11-for-rhel-8-x86_64-eus-debug-rpms__8_DOT_4": {
@@ -7756,14 +7758,24 @@
 				"content/eus/rhel8/8.6/x86_64/dirsrv/11/debug"
 			]
 		},
+		"dirsrv-11-for-rhel-8-x86_64-eus-debug-rpms__8_DOT_8": {
+			"cpes": [
+				"cpe:/a:redhat:directory_server_eus:11.7::el8"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel8/8.8/x86_64/dirsrv/11/debug"
+			]
+		},
 		"dirsrv-11-for-rhel-8-x86_64-eus-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:directory_server_eus:11.3::el8",
-				"cpe:/a:redhat:directory_server_eus:11.5::el8"
+				"cpe:/a:redhat:directory_server_eus:11.5::el8",
+				"cpe:/a:redhat:directory_server_eus:11.7::el8"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel8/8.4/x86_64/dirsrv/11/os",
-				"content/eus/rhel8/8.6/x86_64/dirsrv/11/os"
+				"content/eus/rhel8/8.6/x86_64/dirsrv/11/os",
+				"content/eus/rhel8/8.8/x86_64/dirsrv/11/os"
 			]
 		},
 		"dirsrv-11-for-rhel-8-x86_64-eus-rpms__8_DOT_4": {
@@ -7782,14 +7794,24 @@
 				"content/eus/rhel8/8.6/x86_64/dirsrv/11/os"
 			]
 		},
+		"dirsrv-11-for-rhel-8-x86_64-eus-rpms__8_DOT_8": {
+			"cpes": [
+				"cpe:/a:redhat:directory_server_eus:11.7::el8"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel8/8.8/x86_64/dirsrv/11/os"
+			]
+		},
 		"dirsrv-11-for-rhel-8-x86_64-eus-source-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:directory_server_eus:11.3::el8",
-				"cpe:/a:redhat:directory_server_eus:11.5::el8"
+				"cpe:/a:redhat:directory_server_eus:11.5::el8",
+				"cpe:/a:redhat:directory_server_eus:11.7::el8"
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel8/8.4/x86_64/dirsrv/11/source/SRPMS",
-				"content/eus/rhel8/8.6/x86_64/dirsrv/11/source/SRPMS"
+				"content/eus/rhel8/8.6/x86_64/dirsrv/11/source/SRPMS",
+				"content/eus/rhel8/8.8/x86_64/dirsrv/11/source/SRPMS"
 			]
 		},
 		"dirsrv-11-for-rhel-8-x86_64-eus-source-rpms__8_DOT_4": {
@@ -7806,6 +7828,14 @@
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel8/8.6/x86_64/dirsrv/11/source/SRPMS"
+			]
+		},
+		"dirsrv-11-for-rhel-8-x86_64-eus-source-rpms__8_DOT_8": {
+			"cpes": [
+				"cpe:/a:redhat:directory_server_eus:11.7::el8"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel8/8.8/x86_64/dirsrv/11/source/SRPMS"
 			]
 		},
 		"dirsrv-11-for-rhel-8-x86_64-rpms": {
@@ -7954,6 +7984,7 @@
 				"cpe:/a:redhat:directory_server:12.4::el9",
 				"cpe:/a:redhat:directory_server:12::el9",
 				"cpe:/a:redhat:directory_server_eus:12.2::el9",
+				"cpe:/a:redhat:directory_server_eus:12.4::el9",
 				"cpe:/a:redhat:directory_server_eus:12::el9"
 			],
 			"repo_relative_urls": [
@@ -7978,12 +8009,21 @@
 				"content/eus/rhel9/9.2/x86_64/dirsrv/12/debug"
 			]
 		},
+		"dirsrv-12-for-rhel-9-x86_64-eus-debug-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:directory_server_eus:12.4::el9"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/x86_64/dirsrv/12/debug"
+			]
+		},
 		"dirsrv-12-for-rhel-9-x86_64-eus-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:directory_server:12.2::el9",
 				"cpe:/a:redhat:directory_server:12.4::el9",
 				"cpe:/a:redhat:directory_server:12::el9",
 				"cpe:/a:redhat:directory_server_eus:12.2::el9",
+				"cpe:/a:redhat:directory_server_eus:12.4::el9",
 				"cpe:/a:redhat:directory_server_eus:12::el9"
 			],
 			"repo_relative_urls": [
@@ -8008,12 +8048,21 @@
 				"content/eus/rhel9/9.2/x86_64/dirsrv/12/os"
 			]
 		},
+		"dirsrv-12-for-rhel-9-x86_64-eus-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:directory_server_eus:12.4::el9"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/x86_64/dirsrv/12/os"
+			]
+		},
 		"dirsrv-12-for-rhel-9-x86_64-eus-source-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:directory_server:12.2::el9",
 				"cpe:/a:redhat:directory_server:12.4::el9",
 				"cpe:/a:redhat:directory_server:12::el9",
 				"cpe:/a:redhat:directory_server_eus:12.2::el9",
+				"cpe:/a:redhat:directory_server_eus:12.4::el9",
 				"cpe:/a:redhat:directory_server_eus:12::el9"
 			],
 			"repo_relative_urls": [
@@ -8036,6 +8085,14 @@
 			],
 			"repo_relative_urls": [
 				"content/eus/rhel9/9.2/x86_64/dirsrv/12/source/SRPMS"
+			]
+		},
+		"dirsrv-12-for-rhel-9-x86_64-eus-source-rpms__9_DOT_4": {
+			"cpes": [
+				"cpe:/a:redhat:directory_server_eus:12.4::el9"
+			],
+			"repo_relative_urls": [
+				"content/eus/rhel9/9.4/x86_64/dirsrv/12/source/SRPMS"
 			]
 		},
 		"dirsrv-12-for-rhel-9-x86_64-rpms": {
@@ -79048,6 +79105,7 @@
 				"cpe:/a:redhat:openshift_ai:2.12::el8",
 				"cpe:/a:redhat:openshift_ai:2.13::el8",
 				"cpe:/a:redhat:openshift_ai:2.14::el8",
+				"cpe:/a:redhat:openshift_ai:2.15::el8",
 				"cpe:/a:redhat:openshift_ai:2.6::el8",
 				"cpe:/a:redhat:openshift_ai:2.7::el8",
 				"cpe:/a:redhat:openshift_ai:2.8::el8",
@@ -79064,6 +79122,7 @@
 				"cpe:/a:redhat:openshift_ai:2.12::el8",
 				"cpe:/a:redhat:openshift_ai:2.13::el8",
 				"cpe:/a:redhat:openshift_ai:2.14::el8",
+				"cpe:/a:redhat:openshift_ai:2.15::el8",
 				"cpe:/a:redhat:openshift_ai:2.6::el8",
 				"cpe:/a:redhat:openshift_ai:2.7::el8",
 				"cpe:/a:redhat:openshift_ai:2.8::el8",
@@ -79080,6 +79139,7 @@
 				"cpe:/a:redhat:openshift_ai:2.12::el8",
 				"cpe:/a:redhat:openshift_ai:2.13::el8",
 				"cpe:/a:redhat:openshift_ai:2.14::el8",
+				"cpe:/a:redhat:openshift_ai:2.15::el8",
 				"cpe:/a:redhat:openshift_ai:2.6::el8",
 				"cpe:/a:redhat:openshift_ai:2.7::el8",
 				"cpe:/a:redhat:openshift_ai:2.8::el8",
@@ -87654,5 +87714,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-10-01T00:48:56.031Z"
+	"last_updated": "2024-10-02T00:50:38.960Z"
 }
