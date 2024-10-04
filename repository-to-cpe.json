@@ -40257,6 +40257,30 @@
 				"content/dist/rhel/power-le/7/7Server/ppc64le/os"
 			]
 		},
+		"rhel-7-for-power-le-satellite-6-client-2-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:satellite_client:6::el7"
+			],
+			"repo_relative_urls": [
+				"content/dist/rhel/power-le/7/7Server/ppc64le/sat-client-2/6/debug"
+			]
+		},
+		"rhel-7-for-power-le-satellite-6-client-2-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:satellite_client:6::el7"
+			],
+			"repo_relative_urls": [
+				"content/dist/rhel/power-le/7/7Server/ppc64le/sat-client-2/6/os"
+			]
+		},
+		"rhel-7-for-power-le-satellite-6-client-2-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:satellite_client:6::el7"
+			],
+			"repo_relative_urls": [
+				"content/dist/rhel/power-le/7/7Server/ppc64le/sat-client-2/6/source/SRPMS"
+			]
+		},
 		"rhel-7-for-power-le-satellite-client-6-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:rhel_satellite_client:6::el7"
@@ -40684,6 +40708,30 @@
 			"repo_relative_urls": [
 				"content/dist/rhel/power/7/7.9/ppc64/os",
 				"content/dist/rhel/power/7/7Server/ppc64/os"
+			]
+		},
+		"rhel-7-for-power-satellite-6-client-2-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:satellite_client:6::el7"
+			],
+			"repo_relative_urls": [
+				"content/dist/rhel/power/7/7Server/ppc64/sat-client-2/6/debug"
+			]
+		},
+		"rhel-7-for-power-satellite-6-client-2-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:satellite_client:6::el7"
+			],
+			"repo_relative_urls": [
+				"content/dist/rhel/power/7/7Server/ppc64/sat-client-2/6/os"
+			]
+		},
+		"rhel-7-for-power-satellite-6-client-2-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:satellite_client:6::el7"
+			],
+			"repo_relative_urls": [
+				"content/dist/rhel/power/7/7Server/ppc64/sat-client-2/6/source/SRPMS"
 			]
 		},
 		"rhel-7-for-power-satellite-client-6-debug-rpms": {
@@ -42799,6 +42847,30 @@
 			"repo_relative_urls": [
 				"content/dist/rhel/system-z/7/7.9/s390x/os",
 				"content/dist/rhel/system-z/7/7Server/s390x/os"
+			]
+		},
+		"rhel-7-for-system-z-satellite-6-client-2-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:satellite_client:6::el7"
+			],
+			"repo_relative_urls": [
+				"content/dist/rhel/system-z/7/7Server/s390x/sat-client-2/6/debug"
+			]
+		},
+		"rhel-7-for-system-z-satellite-6-client-2-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:satellite_client:6::el7"
+			],
+			"repo_relative_urls": [
+				"content/dist/rhel/system-z/7/7Server/s390x/sat-client-2/6/os"
+			]
+		},
+		"rhel-7-for-system-z-satellite-6-client-2-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:satellite_client:6::el7"
+			],
+			"repo_relative_urls": [
+				"content/dist/rhel/system-z/7/7Server/s390x/sat-client-2/6/source/SRPMS"
 			]
 		},
 		"rhel-7-for-system-z-satellite-client-6-debug-rpms": {
@@ -53152,6 +53224,30 @@
 			"repo_relative_urls": [
 				"content/dist/rhel/server/7/7.9/x86_64/rt/source/SRPMS",
 				"content/dist/rhel/server/7/7Server/x86_64/rt/source/SRPMS"
+			]
+		},
+		"rhel-7-server-satellite-6-client-2-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:satellite_client:6::el7"
+			],
+			"repo_relative_urls": [
+				"content/dist/rhel/server/7/7Server/x86_64/sat-client-2/6/debug"
+			]
+		},
+		"rhel-7-server-satellite-6-client-2-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:satellite_client:6::el7"
+			],
+			"repo_relative_urls": [
+				"content/dist/rhel/server/7/7Server/x86_64/sat-client-2/6/os"
+			]
+		},
+		"rhel-7-server-satellite-6-client-2-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:satellite_client:6::el7"
+			],
+			"repo_relative_urls": [
+				"content/dist/rhel/server/7/7Server/x86_64/sat-client-2/6/source/SRPMS"
 			]
 		},
 		"rhel-7-server-satellite-6.0-debug-rpms": {
@@ -84223,6 +84319,198 @@
 				"content/dist/layered/rhel8/x86_64/rosa/1.0/source/SRPMS"
 			]
 		},
+		"satellite-6-client-2-for-rhel-8-aarch64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:satellite_client:6::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/aarch64/sat-client-2/6/debug"
+			]
+		},
+		"satellite-6-client-2-for-rhel-8-aarch64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:satellite_client:6::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/aarch64/sat-client-2/6/os"
+			]
+		},
+		"satellite-6-client-2-for-rhel-8-aarch64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:satellite_client:6::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/aarch64/sat-client-2/6/source/SRPMS"
+			]
+		},
+		"satellite-6-client-2-for-rhel-8-ppc64le-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:satellite_client:6::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/ppc64le/sat-client-2/6/debug"
+			]
+		},
+		"satellite-6-client-2-for-rhel-8-ppc64le-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:satellite_client:6::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/ppc64le/sat-client-2/6/os"
+			]
+		},
+		"satellite-6-client-2-for-rhel-8-ppc64le-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:satellite_client:6::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/ppc64le/sat-client-2/6/source/SRPMS"
+			]
+		},
+		"satellite-6-client-2-for-rhel-8-s390x-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:satellite_client:6::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/s390x/sat-client-2/6/debug"
+			]
+		},
+		"satellite-6-client-2-for-rhel-8-s390x-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:satellite_client:6::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/s390x/sat-client-2/6/os"
+			]
+		},
+		"satellite-6-client-2-for-rhel-8-s390x-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:satellite_client:6::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/s390x/sat-client-2/6/source/SRPMS"
+			]
+		},
+		"satellite-6-client-2-for-rhel-8-x86_64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:satellite_client:6::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/sat-client-2/6/debug"
+			]
+		},
+		"satellite-6-client-2-for-rhel-8-x86_64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:satellite_client:6::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/sat-client-2/6/os"
+			]
+		},
+		"satellite-6-client-2-for-rhel-8-x86_64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:satellite_client:6::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/sat-client-2/6/source/SRPMS"
+			]
+		},
+		"satellite-6-client-2-for-rhel-9-aarch64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_satellite_client:6::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/aarch64/sat-client-2/6/debug"
+			]
+		},
+		"satellite-6-client-2-for-rhel-9-aarch64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_satellite_client:6::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/aarch64/sat-client-2/6/os"
+			]
+		},
+		"satellite-6-client-2-for-rhel-9-aarch64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_satellite_client:6::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/aarch64/sat-client-2/6/source/SRPMS"
+			]
+		},
+		"satellite-6-client-2-for-rhel-9-ppc64le-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_satellite_client:6::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/ppc64le/sat-client-2/6/debug"
+			]
+		},
+		"satellite-6-client-2-for-rhel-9-ppc64le-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_satellite_client:6::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/ppc64le/sat-client-2/6/os"
+			]
+		},
+		"satellite-6-client-2-for-rhel-9-ppc64le-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_satellite_client:6::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/ppc64le/sat-client-2/6/source/SRPMS"
+			]
+		},
+		"satellite-6-client-2-for-rhel-9-s390x-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_satellite_client:6::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/s390x/sat-client-2/6/debug"
+			]
+		},
+		"satellite-6-client-2-for-rhel-9-s390x-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_satellite_client:6::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/s390x/sat-client-2/6/os"
+			]
+		},
+		"satellite-6-client-2-for-rhel-9-s390x-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_satellite_client:6::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/s390x/sat-client-2/6/source/SRPMS"
+			]
+		},
+		"satellite-6-client-2-for-rhel-9-x86_64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_satellite_client:6::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/sat-client-2/6/debug"
+			]
+		},
+		"satellite-6-client-2-for-rhel-9-x86_64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_satellite_client:6::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/sat-client-2/6/os"
+			]
+		},
+		"satellite-6-client-2-for-rhel-9-x86_64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:rhel_satellite_client:6::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/sat-client-2/6/source/SRPMS"
+			]
+		},
 		"satellite-6.11-for-rhel-8-x86_64-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:satellite:6.11::el8"
@@ -87714,5 +88002,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-10-03T00:49:08.884Z"
+	"last_updated": "2024-10-04T00:57:50.536Z"
 }
