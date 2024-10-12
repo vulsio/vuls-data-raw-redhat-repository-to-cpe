@@ -4744,6 +4744,30 @@
 				"content/dist/layered/rhel8/x86_64/certsys/10.6/source/SRPMS"
 			]
 		},
+		"certsys-10.8-for-rhel-8-x86_64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:certificate_system:10.8::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/certsys/10.8/debug"
+			]
+		},
+		"certsys-10.8-for-rhel-8-x86_64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:certificate_system:10.8::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/certsys/10.8/os"
+			]
+		},
+		"certsys-10.8-for-rhel-8-x86_64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:certificate_system:10.8::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/certsys/10.8/source/SRPMS"
+			]
+		},
 		"cf-me-5.1-for-rhel-5-rpms": {
 			"cpes": [
 				"cpe:/a:cloudforms_managementengine:5::el5"
@@ -7584,6 +7608,30 @@
 			],
 			"repo_relative_urls": [
 				"content/public/addon/dist/convert2rhel8/8/x86_64/source/SRPMS"
+			]
+		},
+		"convert2rhel-for-rhel-9-x86_64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:convert2rhel:::el9"
+			],
+			"repo_relative_urls": [
+				"content/public/addon/dist/convert2rhel9/9/x86_64/debug"
+			]
+		},
+		"convert2rhel-for-rhel-9-x86_64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:convert2rhel:::el9"
+			],
+			"repo_relative_urls": [
+				"content/public/addon/dist/convert2rhel9/9/x86_64/os"
+			]
+		},
+		"convert2rhel-for-rhel-9-x86_64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:convert2rhel:::el9"
+			],
+			"repo_relative_urls": [
+				"content/public/addon/dist/convert2rhel9/9/x86_64/source/SRPMS"
 			]
 		},
 		"costmanagement-1-for-rhel-8-x86_64-rpms": {
@@ -12856,6 +12904,22 @@
 				"content/dist/layered/rhel9/x86_64/multicluster-globalhub-textonly/1.2/os"
 			]
 		},
+		"multicluster-globalhub-1.3-for-rhel-9-textonly-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:multicluster_globalhub:1.3::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/multicluster-globalhub-textonly/1.3/os"
+			]
+		},
+		"multicluster-globalhub-1.4-for-rhel-9-textonly-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:multicluster_globalhub:1.4::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/multicluster-globalhub-textonly/1.4/os"
+			]
+		},
 		"nbde-tang-server-1-for-rhel-9-x86_64-textonly-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:network_bound_disk_encryption_tang:1.0::el9"
@@ -14953,12 +15017,36 @@
 				"content/dist/middleware/openliberty/1.0/x86_64/os"
 			]
 		},
+		"openshift-builds-1-for-rhel-8-aarch64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_builds:1.1::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/aarch64/openshift-builds/1/debug"
+			]
+		},
 		"openshift-builds-1-for-rhel-8-aarch64-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:openshift_builds:1.1::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/aarch64/openshift-builds/1/os"
+			]
+		},
+		"openshift-builds-1-for-rhel-8-aarch64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_builds:1.1::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/aarch64/openshift-builds/1/source/SRPMS"
+			]
+		},
+		"openshift-builds-1-for-rhel-8-ppc64le-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_builds:1.1::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/ppc64le/openshift-builds/1/debug"
 			]
 		},
 		"openshift-builds-1-for-rhel-8-ppc64le-rpms": {
@@ -14969,6 +15057,22 @@
 				"content/dist/layered/rhel8/ppc64le/openshift-builds/1/os"
 			]
 		},
+		"openshift-builds-1-for-rhel-8-ppc64le-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_builds:1.1::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/ppc64le/openshift-builds/1/source/SRPMS"
+			]
+		},
+		"openshift-builds-1-for-rhel-8-s390x-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_builds:1.1::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/s390x/openshift-builds/1/debug"
+			]
+		},
 		"openshift-builds-1-for-rhel-8-s390x-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:openshift_builds:1.1::el8"
@@ -14977,12 +15081,36 @@
 				"content/dist/layered/rhel8/s390x/openshift-builds/1/os"
 			]
 		},
+		"openshift-builds-1-for-rhel-8-s390x-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_builds:1.1::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/s390x/openshift-builds/1/source/SRPMS"
+			]
+		},
+		"openshift-builds-1-for-rhel-8-x86_64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_builds:1.1::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/openshift-builds/1/debug"
+			]
+		},
 		"openshift-builds-1-for-rhel-8-x86_64-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:openshift_builds:1.1::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/openshift-builds/1/os"
+			]
+		},
+		"openshift-builds-1-for-rhel-8-x86_64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_builds:1.1::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/openshift-builds/1/source/SRPMS"
 			]
 		},
 		"openshift-builds-1.0-for-rhel-8-aarch64-debug-rpms": {
@@ -79588,6 +79716,7 @@
 				"cpe:/a:redhat:openshift_ai:2.13::el8",
 				"cpe:/a:redhat:openshift_ai:2.14::el8",
 				"cpe:/a:redhat:openshift_ai:2.15::el8",
+				"cpe:/a:redhat:openshift_ai:2.16::el8",
 				"cpe:/a:redhat:openshift_ai:2.6::el8",
 				"cpe:/a:redhat:openshift_ai:2.7::el8",
 				"cpe:/a:redhat:openshift_ai:2.8::el8",
@@ -79605,6 +79734,7 @@
 				"cpe:/a:redhat:openshift_ai:2.13::el8",
 				"cpe:/a:redhat:openshift_ai:2.14::el8",
 				"cpe:/a:redhat:openshift_ai:2.15::el8",
+				"cpe:/a:redhat:openshift_ai:2.16::el8",
 				"cpe:/a:redhat:openshift_ai:2.6::el8",
 				"cpe:/a:redhat:openshift_ai:2.7::el8",
 				"cpe:/a:redhat:openshift_ai:2.8::el8",
@@ -79622,6 +79752,7 @@
 				"cpe:/a:redhat:openshift_ai:2.13::el8",
 				"cpe:/a:redhat:openshift_ai:2.14::el8",
 				"cpe:/a:redhat:openshift_ai:2.15::el8",
+				"cpe:/a:redhat:openshift_ai:2.16::el8",
 				"cpe:/a:redhat:openshift_ai:2.6::el8",
 				"cpe:/a:redhat:openshift_ai:2.7::el8",
 				"cpe:/a:redhat:openshift_ai:2.8::el8",
@@ -88400,5 +88531,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-10-11T00:49:45.951Z"
+	"last_updated": "2024-10-12T00:47:24.540Z"
 }
