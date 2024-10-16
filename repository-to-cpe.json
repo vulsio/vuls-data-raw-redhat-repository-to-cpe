@@ -11883,7 +11883,8 @@
 		},
 		"jws-6-for-rhel-7-server-debug-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:jboss_enterprise_web_server:6.0::el7"
+				"cpe:/a:redhat:jboss_enterprise_web_server:6.0::el7",
+				"cpe:/a:redhat:jboss_enterprise_web_server:6.1::el7"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel/server/7/7Server/x86_64/jws/6/debug"
@@ -11891,7 +11892,8 @@
 		},
 		"jws-6-for-rhel-7-server-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:jboss_enterprise_web_server:6.0::el7"
+				"cpe:/a:redhat:jboss_enterprise_web_server:6.0::el7",
+				"cpe:/a:redhat:jboss_enterprise_web_server:6.1::el7"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel/server/7/7Server/x86_64/jws/6/os"
@@ -11899,7 +11901,8 @@
 		},
 		"jws-6-for-rhel-7-server-source-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:jboss_enterprise_web_server:6.0::el7"
+				"cpe:/a:redhat:jboss_enterprise_web_server:6.0::el7",
+				"cpe:/a:redhat:jboss_enterprise_web_server:6.1::el7"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel/server/7/7Server/x86_64/jws/6/source/SRPMS"
@@ -11907,7 +11910,8 @@
 		},
 		"jws-6-for-rhel-8-x86_64-debug-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:jboss_enterprise_web_server:6.0::el8"
+				"cpe:/a:redhat:jboss_enterprise_web_server:6.0::el8",
+				"cpe:/a:redhat:jboss_enterprise_web_server:6.1::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/jws/6/debug"
@@ -11915,7 +11919,8 @@
 		},
 		"jws-6-for-rhel-8-x86_64-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:jboss_enterprise_web_server:6.0::el8"
+				"cpe:/a:redhat:jboss_enterprise_web_server:6.0::el8",
+				"cpe:/a:redhat:jboss_enterprise_web_server:6.1::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/jws/6/os"
@@ -11923,7 +11928,8 @@
 		},
 		"jws-6-for-rhel-8-x86_64-source-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:jboss_enterprise_web_server:6.0::el8"
+				"cpe:/a:redhat:jboss_enterprise_web_server:6.0::el8",
+				"cpe:/a:redhat:jboss_enterprise_web_server:6.1::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/jws/6/source/SRPMS"
@@ -11931,7 +11937,8 @@
 		},
 		"jws-6-for-rhel-9-x86_64-debug-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:jboss_enterprise_web_server:6.0::el9"
+				"cpe:/a:redhat:jboss_enterprise_web_server:6.0::el9",
+				"cpe:/a:redhat:jboss_enterprise_web_server:6.1::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/x86_64/jws/6/debug"
@@ -11939,7 +11946,8 @@
 		},
 		"jws-6-for-rhel-9-x86_64-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:jboss_enterprise_web_server:6.0::el9"
+				"cpe:/a:redhat:jboss_enterprise_web_server:6.0::el9",
+				"cpe:/a:redhat:jboss_enterprise_web_server:6.1::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/x86_64/jws/6/os"
@@ -11947,7 +11955,8 @@
 		},
 		"jws-6-for-rhel-9-x86_64-source-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:jboss_enterprise_web_server:6.0::el9"
+				"cpe:/a:redhat:jboss_enterprise_web_server:6.0::el9",
+				"cpe:/a:redhat:jboss_enterprise_web_server:6.1::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/x86_64/jws/6/source/SRPMS"
@@ -18481,8 +18490,7 @@
 			"cpes": [
 				"cpe:/a:redhat:quarkus:2.13::el8",
 				"cpe:/a:redhat:quarkus:3.2::el8",
-				"cpe:/a:redhat:quarkus:3.8::el8",
-				"cpe:/a:redhat:quarkus:::el6"
+				"cpe:/a:redhat:quarkus:3.8::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/middleware/quarkus/1.0/x86_64/os"
@@ -20183,14 +20191,6 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/middleware/rhboac-hwt/1/x86_64/os"
-			]
-		},
-		"rhbop-textonly-1-for-middleware-rpms": {
-			"cpes": [
-				"cpe:/a:redhat:optaplanner:::el6"
-			],
-			"repo_relative_urls": [
-				"content/dist/rhel/server/6/6Server/x86_64/rhbop-textonly/1/os"
 			]
 		},
 		"rhceph-4-mon-for-rhel-8-ppc64le-debug-rpms": {
@@ -88531,5 +88531,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-10-15T00:50:01.912Z"
+	"last_updated": "2024-10-16T01:31:55.035Z"
 }
