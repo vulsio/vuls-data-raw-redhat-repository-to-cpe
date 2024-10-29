@@ -56323,8 +56323,7 @@
 		},
 		"rhel-8-for-aarch64-appstream-debug-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:8::appstream",
-				"cpe:/a:redhat:rhel:8::appstream"
+				"cpe:/a:redhat:enterprise_linux:8::appstream"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.10/aarch64/appstream/debug",
@@ -56588,8 +56587,7 @@
 		},
 		"rhel-8-for-aarch64-appstream-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:8::appstream",
-				"cpe:/a:redhat:rhel:8::appstream"
+				"cpe:/a:redhat:enterprise_linux:8::appstream"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.10/aarch64/appstream/os",
@@ -56601,8 +56599,7 @@
 		},
 		"rhel-8-for-aarch64-appstream-source-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:8::appstream",
-				"cpe:/a:redhat:rhel:8::appstream"
+				"cpe:/a:redhat:enterprise_linux:8::appstream"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.10/aarch64/appstream/source/SRPMS",
@@ -56614,8 +56611,7 @@
 		},
 		"rhel-8-for-aarch64-baseos-debug-rpms": {
 			"cpes": [
-				"cpe:/o:redhat:enterprise_linux:8::baseos",
-				"cpe:/o:redhat:rhel:8::baseos"
+				"cpe:/o:redhat:enterprise_linux:8::baseos"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.10/aarch64/baseos/debug",
@@ -56879,8 +56875,7 @@
 		},
 		"rhel-8-for-aarch64-baseos-rpms": {
 			"cpes": [
-				"cpe:/o:redhat:enterprise_linux:8::baseos",
-				"cpe:/o:redhat:rhel:8::baseos"
+				"cpe:/o:redhat:enterprise_linux:8::baseos"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.10/aarch64/baseos/os",
@@ -56892,8 +56887,7 @@
 		},
 		"rhel-8-for-aarch64-baseos-source-rpms": {
 			"cpes": [
-				"cpe:/o:redhat:enterprise_linux:8::baseos",
-				"cpe:/o:redhat:rhel:8::baseos"
+				"cpe:/o:redhat:enterprise_linux:8::baseos"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.10/aarch64/baseos/source/SRPMS",
@@ -57313,8 +57307,7 @@
 		},
 		"rhel-8-for-ppc64le-appstream-debug-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:8::appstream",
-				"cpe:/a:redhat:rhel:8::appstream"
+				"cpe:/a:redhat:enterprise_linux:8::appstream"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.10/ppc64le/appstream/debug",
@@ -57710,8 +57703,7 @@
 		},
 		"rhel-8-for-ppc64le-appstream-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:8::appstream",
-				"cpe:/a:redhat:rhel:8::appstream"
+				"cpe:/a:redhat:enterprise_linux:8::appstream"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.10/ppc64le/appstream/os",
@@ -57723,8 +57715,7 @@
 		},
 		"rhel-8-for-ppc64le-appstream-source-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:8::appstream",
-				"cpe:/a:redhat:rhel:8::appstream"
+				"cpe:/a:redhat:enterprise_linux:8::appstream"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.10/ppc64le/appstream/source/SRPMS",
@@ -57736,8 +57727,7 @@
 		},
 		"rhel-8-for-ppc64le-baseos-debug-rpms": {
 			"cpes": [
-				"cpe:/o:redhat:enterprise_linux:8::baseos",
-				"cpe:/o:redhat:rhel:8::baseos"
+				"cpe:/o:redhat:enterprise_linux:8::baseos"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.10/ppc64le/baseos/debug",
@@ -58133,8 +58123,7 @@
 		},
 		"rhel-8-for-ppc64le-baseos-rpms": {
 			"cpes": [
-				"cpe:/o:redhat:enterprise_linux:8::baseos",
-				"cpe:/o:redhat:rhel:8::baseos"
+				"cpe:/o:redhat:enterprise_linux:8::baseos"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.10/ppc64le/baseos/os",
@@ -58146,8 +58135,7 @@
 		},
 		"rhel-8-for-ppc64le-baseos-source-rpms": {
 			"cpes": [
-				"cpe:/o:redhat:enterprise_linux:8::baseos",
-				"cpe:/o:redhat:rhel:8::baseos"
+				"cpe:/o:redhat:enterprise_linux:8::baseos"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.10/ppc64le/baseos/source/SRPMS",
@@ -59827,8 +59815,7 @@
 		},
 		"rhel-8-for-s390x-appstream-debug-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:8::appstream",
-				"cpe:/a:redhat:rhel:8::appstream"
+				"cpe:/a:redhat:enterprise_linux:8::appstream"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.10/s390x/appstream/debug",
@@ -60092,8 +60079,7 @@
 		},
 		"rhel-8-for-s390x-appstream-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:8::appstream",
-				"cpe:/a:redhat:rhel:8::appstream"
+				"cpe:/a:redhat:enterprise_linux:8::appstream"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.10/s390x/appstream/os",
@@ -60105,8 +60091,7 @@
 		},
 		"rhel-8-for-s390x-appstream-source-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:8::appstream",
-				"cpe:/a:redhat:rhel:8::appstream"
+				"cpe:/a:redhat:enterprise_linux:8::appstream"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.10/s390x/appstream/source/SRPMS",
@@ -60118,8 +60103,7 @@
 		},
 		"rhel-8-for-s390x-baseos-debug-rpms": {
 			"cpes": [
-				"cpe:/o:redhat:enterprise_linux:8::baseos",
-				"cpe:/o:redhat:rhel:8::baseos"
+				"cpe:/o:redhat:enterprise_linux:8::baseos"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.10/s390x/baseos/debug",
@@ -60383,8 +60367,7 @@
 		},
 		"rhel-8-for-s390x-baseos-rpms": {
 			"cpes": [
-				"cpe:/o:redhat:enterprise_linux:8::baseos",
-				"cpe:/o:redhat:rhel:8::baseos"
+				"cpe:/o:redhat:enterprise_linux:8::baseos"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.10/s390x/baseos/os",
@@ -60396,8 +60379,7 @@
 		},
 		"rhel-8-for-s390x-baseos-source-rpms": {
 			"cpes": [
-				"cpe:/o:redhat:enterprise_linux:8::baseos",
-				"cpe:/o:redhat:rhel:8::baseos"
+				"cpe:/o:redhat:enterprise_linux:8::baseos"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.10/s390x/baseos/source/SRPMS",
@@ -61342,8 +61324,7 @@
 		},
 		"rhel-8-for-x86_64-appstream-debug-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:8::appstream",
-				"cpe:/a:redhat:rhel:8::appstream"
+				"cpe:/a:redhat:enterprise_linux:8::appstream"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.10/x86_64/appstream/debug",
@@ -61739,8 +61720,7 @@
 		},
 		"rhel-8-for-x86_64-appstream-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:8::appstream",
-				"cpe:/a:redhat:rhel:8::appstream"
+				"cpe:/a:redhat:enterprise_linux:8::appstream"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.10/x86_64/appstream/os",
@@ -61752,8 +61732,7 @@
 		},
 		"rhel-8-for-x86_64-appstream-source-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:8::appstream",
-				"cpe:/a:redhat:rhel:8::appstream"
+				"cpe:/a:redhat:enterprise_linux:8::appstream"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.10/x86_64/appstream/source/SRPMS",
@@ -62032,8 +62011,7 @@
 		},
 		"rhel-8-for-x86_64-baseos-debug-rpms": {
 			"cpes": [
-				"cpe:/o:redhat:enterprise_linux:8::baseos",
-				"cpe:/o:redhat:rhel:8::baseos"
+				"cpe:/o:redhat:enterprise_linux:8::baseos"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.10/x86_64/baseos/debug",
@@ -62429,8 +62407,7 @@
 		},
 		"rhel-8-for-x86_64-baseos-rpms": {
 			"cpes": [
-				"cpe:/o:redhat:enterprise_linux:8::baseos",
-				"cpe:/o:redhat:rhel:8::baseos"
+				"cpe:/o:redhat:enterprise_linux:8::baseos"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.10/x86_64/baseos/os",
@@ -62442,8 +62419,7 @@
 		},
 		"rhel-8-for-x86_64-baseos-source-rpms": {
 			"cpes": [
-				"cpe:/o:redhat:enterprise_linux:8::baseos",
-				"cpe:/o:redhat:rhel:8::baseos"
+				"cpe:/o:redhat:enterprise_linux:8::baseos"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel8/8.10/x86_64/baseos/source/SRPMS",
@@ -63176,7 +63152,6 @@
 		"rhel-8-for-x86_64-nfv-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:enterprise_linux:8::nfv",
-				"cpe:/a:redhat:rhel_extras_nfv:8",
 				"cpe:/a:redhat:rhel_extras_rt:8"
 			],
 			"repo_relative_urls": [
@@ -63268,7 +63243,6 @@
 		"rhel-8-for-x86_64-nfv-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:enterprise_linux:8::nfv",
-				"cpe:/a:redhat:rhel_extras_nfv:8",
 				"cpe:/a:redhat:rhel_extras_rt:8"
 			],
 			"repo_relative_urls": [
@@ -63282,7 +63256,6 @@
 		"rhel-8-for-x86_64-nfv-source-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:enterprise_linux:8::nfv",
-				"cpe:/a:redhat:rhel_extras_nfv:8",
 				"cpe:/a:redhat:rhel_extras_rt:8"
 			],
 			"repo_relative_urls": [
@@ -88925,5 +88898,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-10-28T00:51:52.527Z"
+	"last_updated": "2024-10-29T00:50:56.787Z"
 }
