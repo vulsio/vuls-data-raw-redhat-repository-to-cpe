@@ -81392,6 +81392,7 @@
 		},
 		"rhocp-4.14-for-rhel-9-s390x-debug-rpms": {
 			"cpes": [
+				"cpe:/a:redhat:openshift:4.14::el9",
 				"cpe:/a:redhat:openshift_sandboxed_containers:1.7::el9",
 				"cpe:/a:redhat:openshift_sandboxed_containers:1.8::el9"
 			],
@@ -81401,6 +81402,7 @@
 		},
 		"rhocp-4.14-for-rhel-9-s390x-rpms": {
 			"cpes": [
+				"cpe:/a:redhat:openshift:4.14::el9",
 				"cpe:/a:redhat:openshift_sandboxed_containers:1.7::el9",
 				"cpe:/a:redhat:openshift_sandboxed_containers:1.8::el9"
 			],
@@ -81410,6 +81412,7 @@
 		},
 		"rhocp-4.14-for-rhel-9-s390x-source-rpms": {
 			"cpes": [
+				"cpe:/a:redhat:openshift:4.14::el9",
 				"cpe:/a:redhat:openshift_sandboxed_containers:1.7::el9",
 				"cpe:/a:redhat:openshift_sandboxed_containers:1.8::el9"
 			],
@@ -81419,6 +81422,7 @@
 		},
 		"rhocp-4.14-for-rhel-9-x86_64-debug-rpms": {
 			"cpes": [
+				"cpe:/a:redhat:openshift:4.14::el9",
 				"cpe:/a:redhat:openshift_sandboxed_containers:1.7::el9",
 				"cpe:/a:redhat:openshift_sandboxed_containers:1.8::el9"
 			],
@@ -81428,6 +81432,7 @@
 		},
 		"rhocp-4.14-for-rhel-9-x86_64-rpms": {
 			"cpes": [
+				"cpe:/a:redhat:openshift:4.14::el9",
 				"cpe:/a:redhat:openshift_sandboxed_containers:1.7::el9",
 				"cpe:/a:redhat:openshift_sandboxed_containers:1.8::el9"
 			],
@@ -81437,6 +81442,7 @@
 		},
 		"rhocp-4.14-for-rhel-9-x86_64-source-rpms": {
 			"cpes": [
+				"cpe:/a:redhat:openshift:4.14::el9",
 				"cpe:/a:redhat:openshift_sandboxed_containers:1.7::el9",
 				"cpe:/a:redhat:openshift_sandboxed_containers:1.8::el9"
 			],
@@ -89524,5 +89530,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-10-30T00:50:22.929Z"
+	"last_updated": "2024-10-31T00:50:22.252Z"
 }
