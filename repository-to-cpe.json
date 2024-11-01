@@ -19093,6 +19093,7 @@
 		},
 		"quarkus-3-for-rhel-8-aarch64-debug-rpms": {
 			"cpes": [
+				"cpe:/a:redhat:quarkus:3.15::el8",
 				"cpe:/a:redhat:quarkus:3.2::el8",
 				"cpe:/a:redhat:quarkus:3.8::el8"
 			],
@@ -19102,6 +19103,7 @@
 		},
 		"quarkus-3-for-rhel-8-aarch64-rpms": {
 			"cpes": [
+				"cpe:/a:redhat:quarkus:3.15::el8",
 				"cpe:/a:redhat:quarkus:3.2::el8",
 				"cpe:/a:redhat:quarkus:3.8::el8"
 			],
@@ -19111,6 +19113,7 @@
 		},
 		"quarkus-3-for-rhel-8-aarch64-source-rpms": {
 			"cpes": [
+				"cpe:/a:redhat:quarkus:3.15::el8",
 				"cpe:/a:redhat:quarkus:3.2::el8",
 				"cpe:/a:redhat:quarkus:3.8::el8"
 			],
@@ -19120,6 +19123,7 @@
 		},
 		"quarkus-3-for-rhel-8-x86_64-debug-rpms": {
 			"cpes": [
+				"cpe:/a:redhat:quarkus:3.15::el8",
 				"cpe:/a:redhat:quarkus:3.2::el8",
 				"cpe:/a:redhat:quarkus:3.8::el8"
 			],
@@ -19129,6 +19133,7 @@
 		},
 		"quarkus-3-for-rhel-8-x86_64-rpms": {
 			"cpes": [
+				"cpe:/a:redhat:quarkus:3.15::el8",
 				"cpe:/a:redhat:quarkus:3.2::el8",
 				"cpe:/a:redhat:quarkus:3.8::el8"
 			],
@@ -19138,6 +19143,7 @@
 		},
 		"quarkus-3-for-rhel-8-x86_64-source-rpms": {
 			"cpes": [
+				"cpe:/a:redhat:quarkus:3.15::el8",
 				"cpe:/a:redhat:quarkus:3.2::el8",
 				"cpe:/a:redhat:quarkus:3.8::el8"
 			],
@@ -19148,6 +19154,7 @@
 		"quarkus-textonly-1-for-middleware-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:quarkus:2.13::el8",
+				"cpe:/a:redhat:quarkus:3.15::el8",
 				"cpe:/a:redhat:quarkus:3.2::el8",
 				"cpe:/a:redhat:quarkus:3.8::el8"
 			],
@@ -89530,5 +89537,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-10-31T00:50:22.252Z"
+	"last_updated": "2024-11-01T00:49:47.056Z"
 }
