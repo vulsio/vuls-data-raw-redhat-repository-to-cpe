@@ -15899,6 +15899,7 @@
 				"cpe:/a:redhat:openshift_serverless:1.32::el8",
 				"cpe:/a:redhat:openshift_serverless:1.33::el8",
 				"cpe:/a:redhat:openshift_serverless:1.34::el8",
+				"cpe:/a:redhat:openshift_serverless:1.35::el8",
 				"cpe:/a:redhat:serverless:1.0::el8"
 			],
 			"repo_relative_urls": [
@@ -15911,6 +15912,7 @@
 				"cpe:/a:redhat:openshift_serverless:1.32::el8",
 				"cpe:/a:redhat:openshift_serverless:1.33::el8",
 				"cpe:/a:redhat:openshift_serverless:1.34::el8",
+				"cpe:/a:redhat:openshift_serverless:1.35::el8",
 				"cpe:/a:redhat:serverless:1.0::el8"
 			],
 			"repo_relative_urls": [
@@ -15923,6 +15925,7 @@
 				"cpe:/a:redhat:openshift_serverless:1.32::el8",
 				"cpe:/a:redhat:openshift_serverless:1.33::el8",
 				"cpe:/a:redhat:openshift_serverless:1.34::el8",
+				"cpe:/a:redhat:openshift_serverless:1.35::el8",
 				"cpe:/a:redhat:serverless:1.0::el8"
 			],
 			"repo_relative_urls": [
@@ -15937,6 +15940,7 @@
 				"cpe:/a:redhat:openshift_serverless:1.32::el8",
 				"cpe:/a:redhat:openshift_serverless:1.33::el8",
 				"cpe:/a:redhat:openshift_serverless:1.34::el8",
+				"cpe:/a:redhat:openshift_serverless:1.35::el8",
 				"cpe:/a:redhat:serverless:1.0::el8"
 			],
 			"repo_relative_urls": [
@@ -15951,6 +15955,7 @@
 				"cpe:/a:redhat:openshift_serverless:1.32::el8",
 				"cpe:/a:redhat:openshift_serverless:1.33::el8",
 				"cpe:/a:redhat:openshift_serverless:1.34::el8",
+				"cpe:/a:redhat:openshift_serverless:1.35::el8",
 				"cpe:/a:redhat:serverless:1.0::el8"
 			],
 			"repo_relative_urls": [
@@ -15965,6 +15970,7 @@
 				"cpe:/a:redhat:openshift_serverless:1.32::el8",
 				"cpe:/a:redhat:openshift_serverless:1.33::el8",
 				"cpe:/a:redhat:openshift_serverless:1.34::el8",
+				"cpe:/a:redhat:openshift_serverless:1.35::el8",
 				"cpe:/a:redhat:serverless:1.0::el8"
 			],
 			"repo_relative_urls": [
@@ -15979,6 +15985,7 @@
 				"cpe:/a:redhat:openshift_serverless:1.32::el8",
 				"cpe:/a:redhat:openshift_serverless:1.33::el8",
 				"cpe:/a:redhat:openshift_serverless:1.34::el8",
+				"cpe:/a:redhat:openshift_serverless:1.35::el8",
 				"cpe:/a:redhat:serverless:1.0::el8"
 			],
 			"repo_relative_urls": [
@@ -15993,6 +16000,7 @@
 				"cpe:/a:redhat:openshift_serverless:1.32::el8",
 				"cpe:/a:redhat:openshift_serverless:1.33::el8",
 				"cpe:/a:redhat:openshift_serverless:1.34::el8",
+				"cpe:/a:redhat:openshift_serverless:1.35::el8",
 				"cpe:/a:redhat:serverless:1.0::el8"
 			],
 			"repo_relative_urls": [
@@ -16007,6 +16015,7 @@
 				"cpe:/a:redhat:openshift_serverless:1.32::el8",
 				"cpe:/a:redhat:openshift_serverless:1.33::el8",
 				"cpe:/a:redhat:openshift_serverless:1.34::el8",
+				"cpe:/a:redhat:openshift_serverless:1.35::el8",
 				"cpe:/a:redhat:serverless:1.0::el8"
 			],
 			"repo_relative_urls": [
@@ -16024,6 +16033,7 @@
 				"cpe:/a:redhat:openshift_serverless:1.32::el8",
 				"cpe:/a:redhat:openshift_serverless:1.33::el8",
 				"cpe:/a:redhat:openshift_serverless:1.34::el8",
+				"cpe:/a:redhat:openshift_serverless:1.35::el8",
 				"cpe:/a:redhat:serverless:1.0::el8",
 				"cpe:/a:redhat:serverless:1.10::el8",
 				"cpe:/a:redhat:serverless:1.11::el8",
@@ -16060,6 +16070,7 @@
 				"cpe:/a:redhat:openshift_serverless:1.32::el8",
 				"cpe:/a:redhat:openshift_serverless:1.33::el8",
 				"cpe:/a:redhat:openshift_serverless:1.34::el8",
+				"cpe:/a:redhat:openshift_serverless:1.35::el8",
 				"cpe:/a:redhat:serverless:1.0::el8",
 				"cpe:/a:redhat:serverless:1.10::el8",
 				"cpe:/a:redhat:serverless:1.11::el8",
@@ -16096,6 +16107,7 @@
 				"cpe:/a:redhat:openshift_serverless:1.32::el8",
 				"cpe:/a:redhat:openshift_serverless:1.33::el8",
 				"cpe:/a:redhat:openshift_serverless:1.34::el8",
+				"cpe:/a:redhat:openshift_serverless:1.35::el8",
 				"cpe:/a:redhat:serverless:1.0::el8",
 				"cpe:/a:redhat:serverless:1.10::el8",
 				"cpe:/a:redhat:serverless:1.11::el8",
@@ -89537,5 +89549,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-11-07T00:47:42.012Z"
+	"last_updated": "2024-11-08T00:48:41.490Z"
 }
