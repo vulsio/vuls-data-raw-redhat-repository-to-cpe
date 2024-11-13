@@ -85013,7 +85013,8 @@
 		"rhpm-1-for-rhel-9-aarch64-textonly-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:openshift_power_monitoring:0.1::el9",
-				"cpe:/a:redhat:openshift_power_monitoring:0.2::el9"
+				"cpe:/a:redhat:openshift_power_monitoring:0.2::el9",
+				"cpe:/a:redhat:openshift_power_monitoring:0.3::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/aarch64/rhpm/1/debug"
@@ -85022,7 +85023,8 @@
 		"rhpm-1-for-rhel-9-aarch64-textonly-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:openshift_power_monitoring:0.1::el9",
-				"cpe:/a:redhat:openshift_power_monitoring:0.2::el9"
+				"cpe:/a:redhat:openshift_power_monitoring:0.2::el9",
+				"cpe:/a:redhat:openshift_power_monitoring:0.3::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/aarch64/rhpm/1/os"
@@ -85031,7 +85033,8 @@
 		"rhpm-1-for-rhel-9-aarch64-textonly-source-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:openshift_power_monitoring:0.1::el9",
-				"cpe:/a:redhat:openshift_power_monitoring:0.2::el9"
+				"cpe:/a:redhat:openshift_power_monitoring:0.2::el9",
+				"cpe:/a:redhat:openshift_power_monitoring:0.3::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/aarch64/rhpm/1/source/SRPMS"
@@ -85040,7 +85043,8 @@
 		"rhpm-1-for-rhel-9-ppc64le-textonly-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:openshift_power_monitoring:0.1::el9",
-				"cpe:/a:redhat:openshift_power_monitoring:0.2::el9"
+				"cpe:/a:redhat:openshift_power_monitoring:0.2::el9",
+				"cpe:/a:redhat:openshift_power_monitoring:0.3::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/ppc64le/rhpm/1/debug"
@@ -85049,7 +85053,8 @@
 		"rhpm-1-for-rhel-9-ppc64le-textonly-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:openshift_power_monitoring:0.1::el9",
-				"cpe:/a:redhat:openshift_power_monitoring:0.2::el9"
+				"cpe:/a:redhat:openshift_power_monitoring:0.2::el9",
+				"cpe:/a:redhat:openshift_power_monitoring:0.3::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/ppc64le/rhpm/1/os"
@@ -85058,7 +85063,8 @@
 		"rhpm-1-for-rhel-9-ppc64le-textonly-source-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:openshift_power_monitoring:0.1::el9",
-				"cpe:/a:redhat:openshift_power_monitoring:0.2::el9"
+				"cpe:/a:redhat:openshift_power_monitoring:0.2::el9",
+				"cpe:/a:redhat:openshift_power_monitoring:0.3::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/ppc64le/rhpm/1/source/SRPMS"
@@ -85067,7 +85073,8 @@
 		"rhpm-1-for-rhel-9-s390x-textonly-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:openshift_power_monitoring:0.1::el9",
-				"cpe:/a:redhat:openshift_power_monitoring:0.2::el9"
+				"cpe:/a:redhat:openshift_power_monitoring:0.2::el9",
+				"cpe:/a:redhat:openshift_power_monitoring:0.3::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/s390x/rhpm/1/debug"
@@ -85076,7 +85083,8 @@
 		"rhpm-1-for-rhel-9-s390x-textonly-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:openshift_power_monitoring:0.1::el9",
-				"cpe:/a:redhat:openshift_power_monitoring:0.2::el9"
+				"cpe:/a:redhat:openshift_power_monitoring:0.2::el9",
+				"cpe:/a:redhat:openshift_power_monitoring:0.3::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/s390x/rhpm/1/os"
@@ -85085,7 +85093,8 @@
 		"rhpm-1-for-rhel-9-s390x-textonly-source-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:openshift_power_monitoring:0.1::el9",
-				"cpe:/a:redhat:openshift_power_monitoring:0.2::el9"
+				"cpe:/a:redhat:openshift_power_monitoring:0.2::el9",
+				"cpe:/a:redhat:openshift_power_monitoring:0.3::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/s390x/rhpm/1/source/SRPMS"
@@ -85094,7 +85103,8 @@
 		"rhpm-1-for-rhel-9-x86_64-textonly-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:openshift_power_monitoring:0.1::el9",
-				"cpe:/a:redhat:openshift_power_monitoring:0.2::el9"
+				"cpe:/a:redhat:openshift_power_monitoring:0.2::el9",
+				"cpe:/a:redhat:openshift_power_monitoring:0.3::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/x86_64/rhpm/1/debug"
@@ -85103,7 +85113,8 @@
 		"rhpm-1-for-rhel-9-x86_64-textonly-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:openshift_power_monitoring:0.1::el9",
-				"cpe:/a:redhat:openshift_power_monitoring:0.2::el9"
+				"cpe:/a:redhat:openshift_power_monitoring:0.2::el9",
+				"cpe:/a:redhat:openshift_power_monitoring:0.3::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/x86_64/rhpm/1/os"
@@ -85112,7 +85123,8 @@
 		"rhpm-1-for-rhel-9-x86_64-textonly-source-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:openshift_power_monitoring:0.1::el9",
-				"cpe:/a:redhat:openshift_power_monitoring:0.2::el9"
+				"cpe:/a:redhat:openshift_power_monitoring:0.2::el9",
+				"cpe:/a:redhat:openshift_power_monitoring:0.3::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/x86_64/rhpm/1/source/SRPMS"
@@ -89549,5 +89561,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-11-12T00:49:25.375Z"
+	"last_updated": "2024-11-13T00:47:54.750Z"
 }
