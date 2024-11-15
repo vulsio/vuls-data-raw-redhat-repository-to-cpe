@@ -15685,102 +15685,6 @@
 				"content/dist/middleware/openliberty/1.0/x86_64/os"
 			]
 		},
-		"openshift-builds-1-for-rhel-8-aarch64-debug-rpms": {
-			"cpes": [
-				"cpe:/a:redhat:openshift_builds:1.1::el8"
-			],
-			"repo_relative_urls": [
-				"content/dist/layered/rhel8/aarch64/openshift-builds/1/debug"
-			]
-		},
-		"openshift-builds-1-for-rhel-8-aarch64-rpms": {
-			"cpes": [
-				"cpe:/a:redhat:openshift_builds:1.1::el8"
-			],
-			"repo_relative_urls": [
-				"content/dist/layered/rhel8/aarch64/openshift-builds/1/os"
-			]
-		},
-		"openshift-builds-1-for-rhel-8-aarch64-source-rpms": {
-			"cpes": [
-				"cpe:/a:redhat:openshift_builds:1.1::el8"
-			],
-			"repo_relative_urls": [
-				"content/dist/layered/rhel8/aarch64/openshift-builds/1/source/SRPMS"
-			]
-		},
-		"openshift-builds-1-for-rhel-8-ppc64le-debug-rpms": {
-			"cpes": [
-				"cpe:/a:redhat:openshift_builds:1.1::el8"
-			],
-			"repo_relative_urls": [
-				"content/dist/layered/rhel8/ppc64le/openshift-builds/1/debug"
-			]
-		},
-		"openshift-builds-1-for-rhel-8-ppc64le-rpms": {
-			"cpes": [
-				"cpe:/a:redhat:openshift_builds:1.1::el8"
-			],
-			"repo_relative_urls": [
-				"content/dist/layered/rhel8/ppc64le/openshift-builds/1/os"
-			]
-		},
-		"openshift-builds-1-for-rhel-8-ppc64le-source-rpms": {
-			"cpes": [
-				"cpe:/a:redhat:openshift_builds:1.1::el8"
-			],
-			"repo_relative_urls": [
-				"content/dist/layered/rhel8/ppc64le/openshift-builds/1/source/SRPMS"
-			]
-		},
-		"openshift-builds-1-for-rhel-8-s390x-debug-rpms": {
-			"cpes": [
-				"cpe:/a:redhat:openshift_builds:1.1::el8"
-			],
-			"repo_relative_urls": [
-				"content/dist/layered/rhel8/s390x/openshift-builds/1/debug"
-			]
-		},
-		"openshift-builds-1-for-rhel-8-s390x-rpms": {
-			"cpes": [
-				"cpe:/a:redhat:openshift_builds:1.1::el8"
-			],
-			"repo_relative_urls": [
-				"content/dist/layered/rhel8/s390x/openshift-builds/1/os"
-			]
-		},
-		"openshift-builds-1-for-rhel-8-s390x-source-rpms": {
-			"cpes": [
-				"cpe:/a:redhat:openshift_builds:1.1::el8"
-			],
-			"repo_relative_urls": [
-				"content/dist/layered/rhel8/s390x/openshift-builds/1/source/SRPMS"
-			]
-		},
-		"openshift-builds-1-for-rhel-8-x86_64-debug-rpms": {
-			"cpes": [
-				"cpe:/a:redhat:openshift_builds:1.1::el8"
-			],
-			"repo_relative_urls": [
-				"content/dist/layered/rhel8/x86_64/openshift-builds/1/debug"
-			]
-		},
-		"openshift-builds-1-for-rhel-8-x86_64-rpms": {
-			"cpes": [
-				"cpe:/a:redhat:openshift_builds:1.1::el8"
-			],
-			"repo_relative_urls": [
-				"content/dist/layered/rhel8/x86_64/openshift-builds/1/os"
-			]
-		},
-		"openshift-builds-1-for-rhel-8-x86_64-source-rpms": {
-			"cpes": [
-				"cpe:/a:redhat:openshift_builds:1.1::el8"
-			],
-			"repo_relative_urls": [
-				"content/dist/layered/rhel8/x86_64/openshift-builds/1/source/SRPMS"
-			]
-		},
 		"openshift-builds-1.0-for-rhel-8-aarch64-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:openshift_builds:1.0::el8"
@@ -20834,7 +20738,8 @@
 				"cpe:/a:redhat:advanced_cluster_security:4.2::el8",
 				"cpe:/a:redhat:advanced_cluster_security:4.3::el8",
 				"cpe:/a:redhat:advanced_cluster_security:4.4::el8",
-				"cpe:/a:redhat:advanced_cluster_security:4.5::el8"
+				"cpe:/a:redhat:advanced_cluster_security:4.5::el8",
+				"cpe:/a:redhat:advanced_cluster_security:4.6::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/ppc64le/rhacs/4/debug"
@@ -20847,7 +20752,8 @@
 				"cpe:/a:redhat:advanced_cluster_security:4.2::el8",
 				"cpe:/a:redhat:advanced_cluster_security:4.3::el8",
 				"cpe:/a:redhat:advanced_cluster_security:4.4::el8",
-				"cpe:/a:redhat:advanced_cluster_security:4.5::el8"
+				"cpe:/a:redhat:advanced_cluster_security:4.5::el8",
+				"cpe:/a:redhat:advanced_cluster_security:4.6::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/ppc64le/rhacs/4/os"
@@ -20860,7 +20766,8 @@
 				"cpe:/a:redhat:advanced_cluster_security:4.2::el8",
 				"cpe:/a:redhat:advanced_cluster_security:4.3::el8",
 				"cpe:/a:redhat:advanced_cluster_security:4.4::el8",
-				"cpe:/a:redhat:advanced_cluster_security:4.5::el8"
+				"cpe:/a:redhat:advanced_cluster_security:4.5::el8",
+				"cpe:/a:redhat:advanced_cluster_security:4.6::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/ppc64le/rhacs/4/source/SRPMS"
@@ -20873,7 +20780,8 @@
 				"cpe:/a:redhat:advanced_cluster_security:4.2::el8",
 				"cpe:/a:redhat:advanced_cluster_security:4.3::el8",
 				"cpe:/a:redhat:advanced_cluster_security:4.4::el8",
-				"cpe:/a:redhat:advanced_cluster_security:4.5::el8"
+				"cpe:/a:redhat:advanced_cluster_security:4.5::el8",
+				"cpe:/a:redhat:advanced_cluster_security:4.6::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/s390x/rhacs/4/debug"
@@ -20886,7 +20794,8 @@
 				"cpe:/a:redhat:advanced_cluster_security:4.2::el8",
 				"cpe:/a:redhat:advanced_cluster_security:4.3::el8",
 				"cpe:/a:redhat:advanced_cluster_security:4.4::el8",
-				"cpe:/a:redhat:advanced_cluster_security:4.5::el8"
+				"cpe:/a:redhat:advanced_cluster_security:4.5::el8",
+				"cpe:/a:redhat:advanced_cluster_security:4.6::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/s390x/rhacs/4/os"
@@ -20899,7 +20808,8 @@
 				"cpe:/a:redhat:advanced_cluster_security:4.2::el8",
 				"cpe:/a:redhat:advanced_cluster_security:4.3::el8",
 				"cpe:/a:redhat:advanced_cluster_security:4.4::el8",
-				"cpe:/a:redhat:advanced_cluster_security:4.5::el8"
+				"cpe:/a:redhat:advanced_cluster_security:4.5::el8",
+				"cpe:/a:redhat:advanced_cluster_security:4.6::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/s390x/rhacs/4/source/SRPMS"
@@ -20912,7 +20822,8 @@
 				"cpe:/a:redhat:advanced_cluster_security:4.2::el8",
 				"cpe:/a:redhat:advanced_cluster_security:4.3::el8",
 				"cpe:/a:redhat:advanced_cluster_security:4.4::el8",
-				"cpe:/a:redhat:advanced_cluster_security:4.5::el8"
+				"cpe:/a:redhat:advanced_cluster_security:4.5::el8",
+				"cpe:/a:redhat:advanced_cluster_security:4.6::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/rhacs/4/debug"
@@ -20925,7 +20836,8 @@
 				"cpe:/a:redhat:advanced_cluster_security:4.2::el8",
 				"cpe:/a:redhat:advanced_cluster_security:4.3::el8",
 				"cpe:/a:redhat:advanced_cluster_security:4.4::el8",
-				"cpe:/a:redhat:advanced_cluster_security:4.5::el8"
+				"cpe:/a:redhat:advanced_cluster_security:4.5::el8",
+				"cpe:/a:redhat:advanced_cluster_security:4.6::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/rhacs/4/os"
@@ -20938,7 +20850,8 @@
 				"cpe:/a:redhat:advanced_cluster_security:4.2::el8",
 				"cpe:/a:redhat:advanced_cluster_security:4.3::el8",
 				"cpe:/a:redhat:advanced_cluster_security:4.4::el8",
-				"cpe:/a:redhat:advanced_cluster_security:4.5::el8"
+				"cpe:/a:redhat:advanced_cluster_security:4.5::el8",
+				"cpe:/a:redhat:advanced_cluster_security:4.6::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/rhacs/4/source/SRPMS"
@@ -89657,5 +89570,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-11-14T00:49:35.707Z"
+	"last_updated": "2024-11-15T00:49:12.121Z"
 }
