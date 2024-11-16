@@ -20731,6 +20731,30 @@
 				"content/dist/layered/rhel8/x86_64/rhacs/3/source/SRPMS"
 			]
 		},
+		"rhacs-4-for-rhel-8-aarch64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:advanced_cluster_security:4.6::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/aarch64/rhacs/4/debug"
+			]
+		},
+		"rhacs-4-for-rhel-8-aarch64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:advanced_cluster_security:4.6::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/aarch64/rhacs/4/os"
+			]
+		},
+		"rhacs-4-for-rhel-8-aarch64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:advanced_cluster_security:4.6::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/aarch64/rhacs/4/source/SRPMS"
+			]
+		},
 		"rhacs-4-for-rhel-8-ppc64le-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:advanced_cluster_security:4.0::el8",
@@ -21967,6 +21991,168 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/x86_64/rhceph-tools/7/source/SRPMS"
+			]
+		},
+		"rhceph-8-tools-for-rhel-8-ppc64le-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:ceph_storage:8.0::el8",
+				"cpe:/a:redhat:ceph_storage:8.1::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/ppc64le/rhceph-tools/8/debug"
+			]
+		},
+		"rhceph-8-tools-for-rhel-8-ppc64le-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:ceph_storage:8.0::el8",
+				"cpe:/a:redhat:ceph_storage:8.1::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/ppc64le/rhceph-tools/8/os"
+			]
+		},
+		"rhceph-8-tools-for-rhel-8-ppc64le-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:ceph_storage:8.0::el8",
+				"cpe:/a:redhat:ceph_storage:8.1::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/ppc64le/rhceph-tools/8/source/SRPMS"
+			]
+		},
+		"rhceph-8-tools-for-rhel-8-s390x-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:ceph_storage:8.0::el8",
+				"cpe:/a:redhat:ceph_storage:8.1::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/s390x/rhceph-tools/8/debug"
+			]
+		},
+		"rhceph-8-tools-for-rhel-8-s390x-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:ceph_storage:8.0::el8",
+				"cpe:/a:redhat:ceph_storage:8.1::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/s390x/rhceph-tools/8/os"
+			]
+		},
+		"rhceph-8-tools-for-rhel-8-s390x-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:ceph_storage:8.0::el8",
+				"cpe:/a:redhat:ceph_storage:8.1::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/s390x/rhceph-tools/8/source/SRPMS"
+			]
+		},
+		"rhceph-8-tools-for-rhel-8-x86_64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:ceph_storage:8.0::el8",
+				"cpe:/a:redhat:ceph_storage:8.1::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/rhceph-tools/8/debug"
+			]
+		},
+		"rhceph-8-tools-for-rhel-8-x86_64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:ceph_storage:8.0::el8",
+				"cpe:/a:redhat:ceph_storage:8.1::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/rhceph-tools/8/os"
+			]
+		},
+		"rhceph-8-tools-for-rhel-8-x86_64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:ceph_storage:8.0::el8",
+				"cpe:/a:redhat:ceph_storage:8.1::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/rhceph-tools/8/source/SRPMS"
+			]
+		},
+		"rhceph-8-tools-for-rhel-9-ppc64le-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:ceph_storage:8.0::el9",
+				"cpe:/a:redhat:ceph_storage:8.1::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/ppc64le/rhceph-tools/8/debug"
+			]
+		},
+		"rhceph-8-tools-for-rhel-9-ppc64le-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:ceph_storage:8.0::el9",
+				"cpe:/a:redhat:ceph_storage:8.1::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/ppc64le/rhceph-tools/8/os"
+			]
+		},
+		"rhceph-8-tools-for-rhel-9-ppc64le-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:ceph_storage:8.0::el9",
+				"cpe:/a:redhat:ceph_storage:8.1::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/ppc64le/rhceph-tools/8/source/SRPMS"
+			]
+		},
+		"rhceph-8-tools-for-rhel-9-s390x-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:ceph_storage:8.0::el9",
+				"cpe:/a:redhat:ceph_storage:8.1::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/s390x/rhceph-tools/8/debug"
+			]
+		},
+		"rhceph-8-tools-for-rhel-9-s390x-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:ceph_storage:8.0::el9",
+				"cpe:/a:redhat:ceph_storage:8.1::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/s390x/rhceph-tools/8/os"
+			]
+		},
+		"rhceph-8-tools-for-rhel-9-s390x-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:ceph_storage:8.0::el9",
+				"cpe:/a:redhat:ceph_storage:8.1::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/s390x/rhceph-tools/8/source/SRPMS"
+			]
+		},
+		"rhceph-8-tools-for-rhel-9-x86_64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:ceph_storage:8.0::el9",
+				"cpe:/a:redhat:ceph_storage:8.1::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/rhceph-tools/8/debug"
+			]
+		},
+		"rhceph-8-tools-for-rhel-9-x86_64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:ceph_storage:8.0::el9",
+				"cpe:/a:redhat:ceph_storage:8.1::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/rhceph-tools/8/os"
+			]
+		},
+		"rhceph-8-tools-for-rhel-9-x86_64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:ceph_storage:8.0::el9",
+				"cpe:/a:redhat:ceph_storage:8.1::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/rhceph-tools/8/source/SRPMS"
 			]
 		},
 		"rhdh-1-for-rhel-9-x86_64-debug-rpms": {
@@ -89570,5 +89756,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-11-15T00:49:12.121Z"
+	"last_updated": "2024-11-16T00:48:35.418Z"
 }
