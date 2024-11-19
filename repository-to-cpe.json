@@ -8717,6 +8717,7 @@
 				"content/dist/rhel9/9.2/x86_64/dirsrv/12/debug",
 				"content/dist/rhel9/9.3/x86_64/dirsrv/12/debug",
 				"content/dist/rhel9/9.4/x86_64/dirsrv/12/debug",
+				"content/dist/rhel9/9.5/x86_64/dirsrv/12/debug",
 				"content/dist/rhel9/9/x86_64/dirsrv/12/debug"
 			]
 		},
@@ -8852,6 +8853,7 @@
 				"content/dist/rhel9/9.2/x86_64/dirsrv/12/os",
 				"content/dist/rhel9/9.3/x86_64/dirsrv/12/os",
 				"content/dist/rhel9/9.4/x86_64/dirsrv/12/os",
+				"content/dist/rhel9/9.5/x86_64/dirsrv/12/os",
 				"content/dist/rhel9/9/x86_64/dirsrv/12/os"
 			]
 		},
@@ -8870,6 +8872,7 @@
 				"content/dist/rhel9/9.2/x86_64/dirsrv/12/source/SRPMS",
 				"content/dist/rhel9/9.3/x86_64/dirsrv/12/source/SRPMS",
 				"content/dist/rhel9/9.4/x86_64/dirsrv/12/source/SRPMS",
+				"content/dist/rhel9/9.5/x86_64/dirsrv/12/source/SRPMS",
 				"content/dist/rhel9/9/x86_64/dirsrv/12/source/SRPMS"
 			]
 		},
@@ -89756,5 +89759,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-11-18T00:46:29.077Z"
+	"last_updated": "2024-11-19T00:47:38.556Z"
 }
