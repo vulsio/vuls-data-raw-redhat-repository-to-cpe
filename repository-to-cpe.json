@@ -15928,6 +15928,102 @@
 				"content/dist/layered/rhel8/x86_64/openshift-builds/1.1/source/SRPMS"
 			]
 		},
+		"openshift-builds-1.2-for-rhel-8-aarch64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_builds:1.2::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/aarch64/openshift-builds/1.2/debug"
+			]
+		},
+		"openshift-builds-1.2-for-rhel-8-aarch64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_builds:1.2::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/aarch64/openshift-builds/1.2/os"
+			]
+		},
+		"openshift-builds-1.2-for-rhel-8-aarch64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_builds:1.2::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/aarch64/openshift-builds/1.2/source/SRPMS"
+			]
+		},
+		"openshift-builds-1.2-for-rhel-8-ppc64le-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_builds:1.2::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/ppc64le/openshift-builds/1.2/debug"
+			]
+		},
+		"openshift-builds-1.2-for-rhel-8-ppc64le-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_builds:1.2::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/ppc64le/openshift-builds/1.2/os"
+			]
+		},
+		"openshift-builds-1.2-for-rhel-8-ppc64le-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_builds:1.2::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/ppc64le/openshift-builds/1.2/source/SRPMS"
+			]
+		},
+		"openshift-builds-1.2-for-rhel-8-s390x-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_builds:1.2::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/s390x/openshift-builds/1.2/debug"
+			]
+		},
+		"openshift-builds-1.2-for-rhel-8-s390x-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_builds:1.2::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/s390x/openshift-builds/1.2/os"
+			]
+		},
+		"openshift-builds-1.2-for-rhel-8-s390x-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_builds:1.2::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/s390x/openshift-builds/1.2/source/SRPMS"
+			]
+		},
+		"openshift-builds-1.2-for-rhel-8-x86_64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_builds:1.2::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/openshift-builds/1.2/debug"
+			]
+		},
+		"openshift-builds-1.2-for-rhel-8-x86_64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_builds:1.2::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/openshift-builds/1.2/os"
+			]
+		},
+		"openshift-builds-1.2-for-rhel-8-x86_64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:openshift_builds:1.2::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/openshift-builds/1.2/source/SRPMS"
+			]
+		},
 		"openshift-local-1-aarch64-textonly-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:openshift_local:2::el8"
@@ -89807,5 +89903,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-11-20T00:47:13.438Z"
+	"last_updated": "2024-11-21T00:48:53.036Z"
 }
