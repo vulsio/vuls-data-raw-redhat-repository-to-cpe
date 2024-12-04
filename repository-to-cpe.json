@@ -80611,52 +80611,52 @@
 				"content/dist/layered/rhel9/x86_64/rhelai-gaudi/1.3/source/SRPMS"
 			]
 		},
-		"rhivos-1-aarch64-debug-rpms": {
+		"rhivos-1-aarch64-tech-preview-debug-rpms": {
 			"cpes": [
 				"cpe:/o:redhat:rhivos:9.6::tech_preview"
 			],
 			"repo_relative_urls": [
-				"content/dist/rhivos1/1.0/aarch64/debug"
+				"content/beta/rhivos1/0.8/aarch64/debug"
 			]
 		},
-		"rhivos-1-aarch64-rpms": {
+		"rhivos-1-aarch64-tech-preview-rpms": {
 			"cpes": [
 				"cpe:/o:redhat:rhivos:9.6::tech_preview"
 			],
 			"repo_relative_urls": [
-				"content/dist/rhivos1/1.0/aarch64/os"
+				"content/beta/rhivos1/0.8/aarch64/os"
 			]
 		},
-		"rhivos-1-aarch64-source-rpms": {
+		"rhivos-1-aarch64-tech-preview-source-rpms": {
 			"cpes": [
 				"cpe:/o:redhat:rhivos:9.6::tech_preview"
 			],
 			"repo_relative_urls": [
-				"content/dist/rhivos1/1.0/aarch64/source/SRPMS"
+				"content/beta/rhivos1/0.8/aarch64/source/SRPMS"
 			]
 		},
-		"rhivos-1-x86_64-debug-rpms": {
+		"rhivos-1-x86_64-tech-preview-debug-rpms": {
 			"cpes": [
 				"cpe:/o:redhat:rhivos:9.6::tech_preview"
 			],
 			"repo_relative_urls": [
-				"content/dist/rhivos1/1.0/x86_64/debug"
+				"content/beta/rhivos1/0.8/x86_64/debug"
 			]
 		},
-		"rhivos-1-x86_64-rpms": {
+		"rhivos-1-x86_64-tech-preview-rpms": {
 			"cpes": [
 				"cpe:/o:redhat:rhivos:9.6::tech_preview"
 			],
 			"repo_relative_urls": [
-				"content/dist/rhivos1/1.0/x86_64/os"
+				"content/beta/rhivos1/0.8/x86_64/os"
 			]
 		},
-		"rhivos-1-x86_64-source-rpms": {
+		"rhivos-1-x86_64-tech-preview-source-rpms": {
 			"cpes": [
 				"cpe:/o:redhat:rhivos:9.6::tech_preview"
 			],
 			"repo_relative_urls": [
-				"content/dist/rhivos1/1.0/x86_64/source/SRPMS"
+				"content/beta/rhivos1/0.8/x86_64/source/SRPMS"
 			]
 		},
 		"rhmt-1.0-for-rhel-8-x86_64-debug-rpms": {
@@ -89909,5 +89909,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-12-03T00:48:02.428Z"
+	"last_updated": "2024-12-04T00:51:17.588Z"
 }
