@@ -8475,6 +8475,54 @@
 				"content/dist/layered/rhel8/x86_64/dirsrv/11/debug"
 			]
 		},
+		"dirsrv-11-for-rhel-8-x86_64-e4s-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:directory_server_e4s:11.5::el8"
+			],
+			"repo_relative_urls": [
+				"content/e4s/rhel8/8.6/x86_64/dirsrv/11/debug"
+			]
+		},
+		"dirsrv-11-for-rhel-8-x86_64-e4s-debug-rpms__8_DOT_6": {
+			"cpes": [
+				"cpe:/a:redhat:directory_server_e4s:11.5::el8"
+			],
+			"repo_relative_urls": [
+				"content/e4s/rhel8/8.6/x86_64/dirsrv/11/debug"
+			]
+		},
+		"dirsrv-11-for-rhel-8-x86_64-e4s-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:directory_server_e4s:11.5::el8"
+			],
+			"repo_relative_urls": [
+				"content/e4s/rhel8/8.6/x86_64/dirsrv/11/os"
+			]
+		},
+		"dirsrv-11-for-rhel-8-x86_64-e4s-rpms__8_DOT_6": {
+			"cpes": [
+				"cpe:/a:redhat:directory_server_e4s:11.5::el8"
+			],
+			"repo_relative_urls": [
+				"content/e4s/rhel8/8.6/x86_64/dirsrv/11/os"
+			]
+		},
+		"dirsrv-11-for-rhel-8-x86_64-e4s-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:directory_server_e4s:11.5::el8"
+			],
+			"repo_relative_urls": [
+				"content/e4s/rhel8/8.6/x86_64/dirsrv/11/source/SRPMS"
+			]
+		},
+		"dirsrv-11-for-rhel-8-x86_64-e4s-source-rpms__8_DOT_6": {
+			"cpes": [
+				"cpe:/a:redhat:directory_server_e4s:11.5::el8"
+			],
+			"repo_relative_urls": [
+				"content/e4s/rhel8/8.6/x86_64/dirsrv/11/source/SRPMS"
+			]
+		},
 		"dirsrv-11-for-rhel-8-x86_64-eus-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:directory_server_eus:11.3::el8",
@@ -90061,5 +90109,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-12-12T00:48:39.745Z"
+	"last_updated": "2024-12-13T00:47:44.102Z"
 }
