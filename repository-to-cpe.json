@@ -86199,6 +86199,30 @@
 				"content/dist/layered/rhel8/x86_64/rhwa-far/1/source/SRPMS"
 			]
 		},
+		"rhwa-far-1-for-rhel-9-x86_64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:workload_availability_fence_agents_remediation:0.5::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/rhwa-far/1/debug"
+			]
+		},
+		"rhwa-far-1-for-rhel-9-x86_64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:workload_availability_fence_agents_remediation:0.5::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/rhwa-far/1/os"
+			]
+		},
+		"rhwa-far-1-for-rhel-9-x86_64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:workload_availability_fence_agents_remediation:0.5::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/rhwa-far/1/source/SRPMS"
+			]
+		},
 		"rhwa-mdr-1-for-rhel-8-x86_64-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:workload_availability_machine_deletion_remediation:0.1::el8",
@@ -86230,6 +86254,30 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/rhwa-mdr/1/source/SRPMS"
+			]
+		},
+		"rhwa-mdr-1-for-rhel-9-x86_64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:workload_availability_machine_deletion_remediation:0.4::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/rhwa-mdr/1/debug"
+			]
+		},
+		"rhwa-mdr-1-for-rhel-9-x86_64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:workload_availability_machine_deletion_remediation:0.4::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/rhwa-mdr/1/os"
+			]
+		},
+		"rhwa-mdr-1-for-rhel-9-x86_64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:workload_availability_machine_deletion_remediation:0.4::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/rhwa-mdr/1/source/SRPMS"
 			]
 		},
 		"rhwa-nhc-1-for-rhel-8-x86_64-debug-rpms": {
@@ -86271,6 +86319,30 @@
 				"content/dist/layered/rhel8/x86_64/rhwa-nhc/1/source/SRPMS"
 			]
 		},
+		"rhwa-nhc-1-for-rhel-9-x86_64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:workload_availability_node_healthcheck:0.9::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/rhwa-nhc/1/debug"
+			]
+		},
+		"rhwa-nhc-1-for-rhel-9-x86_64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:workload_availability_node_healthcheck:0.9::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/rhwa-nhc/1/os"
+			]
+		},
+		"rhwa-nhc-1-for-rhel-9-x86_64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:workload_availability_node_healthcheck:0.9::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/rhwa-nhc/1/source/SRPMS"
+			]
+		},
 		"rhwa-nmo-1-for-rhel-8-x86_64-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:workload_availability_node_maintenance:4.11::el8",
@@ -86305,6 +86377,30 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/rhwa-nmo/1/source/SRPMS"
+			]
+		},
+		"rhwa-nmo-1-for-rhel-9-x86_64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:workload_availability_node_maintenance:5.4::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/rhwa-nmo/1/debug"
+			]
+		},
+		"rhwa-nmo-1-for-rhel-9-x86_64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:workload_availability_node_maintenance:5.4::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/rhwa-nmo/1/os"
+			]
+		},
+		"rhwa-nmo-1-for-rhel-9-x86_64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:workload_availability_node_maintenance:5.4::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/rhwa-nmo/1/source/SRPMS"
 			]
 		},
 		"rhwa-snr-1-for-rhel-8-x86_64-debug-rpms": {
@@ -86344,6 +86440,30 @@
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/rhwa-snr/1/source/SRPMS"
+			]
+		},
+		"rhwa-snr-1-for-rhel-9-x86_64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:workload_availability_self_node_remediation:0.10::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/rhwa-snr/1/debug"
+			]
+		},
+		"rhwa-snr-1-for-rhel-9-x86_64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:workload_availability_self_node_remediation:0.10::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/rhwa-snr/1/os"
+			]
+		},
+		"rhwa-snr-1-for-rhel-9-x86_64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:workload_availability_self_node_remediation:0.10::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/rhwa-snr/1/source/SRPMS"
 			]
 		},
 		"rodoo-1-for-rhel-8-x86_64-debug-rpms": {
@@ -90109,5 +90229,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-12-13T00:47:44.102Z"
+	"last_updated": "2024-12-14T00:48:42.284Z"
 }
