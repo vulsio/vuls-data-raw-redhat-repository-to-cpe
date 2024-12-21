@@ -8165,6 +8165,198 @@
 				"content/dist/rhel9/9/x86_64/codeready-builder/source/SRPMS"
 			]
 		},
+		"codeready-builder-for-ubi-8-aarch64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:8::crb"
+			],
+			"repo_relative_urls": [
+				"content/public/ubi/dist/ubi8/8/aarch64/codeready-builder/debug"
+			]
+		},
+		"codeready-builder-for-ubi-8-aarch64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:8::crb"
+			],
+			"repo_relative_urls": [
+				"content/public/ubi/dist/ubi8/8/aarch64/codeready-builder/os"
+			]
+		},
+		"codeready-builder-for-ubi-8-aarch64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:8::crb"
+			],
+			"repo_relative_urls": [
+				"content/public/ubi/dist/ubi8/8/aarch64/codeready-builder/source/SRPMS"
+			]
+		},
+		"codeready-builder-for-ubi-8-ppc64le-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:8::crb"
+			],
+			"repo_relative_urls": [
+				"content/public/ubi/dist/ubi8/8/ppc64le/codeready-builder/debug"
+			]
+		},
+		"codeready-builder-for-ubi-8-ppc64le-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:8::crb"
+			],
+			"repo_relative_urls": [
+				"content/public/ubi/dist/ubi8/8/ppc64le/codeready-builder/os"
+			]
+		},
+		"codeready-builder-for-ubi-8-ppc64le-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:8::crb"
+			],
+			"repo_relative_urls": [
+				"content/public/ubi/dist/ubi8/8/ppc64le/codeready-builder/source/SRPMS"
+			]
+		},
+		"codeready-builder-for-ubi-8-s390x-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:8::crb"
+			],
+			"repo_relative_urls": [
+				"content/public/ubi/dist/ubi8/8/s390x/codeready-builder/debug"
+			]
+		},
+		"codeready-builder-for-ubi-8-s390x-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:8::crb"
+			],
+			"repo_relative_urls": [
+				"content/public/ubi/dist/ubi8/8/s390x/codeready-builder/os"
+			]
+		},
+		"codeready-builder-for-ubi-8-s390x-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:8::crb"
+			],
+			"repo_relative_urls": [
+				"content/public/ubi/dist/ubi8/8/s390x/codeready-builder/source/SRPMS"
+			]
+		},
+		"codeready-builder-for-ubi-8-x86_64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:8::crb"
+			],
+			"repo_relative_urls": [
+				"content/public/ubi/dist/ubi8/8/x86_64/codeready-builder/debug"
+			]
+		},
+		"codeready-builder-for-ubi-8-x86_64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:8::crb"
+			],
+			"repo_relative_urls": [
+				"content/public/ubi/dist/ubi8/8/x86_64/codeready-builder/os"
+			]
+		},
+		"codeready-builder-for-ubi-8-x86_64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:8::crb"
+			],
+			"repo_relative_urls": [
+				"content/public/ubi/dist/ubi8/8/x86_64/codeready-builder/source/SRPMS"
+			]
+		},
+		"codeready-builder-for-ubi-9-aarch64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:9::crb"
+			],
+			"repo_relative_urls": [
+				"content/public/ubi/dist/ubi9/9/aarch64/codeready-builder/debug"
+			]
+		},
+		"codeready-builder-for-ubi-9-aarch64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:9::crb"
+			],
+			"repo_relative_urls": [
+				"content/public/ubi/dist/ubi9/9/aarch64/codeready-builder/os"
+			]
+		},
+		"codeready-builder-for-ubi-9-aarch64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:9::crb"
+			],
+			"repo_relative_urls": [
+				"content/public/ubi/dist/ubi9/9/aarch64/codeready-builder/source/SRPMS"
+			]
+		},
+		"codeready-builder-for-ubi-9-ppc64le-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:9::crb"
+			],
+			"repo_relative_urls": [
+				"content/public/ubi/dist/ubi9/9/ppc64le/codeready-builder/debug"
+			]
+		},
+		"codeready-builder-for-ubi-9-ppc64le-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:9::crb"
+			],
+			"repo_relative_urls": [
+				"content/public/ubi/dist/ubi9/9/ppc64le/codeready-builder/os"
+			]
+		},
+		"codeready-builder-for-ubi-9-ppc64le-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:9::crb"
+			],
+			"repo_relative_urls": [
+				"content/public/ubi/dist/ubi9/9/ppc64le/codeready-builder/source/SRPMS"
+			]
+		},
+		"codeready-builder-for-ubi-9-s390x-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:9::crb"
+			],
+			"repo_relative_urls": [
+				"content/public/ubi/dist/ubi9/9/s390x/codeready-builder/debug"
+			]
+		},
+		"codeready-builder-for-ubi-9-s390x-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:9::crb"
+			],
+			"repo_relative_urls": [
+				"content/public/ubi/dist/ubi9/9/s390x/codeready-builder/os"
+			]
+		},
+		"codeready-builder-for-ubi-9-s390x-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:9::crb"
+			],
+			"repo_relative_urls": [
+				"content/public/ubi/dist/ubi9/9/s390x/codeready-builder/source/SRPMS"
+			]
+		},
+		"codeready-builder-for-ubi-9-x86_64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:9::crb"
+			],
+			"repo_relative_urls": [
+				"content/public/ubi/dist/ubi9/9/x86_64/codeready-builder/debug"
+			]
+		},
+		"codeready-builder-for-ubi-9-x86_64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:9::crb"
+			],
+			"repo_relative_urls": [
+				"content/public/ubi/dist/ubi9/9/x86_64/codeready-builder/os"
+			]
+		},
+		"codeready-builder-for-ubi-9-x86_64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:9::crb"
+			],
+			"repo_relative_urls": [
+				"content/public/ubi/dist/ubi9/9/x86_64/codeready-builder/source/SRPMS"
+			]
+		},
 		"convert2rhel-for-rhel-6-x86_64-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:convert2rhel::el6"
@@ -90308,6 +90500,390 @@
 				"content/dist/suse/server/15/sp1/x86_64/sat-tools/6.7/source/SRPMS"
 			]
 		},
+		"ubi-8-for-aarch64-appstream-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:8::appstream"
+			],
+			"repo_relative_urls": [
+				"content/public/ubi/dist/ubi8/8/aarch64/appstream/debug"
+			]
+		},
+		"ubi-8-for-aarch64-appstream-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:8::appstream"
+			],
+			"repo_relative_urls": [
+				"content/public/ubi/dist/ubi8/8/aarch64/appstream/os"
+			]
+		},
+		"ubi-8-for-aarch64-appstream-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:8::appstream"
+			],
+			"repo_relative_urls": [
+				"content/public/ubi/dist/ubi8/8/aarch64/appstream/source/SRPMS"
+			]
+		},
+		"ubi-8-for-aarch64-baseos-debug-rpms": {
+			"cpes": [
+				"cpe:/o:redhat:enterprise_linux:8::baseos"
+			],
+			"repo_relative_urls": [
+				"content/public/ubi/dist/ubi8/8/aarch64/baseos/debug"
+			]
+		},
+		"ubi-8-for-aarch64-baseos-rpms": {
+			"cpes": [
+				"cpe:/o:redhat:enterprise_linux:8::baseos"
+			],
+			"repo_relative_urls": [
+				"content/public/ubi/dist/ubi8/8/aarch64/baseos/os"
+			]
+		},
+		"ubi-8-for-aarch64-baseos-source-rpms": {
+			"cpes": [
+				"cpe:/o:redhat:enterprise_linux:8::baseos"
+			],
+			"repo_relative_urls": [
+				"content/public/ubi/dist/ubi8/8/aarch64/baseos/source/SRPMS"
+			]
+		},
+		"ubi-8-for-ppc64le-appstream-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:8::appstream"
+			],
+			"repo_relative_urls": [
+				"content/public/ubi/dist/ubi8/8/ppc64le/appstream/debug"
+			]
+		},
+		"ubi-8-for-ppc64le-appstream-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:8::appstream"
+			],
+			"repo_relative_urls": [
+				"content/public/ubi/dist/ubi8/8/ppc64le/appstream/os"
+			]
+		},
+		"ubi-8-for-ppc64le-appstream-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:8::appstream"
+			],
+			"repo_relative_urls": [
+				"content/public/ubi/dist/ubi8/8/ppc64le/appstream/source/SRPMS"
+			]
+		},
+		"ubi-8-for-ppc64le-baseos-debug-rpms": {
+			"cpes": [
+				"cpe:/o:redhat:enterprise_linux:8::baseos"
+			],
+			"repo_relative_urls": [
+				"content/public/ubi/dist/ubi8/8/ppc64le/baseos/debug"
+			]
+		},
+		"ubi-8-for-ppc64le-baseos-rpms": {
+			"cpes": [
+				"cpe:/o:redhat:enterprise_linux:8::baseos"
+			],
+			"repo_relative_urls": [
+				"content/public/ubi/dist/ubi8/8/ppc64le/baseos/os"
+			]
+		},
+		"ubi-8-for-ppc64le-baseos-source-rpms": {
+			"cpes": [
+				"cpe:/o:redhat:enterprise_linux:8::baseos"
+			],
+			"repo_relative_urls": [
+				"content/public/ubi/dist/ubi8/8/ppc64le/baseos/source/SRPMS"
+			]
+		},
+		"ubi-8-for-s390x-appstream-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:8::appstream"
+			],
+			"repo_relative_urls": [
+				"content/public/ubi/dist/ubi8/8/s390x/appstream/debug"
+			]
+		},
+		"ubi-8-for-s390x-appstream-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:8::appstream"
+			],
+			"repo_relative_urls": [
+				"content/public/ubi/dist/ubi8/8/s390x/appstream/os"
+			]
+		},
+		"ubi-8-for-s390x-appstream-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:8::appstream"
+			],
+			"repo_relative_urls": [
+				"content/public/ubi/dist/ubi8/8/s390x/appstream/source/SRPMS"
+			]
+		},
+		"ubi-8-for-s390x-baseos-debug-rpms": {
+			"cpes": [
+				"cpe:/o:redhat:enterprise_linux:8::baseos"
+			],
+			"repo_relative_urls": [
+				"content/public/ubi/dist/ubi8/8/s390x/baseos/debug"
+			]
+		},
+		"ubi-8-for-s390x-baseos-rpms": {
+			"cpes": [
+				"cpe:/o:redhat:enterprise_linux:8::baseos"
+			],
+			"repo_relative_urls": [
+				"content/public/ubi/dist/ubi8/8/s390x/baseos/os"
+			]
+		},
+		"ubi-8-for-s390x-baseos-source-rpms": {
+			"cpes": [
+				"cpe:/o:redhat:enterprise_linux:8::baseos"
+			],
+			"repo_relative_urls": [
+				"content/public/ubi/dist/ubi8/8/s390x/baseos/source/SRPMS"
+			]
+		},
+		"ubi-8-for-x86_64-appstream-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:8::appstream"
+			],
+			"repo_relative_urls": [
+				"content/public/ubi/dist/ubi8/8/x86_64/appstream/debug"
+			]
+		},
+		"ubi-8-for-x86_64-appstream-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:8::appstream"
+			],
+			"repo_relative_urls": [
+				"content/public/ubi/dist/ubi8/8/x86_64/appstream/os"
+			]
+		},
+		"ubi-8-for-x86_64-appstream-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:8::appstream"
+			],
+			"repo_relative_urls": [
+				"content/public/ubi/dist/ubi8/8/x86_64/appstream/source/SRPMS"
+			]
+		},
+		"ubi-8-for-x86_64-baseos-debug-rpms": {
+			"cpes": [
+				"cpe:/o:redhat:enterprise_linux:8::baseos"
+			],
+			"repo_relative_urls": [
+				"content/public/ubi/dist/ubi8/8/x86_64/baseos/debug"
+			]
+		},
+		"ubi-8-for-x86_64-baseos-rpms": {
+			"cpes": [
+				"cpe:/o:redhat:enterprise_linux:8::baseos"
+			],
+			"repo_relative_urls": [
+				"content/public/ubi/dist/ubi8/8/x86_64/baseos/os"
+			]
+		},
+		"ubi-8-for-x86_64-baseos-source-rpms": {
+			"cpes": [
+				"cpe:/o:redhat:enterprise_linux:8::baseos"
+			],
+			"repo_relative_urls": [
+				"content/public/ubi/dist/ubi8/8/x86_64/baseos/source/SRPMS"
+			]
+		},
+		"ubi-9-for-aarch64-appstream-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:9::appstream"
+			],
+			"repo_relative_urls": [
+				"content/public/ubi/dist/ubi9/9/aarch64/appstream/debug"
+			]
+		},
+		"ubi-9-for-aarch64-appstream-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:9::appstream"
+			],
+			"repo_relative_urls": [
+				"content/public/ubi/dist/ubi9/9/aarch64/appstream/os"
+			]
+		},
+		"ubi-9-for-aarch64-appstream-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:9::appstream"
+			],
+			"repo_relative_urls": [
+				"content/public/ubi/dist/ubi9/9/aarch64/appstream/source/SRPMS"
+			]
+		},
+		"ubi-9-for-aarch64-baseos-debug-rpms": {
+			"cpes": [
+				"cpe:/o:redhat:enterprise_linux:9::baseos"
+			],
+			"repo_relative_urls": [
+				"content/public/ubi/dist/ubi9/9/aarch64/baseos/debug"
+			]
+		},
+		"ubi-9-for-aarch64-baseos-rpms": {
+			"cpes": [
+				"cpe:/o:redhat:enterprise_linux:9::baseos"
+			],
+			"repo_relative_urls": [
+				"content/public/ubi/dist/ubi9/9/aarch64/baseos/os"
+			]
+		},
+		"ubi-9-for-aarch64-baseos-source-rpms": {
+			"cpes": [
+				"cpe:/o:redhat:enterprise_linux:9::baseos"
+			],
+			"repo_relative_urls": [
+				"content/public/ubi/dist/ubi9/9/aarch64/baseos/source/SRPMS"
+			]
+		},
+		"ubi-9-for-ppc64le-appstream-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:9::appstream"
+			],
+			"repo_relative_urls": [
+				"content/public/ubi/dist/ubi9/9/ppc64le/appstream/debug"
+			]
+		},
+		"ubi-9-for-ppc64le-appstream-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:9::appstream"
+			],
+			"repo_relative_urls": [
+				"content/public/ubi/dist/ubi9/9/ppc64le/appstream/os"
+			]
+		},
+		"ubi-9-for-ppc64le-appstream-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:9::appstream"
+			],
+			"repo_relative_urls": [
+				"content/public/ubi/dist/ubi9/9/ppc64le/appstream/source/SRPMS"
+			]
+		},
+		"ubi-9-for-ppc64le-baseos-debug-rpms": {
+			"cpes": [
+				"cpe:/o:redhat:enterprise_linux:9::baseos"
+			],
+			"repo_relative_urls": [
+				"content/public/ubi/dist/ubi9/9/ppc64le/baseos/debug"
+			]
+		},
+		"ubi-9-for-ppc64le-baseos-rpms": {
+			"cpes": [
+				"cpe:/o:redhat:enterprise_linux:9::baseos"
+			],
+			"repo_relative_urls": [
+				"content/public/ubi/dist/ubi9/9/ppc64le/baseos/os"
+			]
+		},
+		"ubi-9-for-ppc64le-baseos-source-rpms": {
+			"cpes": [
+				"cpe:/o:redhat:enterprise_linux:9::baseos"
+			],
+			"repo_relative_urls": [
+				"content/public/ubi/dist/ubi9/9/ppc64le/baseos/source/SRPMS"
+			]
+		},
+		"ubi-9-for-s390x-appstream-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:9::appstream"
+			],
+			"repo_relative_urls": [
+				"content/public/ubi/dist/ubi9/9/s390x/appstream/debug"
+			]
+		},
+		"ubi-9-for-s390x-appstream-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:9::appstream"
+			],
+			"repo_relative_urls": [
+				"content/public/ubi/dist/ubi9/9/s390x/appstream/os"
+			]
+		},
+		"ubi-9-for-s390x-appstream-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:9::appstream"
+			],
+			"repo_relative_urls": [
+				"content/public/ubi/dist/ubi9/9/s390x/appstream/source/SRPMS"
+			]
+		},
+		"ubi-9-for-s390x-baseos-debug-rpms": {
+			"cpes": [
+				"cpe:/o:redhat:enterprise_linux:9::baseos"
+			],
+			"repo_relative_urls": [
+				"content/public/ubi/dist/ubi9/9/s390x/baseos/debug"
+			]
+		},
+		"ubi-9-for-s390x-baseos-rpms": {
+			"cpes": [
+				"cpe:/o:redhat:enterprise_linux:9::baseos"
+			],
+			"repo_relative_urls": [
+				"content/public/ubi/dist/ubi9/9/s390x/baseos/os"
+			]
+		},
+		"ubi-9-for-s390x-baseos-source-rpms": {
+			"cpes": [
+				"cpe:/o:redhat:enterprise_linux:9::baseos"
+			],
+			"repo_relative_urls": [
+				"content/public/ubi/dist/ubi9/9/s390x/baseos/source/SRPMS"
+			]
+		},
+		"ubi-9-for-x86_64-appstream-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:9::appstream"
+			],
+			"repo_relative_urls": [
+				"content/public/ubi/dist/ubi9/9/x86_64/appstream/debug"
+			]
+		},
+		"ubi-9-for-x86_64-appstream-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:9::appstream"
+			],
+			"repo_relative_urls": [
+				"content/public/ubi/dist/ubi9/9/x86_64/appstream/os"
+			]
+		},
+		"ubi-9-for-x86_64-appstream-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:9::appstream"
+			],
+			"repo_relative_urls": [
+				"content/public/ubi/dist/ubi9/9/x86_64/appstream/source/SRPMS"
+			]
+		},
+		"ubi-9-for-x86_64-baseos-debug-rpms": {
+			"cpes": [
+				"cpe:/o:redhat:enterprise_linux:9::baseos"
+			],
+			"repo_relative_urls": [
+				"content/public/ubi/dist/ubi9/9/x86_64/baseos/debug"
+			]
+		},
+		"ubi-9-for-x86_64-baseos-rpms": {
+			"cpes": [
+				"cpe:/o:redhat:enterprise_linux:9::baseos"
+			],
+			"repo_relative_urls": [
+				"content/public/ubi/dist/ubi9/9/x86_64/baseos/os"
+			]
+		},
+		"ubi-9-for-x86_64-baseos-source-rpms": {
+			"cpes": [
+				"cpe:/o:redhat:enterprise_linux:9::baseos"
+			],
+			"repo_relative_urls": [
+				"content/public/ubi/dist/ubi9/9/x86_64/baseos/source/SRPMS"
+			]
+		},
 		"web-terminal-textonly-1-for-middleware-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:webterminal:1.10::el8",
@@ -90325,5 +90901,5 @@
 			]
 		}
 	},
-	"last_updated": "2024-12-20T00:48:08.316Z"
+	"last_updated": "2024-12-20T19:32:44.275Z"
 }
