@@ -57753,6 +57753,16 @@
 				"content/dist/rhel/workstation/7/7Workstation/x86_64/supplementary/source/SRPMS"
 			]
 		},
+		"rhel-8-appstream-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:8::appstream"
+			]
+		},
+		"rhel-8-baseos-rpms": {
+			"cpes": [
+				"cpe:/o:redhat:enterprise_linux:8::baseos"
+			]
+		},
 		"rhel-8-for-aarch64-appstream-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:enterprise_linux:8::appstream"
@@ -66283,6 +66293,16 @@
 				"content/dist/rhel8/8.8/x86_64/supplementary/source/SRPMS",
 				"content/dist/rhel8/8.9/x86_64/supplementary/source/SRPMS",
 				"content/dist/rhel8/8/x86_64/supplementary/source/SRPMS"
+			]
+		},
+		"rhel-9-appstream-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:9::appstream"
+			]
+		},
+		"rhel-9-baseos-rpms": {
+			"cpes": [
+				"cpe:/o:redhat:enterprise_linux:9::baseos"
 			]
 		},
 		"rhel-9-for-aarch64-appstream-debug-rpms": {
@@ -90500,6 +90520,26 @@
 				"content/dist/suse/server/15/sp1/x86_64/sat-tools/6.7/source/SRPMS"
 			]
 		},
+		"ubi-8-appstream-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:8::appstream"
+			]
+		},
+		"ubi-8-baseos-debug-rpms": {
+			"cpes": [
+				"cpe:/o:redhat:enterprise_linux:8::baseos"
+			]
+		},
+		"ubi-8-baseos-rpms": {
+			"cpes": [
+				"cpe:/o:redhat:enterprise_linux:8::baseos"
+			]
+		},
+		"ubi-8-baseos-source-rpms": {
+			"cpes": [
+				"cpe:/o:redhat:enterprise_linux:8::baseos"
+			]
+		},
 		"ubi-8-for-aarch64-appstream-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:enterprise_linux:8::appstream"
@@ -90690,6 +90730,16 @@
 			],
 			"repo_relative_urls": [
 				"content/public/ubi/dist/ubi8/8/x86_64/baseos/source/SRPMS"
+			]
+		},
+		"ubi-9-appstream-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:enterprise_linux:9::appstream"
+			]
+		},
+		"ubi-9-baseos-rpms": {
+			"cpes": [
+				"cpe:/o:redhat:enterprise_linux:9::baseos"
 			]
 		},
 		"ubi-9-for-aarch64-appstream-debug-rpms": {
@@ -90901,5 +90951,5 @@
 			]
 		}
 	},
-	"last_updated": "2025-01-02T00:46:44.130Z"
+	"last_updated": "2025-01-02T17:50:09.732Z"
 }
