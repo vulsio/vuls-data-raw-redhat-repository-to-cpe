@@ -4660,6 +4660,30 @@
 				"content/dist/layered/rhel8/x86_64/alo/1.1/source/SRPMS"
 			]
 		},
+		"aws-lb-optr-1.2-for-rhel-8-x86_64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:aws_lb_optr:1.2::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/alo/1.2/debug"
+			]
+		},
+		"aws-lb-optr-1.2-for-rhel-8-x86_64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:aws_lb_optr:1.2::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/alo/1.2/os"
+			]
+		},
+		"aws-lb-optr-1.2-for-rhel-8-x86_64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:aws_lb_optr:1.2::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/x86_64/alo/1.2/source/SRPMS"
+			]
+		},
 		"aws-lb-optr-tp-for-rhel-8-x86_64-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:aws_lb_optr:0.1::el8",
@@ -90951,5 +90975,5 @@
 			]
 		}
 	},
-	"last_updated": "2025-01-02T17:50:09.732Z"
+	"last_updated": "2025-01-03T00:46:19.313Z"
 }
