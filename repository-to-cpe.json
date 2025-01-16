@@ -23327,57 +23327,6 @@
 				"content/dist/rhel10/10/ppc64le/highavailability/source/SRPMS"
 			]
 		},
-		"rhel-10-for-ppc64le-resilientstorage-beta-debug-rpms": {
-			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::resilientstorage"
-			],
-			"repo_relative_urls": [
-				"content/beta/rhel10/10/ppc64le/resilientstorage/debug"
-			]
-		},
-		"rhel-10-for-ppc64le-resilientstorage-beta-rpms": {
-			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::resilientstorage"
-			],
-			"repo_relative_urls": [
-				"content/beta/rhel10/10/ppc64le/resilientstorage/os"
-			]
-		},
-		"rhel-10-for-ppc64le-resilientstorage-beta-source-rpms": {
-			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::resilientstorage"
-			],
-			"repo_relative_urls": [
-				"content/beta/rhel10/10/ppc64le/resilientstorage/source/SRPMS"
-			]
-		},
-		"rhel-10-for-ppc64le-resilientstorage-debug-rpms": {
-			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::resilientstorage"
-			],
-			"repo_relative_urls": [
-				"content/dist/rhel10/10.0/ppc64le/resilientstorage/debug",
-				"content/dist/rhel10/10/ppc64le/resilientstorage/debug"
-			]
-		},
-		"rhel-10-for-ppc64le-resilientstorage-rpms": {
-			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::resilientstorage"
-			],
-			"repo_relative_urls": [
-				"content/dist/rhel10/10.0/ppc64le/resilientstorage/os",
-				"content/dist/rhel10/10/ppc64le/resilientstorage/os"
-			]
-		},
-		"rhel-10-for-ppc64le-resilientstorage-source-rpms": {
-			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::resilientstorage"
-			],
-			"repo_relative_urls": [
-				"content/dist/rhel10/10.0/ppc64le/resilientstorage/source/SRPMS",
-				"content/dist/rhel10/10/ppc64le/resilientstorage/source/SRPMS"
-			]
-		},
 		"rhel-10-for-ppc64le-sap-netweaver-beta-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:enterprise_linux:10::sap"
@@ -23660,57 +23609,6 @@
 				"content/dist/rhel10/10/s390x/highavailability/source/SRPMS"
 			]
 		},
-		"rhel-10-for-s390x-resilientstorage-beta-debug-rpms": {
-			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::resilientstorage"
-			],
-			"repo_relative_urls": [
-				"content/beta/rhel10/10/s390x/resilientstorage/debug"
-			]
-		},
-		"rhel-10-for-s390x-resilientstorage-beta-rpms": {
-			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::resilientstorage"
-			],
-			"repo_relative_urls": [
-				"content/beta/rhel10/10/s390x/resilientstorage/os"
-			]
-		},
-		"rhel-10-for-s390x-resilientstorage-beta-source-rpms": {
-			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::resilientstorage"
-			],
-			"repo_relative_urls": [
-				"content/beta/rhel10/10/s390x/resilientstorage/source/SRPMS"
-			]
-		},
-		"rhel-10-for-s390x-resilientstorage-debug-rpms": {
-			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::resilientstorage"
-			],
-			"repo_relative_urls": [
-				"content/dist/rhel10/10.0/s390x/resilientstorage/debug",
-				"content/dist/rhel10/10/s390x/resilientstorage/debug"
-			]
-		},
-		"rhel-10-for-s390x-resilientstorage-rpms": {
-			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::resilientstorage"
-			],
-			"repo_relative_urls": [
-				"content/dist/rhel10/10.0/s390x/resilientstorage/os",
-				"content/dist/rhel10/10/s390x/resilientstorage/os"
-			]
-		},
-		"rhel-10-for-s390x-resilientstorage-source-rpms": {
-			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::resilientstorage"
-			],
-			"repo_relative_urls": [
-				"content/dist/rhel10/10.0/s390x/resilientstorage/source/SRPMS",
-				"content/dist/rhel10/10/s390x/resilientstorage/source/SRPMS"
-			]
-		},
 		"rhel-10-for-s390x-sap-netweaver-beta-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:enterprise_linux:10::sap"
@@ -23991,57 +23889,6 @@
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/x86_64/nfv/source/SRPMS",
 				"content/dist/rhel10/10/x86_64/nfv/source/SRPMS"
-			]
-		},
-		"rhel-10-for-x86_64-resilientstorage-beta-debug-rpms": {
-			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::resilientstorage"
-			],
-			"repo_relative_urls": [
-				"content/beta/rhel10/10/x86_64/resilientstorage/debug"
-			]
-		},
-		"rhel-10-for-x86_64-resilientstorage-beta-rpms": {
-			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::resilientstorage"
-			],
-			"repo_relative_urls": [
-				"content/beta/rhel10/10/x86_64/resilientstorage/os"
-			]
-		},
-		"rhel-10-for-x86_64-resilientstorage-beta-source-rpms": {
-			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::resilientstorage"
-			],
-			"repo_relative_urls": [
-				"content/beta/rhel10/10/x86_64/resilientstorage/source/SRPMS"
-			]
-		},
-		"rhel-10-for-x86_64-resilientstorage-debug-rpms": {
-			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::resilientstorage"
-			],
-			"repo_relative_urls": [
-				"content/dist/rhel10/10.0/x86_64/resilientstorage/debug",
-				"content/dist/rhel10/10/x86_64/resilientstorage/debug"
-			]
-		},
-		"rhel-10-for-x86_64-resilientstorage-rpms": {
-			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::resilientstorage"
-			],
-			"repo_relative_urls": [
-				"content/dist/rhel10/10.0/x86_64/resilientstorage/os",
-				"content/dist/rhel10/10/x86_64/resilientstorage/os"
-			]
-		},
-		"rhel-10-for-x86_64-resilientstorage-source-rpms": {
-			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::resilientstorage"
-			],
-			"repo_relative_urls": [
-				"content/dist/rhel10/10.0/x86_64/resilientstorage/source/SRPMS",
-				"content/dist/rhel10/10/x86_64/resilientstorage/source/SRPMS"
 			]
 		},
 		"rhel-10-for-x86_64-rt-beta-debug-rpms": {
@@ -82484,6 +82331,7 @@
 		},
 		"rhocp-4.14-for-rhel-9-s390x-debug-rpms": {
 			"cpes": [
+				"cpe:/a:redhat:openshift:4.14::el9",
 				"cpe:/a:redhat:openshift_sandboxed_containers:1.7::el9",
 				"cpe:/a:redhat:openshift_sandboxed_containers:1.8::el9",
 				"cpe:/a:redhat:openshift_sandboxed_containers:1.9::el9"
@@ -82494,6 +82342,7 @@
 		},
 		"rhocp-4.14-for-rhel-9-s390x-rpms": {
 			"cpes": [
+				"cpe:/a:redhat:openshift:4.14::el9",
 				"cpe:/a:redhat:openshift_sandboxed_containers:1.7::el9",
 				"cpe:/a:redhat:openshift_sandboxed_containers:1.8::el9",
 				"cpe:/a:redhat:openshift_sandboxed_containers:1.9::el9"
@@ -82504,6 +82353,7 @@
 		},
 		"rhocp-4.14-for-rhel-9-s390x-source-rpms": {
 			"cpes": [
+				"cpe:/a:redhat:openshift:4.14::el9",
 				"cpe:/a:redhat:openshift_sandboxed_containers:1.7::el9",
 				"cpe:/a:redhat:openshift_sandboxed_containers:1.8::el9",
 				"cpe:/a:redhat:openshift_sandboxed_containers:1.9::el9"
@@ -82514,6 +82364,7 @@
 		},
 		"rhocp-4.14-for-rhel-9-x86_64-debug-rpms": {
 			"cpes": [
+				"cpe:/a:redhat:openshift:4.14::el9",
 				"cpe:/a:redhat:openshift_sandboxed_containers:1.7::el9",
 				"cpe:/a:redhat:openshift_sandboxed_containers:1.8::el9",
 				"cpe:/a:redhat:openshift_sandboxed_containers:1.9::el9"
@@ -82524,6 +82375,7 @@
 		},
 		"rhocp-4.14-for-rhel-9-x86_64-rpms": {
 			"cpes": [
+				"cpe:/a:redhat:openshift:4.14::el9",
 				"cpe:/a:redhat:openshift_sandboxed_containers:1.7::el9",
 				"cpe:/a:redhat:openshift_sandboxed_containers:1.8::el9",
 				"cpe:/a:redhat:openshift_sandboxed_containers:1.9::el9"
@@ -82534,6 +82386,7 @@
 		},
 		"rhocp-4.14-for-rhel-9-x86_64-source-rpms": {
 			"cpes": [
+				"cpe:/a:redhat:openshift:4.14::el9",
 				"cpe:/a:redhat:openshift_sandboxed_containers:1.7::el9",
 				"cpe:/a:redhat:openshift_sandboxed_containers:1.8::el9",
 				"cpe:/a:redhat:openshift_sandboxed_containers:1.9::el9"
@@ -91169,5 +91022,5 @@
 			]
 		}
 	},
-	"last_updated": "2025-01-15T00:47:54.270Z"
+	"last_updated": "2025-01-16T00:49:26.335Z"
 }
