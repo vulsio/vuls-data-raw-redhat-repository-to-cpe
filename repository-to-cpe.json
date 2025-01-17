@@ -85085,7 +85085,8 @@
 		},
 		"rhosds-textonly-3-for-middleware-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:openshift_devspaces:3::el8"
+				"cpe:/a:redhat:openshift_devspaces:3::el8",
+				"cpe:/a:redhat:openshift_devspaces:3::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/middleware/rhosds/3.0/x86_64/os"
@@ -91022,5 +91023,5 @@
 			]
 		}
 	},
-	"last_updated": "2025-01-16T00:49:26.335Z"
+	"last_updated": "2025-01-17T00:49:43.092Z"
 }
