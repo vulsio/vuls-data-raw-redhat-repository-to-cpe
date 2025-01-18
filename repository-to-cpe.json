@@ -20592,7 +20592,8 @@
 				"cpe:/a:redhat:openshift_data_foundation:4.15::el9",
 				"cpe:/a:redhat:openshift_data_foundation:4.16::el9",
 				"cpe:/a:redhat:openshift_data_foundation:4.17::el9",
-				"cpe:/a:redhat:openshift_data_foundation:4.18::el9"
+				"cpe:/a:redhat:openshift_data_foundation:4.18::el9",
+				"cpe:/a:redhat:openshift_data_foundation:4.19::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/aarch64/rhodf/4/debug"
@@ -20605,7 +20606,8 @@
 				"cpe:/a:redhat:openshift_data_foundation:4.15::el9",
 				"cpe:/a:redhat:openshift_data_foundation:4.16::el9",
 				"cpe:/a:redhat:openshift_data_foundation:4.17::el9",
-				"cpe:/a:redhat:openshift_data_foundation:4.18::el9"
+				"cpe:/a:redhat:openshift_data_foundation:4.18::el9",
+				"cpe:/a:redhat:openshift_data_foundation:4.19::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/aarch64/rhodf/4/os"
@@ -20618,7 +20620,8 @@
 				"cpe:/a:redhat:openshift_data_foundation:4.15::el9",
 				"cpe:/a:redhat:openshift_data_foundation:4.16::el9",
 				"cpe:/a:redhat:openshift_data_foundation:4.17::el9",
-				"cpe:/a:redhat:openshift_data_foundation:4.18::el9"
+				"cpe:/a:redhat:openshift_data_foundation:4.18::el9",
+				"cpe:/a:redhat:openshift_data_foundation:4.19::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/aarch64/rhodf/4/source/SRPMS"
@@ -20631,7 +20634,8 @@
 				"cpe:/a:redhat:openshift_data_foundation:4.15::el9",
 				"cpe:/a:redhat:openshift_data_foundation:4.16::el9",
 				"cpe:/a:redhat:openshift_data_foundation:4.17::el9",
-				"cpe:/a:redhat:openshift_data_foundation:4.18::el9"
+				"cpe:/a:redhat:openshift_data_foundation:4.18::el9",
+				"cpe:/a:redhat:openshift_data_foundation:4.19::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/ppc64le/rhodf/4/debug"
@@ -20644,7 +20648,8 @@
 				"cpe:/a:redhat:openshift_data_foundation:4.15::el9",
 				"cpe:/a:redhat:openshift_data_foundation:4.16::el9",
 				"cpe:/a:redhat:openshift_data_foundation:4.17::el9",
-				"cpe:/a:redhat:openshift_data_foundation:4.18::el9"
+				"cpe:/a:redhat:openshift_data_foundation:4.18::el9",
+				"cpe:/a:redhat:openshift_data_foundation:4.19::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/ppc64le/rhodf/4/os"
@@ -20657,7 +20662,8 @@
 				"cpe:/a:redhat:openshift_data_foundation:4.15::el9",
 				"cpe:/a:redhat:openshift_data_foundation:4.16::el9",
 				"cpe:/a:redhat:openshift_data_foundation:4.17::el9",
-				"cpe:/a:redhat:openshift_data_foundation:4.18::el9"
+				"cpe:/a:redhat:openshift_data_foundation:4.18::el9",
+				"cpe:/a:redhat:openshift_data_foundation:4.19::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/ppc64le/rhodf/4/source/SRPMS"
@@ -20670,7 +20676,8 @@
 				"cpe:/a:redhat:openshift_data_foundation:4.15::el9",
 				"cpe:/a:redhat:openshift_data_foundation:4.16::el9",
 				"cpe:/a:redhat:openshift_data_foundation:4.17::el9",
-				"cpe:/a:redhat:openshift_data_foundation:4.18::el9"
+				"cpe:/a:redhat:openshift_data_foundation:4.18::el9",
+				"cpe:/a:redhat:openshift_data_foundation:4.19::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/s390x/rhodf/4/debug"
@@ -20683,7 +20690,8 @@
 				"cpe:/a:redhat:openshift_data_foundation:4.15::el9",
 				"cpe:/a:redhat:openshift_data_foundation:4.16::el9",
 				"cpe:/a:redhat:openshift_data_foundation:4.17::el9",
-				"cpe:/a:redhat:openshift_data_foundation:4.18::el9"
+				"cpe:/a:redhat:openshift_data_foundation:4.18::el9",
+				"cpe:/a:redhat:openshift_data_foundation:4.19::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/s390x/rhodf/4/os"
@@ -20696,7 +20704,8 @@
 				"cpe:/a:redhat:openshift_data_foundation:4.15::el9",
 				"cpe:/a:redhat:openshift_data_foundation:4.16::el9",
 				"cpe:/a:redhat:openshift_data_foundation:4.17::el9",
-				"cpe:/a:redhat:openshift_data_foundation:4.18::el9"
+				"cpe:/a:redhat:openshift_data_foundation:4.18::el9",
+				"cpe:/a:redhat:openshift_data_foundation:4.19::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/s390x/rhodf/4/source/SRPMS"
@@ -20709,7 +20718,8 @@
 				"cpe:/a:redhat:openshift_data_foundation:4.15::el9",
 				"cpe:/a:redhat:openshift_data_foundation:4.16::el9",
 				"cpe:/a:redhat:openshift_data_foundation:4.17::el9",
-				"cpe:/a:redhat:openshift_data_foundation:4.18::el9"
+				"cpe:/a:redhat:openshift_data_foundation:4.18::el9",
+				"cpe:/a:redhat:openshift_data_foundation:4.19::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/x86_64/rhodf/4/debug"
@@ -20722,7 +20732,8 @@
 				"cpe:/a:redhat:openshift_data_foundation:4.15::el9",
 				"cpe:/a:redhat:openshift_data_foundation:4.16::el9",
 				"cpe:/a:redhat:openshift_data_foundation:4.17::el9",
-				"cpe:/a:redhat:openshift_data_foundation:4.18::el9"
+				"cpe:/a:redhat:openshift_data_foundation:4.18::el9",
+				"cpe:/a:redhat:openshift_data_foundation:4.19::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/x86_64/rhodf/4/os"
@@ -20735,7 +20746,8 @@
 				"cpe:/a:redhat:openshift_data_foundation:4.15::el9",
 				"cpe:/a:redhat:openshift_data_foundation:4.16::el9",
 				"cpe:/a:redhat:openshift_data_foundation:4.17::el9",
-				"cpe:/a:redhat:openshift_data_foundation:4.18::el9"
+				"cpe:/a:redhat:openshift_data_foundation:4.18::el9",
+				"cpe:/a:redhat:openshift_data_foundation:4.19::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/x86_64/rhodf/4/source/SRPMS"
@@ -91023,5 +91035,5 @@
 			]
 		}
 	},
-	"last_updated": "2025-01-17T00:49:43.092Z"
+	"last_updated": "2025-01-18T00:47:55.281Z"
 }
