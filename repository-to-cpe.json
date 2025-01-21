@@ -8614,6 +8614,7 @@
 		"devworkspace-1.0-for-rhel-8-ppc64le-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:devworkspace:0.32::el8",
+				"cpe:/a:redhat:devworkspace:0.32::el9",
 				"cpe:/a:redhat:devworkspace:1.0::el8"
 			],
 			"repo_relative_urls": [
@@ -8639,6 +8640,7 @@
 		"devworkspace-1.0-for-rhel-8-s390x-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:devworkspace:0.32::el8",
+				"cpe:/a:redhat:devworkspace:0.32::el9",
 				"cpe:/a:redhat:devworkspace:1.0::el8"
 			],
 			"repo_relative_urls": [
@@ -8664,6 +8666,7 @@
 		"devworkspace-1.0-for-rhel-8-x86_64-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:devworkspace:0.32::el8",
+				"cpe:/a:redhat:devworkspace:0.32::el9",
 				"cpe:/a:redhat:devworkspace:1.0::el8"
 			],
 			"repo_relative_urls": [
@@ -91035,5 +91038,5 @@
 			]
 		}
 	},
-	"last_updated": "2025-01-20T00:49:18.176Z"
+	"last_updated": "2025-01-21T00:49:11.774Z"
 }
