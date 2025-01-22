@@ -8504,6 +8504,14 @@
 				"content/dist/middleware/cryostat/3.0/x86_64/os"
 			]
 		},
+		"cryostat-textonly-4-for-middleware-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:cryostat:4::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/middleware/cryostat/4.0/x86_64/os"
+			]
+		},
 		"custom-metrics-autoscaler-2-for-rhel-8-x86_64-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:openshift_custom_metrics_autoscaler:2.0::el8",
@@ -91038,5 +91046,5 @@
 			]
 		}
 	},
-	"last_updated": "2025-01-21T00:49:11.774Z"
+	"last_updated": "2025-01-22T00:49:35.190Z"
 }
