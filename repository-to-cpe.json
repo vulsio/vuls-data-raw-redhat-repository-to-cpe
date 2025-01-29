@@ -11031,6 +11031,54 @@
 				"content/dist/layered/rhel8/x86_64/idp-config-textonly/1/os"
 			]
 		},
+		"insights-proxy-for-rhel-9-aarch64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:insights_proxy:1.5::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/aarch64/insights-proxy/1/debug"
+			]
+		},
+		"insights-proxy-for-rhel-9-aarch64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:insights_proxy:1.5::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/aarch64/insights-proxy/1/os"
+			]
+		},
+		"insights-proxy-for-rhel-9-aarch64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:insights_proxy:1.5::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/aarch64/insights-proxy/1/source/SRPMS"
+			]
+		},
+		"insights-proxy-for-rhel-9-x86_64-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:insights_proxy:1.5::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/insights-proxy/1/debug"
+			]
+		},
+		"insights-proxy-for-rhel-9-x86_64-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:insights_proxy:1.5::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/insights-proxy/1/os"
+			]
+		},
+		"insights-proxy-for-rhel-9-x86_64-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:insights_proxy:1.5::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/x86_64/insights-proxy/1/source/SRPMS"
+			]
+		},
 		"integration-camel-k-textonly-1-for-middleware-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:integration:1"
@@ -91070,5 +91118,5 @@
 			]
 		}
 	},
-	"last_updated": "2025-01-28T00:49:12.532Z"
+	"last_updated": "2025-01-29T00:49:54.805Z"
 }
