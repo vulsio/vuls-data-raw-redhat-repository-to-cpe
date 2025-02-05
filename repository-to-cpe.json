@@ -7612,6 +7612,7 @@
 				"content/dist/rhel9/9.4/aarch64/codeready-builder/debug",
 				"content/dist/rhel9/9.5/aarch64/codeready-builder/debug",
 				"content/dist/rhel9/9.6/aarch64/codeready-builder/debug",
+				"content/dist/rhel9/9.7/aarch64/codeready-builder/debug",
 				"content/dist/rhel9/9/aarch64/codeready-builder/debug"
 			]
 		},
@@ -7734,6 +7735,7 @@
 				"content/dist/rhel9/9.4/aarch64/codeready-builder/os",
 				"content/dist/rhel9/9.5/aarch64/codeready-builder/os",
 				"content/dist/rhel9/9.6/aarch64/codeready-builder/os",
+				"content/dist/rhel9/9.7/aarch64/codeready-builder/os",
 				"content/dist/rhel9/9/aarch64/codeready-builder/os"
 			]
 		},
@@ -7748,6 +7750,7 @@
 				"content/dist/rhel9/9.4/aarch64/codeready-builder/source/SRPMS",
 				"content/dist/rhel9/9.5/aarch64/codeready-builder/source/SRPMS",
 				"content/dist/rhel9/9.6/aarch64/codeready-builder/source/SRPMS",
+				"content/dist/rhel9/9.7/aarch64/codeready-builder/source/SRPMS",
 				"content/dist/rhel9/9/aarch64/codeready-builder/source/SRPMS"
 			]
 		},
@@ -7762,6 +7765,7 @@
 				"content/dist/rhel9/9.4/ppc64le/codeready-builder/debug",
 				"content/dist/rhel9/9.5/ppc64le/codeready-builder/debug",
 				"content/dist/rhel9/9.6/ppc64le/codeready-builder/debug",
+				"content/dist/rhel9/9.7/ppc64le/codeready-builder/debug",
 				"content/dist/rhel9/9/ppc64le/codeready-builder/debug"
 			]
 		},
@@ -7884,6 +7888,7 @@
 				"content/dist/rhel9/9.4/ppc64le/codeready-builder/os",
 				"content/dist/rhel9/9.5/ppc64le/codeready-builder/os",
 				"content/dist/rhel9/9.6/ppc64le/codeready-builder/os",
+				"content/dist/rhel9/9.7/ppc64le/codeready-builder/os",
 				"content/dist/rhel9/9/ppc64le/codeready-builder/os"
 			]
 		},
@@ -7898,6 +7903,7 @@
 				"content/dist/rhel9/9.4/ppc64le/codeready-builder/source/SRPMS",
 				"content/dist/rhel9/9.5/ppc64le/codeready-builder/source/SRPMS",
 				"content/dist/rhel9/9.6/ppc64le/codeready-builder/source/SRPMS",
+				"content/dist/rhel9/9.7/ppc64le/codeready-builder/source/SRPMS",
 				"content/dist/rhel9/9/ppc64le/codeready-builder/source/SRPMS"
 			]
 		},
@@ -7912,6 +7918,7 @@
 				"content/dist/rhel9/9.4/s390x/codeready-builder/debug",
 				"content/dist/rhel9/9.5/s390x/codeready-builder/debug",
 				"content/dist/rhel9/9.6/s390x/codeready-builder/debug",
+				"content/dist/rhel9/9.7/s390x/codeready-builder/debug",
 				"content/dist/rhel9/9/s390x/codeready-builder/debug"
 			]
 		},
@@ -8034,6 +8041,7 @@
 				"content/dist/rhel9/9.4/s390x/codeready-builder/os",
 				"content/dist/rhel9/9.5/s390x/codeready-builder/os",
 				"content/dist/rhel9/9.6/s390x/codeready-builder/os",
+				"content/dist/rhel9/9.7/s390x/codeready-builder/os",
 				"content/dist/rhel9/9/s390x/codeready-builder/os"
 			]
 		},
@@ -8048,6 +8056,7 @@
 				"content/dist/rhel9/9.4/s390x/codeready-builder/source/SRPMS",
 				"content/dist/rhel9/9.5/s390x/codeready-builder/source/SRPMS",
 				"content/dist/rhel9/9.6/s390x/codeready-builder/source/SRPMS",
+				"content/dist/rhel9/9.7/s390x/codeready-builder/source/SRPMS",
 				"content/dist/rhel9/9/s390x/codeready-builder/source/SRPMS"
 			]
 		},
@@ -8062,6 +8071,7 @@
 				"content/dist/rhel9/9.4/x86_64/codeready-builder/debug",
 				"content/dist/rhel9/9.5/x86_64/codeready-builder/debug",
 				"content/dist/rhel9/9.6/x86_64/codeready-builder/debug",
+				"content/dist/rhel9/9.7/x86_64/codeready-builder/debug",
 				"content/dist/rhel9/9/x86_64/codeready-builder/debug"
 			]
 		},
@@ -8184,6 +8194,7 @@
 				"content/dist/rhel9/9.4/x86_64/codeready-builder/os",
 				"content/dist/rhel9/9.5/x86_64/codeready-builder/os",
 				"content/dist/rhel9/9.6/x86_64/codeready-builder/os",
+				"content/dist/rhel9/9.7/x86_64/codeready-builder/os",
 				"content/dist/rhel9/9/x86_64/codeready-builder/os"
 			]
 		},
@@ -8198,6 +8209,7 @@
 				"content/dist/rhel9/9.4/x86_64/codeready-builder/source/SRPMS",
 				"content/dist/rhel9/9.5/x86_64/codeready-builder/source/SRPMS",
 				"content/dist/rhel9/9.6/x86_64/codeready-builder/source/SRPMS",
+				"content/dist/rhel9/9.7/x86_64/codeready-builder/source/SRPMS",
 				"content/dist/rhel9/9/x86_64/codeready-builder/source/SRPMS"
 			]
 		},
@@ -66479,6 +66491,7 @@
 				"content/dist/rhel9/9.4/aarch64/appstream/debug",
 				"content/dist/rhel9/9.5/aarch64/appstream/debug",
 				"content/dist/rhel9/9.6/aarch64/appstream/debug",
+				"content/dist/rhel9/9.7/aarch64/appstream/debug",
 				"content/dist/rhel9/9/aarch64/appstream/debug"
 			]
 		},
@@ -66691,6 +66704,7 @@
 				"content/dist/rhel9/9.4/aarch64/appstream/os",
 				"content/dist/rhel9/9.5/aarch64/appstream/os",
 				"content/dist/rhel9/9.6/aarch64/appstream/os",
+				"content/dist/rhel9/9.7/aarch64/appstream/os",
 				"content/dist/rhel9/9/aarch64/appstream/os"
 			]
 		},
@@ -66705,6 +66719,7 @@
 				"content/dist/rhel9/9.4/aarch64/appstream/source/SRPMS",
 				"content/dist/rhel9/9.5/aarch64/appstream/source/SRPMS",
 				"content/dist/rhel9/9.6/aarch64/appstream/source/SRPMS",
+				"content/dist/rhel9/9.7/aarch64/appstream/source/SRPMS",
 				"content/dist/rhel9/9/aarch64/appstream/source/SRPMS"
 			]
 		},
@@ -66719,6 +66734,7 @@
 				"content/dist/rhel9/9.4/aarch64/baseos/debug",
 				"content/dist/rhel9/9.5/aarch64/baseos/debug",
 				"content/dist/rhel9/9.6/aarch64/baseos/debug",
+				"content/dist/rhel9/9.7/aarch64/baseos/debug",
 				"content/dist/rhel9/9/aarch64/baseos/debug"
 			]
 		},
@@ -66931,6 +66947,7 @@
 				"content/dist/rhel9/9.4/aarch64/baseos/os",
 				"content/dist/rhel9/9.5/aarch64/baseos/os",
 				"content/dist/rhel9/9.6/aarch64/baseos/os",
+				"content/dist/rhel9/9.7/aarch64/baseos/os",
 				"content/dist/rhel9/9/aarch64/baseos/os"
 			]
 		},
@@ -66945,6 +66962,7 @@
 				"content/dist/rhel9/9.4/aarch64/baseos/source/SRPMS",
 				"content/dist/rhel9/9.5/aarch64/baseos/source/SRPMS",
 				"content/dist/rhel9/9.6/aarch64/baseos/source/SRPMS",
+				"content/dist/rhel9/9.7/aarch64/baseos/source/SRPMS",
 				"content/dist/rhel9/9/aarch64/baseos/source/SRPMS"
 			]
 		},
@@ -66959,6 +66977,7 @@
 				"content/dist/rhel9/9.4/aarch64/highavailability/debug",
 				"content/dist/rhel9/9.5/aarch64/highavailability/debug",
 				"content/dist/rhel9/9.6/aarch64/highavailability/debug",
+				"content/dist/rhel9/9.7/aarch64/highavailability/debug",
 				"content/dist/rhel9/9/aarch64/highavailability/debug"
 			]
 		},
@@ -67171,6 +67190,7 @@
 				"content/dist/rhel9/9.4/aarch64/highavailability/os",
 				"content/dist/rhel9/9.5/aarch64/highavailability/os",
 				"content/dist/rhel9/9.6/aarch64/highavailability/os",
+				"content/dist/rhel9/9.7/aarch64/highavailability/os",
 				"content/dist/rhel9/9/aarch64/highavailability/os"
 			]
 		},
@@ -67185,6 +67205,7 @@
 				"content/dist/rhel9/9.4/aarch64/highavailability/source/SRPMS",
 				"content/dist/rhel9/9.5/aarch64/highavailability/source/SRPMS",
 				"content/dist/rhel9/9.6/aarch64/highavailability/source/SRPMS",
+				"content/dist/rhel9/9.7/aarch64/highavailability/source/SRPMS",
 				"content/dist/rhel9/9/aarch64/highavailability/source/SRPMS"
 			]
 		},
@@ -67199,6 +67220,7 @@
 				"content/dist/rhel9/9.4/aarch64/supplementary/debug",
 				"content/dist/rhel9/9.5/aarch64/supplementary/debug",
 				"content/dist/rhel9/9.6/aarch64/supplementary/debug",
+				"content/dist/rhel9/9.7/aarch64/supplementary/debug",
 				"content/dist/rhel9/9/aarch64/supplementary/debug"
 			]
 		},
@@ -67321,6 +67343,7 @@
 				"content/dist/rhel9/9.4/aarch64/supplementary/os",
 				"content/dist/rhel9/9.5/aarch64/supplementary/os",
 				"content/dist/rhel9/9.6/aarch64/supplementary/os",
+				"content/dist/rhel9/9.7/aarch64/supplementary/os",
 				"content/dist/rhel9/9/aarch64/supplementary/os"
 			]
 		},
@@ -67335,6 +67358,7 @@
 				"content/dist/rhel9/9.4/aarch64/supplementary/source/SRPMS",
 				"content/dist/rhel9/9.5/aarch64/supplementary/source/SRPMS",
 				"content/dist/rhel9/9.6/aarch64/supplementary/source/SRPMS",
+				"content/dist/rhel9/9.7/aarch64/supplementary/source/SRPMS",
 				"content/dist/rhel9/9/aarch64/supplementary/source/SRPMS"
 			]
 		},
@@ -67349,6 +67373,7 @@
 				"content/dist/rhel9/9.4/ppc64le/appstream/debug",
 				"content/dist/rhel9/9.5/ppc64le/appstream/debug",
 				"content/dist/rhel9/9.6/ppc64le/appstream/debug",
+				"content/dist/rhel9/9.7/ppc64le/appstream/debug",
 				"content/dist/rhel9/9/ppc64le/appstream/debug"
 			]
 		},
@@ -67561,6 +67586,7 @@
 				"content/dist/rhel9/9.4/ppc64le/appstream/os",
 				"content/dist/rhel9/9.5/ppc64le/appstream/os",
 				"content/dist/rhel9/9.6/ppc64le/appstream/os",
+				"content/dist/rhel9/9.7/ppc64le/appstream/os",
 				"content/dist/rhel9/9/ppc64le/appstream/os"
 			]
 		},
@@ -67575,6 +67601,7 @@
 				"content/dist/rhel9/9.4/ppc64le/appstream/source/SRPMS",
 				"content/dist/rhel9/9.5/ppc64le/appstream/source/SRPMS",
 				"content/dist/rhel9/9.6/ppc64le/appstream/source/SRPMS",
+				"content/dist/rhel9/9.7/ppc64le/appstream/source/SRPMS",
 				"content/dist/rhel9/9/ppc64le/appstream/source/SRPMS"
 			]
 		},
@@ -67589,6 +67616,7 @@
 				"content/dist/rhel9/9.4/ppc64le/baseos/debug",
 				"content/dist/rhel9/9.5/ppc64le/baseos/debug",
 				"content/dist/rhel9/9.6/ppc64le/baseos/debug",
+				"content/dist/rhel9/9.7/ppc64le/baseos/debug",
 				"content/dist/rhel9/9/ppc64le/baseos/debug"
 			]
 		},
@@ -67801,6 +67829,7 @@
 				"content/dist/rhel9/9.4/ppc64le/baseos/os",
 				"content/dist/rhel9/9.5/ppc64le/baseos/os",
 				"content/dist/rhel9/9.6/ppc64le/baseos/os",
+				"content/dist/rhel9/9.7/ppc64le/baseos/os",
 				"content/dist/rhel9/9/ppc64le/baseos/os"
 			]
 		},
@@ -67815,6 +67844,7 @@
 				"content/dist/rhel9/9.4/ppc64le/baseos/source/SRPMS",
 				"content/dist/rhel9/9.5/ppc64le/baseos/source/SRPMS",
 				"content/dist/rhel9/9.6/ppc64le/baseos/source/SRPMS",
+				"content/dist/rhel9/9.7/ppc64le/baseos/source/SRPMS",
 				"content/dist/rhel9/9/ppc64le/baseos/source/SRPMS"
 			]
 		},
@@ -67829,6 +67859,7 @@
 				"content/dist/rhel9/9.4/ppc64le/highavailability/debug",
 				"content/dist/rhel9/9.5/ppc64le/highavailability/debug",
 				"content/dist/rhel9/9.6/ppc64le/highavailability/debug",
+				"content/dist/rhel9/9.7/ppc64le/highavailability/debug",
 				"content/dist/rhel9/9/ppc64le/highavailability/debug"
 			]
 		},
@@ -68041,6 +68072,7 @@
 				"content/dist/rhel9/9.4/ppc64le/highavailability/os",
 				"content/dist/rhel9/9.5/ppc64le/highavailability/os",
 				"content/dist/rhel9/9.6/ppc64le/highavailability/os",
+				"content/dist/rhel9/9.7/ppc64le/highavailability/os",
 				"content/dist/rhel9/9/ppc64le/highavailability/os"
 			]
 		},
@@ -68055,6 +68087,7 @@
 				"content/dist/rhel9/9.4/ppc64le/highavailability/source/SRPMS",
 				"content/dist/rhel9/9.5/ppc64le/highavailability/source/SRPMS",
 				"content/dist/rhel9/9.6/ppc64le/highavailability/source/SRPMS",
+				"content/dist/rhel9/9.7/ppc64le/highavailability/source/SRPMS",
 				"content/dist/rhel9/9/ppc64le/highavailability/source/SRPMS"
 			]
 		},
@@ -68069,6 +68102,7 @@
 				"content/dist/rhel9/9.4/ppc64le/resilientstorage/debug",
 				"content/dist/rhel9/9.5/ppc64le/resilientstorage/debug",
 				"content/dist/rhel9/9.6/ppc64le/resilientstorage/debug",
+				"content/dist/rhel9/9.7/ppc64le/resilientstorage/debug",
 				"content/dist/rhel9/9/ppc64le/resilientstorage/debug"
 			]
 		},
@@ -68281,6 +68315,7 @@
 				"content/dist/rhel9/9.4/ppc64le/resilientstorage/os",
 				"content/dist/rhel9/9.5/ppc64le/resilientstorage/os",
 				"content/dist/rhel9/9.6/ppc64le/resilientstorage/os",
+				"content/dist/rhel9/9.7/ppc64le/resilientstorage/os",
 				"content/dist/rhel9/9/ppc64le/resilientstorage/os"
 			]
 		},
@@ -68295,6 +68330,7 @@
 				"content/dist/rhel9/9.4/ppc64le/resilientstorage/source/SRPMS",
 				"content/dist/rhel9/9.5/ppc64le/resilientstorage/source/SRPMS",
 				"content/dist/rhel9/9.6/ppc64le/resilientstorage/source/SRPMS",
+				"content/dist/rhel9/9.7/ppc64le/resilientstorage/source/SRPMS",
 				"content/dist/rhel9/9/ppc64le/resilientstorage/source/SRPMS"
 			]
 		},
@@ -68309,6 +68345,7 @@
 				"content/dist/rhel9/9.4/ppc64le/sap/debug",
 				"content/dist/rhel9/9.5/ppc64le/sap/debug",
 				"content/dist/rhel9/9.6/ppc64le/sap/debug",
+				"content/dist/rhel9/9.7/ppc64le/sap/debug",
 				"content/dist/rhel9/9/ppc64le/sap/debug"
 			]
 		},
@@ -68521,6 +68558,7 @@
 				"content/dist/rhel9/9.4/ppc64le/sap/os",
 				"content/dist/rhel9/9.5/ppc64le/sap/os",
 				"content/dist/rhel9/9.6/ppc64le/sap/os",
+				"content/dist/rhel9/9.7/ppc64le/sap/os",
 				"content/dist/rhel9/9/ppc64le/sap/os"
 			]
 		},
@@ -68535,6 +68573,7 @@
 				"content/dist/rhel9/9.4/ppc64le/sap/source/SRPMS",
 				"content/dist/rhel9/9.5/ppc64le/sap/source/SRPMS",
 				"content/dist/rhel9/9.6/ppc64le/sap/source/SRPMS",
+				"content/dist/rhel9/9.7/ppc64le/sap/source/SRPMS",
 				"content/dist/rhel9/9/ppc64le/sap/source/SRPMS"
 			]
 		},
@@ -68549,6 +68588,7 @@
 				"content/dist/rhel9/9.4/ppc64le/sap-solutions/debug",
 				"content/dist/rhel9/9.5/ppc64le/sap-solutions/debug",
 				"content/dist/rhel9/9.6/ppc64le/sap-solutions/debug",
+				"content/dist/rhel9/9.7/ppc64le/sap-solutions/debug",
 				"content/dist/rhel9/9/ppc64le/sap-solutions/debug"
 			]
 		},
@@ -68761,6 +68801,7 @@
 				"content/dist/rhel9/9.4/ppc64le/sap-solutions/os",
 				"content/dist/rhel9/9.5/ppc64le/sap-solutions/os",
 				"content/dist/rhel9/9.6/ppc64le/sap-solutions/os",
+				"content/dist/rhel9/9.7/ppc64le/sap-solutions/os",
 				"content/dist/rhel9/9/ppc64le/sap-solutions/os"
 			]
 		},
@@ -68775,6 +68816,7 @@
 				"content/dist/rhel9/9.4/ppc64le/sap-solutions/source/SRPMS",
 				"content/dist/rhel9/9.5/ppc64le/sap-solutions/source/SRPMS",
 				"content/dist/rhel9/9.6/ppc64le/sap-solutions/source/SRPMS",
+				"content/dist/rhel9/9.7/ppc64le/sap-solutions/source/SRPMS",
 				"content/dist/rhel9/9/ppc64le/sap-solutions/source/SRPMS"
 			]
 		},
@@ -68789,6 +68831,7 @@
 				"content/dist/rhel9/9.4/ppc64le/supplementary/debug",
 				"content/dist/rhel9/9.5/ppc64le/supplementary/debug",
 				"content/dist/rhel9/9.6/ppc64le/supplementary/debug",
+				"content/dist/rhel9/9.7/ppc64le/supplementary/debug",
 				"content/dist/rhel9/9/ppc64le/supplementary/debug"
 			]
 		},
@@ -68911,6 +68954,7 @@
 				"content/dist/rhel9/9.4/ppc64le/supplementary/os",
 				"content/dist/rhel9/9.5/ppc64le/supplementary/os",
 				"content/dist/rhel9/9.6/ppc64le/supplementary/os",
+				"content/dist/rhel9/9.7/ppc64le/supplementary/os",
 				"content/dist/rhel9/9/ppc64le/supplementary/os"
 			]
 		},
@@ -68925,6 +68969,7 @@
 				"content/dist/rhel9/9.4/ppc64le/supplementary/source/SRPMS",
 				"content/dist/rhel9/9.5/ppc64le/supplementary/source/SRPMS",
 				"content/dist/rhel9/9.6/ppc64le/supplementary/source/SRPMS",
+				"content/dist/rhel9/9.7/ppc64le/supplementary/source/SRPMS",
 				"content/dist/rhel9/9/ppc64le/supplementary/source/SRPMS"
 			]
 		},
@@ -68939,6 +68984,7 @@
 				"content/dist/rhel9/9.4/s390x/appstream/debug",
 				"content/dist/rhel9/9.5/s390x/appstream/debug",
 				"content/dist/rhel9/9.6/s390x/appstream/debug",
+				"content/dist/rhel9/9.7/s390x/appstream/debug",
 				"content/dist/rhel9/9/s390x/appstream/debug"
 			]
 		},
@@ -69151,6 +69197,7 @@
 				"content/dist/rhel9/9.4/s390x/appstream/os",
 				"content/dist/rhel9/9.5/s390x/appstream/os",
 				"content/dist/rhel9/9.6/s390x/appstream/os",
+				"content/dist/rhel9/9.7/s390x/appstream/os",
 				"content/dist/rhel9/9/s390x/appstream/os"
 			]
 		},
@@ -69165,6 +69212,7 @@
 				"content/dist/rhel9/9.4/s390x/appstream/source/SRPMS",
 				"content/dist/rhel9/9.5/s390x/appstream/source/SRPMS",
 				"content/dist/rhel9/9.6/s390x/appstream/source/SRPMS",
+				"content/dist/rhel9/9.7/s390x/appstream/source/SRPMS",
 				"content/dist/rhel9/9/s390x/appstream/source/SRPMS"
 			]
 		},
@@ -69179,6 +69227,7 @@
 				"content/dist/rhel9/9.4/s390x/baseos/debug",
 				"content/dist/rhel9/9.5/s390x/baseos/debug",
 				"content/dist/rhel9/9.6/s390x/baseos/debug",
+				"content/dist/rhel9/9.7/s390x/baseos/debug",
 				"content/dist/rhel9/9/s390x/baseos/debug"
 			]
 		},
@@ -69391,6 +69440,7 @@
 				"content/dist/rhel9/9.4/s390x/baseos/os",
 				"content/dist/rhel9/9.5/s390x/baseos/os",
 				"content/dist/rhel9/9.6/s390x/baseos/os",
+				"content/dist/rhel9/9.7/s390x/baseos/os",
 				"content/dist/rhel9/9/s390x/baseos/os"
 			]
 		},
@@ -69405,6 +69455,7 @@
 				"content/dist/rhel9/9.4/s390x/baseos/source/SRPMS",
 				"content/dist/rhel9/9.5/s390x/baseos/source/SRPMS",
 				"content/dist/rhel9/9.6/s390x/baseos/source/SRPMS",
+				"content/dist/rhel9/9.7/s390x/baseos/source/SRPMS",
 				"content/dist/rhel9/9/s390x/baseos/source/SRPMS"
 			]
 		},
@@ -69419,6 +69470,7 @@
 				"content/dist/rhel9/9.4/s390x/highavailability/debug",
 				"content/dist/rhel9/9.5/s390x/highavailability/debug",
 				"content/dist/rhel9/9.6/s390x/highavailability/debug",
+				"content/dist/rhel9/9.7/s390x/highavailability/debug",
 				"content/dist/rhel9/9/s390x/highavailability/debug"
 			]
 		},
@@ -69631,6 +69683,7 @@
 				"content/dist/rhel9/9.4/s390x/highavailability/os",
 				"content/dist/rhel9/9.5/s390x/highavailability/os",
 				"content/dist/rhel9/9.6/s390x/highavailability/os",
+				"content/dist/rhel9/9.7/s390x/highavailability/os",
 				"content/dist/rhel9/9/s390x/highavailability/os"
 			]
 		},
@@ -69645,6 +69698,7 @@
 				"content/dist/rhel9/9.4/s390x/highavailability/source/SRPMS",
 				"content/dist/rhel9/9.5/s390x/highavailability/source/SRPMS",
 				"content/dist/rhel9/9.6/s390x/highavailability/source/SRPMS",
+				"content/dist/rhel9/9.7/s390x/highavailability/source/SRPMS",
 				"content/dist/rhel9/9/s390x/highavailability/source/SRPMS"
 			]
 		},
@@ -69659,6 +69713,7 @@
 				"content/dist/rhel9/9.4/s390x/resilientstorage/debug",
 				"content/dist/rhel9/9.5/s390x/resilientstorage/debug",
 				"content/dist/rhel9/9.6/s390x/resilientstorage/debug",
+				"content/dist/rhel9/9.7/s390x/resilientstorage/debug",
 				"content/dist/rhel9/9/s390x/resilientstorage/debug"
 			]
 		},
@@ -69871,6 +69926,7 @@
 				"content/dist/rhel9/9.4/s390x/resilientstorage/os",
 				"content/dist/rhel9/9.5/s390x/resilientstorage/os",
 				"content/dist/rhel9/9.6/s390x/resilientstorage/os",
+				"content/dist/rhel9/9.7/s390x/resilientstorage/os",
 				"content/dist/rhel9/9/s390x/resilientstorage/os"
 			]
 		},
@@ -69885,6 +69941,7 @@
 				"content/dist/rhel9/9.4/s390x/resilientstorage/source/SRPMS",
 				"content/dist/rhel9/9.5/s390x/resilientstorage/source/SRPMS",
 				"content/dist/rhel9/9.6/s390x/resilientstorage/source/SRPMS",
+				"content/dist/rhel9/9.7/s390x/resilientstorage/source/SRPMS",
 				"content/dist/rhel9/9/s390x/resilientstorage/source/SRPMS"
 			]
 		},
@@ -69899,6 +69956,7 @@
 				"content/dist/rhel9/9.4/s390x/sap/debug",
 				"content/dist/rhel9/9.5/s390x/sap/debug",
 				"content/dist/rhel9/9.6/s390x/sap/debug",
+				"content/dist/rhel9/9.7/s390x/sap/debug",
 				"content/dist/rhel9/9/s390x/sap/debug"
 			]
 		},
@@ -70111,6 +70169,7 @@
 				"content/dist/rhel9/9.4/s390x/sap/os",
 				"content/dist/rhel9/9.5/s390x/sap/os",
 				"content/dist/rhel9/9.6/s390x/sap/os",
+				"content/dist/rhel9/9.7/s390x/sap/os",
 				"content/dist/rhel9/9/s390x/sap/os"
 			]
 		},
@@ -70125,6 +70184,7 @@
 				"content/dist/rhel9/9.4/s390x/sap/source/SRPMS",
 				"content/dist/rhel9/9.5/s390x/sap/source/SRPMS",
 				"content/dist/rhel9/9.6/s390x/sap/source/SRPMS",
+				"content/dist/rhel9/9.7/s390x/sap/source/SRPMS",
 				"content/dist/rhel9/9/s390x/sap/source/SRPMS"
 			]
 		},
@@ -70139,6 +70199,7 @@
 				"content/dist/rhel9/9.4/s390x/supplementary/debug",
 				"content/dist/rhel9/9.5/s390x/supplementary/debug",
 				"content/dist/rhel9/9.6/s390x/supplementary/debug",
+				"content/dist/rhel9/9.7/s390x/supplementary/debug",
 				"content/dist/rhel9/9/s390x/supplementary/debug"
 			]
 		},
@@ -70261,6 +70322,7 @@
 				"content/dist/rhel9/9.4/s390x/supplementary/os",
 				"content/dist/rhel9/9.5/s390x/supplementary/os",
 				"content/dist/rhel9/9.6/s390x/supplementary/os",
+				"content/dist/rhel9/9.7/s390x/supplementary/os",
 				"content/dist/rhel9/9/s390x/supplementary/os"
 			]
 		},
@@ -70275,6 +70337,7 @@
 				"content/dist/rhel9/9.4/s390x/supplementary/source/SRPMS",
 				"content/dist/rhel9/9.5/s390x/supplementary/source/SRPMS",
 				"content/dist/rhel9/9.6/s390x/supplementary/source/SRPMS",
+				"content/dist/rhel9/9.7/s390x/supplementary/source/SRPMS",
 				"content/dist/rhel9/9/s390x/supplementary/source/SRPMS"
 			]
 		},
@@ -70346,6 +70409,7 @@
 				"content/dist/rhel9/9.4/x86_64/appstream/debug",
 				"content/dist/rhel9/9.5/x86_64/appstream/debug",
 				"content/dist/rhel9/9.6/x86_64/appstream/debug",
+				"content/dist/rhel9/9.7/x86_64/appstream/debug",
 				"content/dist/rhel9/9/x86_64/appstream/debug"
 			]
 		},
@@ -70558,6 +70622,7 @@
 				"content/dist/rhel9/9.4/x86_64/appstream/os",
 				"content/dist/rhel9/9.5/x86_64/appstream/os",
 				"content/dist/rhel9/9.6/x86_64/appstream/os",
+				"content/dist/rhel9/9.7/x86_64/appstream/os",
 				"content/dist/rhel9/9/x86_64/appstream/os"
 			]
 		},
@@ -70572,6 +70637,7 @@
 				"content/dist/rhel9/9.4/x86_64/appstream/source/SRPMS",
 				"content/dist/rhel9/9.5/x86_64/appstream/source/SRPMS",
 				"content/dist/rhel9/9.6/x86_64/appstream/source/SRPMS",
+				"content/dist/rhel9/9.7/x86_64/appstream/source/SRPMS",
 				"content/dist/rhel9/9/x86_64/appstream/source/SRPMS"
 			]
 		},
@@ -70643,6 +70709,7 @@
 				"content/dist/rhel9/9.4/x86_64/baseos/debug",
 				"content/dist/rhel9/9.5/x86_64/baseos/debug",
 				"content/dist/rhel9/9.6/x86_64/baseos/debug",
+				"content/dist/rhel9/9.7/x86_64/baseos/debug",
 				"content/dist/rhel9/9/x86_64/baseos/debug"
 			]
 		},
@@ -70855,6 +70922,7 @@
 				"content/dist/rhel9/9.4/x86_64/baseos/os",
 				"content/dist/rhel9/9.5/x86_64/baseos/os",
 				"content/dist/rhel9/9.6/x86_64/baseos/os",
+				"content/dist/rhel9/9.7/x86_64/baseos/os",
 				"content/dist/rhel9/9/x86_64/baseos/os"
 			]
 		},
@@ -70869,6 +70937,7 @@
 				"content/dist/rhel9/9.4/x86_64/baseos/source/SRPMS",
 				"content/dist/rhel9/9.5/x86_64/baseos/source/SRPMS",
 				"content/dist/rhel9/9.6/x86_64/baseos/source/SRPMS",
+				"content/dist/rhel9/9.7/x86_64/baseos/source/SRPMS",
 				"content/dist/rhel9/9/x86_64/baseos/source/SRPMS"
 			]
 		},
@@ -70883,6 +70952,7 @@
 				"content/dist/rhel9/9.4/x86_64/highavailability/debug",
 				"content/dist/rhel9/9.5/x86_64/highavailability/debug",
 				"content/dist/rhel9/9.6/x86_64/highavailability/debug",
+				"content/dist/rhel9/9.7/x86_64/highavailability/debug",
 				"content/dist/rhel9/9/x86_64/highavailability/debug"
 			]
 		},
@@ -71095,6 +71165,7 @@
 				"content/dist/rhel9/9.4/x86_64/highavailability/os",
 				"content/dist/rhel9/9.5/x86_64/highavailability/os",
 				"content/dist/rhel9/9.6/x86_64/highavailability/os",
+				"content/dist/rhel9/9.7/x86_64/highavailability/os",
 				"content/dist/rhel9/9/x86_64/highavailability/os"
 			]
 		},
@@ -71109,6 +71180,7 @@
 				"content/dist/rhel9/9.4/x86_64/highavailability/source/SRPMS",
 				"content/dist/rhel9/9.5/x86_64/highavailability/source/SRPMS",
 				"content/dist/rhel9/9.6/x86_64/highavailability/source/SRPMS",
+				"content/dist/rhel9/9.7/x86_64/highavailability/source/SRPMS",
 				"content/dist/rhel9/9/x86_64/highavailability/source/SRPMS"
 			]
 		},
@@ -71123,6 +71195,7 @@
 				"content/dist/rhel9/9.4/x86_64/nfv/debug",
 				"content/dist/rhel9/9.5/x86_64/nfv/debug",
 				"content/dist/rhel9/9.6/x86_64/nfv/debug",
+				"content/dist/rhel9/9.7/x86_64/nfv/debug",
 				"content/dist/rhel9/9/x86_64/nfv/debug"
 			]
 		},
@@ -71227,6 +71300,7 @@
 				"content/dist/rhel9/9.4/x86_64/nfv/os",
 				"content/dist/rhel9/9.5/x86_64/nfv/os",
 				"content/dist/rhel9/9.6/x86_64/nfv/os",
+				"content/dist/rhel9/9.7/x86_64/nfv/os",
 				"content/dist/rhel9/9/x86_64/nfv/os"
 			]
 		},
@@ -71241,6 +71315,7 @@
 				"content/dist/rhel9/9.4/x86_64/nfv/source/SRPMS",
 				"content/dist/rhel9/9.5/x86_64/nfv/source/SRPMS",
 				"content/dist/rhel9/9.6/x86_64/nfv/source/SRPMS",
+				"content/dist/rhel9/9.7/x86_64/nfv/source/SRPMS",
 				"content/dist/rhel9/9/x86_64/nfv/source/SRPMS"
 			]
 		},
@@ -71255,6 +71330,7 @@
 				"content/dist/rhel9/9.4/x86_64/resilientstorage/debug",
 				"content/dist/rhel9/9.5/x86_64/resilientstorage/debug",
 				"content/dist/rhel9/9.6/x86_64/resilientstorage/debug",
+				"content/dist/rhel9/9.7/x86_64/resilientstorage/debug",
 				"content/dist/rhel9/9/x86_64/resilientstorage/debug"
 			]
 		},
@@ -71467,6 +71543,7 @@
 				"content/dist/rhel9/9.4/x86_64/resilientstorage/os",
 				"content/dist/rhel9/9.5/x86_64/resilientstorage/os",
 				"content/dist/rhel9/9.6/x86_64/resilientstorage/os",
+				"content/dist/rhel9/9.7/x86_64/resilientstorage/os",
 				"content/dist/rhel9/9/x86_64/resilientstorage/os"
 			]
 		},
@@ -71481,6 +71558,7 @@
 				"content/dist/rhel9/9.4/x86_64/resilientstorage/source/SRPMS",
 				"content/dist/rhel9/9.5/x86_64/resilientstorage/source/SRPMS",
 				"content/dist/rhel9/9.6/x86_64/resilientstorage/source/SRPMS",
+				"content/dist/rhel9/9.7/x86_64/resilientstorage/source/SRPMS",
 				"content/dist/rhel9/9/x86_64/resilientstorage/source/SRPMS"
 			]
 		},
@@ -71495,6 +71573,7 @@
 				"content/dist/rhel9/9.4/x86_64/rt/debug",
 				"content/dist/rhel9/9.5/x86_64/rt/debug",
 				"content/dist/rhel9/9.6/x86_64/rt/debug",
+				"content/dist/rhel9/9.7/x86_64/rt/debug",
 				"content/dist/rhel9/9/x86_64/rt/debug"
 			]
 		},
@@ -71599,6 +71678,7 @@
 				"content/dist/rhel9/9.4/x86_64/rt/os",
 				"content/dist/rhel9/9.5/x86_64/rt/os",
 				"content/dist/rhel9/9.6/x86_64/rt/os",
+				"content/dist/rhel9/9.7/x86_64/rt/os",
 				"content/dist/rhel9/9/x86_64/rt/os"
 			]
 		},
@@ -71613,6 +71693,7 @@
 				"content/dist/rhel9/9.4/x86_64/rt/source/SRPMS",
 				"content/dist/rhel9/9.5/x86_64/rt/source/SRPMS",
 				"content/dist/rhel9/9.6/x86_64/rt/source/SRPMS",
+				"content/dist/rhel9/9.7/x86_64/rt/source/SRPMS",
 				"content/dist/rhel9/9/x86_64/rt/source/SRPMS"
 			]
 		},
@@ -71627,6 +71708,7 @@
 				"content/dist/rhel9/9.4/x86_64/sap/debug",
 				"content/dist/rhel9/9.5/x86_64/sap/debug",
 				"content/dist/rhel9/9.6/x86_64/sap/debug",
+				"content/dist/rhel9/9.7/x86_64/sap/debug",
 				"content/dist/rhel9/9/x86_64/sap/debug"
 			]
 		},
@@ -71839,6 +71921,7 @@
 				"content/dist/rhel9/9.4/x86_64/sap/os",
 				"content/dist/rhel9/9.5/x86_64/sap/os",
 				"content/dist/rhel9/9.6/x86_64/sap/os",
+				"content/dist/rhel9/9.7/x86_64/sap/os",
 				"content/dist/rhel9/9/x86_64/sap/os"
 			]
 		},
@@ -71853,6 +71936,7 @@
 				"content/dist/rhel9/9.4/x86_64/sap/source/SRPMS",
 				"content/dist/rhel9/9.5/x86_64/sap/source/SRPMS",
 				"content/dist/rhel9/9.6/x86_64/sap/source/SRPMS",
+				"content/dist/rhel9/9.7/x86_64/sap/source/SRPMS",
 				"content/dist/rhel9/9/x86_64/sap/source/SRPMS"
 			]
 		},
@@ -71867,6 +71951,7 @@
 				"content/dist/rhel9/9.4/x86_64/sap-solutions/debug",
 				"content/dist/rhel9/9.5/x86_64/sap-solutions/debug",
 				"content/dist/rhel9/9.6/x86_64/sap-solutions/debug",
+				"content/dist/rhel9/9.7/x86_64/sap-solutions/debug",
 				"content/dist/rhel9/9/x86_64/sap-solutions/debug"
 			]
 		},
@@ -72079,6 +72164,7 @@
 				"content/dist/rhel9/9.4/x86_64/sap-solutions/os",
 				"content/dist/rhel9/9.5/x86_64/sap-solutions/os",
 				"content/dist/rhel9/9.6/x86_64/sap-solutions/os",
+				"content/dist/rhel9/9.7/x86_64/sap-solutions/os",
 				"content/dist/rhel9/9/x86_64/sap-solutions/os"
 			]
 		},
@@ -72093,6 +72179,7 @@
 				"content/dist/rhel9/9.4/x86_64/sap-solutions/source/SRPMS",
 				"content/dist/rhel9/9.5/x86_64/sap-solutions/source/SRPMS",
 				"content/dist/rhel9/9.6/x86_64/sap-solutions/source/SRPMS",
+				"content/dist/rhel9/9.7/x86_64/sap-solutions/source/SRPMS",
 				"content/dist/rhel9/9/x86_64/sap-solutions/source/SRPMS"
 			]
 		},
@@ -72107,6 +72194,7 @@
 				"content/dist/rhel9/9.4/x86_64/supplementary/debug",
 				"content/dist/rhel9/9.5/x86_64/supplementary/debug",
 				"content/dist/rhel9/9.6/x86_64/supplementary/debug",
+				"content/dist/rhel9/9.7/x86_64/supplementary/debug",
 				"content/dist/rhel9/9/x86_64/supplementary/debug"
 			]
 		},
@@ -72229,6 +72317,7 @@
 				"content/dist/rhel9/9.4/x86_64/supplementary/os",
 				"content/dist/rhel9/9.5/x86_64/supplementary/os",
 				"content/dist/rhel9/9.6/x86_64/supplementary/os",
+				"content/dist/rhel9/9.7/x86_64/supplementary/os",
 				"content/dist/rhel9/9/x86_64/supplementary/os"
 			]
 		},
@@ -72243,6 +72332,7 @@
 				"content/dist/rhel9/9.4/x86_64/supplementary/source/SRPMS",
 				"content/dist/rhel9/9.5/x86_64/supplementary/source/SRPMS",
 				"content/dist/rhel9/9.6/x86_64/supplementary/source/SRPMS",
+				"content/dist/rhel9/9.7/x86_64/supplementary/source/SRPMS",
 				"content/dist/rhel9/9/x86_64/supplementary/source/SRPMS"
 			]
 		},
@@ -90364,6 +90454,30 @@
 				"content/dist/layered/rhel9/aarch64/rhsi/1/source/SRPMS"
 			]
 		},
+		"service-interconnect-1-for-rhel-9-s390x-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:service_interconnect:1::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/s390x/rhsi/1/debug"
+			]
+		},
+		"service-interconnect-1-for-rhel-9-s390x-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:service_interconnect:1::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/s390x/rhsi/1/os"
+			]
+		},
+		"service-interconnect-1-for-rhel-9-s390x-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:service_interconnect:1::el9"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel9/s390x/rhsi/1/source/SRPMS"
+			]
+		},
 		"service-interconnect-1-for-rhel-9-x86_64-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:service_interconnect:1::el9"
@@ -91283,5 +91397,5 @@
 			]
 		}
 	},
-	"last_updated": "2025-02-04T00:48:04.695Z"
+	"last_updated": "2025-02-05T00:46:20.318Z"
 }
