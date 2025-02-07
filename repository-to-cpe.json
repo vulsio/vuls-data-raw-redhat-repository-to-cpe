@@ -6679,109 +6679,133 @@
 		},
 		"codeready-builder-for-rhel-10-aarch64-debug-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::crb"
+				"cpe:/o:redhat:enterprise_linux:10.0::crb",
+				"cpe:/o:redhat:enterprise_linux:10.1::crb"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/aarch64/codeready-builder/debug",
+				"content/dist/rhel10/10.1/aarch64/codeready-builder/debug",
 				"content/dist/rhel10/10/aarch64/codeready-builder/debug"
 			]
 		},
 		"codeready-builder-for-rhel-10-aarch64-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::crb"
+				"cpe:/o:redhat:enterprise_linux:10.0::crb",
+				"cpe:/o:redhat:enterprise_linux:10.1::crb"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/aarch64/codeready-builder/os",
+				"content/dist/rhel10/10.1/aarch64/codeready-builder/os",
 				"content/dist/rhel10/10/aarch64/codeready-builder/os"
 			]
 		},
 		"codeready-builder-for-rhel-10-aarch64-source-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::crb"
+				"cpe:/o:redhat:enterprise_linux:10.0::crb",
+				"cpe:/o:redhat:enterprise_linux:10.1::crb"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/aarch64/codeready-builder/source/SRPMS",
+				"content/dist/rhel10/10.1/aarch64/codeready-builder/source/SRPMS",
 				"content/dist/rhel10/10/aarch64/codeready-builder/source/SRPMS"
 			]
 		},
 		"codeready-builder-for-rhel-10-ppc64le-debug-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::crb"
+				"cpe:/o:redhat:enterprise_linux:10.0::crb",
+				"cpe:/o:redhat:enterprise_linux:10.1::crb"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/ppc64le/codeready-builder/debug",
+				"content/dist/rhel10/10.1/ppc64le/codeready-builder/debug",
 				"content/dist/rhel10/10/ppc64le/codeready-builder/debug"
 			]
 		},
 		"codeready-builder-for-rhel-10-ppc64le-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::crb"
+				"cpe:/o:redhat:enterprise_linux:10.0::crb",
+				"cpe:/o:redhat:enterprise_linux:10.1::crb"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/ppc64le/codeready-builder/os",
+				"content/dist/rhel10/10.1/ppc64le/codeready-builder/os",
 				"content/dist/rhel10/10/ppc64le/codeready-builder/os"
 			]
 		},
 		"codeready-builder-for-rhel-10-ppc64le-source-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::crb"
+				"cpe:/o:redhat:enterprise_linux:10.0::crb",
+				"cpe:/o:redhat:enterprise_linux:10.1::crb"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/ppc64le/codeready-builder/source/SRPMS",
+				"content/dist/rhel10/10.1/ppc64le/codeready-builder/source/SRPMS",
 				"content/dist/rhel10/10/ppc64le/codeready-builder/source/SRPMS"
 			]
 		},
 		"codeready-builder-for-rhel-10-s390x-debug-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::crb"
+				"cpe:/o:redhat:enterprise_linux:10.0::crb",
+				"cpe:/o:redhat:enterprise_linux:10.1::crb"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/s390x/codeready-builder/debug",
+				"content/dist/rhel10/10.1/s390x/codeready-builder/debug",
 				"content/dist/rhel10/10/s390x/codeready-builder/debug"
 			]
 		},
 		"codeready-builder-for-rhel-10-s390x-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::crb"
+				"cpe:/o:redhat:enterprise_linux:10.0::crb",
+				"cpe:/o:redhat:enterprise_linux:10.1::crb"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/s390x/codeready-builder/os",
+				"content/dist/rhel10/10.1/s390x/codeready-builder/os",
 				"content/dist/rhel10/10/s390x/codeready-builder/os"
 			]
 		},
 		"codeready-builder-for-rhel-10-s390x-source-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::crb"
+				"cpe:/o:redhat:enterprise_linux:10.0::crb",
+				"cpe:/o:redhat:enterprise_linux:10.1::crb"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/s390x/codeready-builder/source/SRPMS",
+				"content/dist/rhel10/10.1/s390x/codeready-builder/source/SRPMS",
 				"content/dist/rhel10/10/s390x/codeready-builder/source/SRPMS"
 			]
 		},
 		"codeready-builder-for-rhel-10-x86_64-debug-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::crb"
+				"cpe:/o:redhat:enterprise_linux:10.0::crb",
+				"cpe:/o:redhat:enterprise_linux:10.1::crb"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/x86_64/codeready-builder/debug",
+				"content/dist/rhel10/10.1/x86_64/codeready-builder/debug",
 				"content/dist/rhel10/10/x86_64/codeready-builder/debug"
 			]
 		},
 		"codeready-builder-for-rhel-10-x86_64-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::crb"
+				"cpe:/o:redhat:enterprise_linux:10.0::crb",
+				"cpe:/o:redhat:enterprise_linux:10.1::crb"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/x86_64/codeready-builder/os",
+				"content/dist/rhel10/10.1/x86_64/codeready-builder/os",
 				"content/dist/rhel10/10/x86_64/codeready-builder/os"
 			]
 		},
 		"codeready-builder-for-rhel-10-x86_64-source-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::crb"
+				"cpe:/o:redhat:enterprise_linux:10.0::crb",
+				"cpe:/o:redhat:enterprise_linux:10.1::crb"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/x86_64/codeready-builder/source/SRPMS",
+				"content/dist/rhel10/10.1/x86_64/codeready-builder/source/SRPMS",
 				"content/dist/rhel10/10/x86_64/codeready-builder/source/SRPMS"
 			]
 		},
@@ -13848,7 +13872,14 @@
 		},
 		"mtv-for-rhel-8-x86_64-debug-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:migration_toolkit_virtualization:2.7::el9"
+				"cpe:/a:redhat:migration_toolkit_virtualization:2.0::el8",
+				"cpe:/a:redhat:migration_toolkit_virtualization:2.1::el8",
+				"cpe:/a:redhat:migration_toolkit_virtualization:2.2::el8",
+				"cpe:/a:redhat:migration_toolkit_virtualization:2.3::el8",
+				"cpe:/a:redhat:migration_toolkit_virtualization:2.4::el8",
+				"cpe:/a:redhat:migration_toolkit_virtualization:2.5::el8",
+				"cpe:/a:redhat:migration_toolkit_virtualization:2.6::el8",
+				"cpe:/a:redhat:migration_toolkit_virtualization:2.7::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/mtv/1/debug"
@@ -13856,7 +13887,14 @@
 		},
 		"mtv-for-rhel-8-x86_64-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:migration_toolkit_virtualization:2.7::el9"
+				"cpe:/a:redhat:migration_toolkit_virtualization:2.0::el8",
+				"cpe:/a:redhat:migration_toolkit_virtualization:2.1::el8",
+				"cpe:/a:redhat:migration_toolkit_virtualization:2.2::el8",
+				"cpe:/a:redhat:migration_toolkit_virtualization:2.3::el8",
+				"cpe:/a:redhat:migration_toolkit_virtualization:2.4::el8",
+				"cpe:/a:redhat:migration_toolkit_virtualization:2.5::el8",
+				"cpe:/a:redhat:migration_toolkit_virtualization:2.6::el8",
+				"cpe:/a:redhat:migration_toolkit_virtualization:2.7::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/mtv/1/os"
@@ -13864,7 +13902,14 @@
 		},
 		"mtv-for-rhel-8-x86_64-source-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:migration_toolkit_virtualization:2.7::el9"
+				"cpe:/a:redhat:migration_toolkit_virtualization:2.0::el8",
+				"cpe:/a:redhat:migration_toolkit_virtualization:2.1::el8",
+				"cpe:/a:redhat:migration_toolkit_virtualization:2.2::el8",
+				"cpe:/a:redhat:migration_toolkit_virtualization:2.3::el8",
+				"cpe:/a:redhat:migration_toolkit_virtualization:2.4::el8",
+				"cpe:/a:redhat:migration_toolkit_virtualization:2.5::el8",
+				"cpe:/a:redhat:migration_toolkit_virtualization:2.6::el8",
+				"cpe:/a:redhat:migration_toolkit_virtualization:2.7::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/mtv/1/source/SRPMS"
@@ -13872,10 +13917,8 @@
 		},
 		"mtv-for-rhel-9-x86_64-debug-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:migration_toolkit_virtualization:2.4::el9",
-				"cpe:/a:redhat:migration_toolkit_virtualization:2.5::el9",
-				"cpe:/a:redhat:migration_toolkit_virtualization:2.6::el9",
-				"cpe:/a:redhat:migration_toolkit_virtualization:2.7::el9"
+				"cpe:/a:redhat:migration_toolkit_virtualization:2.6::el8",
+				"cpe:/a:redhat:migration_toolkit_virtualization:2.7::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/x86_64/mtv/2/debug"
@@ -13883,10 +13926,8 @@
 		},
 		"mtv-for-rhel-9-x86_64-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:migration_toolkit_virtualization:2.4::el9",
-				"cpe:/a:redhat:migration_toolkit_virtualization:2.5::el9",
-				"cpe:/a:redhat:migration_toolkit_virtualization:2.6::el9",
-				"cpe:/a:redhat:migration_toolkit_virtualization:2.7::el9"
+				"cpe:/a:redhat:migration_toolkit_virtualization:2.6::el8",
+				"cpe:/a:redhat:migration_toolkit_virtualization:2.7::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/x86_64/mtv/2/os"
@@ -13894,10 +13935,8 @@
 		},
 		"mtv-for-rhel-9-x86_64-source-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:migration_toolkit_virtualization:2.4::el9",
-				"cpe:/a:redhat:migration_toolkit_virtualization:2.5::el9",
-				"cpe:/a:redhat:migration_toolkit_virtualization:2.6::el9",
-				"cpe:/a:redhat:migration_toolkit_virtualization:2.7::el9"
+				"cpe:/a:redhat:migration_toolkit_virtualization:2.6::el8",
+				"cpe:/a:redhat:migration_toolkit_virtualization:2.7::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/x86_64/mtv/2/source/SRPMS"
@@ -23130,28 +23169,34 @@
 		},
 		"rhel-10-for-aarch64-appstream-debug-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::appstream"
+				"cpe:/o:redhat:enterprise_linux:10.0::appstream",
+				"cpe:/o:redhat:enterprise_linux:10.1::appstream"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/aarch64/appstream/debug",
+				"content/dist/rhel10/10.1/aarch64/appstream/debug",
 				"content/dist/rhel10/10/aarch64/appstream/debug"
 			]
 		},
 		"rhel-10-for-aarch64-appstream-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::appstream"
+				"cpe:/o:redhat:enterprise_linux:10.0::appstream",
+				"cpe:/o:redhat:enterprise_linux:10.1::appstream"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/aarch64/appstream/os",
+				"content/dist/rhel10/10.1/aarch64/appstream/os",
 				"content/dist/rhel10/10/aarch64/appstream/os"
 			]
 		},
 		"rhel-10-for-aarch64-appstream-source-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::appstream"
+				"cpe:/o:redhat:enterprise_linux:10.0::appstream",
+				"cpe:/o:redhat:enterprise_linux:10.1::appstream"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/aarch64/appstream/source/SRPMS",
+				"content/dist/rhel10/10.1/aarch64/appstream/source/SRPMS",
 				"content/dist/rhel10/10/aarch64/appstream/source/SRPMS"
 			]
 		},
@@ -23181,28 +23226,34 @@
 		},
 		"rhel-10-for-aarch64-baseos-debug-rpms": {
 			"cpes": [
-				"cpe:/o:redhat:enterprise_linux:10::baseos"
+				"cpe:/o:redhat:enterprise_linux:10.0::baseos",
+				"cpe:/o:redhat:enterprise_linux:10.1::baseos"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/aarch64/baseos/debug",
+				"content/dist/rhel10/10.1/aarch64/baseos/debug",
 				"content/dist/rhel10/10/aarch64/baseos/debug"
 			]
 		},
 		"rhel-10-for-aarch64-baseos-rpms": {
 			"cpes": [
-				"cpe:/o:redhat:enterprise_linux:10::baseos"
+				"cpe:/o:redhat:enterprise_linux:10.0::baseos",
+				"cpe:/o:redhat:enterprise_linux:10.1::baseos"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/aarch64/baseos/os",
+				"content/dist/rhel10/10.1/aarch64/baseos/os",
 				"content/dist/rhel10/10/aarch64/baseos/os"
 			]
 		},
 		"rhel-10-for-aarch64-baseos-source-rpms": {
 			"cpes": [
-				"cpe:/o:redhat:enterprise_linux:10::baseos"
+				"cpe:/o:redhat:enterprise_linux:10.0::baseos",
+				"cpe:/o:redhat:enterprise_linux:10.1::baseos"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/aarch64/baseos/source/SRPMS",
+				"content/dist/rhel10/10.1/aarch64/baseos/source/SRPMS",
 				"content/dist/rhel10/10/aarch64/baseos/source/SRPMS"
 			]
 		},
@@ -23232,55 +23283,67 @@
 		},
 		"rhel-10-for-aarch64-highavailability-debug-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::highavailability"
+				"cpe:/o:redhat:enterprise_linux:10.0::highavailability",
+				"cpe:/o:redhat:enterprise_linux:10.1::highavailability"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/aarch64/highavailability/debug",
+				"content/dist/rhel10/10.1/aarch64/highavailability/debug",
 				"content/dist/rhel10/10/aarch64/highavailability/debug"
 			]
 		},
 		"rhel-10-for-aarch64-highavailability-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::highavailability"
+				"cpe:/o:redhat:enterprise_linux:10.0::highavailability",
+				"cpe:/o:redhat:enterprise_linux:10.1::highavailability"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/aarch64/highavailability/os",
+				"content/dist/rhel10/10.1/aarch64/highavailability/os",
 				"content/dist/rhel10/10/aarch64/highavailability/os"
 			]
 		},
 		"rhel-10-for-aarch64-highavailability-source-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::highavailability"
+				"cpe:/o:redhat:enterprise_linux:10.0::highavailability",
+				"cpe:/o:redhat:enterprise_linux:10.1::highavailability"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/aarch64/highavailability/source/SRPMS",
+				"content/dist/rhel10/10.1/aarch64/highavailability/source/SRPMS",
 				"content/dist/rhel10/10/aarch64/highavailability/source/SRPMS"
 			]
 		},
 		"rhel-10-for-aarch64-supplementary-debug-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::supplementary"
+				"cpe:/o:redhat:enterprise_linux:10.0::supplementary",
+				"cpe:/o:redhat:enterprise_linux:10.1::supplementary"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/aarch64/supplementary/debug",
+				"content/dist/rhel10/10.1/aarch64/supplementary/debug",
 				"content/dist/rhel10/10/aarch64/supplementary/debug"
 			]
 		},
 		"rhel-10-for-aarch64-supplementary-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::supplementary"
+				"cpe:/o:redhat:enterprise_linux:10.0::supplementary",
+				"cpe:/o:redhat:enterprise_linux:10.1::supplementary"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/aarch64/supplementary/os",
+				"content/dist/rhel10/10.1/aarch64/supplementary/os",
 				"content/dist/rhel10/10/aarch64/supplementary/os"
 			]
 		},
 		"rhel-10-for-aarch64-supplementary-source-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::supplementary"
+				"cpe:/o:redhat:enterprise_linux:10.0::supplementary",
+				"cpe:/o:redhat:enterprise_linux:10.1::supplementary"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/aarch64/supplementary/source/SRPMS",
+				"content/dist/rhel10/10.1/aarch64/supplementary/source/SRPMS",
 				"content/dist/rhel10/10/aarch64/supplementary/source/SRPMS"
 			]
 		},
@@ -23310,28 +23373,34 @@
 		},
 		"rhel-10-for-ppc64le-appstream-debug-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::appstream"
+				"cpe:/o:redhat:enterprise_linux:10.0::appstream",
+				"cpe:/o:redhat:enterprise_linux:10.1::appstream"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/ppc64le/appstream/debug",
+				"content/dist/rhel10/10.1/ppc64le/appstream/debug",
 				"content/dist/rhel10/10/ppc64le/appstream/debug"
 			]
 		},
 		"rhel-10-for-ppc64le-appstream-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::appstream"
+				"cpe:/o:redhat:enterprise_linux:10.0::appstream",
+				"cpe:/o:redhat:enterprise_linux:10.1::appstream"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/ppc64le/appstream/os",
+				"content/dist/rhel10/10.1/ppc64le/appstream/os",
 				"content/dist/rhel10/10/ppc64le/appstream/os"
 			]
 		},
 		"rhel-10-for-ppc64le-appstream-source-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::appstream"
+				"cpe:/o:redhat:enterprise_linux:10.0::appstream",
+				"cpe:/o:redhat:enterprise_linux:10.1::appstream"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/ppc64le/appstream/source/SRPMS",
+				"content/dist/rhel10/10.1/ppc64le/appstream/source/SRPMS",
 				"content/dist/rhel10/10/ppc64le/appstream/source/SRPMS"
 			]
 		},
@@ -23361,28 +23430,34 @@
 		},
 		"rhel-10-for-ppc64le-baseos-debug-rpms": {
 			"cpes": [
-				"cpe:/o:redhat:enterprise_linux:10::baseos"
+				"cpe:/o:redhat:enterprise_linux:10.0::baseos",
+				"cpe:/o:redhat:enterprise_linux:10.1::baseos"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/ppc64le/baseos/debug",
+				"content/dist/rhel10/10.1/ppc64le/baseos/debug",
 				"content/dist/rhel10/10/ppc64le/baseos/debug"
 			]
 		},
 		"rhel-10-for-ppc64le-baseos-rpms": {
 			"cpes": [
-				"cpe:/o:redhat:enterprise_linux:10::baseos"
+				"cpe:/o:redhat:enterprise_linux:10.0::baseos",
+				"cpe:/o:redhat:enterprise_linux:10.1::baseos"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/ppc64le/baseos/os",
+				"content/dist/rhel10/10.1/ppc64le/baseos/os",
 				"content/dist/rhel10/10/ppc64le/baseos/os"
 			]
 		},
 		"rhel-10-for-ppc64le-baseos-source-rpms": {
 			"cpes": [
-				"cpe:/o:redhat:enterprise_linux:10::baseos"
+				"cpe:/o:redhat:enterprise_linux:10.0::baseos",
+				"cpe:/o:redhat:enterprise_linux:10.1::baseos"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/ppc64le/baseos/source/SRPMS",
+				"content/dist/rhel10/10.1/ppc64le/baseos/source/SRPMS",
 				"content/dist/rhel10/10/ppc64le/baseos/source/SRPMS"
 			]
 		},
@@ -23412,28 +23487,34 @@
 		},
 		"rhel-10-for-ppc64le-highavailability-debug-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::highavailability"
+				"cpe:/o:redhat:enterprise_linux:10.0::highavailability",
+				"cpe:/o:redhat:enterprise_linux:10.1::highavailability"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/ppc64le/highavailability/debug",
+				"content/dist/rhel10/10.1/ppc64le/highavailability/debug",
 				"content/dist/rhel10/10/ppc64le/highavailability/debug"
 			]
 		},
 		"rhel-10-for-ppc64le-highavailability-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::highavailability"
+				"cpe:/o:redhat:enterprise_linux:10.0::highavailability",
+				"cpe:/o:redhat:enterprise_linux:10.1::highavailability"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/ppc64le/highavailability/os",
+				"content/dist/rhel10/10.1/ppc64le/highavailability/os",
 				"content/dist/rhel10/10/ppc64le/highavailability/os"
 			]
 		},
 		"rhel-10-for-ppc64le-highavailability-source-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::highavailability"
+				"cpe:/o:redhat:enterprise_linux:10.0::highavailability",
+				"cpe:/o:redhat:enterprise_linux:10.1::highavailability"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/ppc64le/highavailability/source/SRPMS",
+				"content/dist/rhel10/10.1/ppc64le/highavailability/source/SRPMS",
 				"content/dist/rhel10/10/ppc64le/highavailability/source/SRPMS"
 			]
 		},
@@ -23463,28 +23544,34 @@
 		},
 		"rhel-10-for-ppc64le-sap-netweaver-debug-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::sap"
+				"cpe:/o:redhat:enterprise_linux:10.0::sap",
+				"cpe:/o:redhat:enterprise_linux:10.1::sap"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/ppc64le/sap/debug",
+				"content/dist/rhel10/10.1/ppc64le/sap/debug",
 				"content/dist/rhel10/10/ppc64le/sap/debug"
 			]
 		},
 		"rhel-10-for-ppc64le-sap-netweaver-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::sap"
+				"cpe:/o:redhat:enterprise_linux:10.0::sap",
+				"cpe:/o:redhat:enterprise_linux:10.1::sap"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/ppc64le/sap/os",
+				"content/dist/rhel10/10.1/ppc64le/sap/os",
 				"content/dist/rhel10/10/ppc64le/sap/os"
 			]
 		},
 		"rhel-10-for-ppc64le-sap-netweaver-source-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::sap"
+				"cpe:/o:redhat:enterprise_linux:10.0::sap",
+				"cpe:/o:redhat:enterprise_linux:10.1::sap"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/ppc64le/sap/source/SRPMS",
+				"content/dist/rhel10/10.1/ppc64le/sap/source/SRPMS",
 				"content/dist/rhel10/10/ppc64le/sap/source/SRPMS"
 			]
 		},
@@ -23514,55 +23601,67 @@
 		},
 		"rhel-10-for-ppc64le-sap-solutions-debug-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::sap_hana"
+				"cpe:/o:redhat:enterprise_linux:10.0::sap_hana",
+				"cpe:/o:redhat:enterprise_linux:10.1::sap_hana"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/ppc64le/sap-solutions/debug",
+				"content/dist/rhel10/10.1/ppc64le/sap-solutions/debug",
 				"content/dist/rhel10/10/ppc64le/sap-solutions/debug"
 			]
 		},
 		"rhel-10-for-ppc64le-sap-solutions-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::sap_hana"
+				"cpe:/o:redhat:enterprise_linux:10.0::sap_hana",
+				"cpe:/o:redhat:enterprise_linux:10.1::sap_hana"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/ppc64le/sap-solutions/os",
+				"content/dist/rhel10/10.1/ppc64le/sap-solutions/os",
 				"content/dist/rhel10/10/ppc64le/sap-solutions/os"
 			]
 		},
 		"rhel-10-for-ppc64le-sap-solutions-source-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::sap_hana"
+				"cpe:/o:redhat:enterprise_linux:10.0::sap_hana",
+				"cpe:/o:redhat:enterprise_linux:10.1::sap_hana"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/ppc64le/sap-solutions/source/SRPMS",
+				"content/dist/rhel10/10.1/ppc64le/sap-solutions/source/SRPMS",
 				"content/dist/rhel10/10/ppc64le/sap-solutions/source/SRPMS"
 			]
 		},
 		"rhel-10-for-ppc64le-supplementary-debug-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::supplementary"
+				"cpe:/o:redhat:enterprise_linux:10.0::supplementary",
+				"cpe:/o:redhat:enterprise_linux:10.1::supplementary"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/ppc64le/supplementary/debug",
+				"content/dist/rhel10/10.1/ppc64le/supplementary/debug",
 				"content/dist/rhel10/10/ppc64le/supplementary/debug"
 			]
 		},
 		"rhel-10-for-ppc64le-supplementary-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::supplementary"
+				"cpe:/o:redhat:enterprise_linux:10.0::supplementary",
+				"cpe:/o:redhat:enterprise_linux:10.1::supplementary"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/ppc64le/supplementary/os",
+				"content/dist/rhel10/10.1/ppc64le/supplementary/os",
 				"content/dist/rhel10/10/ppc64le/supplementary/os"
 			]
 		},
 		"rhel-10-for-ppc64le-supplementary-source-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::supplementary"
+				"cpe:/o:redhat:enterprise_linux:10.0::supplementary",
+				"cpe:/o:redhat:enterprise_linux:10.1::supplementary"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/ppc64le/supplementary/source/SRPMS",
+				"content/dist/rhel10/10.1/ppc64le/supplementary/source/SRPMS",
 				"content/dist/rhel10/10/ppc64le/supplementary/source/SRPMS"
 			]
 		},
@@ -23592,28 +23691,34 @@
 		},
 		"rhel-10-for-s390x-appstream-debug-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::appstream"
+				"cpe:/o:redhat:enterprise_linux:10.0::appstream",
+				"cpe:/o:redhat:enterprise_linux:10.1::appstream"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/s390x/appstream/debug",
+				"content/dist/rhel10/10.1/s390x/appstream/debug",
 				"content/dist/rhel10/10/s390x/appstream/debug"
 			]
 		},
 		"rhel-10-for-s390x-appstream-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::appstream"
+				"cpe:/o:redhat:enterprise_linux:10.0::appstream",
+				"cpe:/o:redhat:enterprise_linux:10.1::appstream"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/s390x/appstream/os",
+				"content/dist/rhel10/10.1/s390x/appstream/os",
 				"content/dist/rhel10/10/s390x/appstream/os"
 			]
 		},
 		"rhel-10-for-s390x-appstream-source-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::appstream"
+				"cpe:/o:redhat:enterprise_linux:10.0::appstream",
+				"cpe:/o:redhat:enterprise_linux:10.1::appstream"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/s390x/appstream/source/SRPMS",
+				"content/dist/rhel10/10.1/s390x/appstream/source/SRPMS",
 				"content/dist/rhel10/10/s390x/appstream/source/SRPMS"
 			]
 		},
@@ -23643,28 +23748,34 @@
 		},
 		"rhel-10-for-s390x-baseos-debug-rpms": {
 			"cpes": [
-				"cpe:/o:redhat:enterprise_linux:10::baseos"
+				"cpe:/o:redhat:enterprise_linux:10.0::baseos",
+				"cpe:/o:redhat:enterprise_linux:10.1::baseos"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/s390x/baseos/debug",
+				"content/dist/rhel10/10.1/s390x/baseos/debug",
 				"content/dist/rhel10/10/s390x/baseos/debug"
 			]
 		},
 		"rhel-10-for-s390x-baseos-rpms": {
 			"cpes": [
-				"cpe:/o:redhat:enterprise_linux:10::baseos"
+				"cpe:/o:redhat:enterprise_linux:10.0::baseos",
+				"cpe:/o:redhat:enterprise_linux:10.1::baseos"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/s390x/baseos/os",
+				"content/dist/rhel10/10.1/s390x/baseos/os",
 				"content/dist/rhel10/10/s390x/baseos/os"
 			]
 		},
 		"rhel-10-for-s390x-baseos-source-rpms": {
 			"cpes": [
-				"cpe:/o:redhat:enterprise_linux:10::baseos"
+				"cpe:/o:redhat:enterprise_linux:10.0::baseos",
+				"cpe:/o:redhat:enterprise_linux:10.1::baseos"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/s390x/baseos/source/SRPMS",
+				"content/dist/rhel10/10.1/s390x/baseos/source/SRPMS",
 				"content/dist/rhel10/10/s390x/baseos/source/SRPMS"
 			]
 		},
@@ -23694,28 +23805,34 @@
 		},
 		"rhel-10-for-s390x-highavailability-debug-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::highavailability"
+				"cpe:/o:redhat:enterprise_linux:10.0::highavailability",
+				"cpe:/o:redhat:enterprise_linux:10.1::highavailability"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/s390x/highavailability/debug",
+				"content/dist/rhel10/10.1/s390x/highavailability/debug",
 				"content/dist/rhel10/10/s390x/highavailability/debug"
 			]
 		},
 		"rhel-10-for-s390x-highavailability-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::highavailability"
+				"cpe:/o:redhat:enterprise_linux:10.0::highavailability",
+				"cpe:/o:redhat:enterprise_linux:10.1::highavailability"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/s390x/highavailability/os",
+				"content/dist/rhel10/10.1/s390x/highavailability/os",
 				"content/dist/rhel10/10/s390x/highavailability/os"
 			]
 		},
 		"rhel-10-for-s390x-highavailability-source-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::highavailability"
+				"cpe:/o:redhat:enterprise_linux:10.0::highavailability",
+				"cpe:/o:redhat:enterprise_linux:10.1::highavailability"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/s390x/highavailability/source/SRPMS",
+				"content/dist/rhel10/10.1/s390x/highavailability/source/SRPMS",
 				"content/dist/rhel10/10/s390x/highavailability/source/SRPMS"
 			]
 		},
@@ -23745,55 +23862,67 @@
 		},
 		"rhel-10-for-s390x-sap-netweaver-debug-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::sap"
+				"cpe:/o:redhat:enterprise_linux:10.0::sap",
+				"cpe:/o:redhat:enterprise_linux:10.1::sap"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/s390x/sap/debug",
+				"content/dist/rhel10/10.1/s390x/sap/debug",
 				"content/dist/rhel10/10/s390x/sap/debug"
 			]
 		},
 		"rhel-10-for-s390x-sap-netweaver-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::sap"
+				"cpe:/o:redhat:enterprise_linux:10.0::sap",
+				"cpe:/o:redhat:enterprise_linux:10.1::sap"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/s390x/sap/os",
+				"content/dist/rhel10/10.1/s390x/sap/os",
 				"content/dist/rhel10/10/s390x/sap/os"
 			]
 		},
 		"rhel-10-for-s390x-sap-netweaver-source-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::sap"
+				"cpe:/o:redhat:enterprise_linux:10.0::sap",
+				"cpe:/o:redhat:enterprise_linux:10.1::sap"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/s390x/sap/source/SRPMS",
+				"content/dist/rhel10/10.1/s390x/sap/source/SRPMS",
 				"content/dist/rhel10/10/s390x/sap/source/SRPMS"
 			]
 		},
 		"rhel-10-for-s390x-supplementary-debug-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::supplementary"
+				"cpe:/o:redhat:enterprise_linux:10.0::supplementary",
+				"cpe:/o:redhat:enterprise_linux:10.1::supplementary"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/s390x/supplementary/debug",
+				"content/dist/rhel10/10.1/s390x/supplementary/debug",
 				"content/dist/rhel10/10/s390x/supplementary/debug"
 			]
 		},
 		"rhel-10-for-s390x-supplementary-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::supplementary"
+				"cpe:/o:redhat:enterprise_linux:10.0::supplementary",
+				"cpe:/o:redhat:enterprise_linux:10.1::supplementary"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/s390x/supplementary/os",
+				"content/dist/rhel10/10.1/s390x/supplementary/os",
 				"content/dist/rhel10/10/s390x/supplementary/os"
 			]
 		},
 		"rhel-10-for-s390x-supplementary-source-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::supplementary"
+				"cpe:/o:redhat:enterprise_linux:10.0::supplementary",
+				"cpe:/o:redhat:enterprise_linux:10.1::supplementary"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/s390x/supplementary/source/SRPMS",
+				"content/dist/rhel10/10.1/s390x/supplementary/source/SRPMS",
 				"content/dist/rhel10/10/s390x/supplementary/source/SRPMS"
 			]
 		},
@@ -23823,28 +23952,34 @@
 		},
 		"rhel-10-for-x86_64-appstream-debug-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::appstream"
+				"cpe:/o:redhat:enterprise_linux:10.0::appstream",
+				"cpe:/o:redhat:enterprise_linux:10.1::appstream"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/x86_64/appstream/debug",
+				"content/dist/rhel10/10.1/x86_64/appstream/debug",
 				"content/dist/rhel10/10/x86_64/appstream/debug"
 			]
 		},
 		"rhel-10-for-x86_64-appstream-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::appstream"
+				"cpe:/o:redhat:enterprise_linux:10.0::appstream",
+				"cpe:/o:redhat:enterprise_linux:10.1::appstream"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/x86_64/appstream/os",
+				"content/dist/rhel10/10.1/x86_64/appstream/os",
 				"content/dist/rhel10/10/x86_64/appstream/os"
 			]
 		},
 		"rhel-10-for-x86_64-appstream-source-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::appstream"
+				"cpe:/o:redhat:enterprise_linux:10.0::appstream",
+				"cpe:/o:redhat:enterprise_linux:10.1::appstream"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/x86_64/appstream/source/SRPMS",
+				"content/dist/rhel10/10.1/x86_64/appstream/source/SRPMS",
 				"content/dist/rhel10/10/x86_64/appstream/source/SRPMS"
 			]
 		},
@@ -23874,28 +24009,34 @@
 		},
 		"rhel-10-for-x86_64-baseos-debug-rpms": {
 			"cpes": [
-				"cpe:/o:redhat:enterprise_linux:10::baseos"
+				"cpe:/o:redhat:enterprise_linux:10.0::baseos",
+				"cpe:/o:redhat:enterprise_linux:10.1::baseos"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/x86_64/baseos/debug",
+				"content/dist/rhel10/10.1/x86_64/baseos/debug",
 				"content/dist/rhel10/10/x86_64/baseos/debug"
 			]
 		},
 		"rhel-10-for-x86_64-baseos-rpms": {
 			"cpes": [
-				"cpe:/o:redhat:enterprise_linux:10::baseos"
+				"cpe:/o:redhat:enterprise_linux:10.0::baseos",
+				"cpe:/o:redhat:enterprise_linux:10.1::baseos"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/x86_64/baseos/os",
+				"content/dist/rhel10/10.1/x86_64/baseos/os",
 				"content/dist/rhel10/10/x86_64/baseos/os"
 			]
 		},
 		"rhel-10-for-x86_64-baseos-source-rpms": {
 			"cpes": [
-				"cpe:/o:redhat:enterprise_linux:10::baseos"
+				"cpe:/o:redhat:enterprise_linux:10.0::baseos",
+				"cpe:/o:redhat:enterprise_linux:10.1::baseos"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/x86_64/baseos/source/SRPMS",
+				"content/dist/rhel10/10.1/x86_64/baseos/source/SRPMS",
 				"content/dist/rhel10/10/x86_64/baseos/source/SRPMS"
 			]
 		},
@@ -23925,28 +24066,34 @@
 		},
 		"rhel-10-for-x86_64-highavailability-debug-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::highavailability"
+				"cpe:/o:redhat:enterprise_linux:10.0::highavailability",
+				"cpe:/o:redhat:enterprise_linux:10.1::highavailability"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/x86_64/highavailability/debug",
+				"content/dist/rhel10/10.1/x86_64/highavailability/debug",
 				"content/dist/rhel10/10/x86_64/highavailability/debug"
 			]
 		},
 		"rhel-10-for-x86_64-highavailability-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::highavailability"
+				"cpe:/o:redhat:enterprise_linux:10.0::highavailability",
+				"cpe:/o:redhat:enterprise_linux:10.1::highavailability"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/x86_64/highavailability/os",
+				"content/dist/rhel10/10.1/x86_64/highavailability/os",
 				"content/dist/rhel10/10/x86_64/highavailability/os"
 			]
 		},
 		"rhel-10-for-x86_64-highavailability-source-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::highavailability"
+				"cpe:/o:redhat:enterprise_linux:10.0::highavailability",
+				"cpe:/o:redhat:enterprise_linux:10.1::highavailability"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/x86_64/highavailability/source/SRPMS",
+				"content/dist/rhel10/10.1/x86_64/highavailability/source/SRPMS",
 				"content/dist/rhel10/10/x86_64/highavailability/source/SRPMS"
 			]
 		},
@@ -23976,28 +24123,34 @@
 		},
 		"rhel-10-for-x86_64-nfv-debug-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::nfv"
+				"cpe:/o:redhat:enterprise_linux:10.0::nfv",
+				"cpe:/o:redhat:enterprise_linux:10.1::nfv"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/x86_64/nfv/debug",
+				"content/dist/rhel10/10.1/x86_64/nfv/debug",
 				"content/dist/rhel10/10/x86_64/nfv/debug"
 			]
 		},
 		"rhel-10-for-x86_64-nfv-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::nfv"
+				"cpe:/o:redhat:enterprise_linux:10.0::nfv",
+				"cpe:/o:redhat:enterprise_linux:10.1::nfv"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/x86_64/nfv/os",
+				"content/dist/rhel10/10.1/x86_64/nfv/os",
 				"content/dist/rhel10/10/x86_64/nfv/os"
 			]
 		},
 		"rhel-10-for-x86_64-nfv-source-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::nfv"
+				"cpe:/o:redhat:enterprise_linux:10.0::nfv",
+				"cpe:/o:redhat:enterprise_linux:10.1::nfv"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/x86_64/nfv/source/SRPMS",
+				"content/dist/rhel10/10.1/x86_64/nfv/source/SRPMS",
 				"content/dist/rhel10/10/x86_64/nfv/source/SRPMS"
 			]
 		},
@@ -24027,28 +24180,34 @@
 		},
 		"rhel-10-for-x86_64-rt-debug-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::realtime"
+				"cpe:/o:redhat:enterprise_linux:10.0::realtime",
+				"cpe:/o:redhat:enterprise_linux:10.1::realtime"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/x86_64/rt/debug",
+				"content/dist/rhel10/10.1/x86_64/rt/debug",
 				"content/dist/rhel10/10/x86_64/rt/debug"
 			]
 		},
 		"rhel-10-for-x86_64-rt-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::realtime"
+				"cpe:/o:redhat:enterprise_linux:10.0::realtime",
+				"cpe:/o:redhat:enterprise_linux:10.1::realtime"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/x86_64/rt/os",
+				"content/dist/rhel10/10.1/x86_64/rt/os",
 				"content/dist/rhel10/10/x86_64/rt/os"
 			]
 		},
 		"rhel-10-for-x86_64-rt-source-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::realtime"
+				"cpe:/o:redhat:enterprise_linux:10.0::realtime",
+				"cpe:/o:redhat:enterprise_linux:10.1::realtime"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/x86_64/rt/source/SRPMS",
+				"content/dist/rhel10/10.1/x86_64/rt/source/SRPMS",
 				"content/dist/rhel10/10/x86_64/rt/source/SRPMS"
 			]
 		},
@@ -24078,28 +24237,34 @@
 		},
 		"rhel-10-for-x86_64-sap-netweaver-debug-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::sap"
+				"cpe:/o:redhat:enterprise_linux:10.0::sap",
+				"cpe:/o:redhat:enterprise_linux:10.1::sap"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/x86_64/sap/debug",
+				"content/dist/rhel10/10.1/x86_64/sap/debug",
 				"content/dist/rhel10/10/x86_64/sap/debug"
 			]
 		},
 		"rhel-10-for-x86_64-sap-netweaver-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::sap"
+				"cpe:/o:redhat:enterprise_linux:10.0::sap",
+				"cpe:/o:redhat:enterprise_linux:10.1::sap"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/x86_64/sap/os",
+				"content/dist/rhel10/10.1/x86_64/sap/os",
 				"content/dist/rhel10/10/x86_64/sap/os"
 			]
 		},
 		"rhel-10-for-x86_64-sap-netweaver-source-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::sap"
+				"cpe:/o:redhat:enterprise_linux:10.0::sap",
+				"cpe:/o:redhat:enterprise_linux:10.1::sap"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/x86_64/sap/source/SRPMS",
+				"content/dist/rhel10/10.1/x86_64/sap/source/SRPMS",
 				"content/dist/rhel10/10/x86_64/sap/source/SRPMS"
 			]
 		},
@@ -24129,55 +24294,67 @@
 		},
 		"rhel-10-for-x86_64-sap-solutions-debug-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::sap_hana"
+				"cpe:/o:redhat:enterprise_linux:10.0::sap_hana",
+				"cpe:/o:redhat:enterprise_linux:10.1::sap_hana"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/x86_64/sap-solutions/debug",
+				"content/dist/rhel10/10.1/x86_64/sap-solutions/debug",
 				"content/dist/rhel10/10/x86_64/sap-solutions/debug"
 			]
 		},
 		"rhel-10-for-x86_64-sap-solutions-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::sap_hana"
+				"cpe:/o:redhat:enterprise_linux:10.0::sap_hana",
+				"cpe:/o:redhat:enterprise_linux:10.1::sap_hana"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/x86_64/sap-solutions/os",
+				"content/dist/rhel10/10.1/x86_64/sap-solutions/os",
 				"content/dist/rhel10/10/x86_64/sap-solutions/os"
 			]
 		},
 		"rhel-10-for-x86_64-sap-solutions-source-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::sap_hana"
+				"cpe:/o:redhat:enterprise_linux:10.0::sap_hana",
+				"cpe:/o:redhat:enterprise_linux:10.1::sap_hana"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/x86_64/sap-solutions/source/SRPMS",
+				"content/dist/rhel10/10.1/x86_64/sap-solutions/source/SRPMS",
 				"content/dist/rhel10/10/x86_64/sap-solutions/source/SRPMS"
 			]
 		},
 		"rhel-10-for-x86_64-supplementary-debug-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::supplementary"
+				"cpe:/o:redhat:enterprise_linux:10.0::supplementary",
+				"cpe:/o:redhat:enterprise_linux:10.1::supplementary"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/x86_64/supplementary/debug",
+				"content/dist/rhel10/10.1/x86_64/supplementary/debug",
 				"content/dist/rhel10/10/x86_64/supplementary/debug"
 			]
 		},
 		"rhel-10-for-x86_64-supplementary-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::supplementary"
+				"cpe:/o:redhat:enterprise_linux:10.0::supplementary",
+				"cpe:/o:redhat:enterprise_linux:10.1::supplementary"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/x86_64/supplementary/os",
+				"content/dist/rhel10/10.1/x86_64/supplementary/os",
 				"content/dist/rhel10/10/x86_64/supplementary/os"
 			]
 		},
 		"rhel-10-for-x86_64-supplementary-source-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:enterprise_linux:10::supplementary"
+				"cpe:/o:redhat:enterprise_linux:10.0::supplementary",
+				"cpe:/o:redhat:enterprise_linux:10.1::supplementary"
 			],
 			"repo_relative_urls": [
 				"content/dist/rhel10/10.0/x86_64/supplementary/source/SRPMS",
+				"content/dist/rhel10/10.1/x86_64/supplementary/source/SRPMS",
 				"content/dist/rhel10/10/x86_64/supplementary/source/SRPMS"
 			]
 		},
@@ -87075,11 +87252,11 @@
 		},
 		"rhwa-nmo-1-for-rhel-8-x86_64-debug-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:workload_availability_node_maintenance:4.11::el8",
-				"cpe:/a:redhat:workload_availability_node_maintenance:5.0::el8",
-				"cpe:/a:redhat:workload_availability_node_maintenance:5.1::el8",
-				"cpe:/a:redhat:workload_availability_node_maintenance:5.2::el8",
-				"cpe:/a:redhat:workload_availability_node_maintenance:5.3::el8"
+				"cpe:/a:redhat:workload_availability_nmo:4.11::el8",
+				"cpe:/a:redhat:workload_availability_nmo:5.0::el8",
+				"cpe:/a:redhat:workload_availability_nmo:5.1::el8",
+				"cpe:/a:redhat:workload_availability_nmo:5.2::el8",
+				"cpe:/a:redhat:workload_availability_nmo:5.3::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/rhwa-nmo/1/debug"
@@ -87087,11 +87264,11 @@
 		},
 		"rhwa-nmo-1-for-rhel-8-x86_64-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:workload_availability_node_maintenance:4.11::el8",
-				"cpe:/a:redhat:workload_availability_node_maintenance:5.0::el8",
-				"cpe:/a:redhat:workload_availability_node_maintenance:5.1::el8",
-				"cpe:/a:redhat:workload_availability_node_maintenance:5.2::el8",
-				"cpe:/a:redhat:workload_availability_node_maintenance:5.3::el8"
+				"cpe:/a:redhat:workload_availability_nmo:4.11::el8",
+				"cpe:/a:redhat:workload_availability_nmo:5.0::el8",
+				"cpe:/a:redhat:workload_availability_nmo:5.1::el8",
+				"cpe:/a:redhat:workload_availability_nmo:5.2::el8",
+				"cpe:/a:redhat:workload_availability_nmo:5.3::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/rhwa-nmo/1/os"
@@ -87099,11 +87276,11 @@
 		},
 		"rhwa-nmo-1-for-rhel-8-x86_64-source-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:workload_availability_node_maintenance:4.11::el8",
-				"cpe:/a:redhat:workload_availability_node_maintenance:5.0::el8",
-				"cpe:/a:redhat:workload_availability_node_maintenance:5.1::el8",
-				"cpe:/a:redhat:workload_availability_node_maintenance:5.2::el8",
-				"cpe:/a:redhat:workload_availability_node_maintenance:5.3::el8"
+				"cpe:/a:redhat:workload_availability_nmo:4.11::el8",
+				"cpe:/a:redhat:workload_availability_nmo:5.0::el8",
+				"cpe:/a:redhat:workload_availability_nmo:5.1::el8",
+				"cpe:/a:redhat:workload_availability_nmo:5.2::el8",
+				"cpe:/a:redhat:workload_availability_nmo:5.3::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/rhwa-nmo/1/source/SRPMS"
@@ -87111,7 +87288,7 @@
 		},
 		"rhwa-nmo-1-for-rhel-9-x86_64-debug-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:workload_availability_node_maintenance:5.4::el9"
+				"cpe:/a:redhat:workload_availability_nmo:5.4::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/x86_64/rhwa-nmo/1/debug"
@@ -87119,7 +87296,7 @@
 		},
 		"rhwa-nmo-1-for-rhel-9-x86_64-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:workload_availability_node_maintenance:5.4::el9"
+				"cpe:/a:redhat:workload_availability_nmo:5.4::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/x86_64/rhwa-nmo/1/os"
@@ -87127,7 +87304,7 @@
 		},
 		"rhwa-nmo-1-for-rhel-9-x86_64-source-rpms": {
 			"cpes": [
-				"cpe:/a:redhat:workload_availability_node_maintenance:5.4::el9"
+				"cpe:/a:redhat:workload_availability_nmo:5.4::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/x86_64/rhwa-nmo/1/source/SRPMS"
@@ -91397,5 +91574,5 @@
 			]
 		}
 	},
-	"last_updated": "2025-02-06T00:47:16.694Z"
+	"last_updated": "2025-02-07T00:48:00.345Z"
 }
