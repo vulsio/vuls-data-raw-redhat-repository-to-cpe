@@ -9279,7 +9279,7 @@
 		},
 		"discovery-1-for-rhel-8-aarch64-debug-rpms": {
 			"cpes": [
-				"cpe:/o:redhat:discovery:1::el8"
+				"cpe:/o:redhat:discovery:1.0::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/aarch64/discovery/1/debug"
@@ -9287,7 +9287,7 @@
 		},
 		"discovery-1-for-rhel-8-aarch64-rpms": {
 			"cpes": [
-				"cpe:/o:redhat:discovery:1::el8"
+				"cpe:/o:redhat:discovery:1.0::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/aarch64/discovery/1/os"
@@ -9295,7 +9295,7 @@
 		},
 		"discovery-1-for-rhel-8-aarch64-source-rpms": {
 			"cpes": [
-				"cpe:/o:redhat:discovery:1::el8"
+				"cpe:/o:redhat:discovery:1.0::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/aarch64/discovery/1/source/SRPMS"
@@ -9303,7 +9303,7 @@
 		},
 		"discovery-1-for-rhel-8-x86_64-debug-rpms": {
 			"cpes": [
-				"cpe:/o:redhat:discovery:1::el8"
+				"cpe:/o:redhat:discovery:1.0::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/discovery/1/debug"
@@ -9311,7 +9311,7 @@
 		},
 		"discovery-1-for-rhel-8-x86_64-rpms": {
 			"cpes": [
-				"cpe:/o:redhat:discovery:1::el8"
+				"cpe:/o:redhat:discovery:1.0::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/discovery/1/os"
@@ -9319,7 +9319,7 @@
 		},
 		"discovery-1-for-rhel-8-x86_64-source-rpms": {
 			"cpes": [
-				"cpe:/o:redhat:discovery:1::el8"
+				"cpe:/o:redhat:discovery:1.0::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/discovery/1/source/SRPMS"
@@ -9327,7 +9327,7 @@
 		},
 		"discovery-1-for-rhel-9-aarch64-debug-rpms": {
 			"cpes": [
-				"cpe:/o:redhat:discovery:1::el9"
+				"cpe:/o:redhat:discovery:1.0::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/aarch64/discovery/1/debug"
@@ -9335,7 +9335,7 @@
 		},
 		"discovery-1-for-rhel-9-aarch64-rpms": {
 			"cpes": [
-				"cpe:/o:redhat:discovery:1::el9"
+				"cpe:/o:redhat:discovery:1.0::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/aarch64/discovery/1/os"
@@ -9343,7 +9343,7 @@
 		},
 		"discovery-1-for-rhel-9-aarch64-source-rpms": {
 			"cpes": [
-				"cpe:/o:redhat:discovery:1::el9"
+				"cpe:/o:redhat:discovery:1.0::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/aarch64/discovery/1/source/SRPMS"
@@ -9351,7 +9351,7 @@
 		},
 		"discovery-1-for-rhel-9-x86_64-debug-rpms": {
 			"cpes": [
-				"cpe:/o:redhat:discovery:1::el9"
+				"cpe:/o:redhat:discovery:1.0::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/x86_64/discovery/1/debug"
@@ -9359,7 +9359,7 @@
 		},
 		"discovery-1-for-rhel-9-x86_64-rpms": {
 			"cpes": [
-				"cpe:/o:redhat:discovery:1::el9"
+				"cpe:/o:redhat:discovery:1.0::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/x86_64/discovery/1/os"
@@ -9367,7 +9367,7 @@
 		},
 		"discovery-1-for-rhel-9-x86_64-source-rpms": {
 			"cpes": [
-				"cpe:/o:redhat:discovery:1::el9"
+				"cpe:/o:redhat:discovery:1.0::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/x86_64/discovery/1/source/SRPMS"
@@ -9379,7 +9379,7 @@
 				"cpe:/a:redhat:discovery:1.1::el8",
 				"cpe:/a:redhat:discovery:1.2::el8",
 				"cpe:/a:redhat:discovery:1.3::el9",
-				"cpe:/o:redhat:discovery:1::el9"
+				"cpe:/o:redhat:discovery:1.0::el9"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/discovery-textonly/1/os"
@@ -13879,7 +13879,8 @@
 				"cpe:/a:redhat:migration_toolkit_virtualization:2.4::el8",
 				"cpe:/a:redhat:migration_toolkit_virtualization:2.5::el8",
 				"cpe:/a:redhat:migration_toolkit_virtualization:2.6::el8",
-				"cpe:/a:redhat:migration_toolkit_virtualization:2.7::el8"
+				"cpe:/a:redhat:migration_toolkit_virtualization:2.7::el8",
+				"cpe:/a:redhat:migration_toolkit_virtualization:2.8::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/mtv/1/debug"
@@ -13894,7 +13895,8 @@
 				"cpe:/a:redhat:migration_toolkit_virtualization:2.4::el8",
 				"cpe:/a:redhat:migration_toolkit_virtualization:2.5::el8",
 				"cpe:/a:redhat:migration_toolkit_virtualization:2.6::el8",
-				"cpe:/a:redhat:migration_toolkit_virtualization:2.7::el8"
+				"cpe:/a:redhat:migration_toolkit_virtualization:2.7::el8",
+				"cpe:/a:redhat:migration_toolkit_virtualization:2.8::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/mtv/1/os"
@@ -13909,7 +13911,8 @@
 				"cpe:/a:redhat:migration_toolkit_virtualization:2.4::el8",
 				"cpe:/a:redhat:migration_toolkit_virtualization:2.5::el8",
 				"cpe:/a:redhat:migration_toolkit_virtualization:2.6::el8",
-				"cpe:/a:redhat:migration_toolkit_virtualization:2.7::el8"
+				"cpe:/a:redhat:migration_toolkit_virtualization:2.7::el8",
+				"cpe:/a:redhat:migration_toolkit_virtualization:2.8::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel8/x86_64/mtv/1/source/SRPMS"
@@ -13918,7 +13921,8 @@
 		"mtv-for-rhel-9-x86_64-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:migration_toolkit_virtualization:2.6::el8",
-				"cpe:/a:redhat:migration_toolkit_virtualization:2.7::el8"
+				"cpe:/a:redhat:migration_toolkit_virtualization:2.7::el8",
+				"cpe:/a:redhat:migration_toolkit_virtualization:2.8::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/x86_64/mtv/2/debug"
@@ -13927,7 +13931,8 @@
 		"mtv-for-rhel-9-x86_64-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:migration_toolkit_virtualization:2.6::el8",
-				"cpe:/a:redhat:migration_toolkit_virtualization:2.7::el8"
+				"cpe:/a:redhat:migration_toolkit_virtualization:2.7::el8",
+				"cpe:/a:redhat:migration_toolkit_virtualization:2.8::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/x86_64/mtv/2/os"
@@ -13936,7 +13941,8 @@
 		"mtv-for-rhel-9-x86_64-source-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:migration_toolkit_virtualization:2.6::el8",
-				"cpe:/a:redhat:migration_toolkit_virtualization:2.7::el8"
+				"cpe:/a:redhat:migration_toolkit_virtualization:2.7::el8",
+				"cpe:/a:redhat:migration_toolkit_virtualization:2.8::el8"
 			],
 			"repo_relative_urls": [
 				"content/dist/layered/rhel9/x86_64/mtv/2/source/SRPMS"
@@ -90583,6 +90589,30 @@
 				"content/dist/layered/rhel8/aarch64/rhsi/1/source/SRPMS"
 			]
 		},
+		"service-interconnect-1-for-rhel-8-s390x-debug-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:service_interconnect:1::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/s390x/rhsi/1/debug"
+			]
+		},
+		"service-interconnect-1-for-rhel-8-s390x-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:service_interconnect:1::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/s390x/rhsi/1/os"
+			]
+		},
+		"service-interconnect-1-for-rhel-8-s390x-source-rpms": {
+			"cpes": [
+				"cpe:/a:redhat:service_interconnect:1::el8"
+			],
+			"repo_relative_urls": [
+				"content/dist/layered/rhel8/s390x/rhsi/1/source/SRPMS"
+			]
+		},
 		"service-interconnect-1-for-rhel-8-x86_64-debug-rpms": {
 			"cpes": [
 				"cpe:/a:redhat:service_interconnect:1::el8"
@@ -91574,5 +91604,5 @@
 			]
 		}
 	},
-	"last_updated": "2025-02-10T00:47:03.100Z"
+	"last_updated": "2025-02-11T00:49:04.354Z"
 }
